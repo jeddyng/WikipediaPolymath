@@ -275,39 +275,6 @@
       letter-spacing:0.05em; text-transform:uppercase; padding:3px 7px; border-radius:4px;
     }
 
-    /* Q&A items (Stack Exchange) */
-    .qa-item {
-      padding:13px 0; border-bottom:1px solid var(--border);
-      animation:fadeIn 0.45s cubic-bezier(0.2,0.8,0.2,1) backwards;
-    }
-    .qa-item:first-child { padding-top:14px; }
-    .qa-link { display:block; }
-    .qa-site {
-      font-size:0.66rem; font-weight:700; letter-spacing:0.05em; text-transform:uppercase;
-      color:var(--text-tertiary); margin-bottom:4px;
-    }
-    .qa-link .qa-title {
-      font-size:0.98rem; font-weight:700; line-height:1.28; margin:0 0 6px;
-      color:var(--link); text-decoration:var(--link-dec);
-      display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
-    }
-    .qa-link:hover .qa-title { color:var(--link-hover); text-decoration:underline; }
-    .qa-link:visited .qa-title { color:var(--visited); }
-    .qa-tags { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:6px; }
-    .qa-tag {
-      font-size:0.68rem; color:var(--accent); background:var(--accent-soft);
-      border:1px solid var(--border); padding:1px 7px; border-radius:3px;
-    }
-    .qa-meta {
-      font-size:0.68rem; color:var(--text-tertiary); font-weight:600;
-      letter-spacing:0.04em;
-    }
-    .code-desc {
-      font-size:0.84rem; color:var(--text-secondary); line-height:1.45; margin:0 0 6px;
-      display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
-    }
-    .code-nodesc { color:var(--text-tertiary); font-style:italic; }
-
     main { max-width:920px; margin:0 auto; padding:8px 28px 0; }
     .feed { min-height:60vh; }
 
@@ -405,9 +372,6 @@
     .big-refresh:disabled { opacity:0.6; cursor:not-allowed; }
     .big-refresh.loading .refresh-icon { animation:spin 0.7s linear infinite; }
     .big-refresh-sub { display:block; margin-top:10px; text-align:center; font-size:0.78rem; color:var(--text-tertiary); }
-    /* Cooldown (rate-limited tabs): dim the buttons and show a wait cursor */
-    .refresh-btn.cooling, .big-refresh.cooling { opacity:0.55; cursor:not-allowed; }
-    .refresh-btn.cooling .refresh-icon, .big-refresh.cooling .refresh-icon { animation:none; }
 
     /* Error */
     .error-state { padding:64px 20px; text-align:center; color:var(--text-secondary); }
@@ -522,14 +486,6 @@
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.6"/><path d="M21 15l-5-5L5 21"/></svg>
         Pictures
       </button>
-      <button class="tab" data-top="qa" role="tab" aria-selected="false">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.38 8.38 0 0 1-8.5 8.5 8.5 8.5 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 8.5-8.5 8.38 8.38 0 0 1 8.5 8.5z"/></svg>
-        Q&amp;A
-      </button>
-      <button class="tab" data-top="code" role="tab" aria-selected="false">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
-        Code
-      </button>
     </nav>
 
     <nav class="subtabs" id="sub-tabs" role="tablist">
@@ -588,8 +544,6 @@
     var TAB_QUOTES_DESC = 'Random people and topics from Wikiquote.';
     var TAB_FEATURED_DESC = 'Featured Pictures — images the Wikimedia Commons community rated among its finest.';
     var TAB_POTD_DESC = 'Picture of the Day — acclaimed images from random dates in the Commons archive.';
-    var TAB_QA_DESC = 'Random questions from across the Stack Exchange network. Click through to read the answers.';
-    var TAB_CODE_DESC = 'Random repositories from across GitHub, spanning tiny projects to famous ones. Click through to explore.';
     var ERROR_TEXT = {
       en:{t:'Something went wrong.',h:'Check your connection and try again.'},
       zh:{t:'出错了。',h:'请检查网络连接后重试。'},
@@ -612,11 +566,9 @@
     var SUBTABS = {
       articles: [ { v:'random', label:'Random' }, { v:'quality', label:'Quality' } ],
       quotes:   [],
-      pictures: [ { v:'featured', label:'Featured' }, { v:'potd', label:'Picture of the Day' } ],
-      qa:       [],
-      code:     []
+      pictures: [ { v:'featured', label:'Featured' }, { v:'potd', label:'Picture of the Day' } ]
     };
-    var DEFAULT_SUB = { articles:'random', quotes:'', pictures:'featured', qa:'', code:'' };
+    var DEFAULT_SUB = { articles:'random', quotes:'', pictures:'featured' };
 
     var feedEl = document.getElementById('feed');
     var refreshBtn = document.getElementById('refresh-btn');
@@ -947,202 +899,6 @@
       return { title: caption, thumb: thumb, url: descPage };
     }
 
-    // ---- Q&A: random Stack Exchange questions across the network ----
-    // "All sites, pure random": each batch picks a random site, a random sort,
-    // and a random page, then fetches questions. Keyless quota ~300/day per IP.
-    // We mix several random sites per batch for variety, and pull the full site
-    // list live from /sites (cached per session) so "all sites" is literally true.
-    var SE_SORTS = ['votes','activity','creation'];
-    var seSitesCache = null;     // array of api_site_parameter strings
-    var seSitesPromise = null;   // in-flight fetch, so we only request once
-
-    // Fallback list used only if /sites can't be fetched (keeps the tab working).
-    var SE_FALLBACK = [
-      'stackoverflow','superuser','serverfault','askubuntu','math','english','unix',
-      'physics','stats','softwareengineering','security','history','skeptics',
-      'worldbuilding','philosophy','economics','politics','law','space','biology',
-      'chemistry','academia','workplace','money','travel','cooking','scifi','rpg',
-      'puzzling','writing','linguistics','psychology','cogsci','datascience','ai',
-      'astronomy','codereview','gaming','electronics','aviation','chess','music',
-      'movies','outdoors','bicycles','gardening','mathoverflow','cs','cstheory'
-    ];
-
-    function fetchSESites() {
-      if (seSitesCache) return Promise.resolve(seSitesCache);
-      if (seSitesPromise) return seSitesPromise;
-      // /sites returns up to ~200 sites in one call (pagesize 500 covers all).
-      var url = 'https://api.stackexchange.com/2.3/sites?pagesize=500';
-      seSitesPromise = fetch(url).then(function (r) {
-        if (r.status === 429) { var e = new Error('rate-limited'); e.code = 429; throw e; }
-        if (!r.ok) throw new Error('HTTP ' + r.status);
-        return r.json();
-      }).then(function (data) {
-        var items = (data && data.items) || [];
-        var params = items
-          .filter(function (s) { return s.site_type === 'main_site' && s.api_site_parameter; })
-          .map(function (s) { return s.api_site_parameter; });
-        seSitesCache = params.length ? params : SE_FALLBACK.slice();
-        return seSitesCache;
-      }).catch(function () {
-        seSitesCache = SE_FALLBACK.slice(); // graceful: use fallback, keep working
-        return seSitesCache;
-      });
-      return seSitesPromise;
-    }
-
-    function decodeEntities(s) {
-      if (!s) return '';
-      var ta = document.createElement('textarea');
-      ta.innerHTML = s;
-      return ta.value;
-    }
-
-    // Fetch a page of questions from a single site; returns [] on any failure
-    // (except 429, which we surface so the whole batch can show the rate-limit msg).
-    function fetchSEQuestions(site, perSite) {
-      var sort = SE_SORTS[Math.floor(Math.random() * SE_SORTS.length)];
-      var page = 1 + Math.floor(Math.random() * 15);
-      var params = { site: site, order: 'desc', sort: sort, page: String(page), pagesize: String(perSite) };
-      var url = 'https://api.stackexchange.com/2.3/questions?' +
-        Object.keys(params).map(function (k) { return k + '=' + encodeURIComponent(params[k]); }).join('&');
-      return fetch(url).then(function (r) {
-        if (r.status === 429) { var e = new Error('rate-limited'); e.code = 429; throw e; }
-        if (!r.ok) return [];
-        return r.json().then(function (data) {
-          if (!data || data.error_id) return [];
-          return (data.items || []).map(function (q) {
-            return {
-              title: decodeEntities(q.title || ''),
-              site: site,
-              score: q.score,
-              answers: q.answer_count,
-              answered: q.is_answered,
-              tags: (q.tags || []).slice(0, 3),
-              url: q.link
-            };
-          });
-        });
-      });
-    }
-
-    function loadQA(onBatch) {
-      var SITES_PER_BATCH = 6;
-      var PER_SITE = Math.ceil(TARGET_COUNT / SITES_PER_BATCH) + 2; // a little extra to fill 50
-      return fetchSESites().then(function (sites) {
-        // Pick N distinct random sites for this batch.
-        var pool = sites.slice();
-        var chosen = [];
-        for (var i = 0; i < SITES_PER_BATCH && pool.length; i++) {
-          var idx = Math.floor(Math.random() * pool.length);
-          chosen.push(pool.splice(idx, 1)[0]);
-        }
-        var rate429 = false;
-        var jobs = chosen.map(function (site) {
-          return fetchSEQuestions(site, PER_SITE).catch(function (err) {
-            if (err && err.code === 429) rate429 = true;
-            return [];
-          });
-        });
-        return Promise.all(jobs).then(function (lists) {
-          var merged = [];
-          lists.forEach(function (l) { merged = merged.concat(l); });
-          // If everything failed due to rate limiting, surface it.
-          if (!merged.length && rate429) { var e = new Error('rate-limited'); e.code = 429; throw e; }
-          merged = shuffle(merged).slice(0, TARGET_COUNT);
-          if (merged.length) onBatch(merged);
-        });
-      });
-    }
-
-    function qaMarkup(q) {
-      var tags = q.tags.map(function (t) { return '<span class="qa-tag">' + esc(t) + '</span>'; }).join('');
-      var meta = q.score + ' votes · ' + (q.answers || 0) + ' answer' + ((q.answers === 1) ? '' : 's') +
-                 (q.answered ? ' · \u2713 answered' : '');
-      return '<a class="qa-link" href="' + esc(q.url) + '" target="_blank" rel="noopener noreferrer">' +
-        '<div class="qa-site">' + esc(q.site) + '</div>' +
-        '<h2 class="qa-title">' + esc(q.title) + '</h2>' +
-        '<div class="qa-tags">' + tags + '</div>' +
-        '<div class="qa-meta">' + esc(meta) + '</div>' +
-      '</a>';
-    }
-    function appendQA(items) {
-      var frag = document.createDocumentFragment();
-      items.forEach(function (q, idx) {
-        var wrap = document.createElement('article');
-        wrap.className = 'qa-item';
-        wrap.style.animationDelay = Math.min(idx * 0.02, 0.4).toFixed(3) + 's';
-        wrap.innerHTML = qaMarkup(q);
-        frag.appendChild(wrap);
-      });
-      feedEl.appendChild(frag);
-    }
-
-    // ---- CODE: random GitHub repositories with heavy per-refresh variation ----
-    // No true random endpoint exists, so we randomize many dimensions each refresh
-    // (star tier, sort, order, created-date window, page) for genuine variety —
-    // escaping both "all famous repos" and "all dead repos". Search API returns
-    // star counts. Keyless limit ~60 req/hr (hence the cooldown).
-    var GH_STAR_TIERS = ['1..10','10..50','50..200','200..1000','1000..10000','10000..1000000'];
-    var GH_SORTS = ['stars','forks','updated','help-wanted-issues'];
-    function pad2(n) { return n < 10 ? '0' + n : String(n); }
-    function loadCode(onBatch) {
-      var tier = GH_STAR_TIERS[Math.floor(Math.random() * GH_STAR_TIERS.length)];
-      var sort = GH_SORTS[Math.floor(Math.random() * GH_SORTS.length)];
-      var order = (Math.random() < 0.5) ? 'desc' : 'asc';
-      var year = 2009 + Math.floor(Math.random() * 16);     // 2009..2024
-      var month = 1 + Math.floor(Math.random() * 12);
-      var fromDate = year + '-' + pad2(month) + '-01';
-      var page = 1 + Math.floor(Math.random() * 10);         // Search caps at 1000 results
-      var q = 'stars:' + tier + ' created:>' + fromDate;
-      var params = { q: q, sort: sort, order: order, per_page: String(TARGET_COUNT), page: String(page) };
-      var url = 'https://api.github.com/search/repositories?' +
-        Object.keys(params).map(function (k) { return k + '=' + encodeURIComponent(params[k]); }).join('&');
-      return fetch(url, { headers: { 'Accept': 'application/vnd.github+json' } }).then(function (r) {
-        if (r.status === 429 || r.status === 403) { var e = new Error('rate-limited'); e.code = 429; throw e; }
-        if (!r.ok) throw new Error('HTTP ' + r.status);
-        return r.json();
-      }).then(function (data) {
-        var list = (data && data.items) || [];
-        // Shuffle within the returned page so order/sort doesn't impose a pattern.
-        var out = shuffle(list).slice(0, TARGET_COUNT).map(function (repo) {
-          return {
-            name: repo.full_name || repo.name || '',
-            desc: repo.description || '',
-            lang: repo.language || '',
-            stars: repo.stargazers_count || 0,
-            url: repo.html_url || ('https://github.com/' + (repo.full_name || ''))
-          };
-        });
-        if (out.length) onBatch(out);
-      });
-    }
-
-    function fmtStars(n) {
-      if (n >= 1000) return (n / 1000).toFixed(n >= 10000 ? 0 : 1) + 'k';
-      return String(n);
-    }
-    function codeMarkup(repo) {
-      var meta = [];
-      if (repo.lang) meta.push(esc(repo.lang));
-      meta.push('\u2605 ' + fmtStars(repo.stars));
-      return '<a class="qa-link" href="' + esc(repo.url) + '" target="_blank" rel="noopener noreferrer">' +
-        '<h2 class="qa-title">' + esc(repo.name) + '</h2>' +
-        (repo.desc ? '<p class="code-desc">' + esc(repo.desc) + '</p>'
-                   : '<p class="code-desc code-nodesc">No description.</p>') +
-        '<div class="qa-meta">' + meta.join(' \u00b7 ') + '</div>' +
-      '</a>';
-    }
-    function appendCode(items) {
-      var frag = document.createDocumentFragment();
-      items.forEach(function (repo, idx) {
-        var wrap = document.createElement('article');
-        wrap.className = 'qa-item';
-        wrap.style.animationDelay = Math.min(idx * 0.02, 0.4).toFixed(3) + 's';
-        wrap.innerHTML = codeMarkup(repo);
-        frag.appendChild(wrap);
-      });
-      feedEl.appendChild(frag);
-    }
 
     function articleMarkup(p) {
       var thumb = p.thumbnail && p.thumbnail.source;
@@ -1233,74 +989,10 @@
       isLoading = s;
       refreshBtn.classList.toggle('loading', s);
       bigRefreshBtn.classList.toggle('loading', s);
-      // Don't re-enable the buttons if a cooldown is still running on a throttled tab.
-      var locked = s || (THROTTLED_TABS[currentTop] && inCooldown());
-      refreshBtn.disabled = locked; bigRefreshBtn.disabled = locked;
-    }
-
-    // ---- Refresh cooldown for rate-limited tabs (each throttles independently) ----
-    var THROTTLED_TABS = { qa: true, code: true };
-    var COOLDOWN_MS = 60000; // 60 seconds
-    var cooldownUntil = { qa: 0, code: 0 }; // per-tab cooldown end timestamps
-    var cooldownTimer = null;
-
-    function inCooldown(tab) { return Date.now() < (cooldownUntil[tab || currentTop] || 0); }
-    function cooldownLeft(tab) { return Math.max(0, Math.ceil(((cooldownUntil[tab || currentTop] || 0) - Date.now()) / 1000)); }
-
-    function startCooldown() {
-      if (!THROTTLED_TABS[currentTop]) return;          // only throttle SE/GitHub
-      cooldownUntil[currentTop] = Date.now() + COOLDOWN_MS;
-      tickCooldown();
-    }
-    function clearCooldownUI() {
-      if (cooldownTimer) { clearInterval(cooldownTimer); cooldownTimer = null; }
-      refreshBtn.classList.remove('cooling');
-      bigRefreshBtn.classList.remove('cooling');
-      refreshBtn.disabled = isLoading; bigRefreshBtn.disabled = isLoading;
-      // Restore labels for the current tab.
-      bottomLabels();
-      refreshBtn.removeAttribute('title');
-    }
-    function tickCooldown() {
-      if (cooldownTimer) clearInterval(cooldownTimer);
-      function paint() {
-        if (!inCooldown() || !THROTTLED_TABS[currentTop]) { clearCooldownUI(); return; }
-        var s = cooldownLeft();
-        var src = (currentTop === 'code') ? 'GitHub' : 'Stack Exchange';
-        refreshBtn.disabled = true; bigRefreshBtn.disabled = true;
-        refreshBtn.classList.add('cooling'); bigRefreshBtn.classList.add('cooling');
-        refreshBtn.title = 'Rate-limited source — please wait ' + s + 's between refreshes to stay within ' + src + ' limits.';
-        bigRefreshLabel.textContent = 'Wait ' + s + 's…';
-        bigRefreshSub.textContent = src + ' limits how often we can fetch. Refresh re-enables in ' + s + 's.';
-      }
-      paint();
-      cooldownTimer = setInterval(paint, 1000);
-    }
-
-    // Single gate all refresh triggers go through.
-    function tryRefresh() {
-      if (isLoading) return;
-      if (THROTTLED_TABS[currentTop] && inCooldown()) return; // blocked during cooldown
-      load();
-      if (THROTTLED_TABS[currentTop]) startCooldown();
+      refreshBtn.disabled = s; bigRefreshBtn.disabled = s;
     }
 
     var loadGen = 0; // increments each load; stale in-flight responses are ignored
-    var lastBatch = {}; // currentTop -> last rendered items (for throttled tabs, to redisplay without refetching)
-
-    // Re-render a throttled tab's cached batch WITHOUT a network request (used when
-    // returning to the tab while its cooldown is still active).
-    function redisplayCached(top) {
-      var items = lastBatch[top];
-      if (!items || !items.length) return false;
-      loadGen++; // invalidate any in-flight load so it can't paint over this cache
-      setFeedLayout('list'); // qa & code are both list layout
-      feedEl.setAttribute('aria-busy', 'false');
-      feedEl.innerHTML = '';
-      if (top === 'qa') appendQA(items);
-      else if (top === 'code') appendCode(items);
-      return true;
-    }
 
     // Load a fresh batch. Dispatches on the current top tab + sub tab, picks the
     // right layout (list vs gallery), skeleton, loader, and renderer.
@@ -1313,28 +1005,20 @@
       seenQualityTitles = {};
 
       var isGallery = (currentTop === 'pictures');
-      var isQA = (currentTop === 'qa');
-      var isCode = (currentTop === 'code');
       setFeedLayout(isGallery ? 'gallery' : 'list');
       if (isGallery) showGallerySkeletons(TARGET_COUNT);
       else showSkeletons(TARGET_COUNT);
 
       var painted = false;
-      var batchTop = currentTop; // the tab this load belongs to (capture now)
       function onBatch(items) {
+        if (gen !== loadGen) return;          // a newer load started; drop stale data
         if (!items || !items.length) return;
-        // Cache for throttled tabs regardless of whether this load is still current,
-        // so switching away mid-load and back still finds a cached batch to show.
-        if (THROTTLED_TABS[batchTop]) lastBatch[batchTop] = items;
-        if (gen !== loadGen) return;          // superseded: don't paint, but cache above stands
         if (!painted) {
           painted = true;
           feedEl.setAttribute('aria-busy', 'false');
           feedEl.innerHTML = '';
         }
         if (isGallery) appendPhotos(items);
-        else if (isQA) appendQA(items);
-        else if (isCode) appendCode(items);
         else appendArticles(items);
       }
 
@@ -1343,10 +1027,6 @@
         job = (currentSub === 'quality') ? loadQuality(currentLang, onBatch) : loadRandom(currentLang, onBatch);
       } else if (currentTop === 'quotes') {
         job = loadQuotes(currentLang, onBatch);
-      } else if (currentTop === 'qa') {
-        job = loadQA(onBatch);
-      } else if (currentTop === 'code') {
-        job = loadCode(onBatch);
       } else { // pictures
         job = (currentSub === 'potd') ? loadPOTD(onBatch) : loadFeaturedPics(onBatch);
       }
@@ -1354,17 +1034,7 @@
       job.catch(function (err) {
         if (gen !== loadGen) return;
         console.error('[Polymath]', err);
-        if (!painted) {
-          // Graceful rate-limit message for throttled tabs (SE / GitHub).
-          if (err && err.code === 429) {
-            var src = (currentTop === 'code') ? 'GitHub' : 'Stack Exchange';
-            feedEl.setAttribute('aria-busy', 'false');
-            feedEl.innerHTML = '<div class="error-state"><strong>' + src + ' is taking a break.</strong>' +
-              '<small>' + src + ' is rate-limiting requests right now. Try again in a little while, or switch tabs.</small></div>';
-          } else {
-            showError(err && err.message ? err.message : '');
-          }
-        }
+        if (!painted) showError(err && err.message ? err.message : '');
       }).then(function () {
         if (gen !== loadGen) return;          // superseded: let the newer load own the UI
         if (!painted) { feedEl.setAttribute('aria-busy', 'false'); feedEl.innerHTML = ''; showError('Nothing returned. Try refreshing.'); }
@@ -1419,8 +1089,6 @@
 
     function currentDesc() {
       if (currentTop === 'quotes') return TAB_QUOTES_DESC;
-      if (currentTop === 'qa') return TAB_QA_DESC;
-      if (currentTop === 'code') return TAB_CODE_DESC;
       if (currentTop === 'pictures') return (currentSub === 'potd') ? TAB_POTD_DESC : TAB_FEATURED_DESC;
       // articles
       return (currentSub === 'quality')
@@ -1437,12 +1105,6 @@
       } else if (currentTop === 'quotes') {
         bigRefreshLabel.textContent = 'Refresh for 50 more';
         bigRefreshSub.textContent = 'Done? Get a fresh batch.';
-      } else if (currentTop === 'qa') {
-        bigRefreshLabel.textContent = 'Refresh for 50 more';
-        bigRefreshSub.textContent = 'Mixed questions from across Stack Exchange.';
-      } else if (currentTop === 'code') {
-        bigRefreshLabel.textContent = 'Refresh for 50 more';
-        bigRefreshSub.textContent = 'Random open-source projects from GitHub.';
       } else {
         bigRefreshLabel.textContent = BIG_BTN[currentLang] || BIG_BTN.en;
         bigRefreshSub.textContent = BIG_SUB[currentLang] || BIG_SUB.en;
@@ -1487,24 +1149,7 @@
       bottomLabels();
       updateDesc();
       window.scrollTo({ top: 0 });
-
-      // Returning to a throttled tab: prefer the cached batch (no request). Only
-      // fetch if there's nothing cached yet (first visit). This both closes the
-      // refresh loophole AND avoids spending a request just by navigating to the tab.
-      if (THROTTLED_TABS[top]) {
-        if (redisplayCached(top)) {
-          setLoading(false);
-          if (inCooldown(top)) tickCooldown(); else clearCooldownUI();
-          return;
-        }
-        // No cache yet → first real load; arm the cooldown.
-        load();
-        startCooldown();
-        return;
-      }
-
       load();
-      clearCooldownUI(); // non-throttled tab: instant refresh
     }
 
     function setSub(sub) {
@@ -1521,9 +1166,9 @@
       load();
     }
 
-    refreshBtn.addEventListener('click', tryRefresh);
+    refreshBtn.addEventListener('click', load);
     bigRefreshBtn.addEventListener('click', function () {
-      tryRefresh();
+      load();
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
     themeBtn.addEventListener('click', toggleTheme);
@@ -1545,7 +1190,7 @@
       if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT') return;
       if (e.ctrlKey || e.metaKey || e.altKey) return;
       if (e.key === 'r' || e.key === 'R' || e.key === ' ' || e.code === 'Space') {
-        e.preventDefault(); tryRefresh();
+        e.preventDefault(); load();
       }
     });
 
