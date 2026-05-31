@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Polymath — an endless feed of Wikipedia articles. Random discovery or peer-reviewed quality, in nine languages." />
+  <meta name="description" content="Polymath — an endless feed of random Wikipedia articles and Wikimedia Commons pictures, in nine languages." />
   <title>Polymath</title>
 
   <link rel="preconnect" href="https://en.wikipedia.org">
@@ -262,18 +262,15 @@
     .gphoto:hover img { transform:scale(1.05); }
     .gphoto-cap {
       position:absolute; left:0; right:0; bottom:0;
-      padding:22px 12px 10px; font-size:0.78rem; font-weight:600; color:#fff;
-      background:linear-gradient(to top,rgba(0,0,0,0.78),transparent);
+      padding:22px 12px 10px; font-size:0.78rem; font-weight:600; line-height:1.3; color:#fff;
+      background:linear-gradient(to top,rgba(0,0,0,0.85),rgba(0,0,0,0.5) 60%,transparent);
       opacity:0; transition:opacity 0.2s;
-      display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
+      max-height:100%; box-sizing:border-box;
+      display:-webkit-box; -webkit-line-clamp:2; line-clamp:2; -webkit-box-orient:vertical;
+      overflow:hidden; text-overflow:ellipsis; word-break:break-word;
     }
     .gphoto:hover .gphoto-cap, .gphoto:focus .gphoto-cap { opacity:1; }
     .gphoto-skel { aspect-ratio:1/1; border-radius:8px; background:var(--skeleton); animation:pulse 1.4s ease-in-out infinite; }
-    .gphoto-badge {
-      position:absolute; top:8px; left:8px; z-index:2;
-      background:rgba(20,87,184,0.92); color:#fff; font-size:0.62rem; font-weight:700;
-      letter-spacing:0.05em; text-transform:uppercase; padding:3px 7px; border-radius:4px;
-    }
 
     main { max-width:920px; margin:0 auto; padding:8px 28px 0; }
     .feed { min-height:60vh; }
@@ -301,14 +298,6 @@
     .article-summary {
       font-size:0.84rem; color:var(--text-secondary); line-height:1.45; margin:0 0 5px;
       display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
-    }
-    .article-meta {
-      font-size:0.66rem; color:var(--text-tertiary); font-weight:600;
-      letter-spacing:0.06em; text-transform:uppercase; display:inline-flex; align-items:center; gap:8px;
-    }
-    .badge-quality {
-      color:var(--accent); font-weight:700;
-      display:inline-flex; align-items:center; gap:3px;
     }
     .article-image-wrap {
       position:relative; width:120px; aspect-ratio:4/3; background:var(--skeleton);
@@ -405,7 +394,6 @@
       .article-image-wrap,.skel-img { width:80px; aspect-ratio:1/1; }
       .article-title { font-size:0.98rem; }
       .article-summary { font-size:0.82rem; }
-      .article-meta { font-size:0.64rem; }
       .brand-mark { font-size:1.35rem; }
       .tagline { display:none; }
       .refresh-btn { padding:9px 11px; font-size:0.84rem; }
@@ -421,9 +409,8 @@
     [dir="rtl"] .lang-select { background-position:left 10px center; padding:8px 12px 8px 28px; }
 
     /* When an article's text block is RTL (e.g. Arabic), align its contents
-       right and reverse the meta row, without affecting the rest of the page. */
+       right without affecting the rest of the page. */
     .article-text[dir="rtl"] { text-align:right; }
-    .article-text[dir="rtl"] .article-meta { flex-direction:row-reverse; }
 
     @media (prefers-reduced-motion:reduce) {
       .article { animation:none; }
@@ -478,10 +465,6 @@
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h12a2 2 0 0 1 2 2v14H6a2 2 0 0 1-2-2z"/><line x1="8" y1="8" x2="14" y2="8"/><line x1="8" y1="12" x2="14" y2="12"/><line x1="8" y1="16" x2="12" y2="16"/></svg>
         Articles
       </button>
-      <button class="tab" data-top="quotes" role="tab" aria-selected="false">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 7h4v4c0 2-1 3.5-3 4.5M14 7h4v4c0 2-1 3.5-3 4.5"/></svg>
-        Quotes
-      </button>
       <button class="tab" data-top="pictures" role="tab" aria-selected="false">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.6"/><path d="M21 15l-5-5L5 21"/></svg>
         Pictures
@@ -520,28 +503,12 @@
 
     var TARGET_COUNT = 50;
     var MIN_EXTRACT_LEN = 120;
-    var READ_SPEED_WPM = 225;
     var RTL_LANGS = { ar: true };
 
-    // Verified Good/Featured category names per language (researched, not guessed).
-    var QUALITY_CATS = {
-      en: ['Category:Featured articles', 'Category:Good articles'],
-      zh: ['Category:典范条目', 'Category:优良条目'],
-      es: ['Categoría:Wikipedia:Artículos destacados', 'Categoría:Wikipedia:Artículos buenos'],
-      fr: ['Catégorie:Article de qualité', 'Catégorie:Bon article'],
-      de: ['Kategorie:Wikipedia:Exzellent', 'Kategorie:Wikipedia:Lesenswert'],
-      ja: ['Category:秀逸な記事', 'Category:良質な記事'],
-      ru: ['Категория:Википедия:Избранные статьи', 'Категория:Википедия:Хорошие статьи'],
-      ar: ['تصنيف:مقالات مختارة', 'تصنيف:مقالات جيدة'],
-      pt: ['Categoria:!Artigos destacados', 'Categoria:!Artigos bons']
-    };
-
-    var READ_LABELS = { en:'min read', zh:'分钟阅读', es:'min de lectura', fr:'min de lecture', de:'Min. Lesezeit', ja:'分で読む', ru:'мин чтения', ar:'دقيقة قراءة', pt:'min de leitura' };
     var BIG_BTN = { en:'Refresh for 50 more', zh:'再获取 50 篇', es:'Cargar 50 más', fr:'Charger 50 de plus', de:'Weitere 50 laden', ja:'さらに50件', ru:'Ещё 50 статей', ar:'تحديث ٥٠ مقالة', pt:'Mais 50 artigos' };
     var BIG_SUB = { en:'Done reading? Get a fresh batch.', zh:'看完了？再来一批。', es:'¿Terminaste? Otra tanda.', fr:'Fini ? Un nouveau lot.', de:'Fertig? Neuer Schwung.', ja:'読み終わった？新しい記事を。', ru:'Прочитали? Новая подборка.', ar:'انتهيت؟ دفعة جديدة.', pt:'Terminou? Mais uma leva.' };
     var TAB_RANDOM_DESC = { en:'Completely random articles from across all of Wikipedia.', zh:'来自整个维基百科的完全随机条目。', es:'Artículos completamente aleatorios de toda Wikipedia.', fr:'Articles entièrement aléatoires de tout Wikipédia.', de:'Völlig zufällige Artikel aus ganz Wikipedia.', ja:'ウィキペディア全体からの完全にランダムな記事。', ru:'Полностью случайные статьи со всей Википедии.', ar:'مقالات عشوائية تمامًا من كل ويكيبيديا.', pt:'Artigos totalmente aleatórios de toda a Wikipédia.' };
-    var TAB_QUALITY_DESC = { en:'Articles Wikipedia editors have reviewed and rated "Good" or "Featured".', zh:'维基百科编辑审核并评为"优良"或"典范"的条目。', es:'Artículos revisados y calificados como "buenos" o "destacados" por editores de Wikipedia.', fr:'Articles évalués « bons » ou « de qualité » par les contributeurs de Wikipédia.', de:'Von Wikipedia-Autoren als „lesenswert" oder „exzellent" bewertete Artikel.', ja:'ウィキペディア編集者が「良質」または「秀逸」と評価した記事。', ru:'Статьи, которые редакторы Википедии оценили как «хорошие» или «избранные».', ar:'مقالات راجعها محررو ويكيبيديا وصنّفوها «جيدة» أو «مختارة».', pt:'Artigos avaliados como "bons" ou "destacados" pelos editores da Wikipédia.' };
-    var TAB_QUOTES_DESC = 'Random people and topics from Wikiquote.';
+    var TAB_RANDOMPIC_DESC = 'Completely random files from across all of Wikimedia Commons — raw and unfiltered.';
     var TAB_FEATURED_DESC = 'Featured Pictures — images the Wikimedia Commons community rated among its finest.';
     var TAB_POTD_DESC = 'Picture of the Day — acclaimed images from random dates in the Commons archive.';
     var ERROR_TEXT = {
@@ -557,18 +524,17 @@
     };
 
     var currentLang = 'en';
-    var currentTop = 'articles';      // articles | quotes | pictures
-    var currentSub = 'random';        // articles: random|quality ; pictures: featured|potd
+    var currentTop = 'articles';      // articles | pictures
+    var currentSub = '';              // pictures: random | featured | potd
     var isLoading = false;
     var seenInSession = {}; // pageid -> 1, dedupe within a batch fetch
 
     // Which sub-tabs each top tab exposes (label + value). Empty array = no sub-tabs.
     var SUBTABS = {
-      articles: [ { v:'random', label:'Random' }, { v:'quality', label:'Quality' } ],
-      quotes:   [],
-      pictures: [ { v:'featured', label:'Featured' }, { v:'potd', label:'Picture of the Day' } ]
+      articles: [],
+      pictures: [ { v:'random', label:'Random' }, { v:'featured', label:'Featured' }, { v:'potd', label:'Picture of the Day' } ]
     };
-    var DEFAULT_SUB = { articles:'random', quotes:'', pictures:'featured' };
+    var DEFAULT_SUB = { articles:'', pictures:'random' };
 
     var feedEl = document.getElementById('feed');
     var refreshBtn = document.getElementById('refresh-btn');
@@ -589,12 +555,6 @@
         return { '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c];
       });
     }
-    function wordCount(t) {
-      if (!t) return 0;
-      if (/[\u4E00-\u9FFF\u3040-\u30FF]/.test(t)) return Math.ceil(t.replace(/\s+/g, '').length / 2);
-      return t.trim().split(/\s+/).filter(Boolean).length;
-    }
-    function readTime(t) { return Math.max(1, Math.ceil(wordCount(t) / READ_SPEED_WPM)); }
     function shuffle(a) {
       for (var i = a.length - 1; i > 0; i--) {
         var j = Math.floor(Math.random() * (i + 1));
@@ -604,7 +564,6 @@
     }
 
     var BOOK_ICON = '<svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/><line x1="9" y1="7" x2="16" y2="7"/><line x1="9" y1="11" x2="14" y2="11"/></svg>';
-    var STAR_ICON = '<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l2.4 7.4H22l-6 4.6 2.3 7.4-6.3-4.6L5.7 21.4 8 14 2 9.4h7.6z"/></svg>';
 
     function apiUrl(lang, params) {
       params.format = 'json'; params.formatversion = '2'; params.origin = '*';
@@ -628,26 +587,6 @@
         if (r.status === 429) throw new Error('rate-limited');
         if (!r.ok) throw new Error('HTTP ' + r.status);
         return r.json();
-      });
-    }
-
-    // Enrich a list of titles with extract + thumbnail + url, in one batched call.
-    function fetchSummaries(lang, titles) {
-      if (!titles.length) return Promise.resolve([]);
-      var url = apiUrl(lang, {
-        action: 'query',
-        titles: titles.join('|'),
-        prop: 'extracts|pageimages|info',
-        exintro: '1', explaintext: '1', exlimit: String(titles.length),
-        piprop: 'thumbnail', pithumbsize: '400', pilimit: String(titles.length),
-        inprop: 'url'
-      });
-      return fetchJson(url).then(function (data) {
-        var pages = (data.query && data.query.pages) || [];
-        var byTitle = {};
-        pages.forEach(function (p) { byTitle[p.title] = p; });
-        // preserve input order
-        return titles.map(function (t) { return byTitle[t]; }).filter(Boolean);
       });
     }
 
@@ -693,130 +632,76 @@
       return round(6);
     }
 
-    // QUALITY mode (Mechanism B): jump to several random sort-key starting points
-    // within the Good/Featured categories, grab a run of titles from each, merge.
-    var SORT_KEYS = '0ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
-    // For non-Latin languages, sort keys are still largely Latin-transliterated or
-    // numeric in these categories, but we also include a few native starts as fallback.
-
-    function fetchCategorySlice(lang, category, startKey, limit) {
-      var params = {
-        action: 'query', list: 'categorymembers', cmtitle: category,
-        cmlimit: String(limit), cmnamespace: '0', cmprop: 'title', cmtype: 'page'
-      };
-      if (startKey) params.cmstartsortkeyprefix = startKey;
-      return fetchJson(apiUrl(lang, params)).then(function (data) {
-        var members = (data.query && data.query.categorymembers) || [];
-        return members.map(function (m) { return m.title; });
-      }).catch(function () { return []; });
-    }
-
-    var seenQualityTitles = {}; // title -> 1, session-wide for quality mode
-
-    function loadQuality(lang, onBatch) {
-      var cats = QUALITY_CATS[lang] || QUALITY_CATS.en;
-      // Fire several random-start slices across both categories for variety.
-      var keys = shuffle(SORT_KEYS.slice()).slice(0, 8);
-      var jobs = [];
-      keys.forEach(function (k, i) {
-        var cat = cats[i % cats.length];
-        jobs.push(fetchCategorySlice(lang, cat, k, 8));
-      });
-      // Also one un-prefixed slice as a safety net (guarantees results even if
-      // a language's sort keys don't match Latin letters).
-      jobs.push(fetchCategorySlice(lang, cats[0], '', 10));
-
-      return Promise.all(jobs).then(function (lists) {
-        var batchSeen = {}, titles = [];
-        lists.forEach(function (list) {
-          list.forEach(function (t) {
-            if (!batchSeen[t] && !seenQualityTitles[t]) { batchSeen[t] = 1; titles.push(t); }
-          });
-        });
-        // If the language's quality categories returned nothing (wrong names /
-        // empty), fall back to English quality so the tab never breaks.
-        if (titles.length < 5 && lang !== 'en') {
-          return loadQuality('en', onBatch);
-        }
-        titles = shuffle(titles).slice(0, TARGET_COUNT);
-        titles.forEach(function (t) { seenQualityTitles[t] = 1; });
-
-        // Single wave: fetch all summaries, paint once (no chunked "popping").
-        return fetchSummaries(lang, titles).then(function (pages) {
-          pages.forEach(function (p) { p.__quality = true; });
-          if (pages.length) onBatch(pages);
-        });
-      });
-    }
-
-    // ---- QUOTES: random Wikiquote subjects (intro line only) ----
-    function loadQuotes(lang, onBatch) {
-      // Wikiquote uses the same MediaWiki API; English is by far the most complete.
-      var host = (lang === 'en' ? 'en' : lang) + '.wikiquote.org';
-      var collected = [];
-      function round(attemptsLeft) {
-        if (collected.length >= TARGET_COUNT || attemptsLeft <= 0) {
-          if (collected.length) onBatch(collected.slice(0, TARGET_COUNT));
-          return Promise.resolve(collected.length);
-        }
-        var need = TARGET_COUNT - collected.length;
-        var url = hostApiUrl(host, {
-          action: 'query', generator: 'random', grnnamespace: '0',
-          grnlimit: String(Math.min(50, Math.max(12, need * 2))),
-          prop: 'extracts|pageimages|info',
-          exintro: '1', explaintext: '1', exlimit: '50',
-          piprop: 'thumbnail', pithumbsize: '400', pilimit: '50', inprop: 'url'
-        });
-        return fetchJson(url).then(function (data) {
-          var pages = (data.query && data.query.pages) || [];
-          pages.forEach(function (p) {
-            if (collected.length >= TARGET_COUNT) return;
-            // Skip very thin intros and obvious list/maintenance pages.
-            if (!p.extract || p.extract.length < 40) return;
-            if (seenInSession['q' + p.pageid]) return;
-            seenInSession['q' + p.pageid] = 1;
-            p.__quotehost = host;
-            collected.push(p);
-          });
-          return round(attemptsLeft - 1);
-        }).catch(function () {
-          // If a non-English Wikiquote is sparse/unreachable, fall back to English once.
-          if (host !== 'en.wikiquote.org' && collected.length === 0) {
-            host = 'en.wikiquote.org';
-            return round(attemptsLeft - 1);
-          }
-          return round(attemptsLeft - 1);
-        });
-      }
-      return round(6);
-    }
-
     // ---- PICTURES: Commons Featured Pictures (Mechanism B over the category) ----
     var COMMONS = 'commons.wikimedia.org';
     var FEATURED_CAT = 'Category:Featured pictures on Wikimedia Commons';
 
+    // FEATURED: jump to a random point in the category's *promotion timeline*
+    // (cmsort=timestamp) instead of alphabetical sort keys. This avoids the
+    // A-bias and the tail-blindness of prefix slicing — every picture is
+    // reachable, sampled across ~20 years of Featured promotions.
     function loadFeaturedPics(onBatch) {
-      var keys = shuffle(SORT_KEYS.slice()).slice(0, 10);
-      var jobs = keys.map(function (k) {
+      // Featured Pictures started ~2004; pick a few random timestamps and read
+      // forward a chunk from each, then merge + shuffle for a varied batch.
+      function randTs() {
+        var start = Date.UTC(2004, 0, 1);
+        var end = Date.now();
+        var t = new Date(start + Math.random() * (end - start));
+        return t.toISOString().replace(/\.\d+Z$/, 'Z'); // MediaWiki timestamp
+      }
+      var jobs = [];
+      for (var i = 0; i < 8; i++) {
         var url = hostApiUrl(COMMONS, {
           action: 'query', generator: 'categorymembers',
-          gcmtitle: FEATURED_CAT, gcmtype: 'file', gcmlimit: '6', gcmstartsortkeyprefix: k,
+          gcmtitle: FEATURED_CAT, gcmtype: 'file', gcmlimit: '8',
+          gcmsort: 'timestamp', gcmdir: 'newer', gcmstart: randTs(),
           prop: 'imageinfo', iiprop: 'url|extmetadata', iiurlwidth: '500'
         });
-        return fetchJson(url).then(function (d) {
+        jobs.push(fetchJson(url).then(function (d) {
           return (d.query && d.query.pages) || [];
-        }).catch(function () { return []; });
-      });
+        }).catch(function () { return []; }));
+      }
       return Promise.all(jobs).then(function (lists) {
         var seen = {}, pics = [];
         lists.forEach(function (list) {
           list.forEach(function (p) {
             if (seen[p.pageid]) return;
             seen[p.pageid] = 1;
-            pics.push(toPhoto(p));
+            var ph = toPhoto(p); if (ph) pics.push(ph);
           });
         });
-        pics = shuffle(pics.filter(Boolean)).slice(0, TARGET_COUNT);
+        pics = shuffle(pics).slice(0, TARGET_COUNT);
+        if (pics.length) onBatch(pics);
+      });
+    }
+
+    // RANDOM COMMONS: truly uniform random files across all of Commons
+    // (rnnamespace=6 = the File namespace). Raw and unfiltered — lots of junk
+    // mixed with gems, by design. list=random caps at 20 per call, so we fire
+    // several calls and merge to fill a batch.
+    function loadRandomCommons(onBatch) {
+      var CALLS = Math.ceil(TARGET_COUNT / 18);
+      var jobs = [];
+      for (var i = 0; i < CALLS; i++) {
+        var url = hostApiUrl(COMMONS, {
+          action: 'query', generator: 'random',
+          grnnamespace: '6', grnlimit: '18',
+          prop: 'imageinfo', iiprop: 'url|extmetadata', iiurlwidth: '500'
+        });
+        jobs.push(fetchJson(url).then(function (d) {
+          return (d.query && d.query.pages) || [];
+        }).catch(function () { return []; }));
+      }
+      return Promise.all(jobs).then(function (lists) {
+        var seen = {}, pics = [];
+        lists.forEach(function (list) {
+          list.forEach(function (p) {
+            if (seen[p.pageid]) return;
+            seen[p.pageid] = 1;
+            var ph = toPhoto(p); if (ph) pics.push(ph);
+          });
+        });
+        pics = shuffle(pics).slice(0, TARGET_COUNT);
         if (pics.length) onBatch(pics);
       });
     }
@@ -870,7 +755,7 @@
             var pages = (d.query && d.query.pages) || [];
             pages.forEach(function (p) {
               var ph = toPhoto(p);
-              if (ph) { ph.__potd = true; pics.push(ph); }
+              if (ph) pics.push(ph);
             });
           }).catch(function () {}).then(function () { return fetchInfo(gi + 1); });
         }
@@ -894,6 +779,8 @@
       var meta = ii.extmetadata || {};
       var caption = (meta.ObjectName && meta.ObjectName.value) ||
                     (p.title || '').replace(/^File:/, '').replace(/\.[a-z0-9]+$/i, '');
+      caption = caption.replace(/\s+/g, ' ').trim();
+      if (caption.length > 120) caption = caption.slice(0, 117).replace(/\s+\S*$/, '') + '…';
       var descPage = ii.descriptionurl ||
         ('https://commons.wikimedia.org/wiki/' + encodeURIComponent(p.title || ''));
       return { title: caption, thumb: thumb, url: descPage };
@@ -903,9 +790,6 @@
     function articleMarkup(p) {
       var thumb = p.thumbnail && p.thumbnail.source;
       var url = p.fullurl || p.canonicalurl || ('https://' + currentLang + '.wikipedia.org/wiki/' + encodeURIComponent(p.title));
-      var mins = readTime(p.extract || '');
-      var lbl = READ_LABELS[currentLang] || READ_LABELS.en;
-      var qualityBadge = p.__quality ? ('<span class="badge-quality">' + STAR_ICON + '</span>') : '';
       var textDir = RTL_LANGS[currentLang] ? ' dir="rtl"' : '';
       return '<a class="article-link" href="' + esc(url) + '" target="_blank" rel="noopener noreferrer" aria-label="' + esc(p.title) + '">' +
         '<div class="article-image-wrap">' +
@@ -915,7 +799,6 @@
         '<div class="article-text"' + textDir + '>' +
           '<h2 class="article-title">' + esc(p.title) + '</h2>' +
           '<p class="article-summary">' + esc(p.extract || '') + '</p>' +
-          '<div class="article-meta">' + qualityBadge + '<span>' + mins + ' ' + esc(lbl) + '</span></div>' +
         '</div>' +
       '</a>';
     }
@@ -959,10 +842,8 @@
     }
 
     function galleryPhotoMarkup(ph) {
-      var badge = ph.__potd ? '<span class="gphoto-badge">Pic of the Day</span>' : '';
       return '<a class="gphoto" href="' + esc(ph.url) + '" target="_blank" rel="noopener noreferrer" ' +
         'style="animation-delay:0s" aria-label="' + esc(ph.title) + '">' +
-        badge +
         '<img src="' + esc(ph.thumb) + '" alt="" loading="lazy" decoding="async" onerror="this.closest(\'.gphoto\').remove()">' +
         '<span class="gphoto-cap">' + esc(ph.title) + '</span>' +
       '</a>';
@@ -1002,7 +883,6 @@
       var gen = ++loadGen;       // claim this generation
       setLoading(true);
       seenInSession = {};
-      seenQualityTitles = {};
 
       var isGallery = (currentTop === 'pictures');
       setFeedLayout(isGallery ? 'gallery' : 'list');
@@ -1024,11 +904,11 @@
 
       var job;
       if (currentTop === 'articles') {
-        job = (currentSub === 'quality') ? loadQuality(currentLang, onBatch) : loadRandom(currentLang, onBatch);
-      } else if (currentTop === 'quotes') {
-        job = loadQuotes(currentLang, onBatch);
+        job = loadRandom(currentLang, onBatch);
       } else { // pictures
-        job = (currentSub === 'potd') ? loadPOTD(onBatch) : loadFeaturedPics(onBatch);
+        if (currentSub === 'potd') job = loadPOTD(onBatch);
+        else if (currentSub === 'featured') job = loadFeaturedPics(onBatch);
+        else job = loadRandomCommons(onBatch);
       }
 
       job.catch(function (err) {
@@ -1088,23 +968,20 @@
     function toggleTheme() { setMode(currentModeLD === 'dark' ? 'light' : 'dark'); }
 
     function currentDesc() {
-      if (currentTop === 'quotes') return TAB_QUOTES_DESC;
-      if (currentTop === 'pictures') return (currentSub === 'potd') ? TAB_POTD_DESC : TAB_FEATURED_DESC;
-      // articles
-      return (currentSub === 'quality')
-        ? (TAB_QUALITY_DESC[currentLang] || TAB_QUALITY_DESC.en)
-        : (TAB_RANDOM_DESC[currentLang] || TAB_RANDOM_DESC.en);
+      if (currentTop === 'pictures') {
+        if (currentSub === 'potd') return TAB_POTD_DESC;
+        if (currentSub === 'featured') return TAB_FEATURED_DESC;
+        return TAB_RANDOMPIC_DESC;
+      }
+      // articles (random only)
+      return TAB_RANDOM_DESC[currentLang] || TAB_RANDOM_DESC.en;
     }
     function updateDesc() { tabDesc.textContent = currentDesc(); }
 
     function bottomLabels() {
-      // Picture tabs talk about "pictures", others about "more".
       if (currentTop === 'pictures') {
         bigRefreshLabel.textContent = 'Refresh for 50 more';
         bigRefreshSub.textContent = 'Want a different set? Get fresh pictures.';
-      } else if (currentTop === 'quotes') {
-        bigRefreshLabel.textContent = 'Refresh for 50 more';
-        bigRefreshSub.textContent = 'Done? Get a fresh batch.';
       } else {
         bigRefreshLabel.textContent = BIG_BTN[currentLang] || BIG_BTN.en;
         bigRefreshSub.textContent = BIG_SUB[currentLang] || BIG_SUB.en;
@@ -1119,7 +996,7 @@
       updateDesc();
     }
 
-    // Build the sub-tab row for the current top tab (empty for Quotes).
+    // Build the sub-tab row for the current top tab (empty for Articles).
     function renderSubTabs() {
       var subs = SUBTABS[currentTop] || [];
       subTabsEl.innerHTML = '';
