@@ -107,12 +107,7 @@
     }
     .filter-chip:hover { border-color:var(--accent); }
     .filter-chip input { cursor:pointer; margin:0; accent-color:var(--accent); }
-    .filter-info {
-      display:inline-flex; align-items:center; justify-content:center;
-      width:15px; height:15px; border-radius:50%; font-size:0.62rem; font-weight:700;
-      background:var(--border); color:var(--text-tertiary); cursor:help;
-    }
-    .filter-chip:hover .filter-info { background:var(--accent); color:#fff; }
+    .filter-caption { font-size:0.78rem; color:var(--text-tertiary); }
 
     main { max-width:920px; margin:0 auto; padding:18px 28px 0; }
     .feed { min-height:60vh; }
@@ -303,10 +298,10 @@
     <p class="tab-desc" id="tab-desc">Completely random articles from across all of Wikipedia.</p>
 
     <div class="filters" id="filters">
-      <label class="filter-chip" title="Hides articles Wikipedia marks as &quot;stubs&quot; — very short, incomplete entries flagged by editors as needing expansion. Leaves the more developed articles.">
-        <input type="checkbox" id="toggle-stubs"> Hide stubs
-        <span class="filter-info" aria-hidden="true">?</span>
+      <label class="filter-chip">
+        <input type="checkbox" id="toggle-stubs" checked> Hide stubs
       </label>
+      <span class="filter-caption" id="filter-caption">Stubs are very short, incomplete articles.</span>
     </div>
   </header>
 
@@ -336,7 +331,7 @@
     var TARGET_COUNT = 50;
     var MIN_EXTRACT_LEN = 120;
     var STUB_BYTES = 1500;        // fallback stub heuristic if categories are missing
-    var hideStubs = false;        // toggle: filter out stubs (default off)
+    var hideStubs = true;         // toggle: filter out stubs (default on - learning-first)
     var RTL_LANGS = { ar: true };
 
     var BIG_BTN = { en:'Refresh for 50 more', zh:'再获取 50 篇', es:'Cargar 50 más', fr:'Charger 50 de plus', de:'Weitere 50 laden', ja:'さらに50件', ru:'Ещё 50 статей', ar:'تحديث ٥٠ مقالة', pt:'Mais 50 artigos' };
