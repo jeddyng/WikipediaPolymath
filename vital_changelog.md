@@ -2,6 +2,15 @@
 
 Newest runs first. Each section lists the vital articles added that run.
 
+## 2026-06-14  (incremental)
+
+- Run at: 2026-06-14T11:26:23Z
+- Total titles in list: **39923**
+- New this run: **0**
+
+_No new titles this run._
+
+---
 ## 2026-06-14  (full build)
 
 - Run at: 2026-06-14T10:05:02Z
