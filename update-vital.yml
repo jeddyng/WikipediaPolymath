@@ -1,0 +1,74 @@
+name: Update vital.json
+
+# Keeps vital.json fresh by running the INCREMENTAL scraper on a schedule.
+# It reads the committed vital.json (with its "updated" timestamp), fetches only
+# the articles added since then, appends them, and commits the result back.
+#
+# IMPORTANT: seed the FIRST vital.json locally and commit it before relying on this.
+# The initial full scan (~1,000 calls) can hit rate limits from GitHub's data-center
+# IPs; the monthly incremental runs (~12-15 calls) are light and fine here.
+
+on:
+  schedule:
+    # 06:00 UTC on the 1st of every month.
+    - cron: "0 6 1 * *"
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+    inputs:
+      full:
+        description: "Force a full re-scan (slow; may rate-limit)"
+        type: boolean
+        default: false
+
+# Needed so the workflow can push the updated vital.json back to the repo.
+permissions:
+  contents: write
+
+# Avoid overlapping runs writing the file at the same time.
+concurrency:
+  group: update-vital
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo (brings the committed vital.json + its timestamp)
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run the scraper (incremental unless 'full' requested)
+        id: scrape
+        run: |
+          if [ "${{ github.event.inputs.full }}" = "true" ]; then
+            python3 build_vital.py --out vital.json --full
+          else
+            python3 build_vital.py --out vital.json
+          fi
+        # The script exits non-zero if any topic failed. We still want to commit
+        # whatever partial progress was saved, so don't fail the whole job here.
+        continue-on-error: true
+
+      - name: Commit vital.json and changelog if changed
+        run: |
+          if git diff --quiet -- vital.json vital_changelog.md; then
+            echo "No changes to commit."
+          else
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add vital.json vital_changelog.md
+            git commit -m "chore: update vital list ($(date -u +%Y-%m-%d))"
+            git push
+            echo "Committed and pushed updated vital.json + changelog."
+          fi
+
+      - name: Surface scraper failure (after committing partial progress)
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          echo "::warning::The scraper reported a partial failure (some topics did not"
+          echo "::warning::complete). The timestamp was NOT advanced, so the next run"
+          echo "::warning::will retry the missed window. Any IDs that did resolve were saved."
+          exit 1

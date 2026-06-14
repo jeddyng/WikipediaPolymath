@@ -1,0 +1,39945 @@
+# Polymath vital-articles changelog
+
+Newest runs first. Each section lists the vital articles added that run.
+
+## 2026-06-14  (full build)
+
+- Run at: 2026-06-14T10:05:02Z
+- Total titles in list: **39923**
+- New this run: **39911**
+
+### Arts (+3100)
+- (I Can't Get No) Satisfaction
+- (Sittin' On) The Dock of the Bay
+- ...Baby One More Time
+- 12 Angry Men
+- 1812 Overture
+- 21 (Adele album)
+- 21st-century classical music
+- 24 (TV series)
+- 2666
+- 30 Rock
+- 4′33″
+- 60 Minutes
+- 8½
+- A Bar at the Folies-Bergère
+- A Brief History of Time
+- A Brighter Summer Day
+- A Burial at Ornans
+- A Change Is Gonna Come
+- A Chorus Line
+- A Clockwork Orange (film)
+- A Clockwork Orange (novel)
+- A Confederacy of Dunces
+- A Connecticut Yankee in King Arthur's Court
+- A Dance to the Music of Time
+- A Day in the Life
+- A Dictionary of the English Language
+- A Farewell to Arms
+- A House for Mr Biswas
+- A Love Supreme
+- A Midsummer Night's Dream (Mendelssohn)
+- A Mighty Fortress Is Our God
+- A Modest Proposal
+- A Moveable Feast
+- A Passage to India
+- A Portrait of the Artist as a Young Man
+- A Psalm of Life
+- A Raisin in the Sun
+- A Room of One's Own
+- A Room with a View
+- A Season in Hell
+- A Series of Unfortunate Events
+- A Song of Ice and Fire
+- A Streetcar Named Desire
+- A Study in Scarlet
+- A Study of History
+- A Tale of Two Cities
+- A Trip to the Moon
+- A True Story
+- A cappella
+- ALF (TV series)
+- ASCII art
+- Aachen Cathedral
+- Abaporu
+- Abbey Road
+- Absalom, Absalom!
+- Absolutely Fabulous
+- Abu Simbel
+- Accidental (music)
+- Acoustic guitar
+- Action film
+- Adagio for Strings
+- Adagio in G minor
+- Adult contemporary music
+- Advance Australia Fair
+- Adventure Time
+- Adventure fiction
+- Adventure film
+- Afghan Girl
+- Afrobeat
+- Afrofuturism
+- Aguirre, the Wrath of God
+- Aida
+- Airplane!
+- Ajanta Caves
+- Ajax (play)
+- Akira (1988 film)
+- Al-Aqsa Mosque
+- Al-Jabr
+- Aleatoric music
+- Alexander Nevsky (film)
+- Alexanderplatz
+- Alexiad
+- Ali Baba and the Forty Thieves
+- Alice (Alice's Adventures in Wonderland)
+- Alien (film)
+- Aliens (film)
+- All About Eve
+- All Along the Watchtower
+- All I Want for Christmas Is You
+- All My Children
+- All Quiet on the Western Front
+- All in the Family
+- All the King's Men
+- Almagest
+- Almanac
+- Also sprach Zarathustra
+- Alternate history
+- Alto saxophone
+- Amateur theatre
+- Amazing Grace
+- Ambient 1: Music for Airports
+- Ambient music
+- Ambiguous image
+- American Gothic
+- American Idiot
+- American Idol
+- American Psycho
+- American Standard Version
+- American burlesque
+- American comic book
+- American literature
+- Amélie
+- An American Tragedy
+- An Enquiry Concerning Human Understanding
+- An Essay on the Principle of Population
+- Analog synthesizer
+- Anarkali
+- Ancient art
+- Ancient literature
+- Ancient music
+- And Quiet Flows the Don
+- And Then There Were None
+- Andrei Rublev (film)
+- Angels in America
+- Anglo-Saxon art
+- Aniara
+- Animal Farm
+- Animal training
+- Animaniacs
+- Annabel Lee
+- Annals (Tacitus)
+- Anne of Green Gables
+- Annie Hall
+- Anpanman
+- Antagonist
+- Anthem
+- Anthropomorphism
+- Antigone (Sophocles play)
+- Antihero
+- Antiquities of the Jews
+- Aphorism
+- Apocalypse Now
+- Apocalyptic and post-apocalyptic fiction
+- Apollo and Daphne (Bernini)
+- Appalachian Spring
+- Appetite for Destruction
+- Applied arts
+- Arab cinema
+- Archbasilica of Saint John Lateran
+- Architectural style
+- Architecture in the United States
+- Architecture of Africa
+- Architecture of Germany
+- Architecture of Israel
+- Architecture of Russia
+- Architecture of Turkey
+- Architecture of the Netherlands
+- Architecture of the Song dynasty
+- Architecture of the United Kingdom
+- Are You Experienced
+- Are You There God? It's Me, Margaret.
+- Area (architecture)
+- Arg-e Bam
+- Argonautica
+- Arirang
+- Arjuna
+- Around the World in Eighty Days
+- Arpeggio
+- Arrangement
+- Arsène Lupin
+- Art Institute of Chicago
+- Art film
+- Art gallery
+- Art museum
+- Art music
+- Art of Europe
+- Art rock
+- Art school
+- Art world
+- Arthur (TV series)
+- Articulation (music)
+- Artist's book
+- As I Lay Dying
+- As You Like It
+- Ashes and Diamonds (film)
+- Asian art
+- Astral Weeks
+- Astro Boy
+- At the Moulin Rouge
+- Athena Parthenos
+- Athena Promachos
+- Atlas Shrugged
+- Atonality
+- Atonement (novel)
+- Attack on Titan
+- Au hasard Balthazar
+- Audition
+- Auditorium
+- Auld Lang Syne
+- Auschwitz Album
+- Austerlitz (novel)
+- Australian literature
+- Austrian literature
+- Author
+- Automotive design
+- Avatar (2009 film)
+- Avatar: The Last Airbender
+- Ave Maria (Bach/Gounod)
+- Ave Maria (Schubert)
+- Ave verum corpus (Mozart)
+- Awaara
+- Away in a Manger
+- Azadi Tower
+- Aztec architecture
+- Aït Benhaddou
+- Baburnama
+- Babylon 5
+- Bacchus and Ariadne
+- Back in Black
+- Back to the Future
+- Background music
+- Bad (album)
+- Badshahi Mosque
+- Bal du moulin de la Galette
+- Balalaika
+- Balkan music
+- Ballades (Chopin)
+- Ballet dancer
+- Ballet technique
+- Ballroom rumba
+- Bande dessinée
+- Banjo
+- Bar (music)
+- Barbershop music
+- Bardo National Museum (Tunis)
+- Barge Haulers on the Volga
+- Baritone
+- Barney & Friends
+- Baroque sculpture
+- Basilica of Saint-Denis
+- Bass (sound)
+- Bass (voice type)
+- Bass drum
+- Bathers at Asnières
+- Batman (TV series)
+- Battle Hymn of the Republic
+- Battle Royale (film)
+- Battlestar Galactica
+- Bauhaus
+- Baywatch
+- Be My Baby
+- Beadwork
+- Beat Generation
+- Beat the Whites with the Red Wedge
+- Beatboxing
+- Beauty and the Beast
+- Beauty and the Beast (1991 film)
+- Bebop
+- Because I could not stop for Death
+- Bedroom in Arles
+- Befana
+- Being and Nothingness
+- Being and Time
+- Belfry
+- Bell tower
+- Bella ciao
+- Beloved (novel)
+- Belvedere, Vienna
+- Belém Tower
+- Ben-Hur (1959 film)
+- Ben-Hur: A Tale of the Christ
+- Bengali literature
+- Benin Bronzes
+- Berber music
+- Berenstain Bears
+- Berlin Alexanderplatz
+- Berlin Philharmonic
+- Berserk (manga)
+- Bestiary
+- Betty Boop
+- Beverly Hills, 90210
+- Bewitched
+- Beyond Good and Evil
+- Bhangra (dance)
+- Bhimbetka rock shelters
+- Bibliography
+- Bibliotheca Alexandrina
+- Big Ben
+- Big Bird
+- Big Brother (Nineteen Eighty-Four)
+- Big Brother (franchise)
+- Big band
+- Bildungsroman
+- Billie Jean
+- Biographical film
+- Bird in Space
+- Bitches Brew
+- Black Beauty
+- Black Boy
+- Black Girl (1966 film)
+- Black Iris (painting)
+- Black Mirror
+- Black Paintings
+- Black Panther (character)
+- Black Square
+- Black Stone
+- Black metal
+- Blackadder
+- Blackface
+- Blade Runner
+- Bleach (manga)
+- Bleak House
+- Bliss (photograph)
+- Blockbuster (entertainment)
+- Blonde on Blonde
+- Blood Meridian
+- Bloody Saturday (photograph)
+- Blowin' in the Wind
+- Blue (Joni Mitchell album)
+- Blue Monday (New Order song)
+- Blue Mosque, Istanbul
+- Blue Peter
+- Blue Velvet (film)
+- Blue's Clues
+- Bluebeard
+- Bluegrass music
+- Bluey (TV series)
+- Bob the Builder
+- Body and Soul (1930 song)
+- Body art
+- Body painting
+- Bolero (Spanish dance)
+- Bolshoi Theatre
+- Boléro
+- Bonanza
+- Bone carving
+- Bongo drum
+- Bonnie and Clyde (film)
+- Bonsai
+- Book of Common Prayer (1662)
+- Book of Documents
+- Book of Han
+- Book of Rites
+- Book of Taliesin
+- Book of the Dead
+- Bookbinding
+- Booker Prize
+- Born to Run
+- Bouzouki
+- Bowser
+- Boy band
+- Boys' love
+- Brandenburg Gate
+- Brazilian National Anthem
+- Breakdancing
+- Breakfast television
+- Breaking Bad
+- Brideshead Revisited
+- Bridge to Terabithia (novel)
+- Bridget Jones's Diary (novel)
+- Brihadisvara Temple
+- Britannia
+- British Academy Film Awards
+- British literature
+- Britpop
+- Brokeback Mountain
+- Brutalist architecture
+- Buckingham Palace
+- Buda Castle
+- Buddenbrooks
+- Buddhas of Bamiyan
+- Buddhist architecture
+- Buddhist art
+- Buddhist music
+- Buffy the Vampire Slayer
+- Bugle
+- Bugs Bunny
+- Building design
+- Built environment
+- Bunraku
+- Buried Child
+- Burj Al Arab
+- Burrup Peninsula
+- Burst of Joy
+- Bust (sculpture)
+- Butoh
+- Buttress
+- Byzantine art
+- Byzantine literature
+- Byzantine music
+- C-pop
+- CN Tower
+- CSI: Crime Scene Investigation
+- Cabaret
+- Cabaret (musical)
+- Cadence
+- Café Terrace at Night
+- California Academy of Sciences
+- California Love
+- Callanish Stones
+- Calouste Gulbenkian Museum
+- Calvin and Hobbes
+- Calypso music
+- Can-can
+- Canada Science and Technology Museum
+- Canadian Museum of History
+- Canadian literature
+- Candle in the Wind 1997
+- Canon (fiction)
+- Canon (music)
+- Cantar de mio Cid
+- Cantata
+- Cantonese opera
+- Cantopop
+- Capitalism and Freedom
+- Capitalism, Socialism and Democracy
+- Capitoline Hill
+- Capitoline Wolf
+- Captain Ahab
+- Captain America
+- Caravan (Juan Tizol and Duke Ellington song)
+- Card manipulation
+- Carillon
+- Carmina Burana (Orff)
+- Carnac stones
+- Carnegie Hall
+- Carol of the Bells
+- Carolingian art
+- Cartoonist
+- Carving
+- Case Closed
+- Castrato
+- Cat on a Hot Tin Roof
+- Catch-22
+- Cathedral-Basilica of Our Lady of the Pillar
+- Catherine Palace
+- Cats (musical)
+- Catwoman
+- Cavalleria rusticana
+- Cave of Altamira
+- Cave of El Castillo
+- Celesta
+- Cello Concerto (Elgar)
+- Cello Suites (Bach)
+- Celtic art
+- Ceramic glaze
+- Cha-cha-cha (dance)
+- Changdeokgung
+- Chanson
+- Chant
+- Chapter (books)
+- Chapultepec Castle
+- Character arc
+- Characterization
+- Charlie Brown
+- Charlie and the Chocolate Factory
+- Charlotte's Web
+- Chartres Cathedral
+- Chauvet Cave
+- Cheers
+- Chiaroscuro
+- Chicago Picasso
+- Children of Gebelawi
+- Children of Paradise
+- Children's music
+- Children's television series
+- Chilean National Museum of Fine Arts
+- Chinatown (1974 film)
+- Chinese calligraphy
+- Chinese ceramics
+- Chinese classics
+- Chinese jade
+- Chinese opera
+- Chinese painting
+- Chivalric romance
+- Chogha Zanbil
+- Chord progression
+- Christian art
+- Christian literature
+- Christian music
+- Christina's World
+- Christmas elf
+- Christmas music
+- Chromatic scale
+- Chrysler Building
+- Chu Ci
+- Chungking Express
+- Church architecture
+- Church of the Holy Sepulchre
+- Cinderella (Prokofiev)
+- Cinema of Africa
+- Cinema of Australia
+- Cinema of Canada
+- Cinema of Egypt
+- Cinema of Germany
+- Cinema of Greece
+- Cinema of Hong Kong
+- Cinema of Indonesia
+- Cinema of Iran
+- Cinema of Italy
+- Cinema of Korea
+- Cinema of Mexico
+- Cinema of Nigeria
+- Cinema of Russia
+- Cinema of Spain
+- Cinema of Taiwan
+- Cinema of Thailand
+- Cinema of Turkey
+- Cinema of the United Kingdom
+- Circle dance
+- Circle of fifths
+- Citation
+- City of God (2002 film)
+- Civil Disobedience (essay)
+- Clarinet Concerto (Mozart)
+- Clarissa; or, The History of a Young Lady
+- Classic book
+- Classic of Mountains and Seas
+- Classic of Poetry
+- Classical Gardens of Suzhou
+- Classical architecture
+- Clavichord
+- Clef
+- Close-Up (1990 film)
+- Cloud Atlas (novel)
+- Cloud Gate
+- Cluny Abbey
+- Cléo from 5 to 7
+- Cocomelon
+- Code Geass
+- Codex Gigas
+- Codex Regius
+- Cologne Cathedral
+- Colonial Revival architecture
+- Colonial architecture
+- Color field
+- Color motion picture film
+- Coloring book
+- Colossus of Rhodes
+- Columbo
+- Come and See
+- Comedian
+- Comedy film
+- Comic strip
+- Coming of Age in Samoa
+- Common Sense
+- Common practice period
+- Company (musical)
+- Compilation album
+- Composition (visual arts)
+- Composition with Red, Blue and Yellow
+- Computer animation
+- Con te partirò
+- Concept album
+- Concert band
+- Concert dance
+- Concert tour
+- Concertgebouw, Amsterdam
+- Concerto for Two Violins (Bach)
+- Concierto de Aranjuez
+- Conducting
+- Confessions (Augustine)
+- Confessions (Rousseau)
+- Congolese rumba
+- Conservation and restoration of cultural property
+- Consonance and dissonance
+- Constructivism (art)
+- Contemporary Christian music
+- Contemporary R&B
+- Contemporary ballet
+- Contemporary dance
+- Continuity (fiction)
+- Contortion
+- Contra dance
+- Contralto
+- Cookbook
+- Cor anglais
+- Cornet
+- Coronation Street
+- Corps de ballet
+- Cosmos: A Personal Voyage
+- Cosplay
+- Costume design
+- Count Dracula
+- Countertenor
+- Cousin Bette
+- Cover art
+- Cover version
+- Cowbell (instrument)
+- Cowboy Bebop
+- Crayon Shin-chan
+- Crime fiction
+- Crime film
+- Crito
+- Cross Road Blues
+- Crouching Tiger, Hidden Dragon
+- Cry, the Beloved Country
+- Crystal Palace Dinosaurs
+- Crystal skull
+- Cthulhu
+- Cthulhu Mythos
+- Cuban rumba
+- Cumbia (Colombia)
+- Cups and balls
+- Cyberpunk
+- Cyberspace
+- Cyrano de Bergerac (play)
+- Cyropaedia
+- Cyrus Cylinder
+- Czech literature
+- Cædmon's Hymn
+- Dabke
+- Dad's Army
+- Daddy (poem)
+- Dallas (TV series)
+- Damsel in distress
+- Dance (Matisse)
+- Dance crazes
+- Dance improvisation
+- Dance music
+- Dance notation
+- Dancehall
+- Dancing Girl (prehistoric sculpture)
+- Dancing Queen
+- Danish literature
+- Danse macabre (Saint-Saëns)
+- Daredevils of Sassoun
+- Darkness at Noon
+- Darth Vader
+- Das Rheingold
+- Dashakumaracharita
+- David (Donatello, bronze)
+- David Copperfield
+- Days of Our Lives
+- Daytime Emmy Awards
+- De Officiis
+- De Oratore
+- De Stijl
+- De Young Museum
+- De architectura
+- De rerum natura
+- Dead Souls
+- Death Note
+- Death metal
+- Decadent movement
+- Deck the Halls
+- Ded Moroz
+- Deep Throat (film)
+- Degrassi
+- Democracy in America
+- Demon Slayer: Kimetsu no Yaiba
+- Demons (Dostoevsky novel)
+- Demoscene
+- Der Blaue Reiter
+- Der Rosenkavalier
+- Despacito
+- Desperate Housewives
+- Deus ex machina
+- Deutsches Museum
+- Deutschlandlied
+- Dexter (TV series)
+- Diagnostic and Statistical Manual of Mental Disorders
+- Dialogue
+- Dialogue Concerning the Two Chief World Systems
+- Diary of a Madman (Lu Xun short story)
+- Diary of a Wimpy Kid
+- Dick Tracy
+- Didgeridoo
+- Die Hard
+- Die Meistersinger von Nürnberg
+- Die Walküre
+- Dies irae
+- Digital painting
+- Dilwale Dulhania Le Jayenge
+- Disc jockey
+- Discobolus
+- Discovery (Daft Punk album)
+- Discworld
+- Disney comics
+- Diss track
+- Dixie (song)
+- Dixieland jazz
+- Do Androids Dream of Electric Sheep?
+- Do not go gentle into that good night
+- Do the Right Thing
+- Doctor Faustus (novel)
+- Doctor Faustus (play)
+- Doctor Zhivago (novel)
+- Doctrine of the Mean
+- Doge's Palace
+- Dogs Playing Poker
+- Dom Casmurro
+- Dome of the Rock
+- Domesday Book
+- Dominant (music)
+- Don Juan
+- Don Juan (poem)
+- Doo-wop
+- Doomsday Clock
+- Doonesbury
+- Dora the Explorer (TV series)
+- Doraemon
+- Double Indemnity
+- Downton Abbey
+- Downtown no Gaki no Tsukai ya Arahende!!
+- Dr. Watson
+- Dracula (1931 English-language film)
+- Drag king
+- Drag queen
+- Drag show
+- Dragon Ball Z
+- Dragon dance
+- Drama (film and television)
+- Dramaturgy
+- Dresden Codex
+- Drowning Girl
+- Drum and bass
+- Drum machine
+- Dubliners
+- Dubstep
+- Duck Soup
+- DuckTales (1987 TV series)
+- Dune (novel)
+- Dutch Golden Age painting
+- Dutch-language literature
+- Dynamics (music)
+- Dystopia
+- E.T. the Extra-Terrestrial
+- ER (TV series)
+- Early Netherlandish painting
+- Early music
+- Earthrise
+- Earthsea
+- East of Eden (novel)
+- EastEnders
+- Easter Bunny
+- Easy Rider
+- Easy listening
+- Ebenezer Scrooge
+- Ecclesiastical History of the English People
+- Eclogues
+- Ecstasy of Saint Teresa
+- Edwin Smith Papyrus
+- Egyptian Museum of Berlin
+- Egyptian literature
+- Eine kleine Nachtmusik
+- Einstein on the Beach
+- Ekistics
+- El Chavo del Ocho
+- El Escorial
+- El pueblo unido jamás será vencido
+- Electra (Sophocles play)
+- Electronic literature
+- Elgin Marbles
+- Elizabeth Bennet
+- Ellora Caves
+- Elmina Castle
+- Emile, or On Education
+- Emma (novel)
+- Emmy Awards
+- Emo
+- Empress Jingū
+- Ender's Game
+- Enigma Variations
+- Enka
+- Enter the Dragon
+- Enter the Wu-Tang (36 Chambers)
+- Entrance of the Gladiators
+- Environmental art
+- Enūma Eliš
+- Epic (genre)
+- Epic film
+- Epic of King Gesar
+- Epic of Manas
+- Epic of Sundiata
+- Epilogue
+- Episode
+- Epistulae Morales ad Lucilium
+- Equestrian statue of Gattamelata
+- Eraserhead
+- Erotic dance
+- Erotic literature
+- Erya
+- Escapology
+- Essays (Montaigne)
+- Etching
+- Etchmiadzin Cathedral
+- Eternal Sunshine of the Spotless Mind
+- Ethan Frome
+- Ethnomusicology
+- Etruscan art
+- Eugénie Grandet
+- Euphonium
+- Euthyphro
+- Evita (musical)
+- Exhibit design
+- Exhibition
+- Exile on Main St.
+- Experimental film
+- Experimental music
+- Expressionist architecture
+- Expressionist dance
+- Expressionist music
+- Extended play
+- Fabergé egg
+- Fahrenheit 451
+- Fallingwater
+- Family Feud
+- Family Guy
+- Fan art
+- Fan fiction
+- Fanny Hill
+- Fantasia (1940 film)
+- Fantasia (musical form)
+- Fantasia on a Theme by Thomas Tallis
+- Fantastic Four
+- Fantasy literature
+- Farce
+- Farewell My Concubine (film)
+- Farnese Hercules
+- Fashion design
+- Fashion photography
+- Fashion week
+- Father Christmas
+- Fathers and Sons (novel)
+- Fawlty Towers
+- Fear and Loathing in Las Vegas
+- Fear and Trembling
+- Felix the Cat
+- Feminist art movement
+- Femme fatale
+- Fences (play)
+- Ficciones
+- Fiddle
+- Fiddler on the Roof
+- Field Museum of Natural History
+- Fight Club
+- Fight song
+- Figurative art
+- Film director
+- Film distribution
+- Film editing
+- Film genre
+- Film noir
+- Film producer
+- Film score
+- Film studio
+- Fine Wind, Clear Morning
+- Fine art
+- Finlandia
+- Finnegans Wake
+- Finnish literature
+- Fire performance
+- First Folio
+- First-person narrative
+- Fist of the North Star
+- Flash Gordon
+- Flatiron Building
+- Flight of the Bumblebee
+- Floor plan
+- Floral design
+- Flowers in the Attic
+- Flugelhorn
+- Fluxus
+- Flying buttress
+- Folia
+- For Whom the Bell Tolls
+- Forbidden Planet
+- Foreshadowing
+- Forrest Gump
+- Fortress Besieged
+- Foucault's Pendulum
+- Found footage (film technique)
+- Found object
+- Foundation (novel series)
+- Foundations of Geopolitics
+- Four Books and Five Classics
+- Foxtrot
+- Frankenstein (1931 film)
+- Frankenstein's monster
+- Frasier
+- Freak show
+- Free jazz
+- French Renaissance architecture
+- French architecture
+- French horn
+- Fresco
+- Frida Kahlo Museum
+- Friends
+- Frieze
+- From Here to Eternity (novel)
+- Frère Jacques
+- Fuck tha Police
+- Fujian tulou
+- Full House (South Korean TV series)
+- Full Metal Jacket
+- Fullmetal Alchemist
+- Function (music)
+- Futurama
+- Für Elise
+- Galata Tower
+- Galop
+- Game design
+- Game of Thrones
+- Gandalf
+- Gangsta rap
+- Garage rock
+- Garden design
+- Garfield
+- Gargantua and Pantagruel
+- Gate
+- Gateway Arch
+- Geisha
+- Gemäldegalerie, Berlin
+- General Hospital
+- Geneva Bible
+- Genre
+- Genre fiction
+- Genre painting
+- Geoglyph
+- Geography (Ptolemy)
+- Georgian architecture
+- Gesta Danorum
+- Get Smart
+- Getty Center
+- Gharana
+- Ghent Altarpiece
+- Gilligan's Island
+- Girl group
+- Girl with Balloon
+- Girl with a Pearl Earring
+- Giselle
+- Gitanjali
+- Giza pyramid complex
+- Glam metal
+- Glass art
+- Glee (TV series)
+- Glengarry Glen Ross
+- Glockenspiel
+- Glossary
+- God Bless America
+- God Save the King
+- Godzilla
+- Godzilla (1954 film)
+- Goku
+- Goldberg Variations
+- Golden Globes
+- Golden Legend
+- Goldfinger (film)
+- Golgo 13
+- Gommateshwara statue
+- Gone with the Wind (novel)
+- Gong
+- Good Vibrations
+- Goodfellas
+- Goosebumps
+- Gorgias (dialogue)
+- Gospel music
+- Gothic Bible
+- Gothic Revival architecture
+- Gothic fiction
+- Gothic rock
+- Gouache
+- Grammy Awards
+- Grand Central Terminal
+- Grand Egyptian Museum
+- Grand Palace
+- Grande Odalisque
+- Graphic novel
+- Graphic violence
+- Graphics
+- Grave of the Fireflies
+- Gravity Falls
+- Gravity's Rainbow
+- Gray's Anatomy
+- Grease (film)
+- Great Expectations
+- Great Learning
+- Great Mongol Shahnameh
+- Great Mosque of Djenné
+- Great Mosque of Kairouan
+- Great Russian Encyclopedia
+- Great Soviet Encyclopedia
+- Greed (1924 film)
+- Greek literature
+- Green Eggs and Ham
+- Greensleeves
+- Grendel
+- Grey's Anatomy
+- Grime music
+- Grinch
+- Grosse Fuge
+- Grotesque
+- Groundhog Day (film)
+- Grunge
+- Guantanamera
+- Guard rail
+- Guennol Lioness
+- Guerrillero Heroico
+- Guggenheim Museum Bilbao
+- Guide book
+- Guiding Light
+- Guinevere
+- Guinness World Records
+- Gundam
+- Guns, Germs, and Steel
+- Gunsmoke
+- Guqin
+- Gurren Lagann
+- Guzheng
+- Gwion Gwion rock paintings
+- Gyeongbokgung
+- Gymnopédies
+- Gödel, Escher, Bach
+- Götterdämmerung
+- HAL 9000
+- Hadrian's Wall
+- Hair (musical)
+- Hairspray (musical)
+- Haka
+- Half of a Yellow Sun
+- Hallelujah (Leonard Cohen song)
+- Halloween (1978 film)
+- Hallway
+- Hamilton (musical)
+- Han Feizi
+- Hand puppet
+- Handrail
+- Hanging Gardens of Babylon
+- Hannibal Lecter
+- Hansel and Gretel
+- Happy Birthday to You
+- Happy Days
+- Harakiri (1962 film)
+- Hard rock
+- Hardcore punk
+- Harmonic series (music)
+- Harry Potter (character)
+- Harry Potter (film series)
+- Hassan II Mosque
+- Hat-trick (magic trick)
+- Hatsune Miku
+- Haute couture
+- Hawa Mahal
+- Hawaii Five-O (1968 TV series)
+- Haystacks (Monet series)
+- Headless Horseman
+- Heartbreak Hotel
+- Heat (1995 film)
+- Hebrew literature
+- Hedda Gabler
+- Heidi
+- Heimskringla
+- Hello, Dolly! (musical)
+- Henry IV, Part 1
+- Henry IV, Part 2
+- Henry V (play)
+- Hercule Poirot
+- Hermes and the Infant Dionysus
+- Hero's journey
+- Herzog (novel)
+- Hey Jude
+- Hey Ya!
+- High Noon
+- Highlife
+- Highway 61 Revisited
+- Hikaru Genji
+- Himeji Castle
+- Himno Nacional Mexicano
+- Hindi cinema
+- Hindu art
+- Hindu spiritual music
+- Hindu temple architecture
+- Hippodrome of Constantinople
+- Hiroshima (book)
+- Hiroshima Peace Memorial Museum
+- His Dark Materials
+- Histoire de Melody Nelson
+- Histoire de ma vie
+- Histoires ou contes du temps passé
+- Historia Regum Britanniae
+- Historic house museum
+- Historical fiction
+- Historical romance
+- Histories (Polybius)
+- Histories (Tacitus)
+- History of the Communist Party of the Soviet Union (Bolsheviks)
+- History painting
+- Hitopadesha
+- Holdout (real estate)
+- Hollywood Sign
+- Hollywood Walk of Fame
+- Holy Sonnets
+- Homage to Catalonia
+- Home and Away
+- Homer Simpson
+- Hopscotch (Cortázar novel)
+- Hora (dance)
+- Hornbostel–Sachs
+- Horror film
+- Horses (album)
+- Hotel California
+- Hou Yi
+- Hound Dog (song)
+- House (TV series)
+- House music
+- House of Cards (American TV series)
+- House of Slaves
+- House of cards
+- How I Met Your Mother
+- How the Steel Was Tempered
+- How to Win Friends and Influence People
+- Howdy Doody
+- Howl (poem)
+- Huangdi Neijing
+- Huangmei opera
+- Hula
+- Hulk
+- Humpty Dumpty
+- Hungarian Dances (Brahms)
+- Hungarian Parliament Building
+- Hungarian Rhapsody No. 2
+- Hunger (Hamsun novel)
+- Hunter × Hunter
+- Huolongjing
+- Hurrian songs
+- Hōryū-ji
+- I Am a Cat
+- I Feel Love
+- I Have No Mouth, and I Must Scream
+- I Heard It Through the Grapevine
+- I Know Why the Caged Bird Sings
+- I Love Lucy
+- I Walk the Line
+- I Wandered Lonely as a Cloud
+- I Want You Back
+- I Want to Hold Your Hand
+- I Will Survive
+- I and the Village
+- I'm So Lonesome I Could Cry
+- I, Claudius
+- Iago
+- Icelandic literature
+- If on a winter's night a traveler
+- If—
+- Ikebana
+- Ikiru
+- Il Canzoniere
+- Il trovatore
+- Illmatic
+- Illuminated manuscript
+- Illusions perdues
+- Imagine (song)
+- Imperial War Museum
+- Impression, Sunrise
+- Impressionism in music
+- Impressionist (entertainment)
+- Impromptus (Schubert)
+- In Cold Blood
+- In Flanders Fields
+- In Praise of Folly
+- In the Court of the Crimson King
+- In the Mood
+- In the Mood for Love
+- Inception
+- Incidental music
+- Independent People
+- Independent film
+- Indian classical dance
+- Indian film music
+- Indiana Jones (character)
+- Indie music
+- Indie pop
+- Indie rock
+- Indigenous Australian art
+- Indigenous music
+- Indonesian literature
+- Industrial music
+- Inferno (Dante)
+- Infinite Jest
+- Information design
+- Ink wash painting
+- Inspector Gadget (1983 TV series)
+- Inspector Montalbano (TV series)
+- Installation art
+- Institutes of the Christian Religion
+- Instructions of Shuruppak
+- Instrumental
+- International Chopin Piano Competition
+- Interstellar (film)
+- Interval (music)
+- Into the Jaws of Death
+- Intolerance (film)
+- Inuyasha
+- Invisible Man
+- Iranian dance
+- Irish literature
+- Iron Man
+- Irony
+- Isekai
+- Ishtar Gate
+- Islamic calligraphy
+- Islamic literature
+- Islamic music
+- Israel Museum
+- It (novel)
+- It Happened One Night
+- It Takes a Nation of Millions to Hold Us Back
+- It's Always Sunny in Philadelphia
+- It's a Wonderful Life
+- Italian architecture
+- Itsukushima Shrine
+- Ivan the Terrible and His Son Ivan
+- Ivanhoe
+- Ivanhorod Einsatzgruppen photograph
+- J'Accuse...!
+- J. Paul Getty Museum
+- Jack and the Beanstalk
+- Jackass (franchise)
+- James Bond
+- Jami' al-tawarikh
+- Jana Gana Mana
+- Japanese architecture
+- Japanese pottery and porcelain
+- Japanese sculpture
+- Jatiya Sangsad Bhaban
+- Jazz standard
+- Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles
+- Jefferson Memorial
+- Jeopardy!
+- Jerusalem Delivered
+- Jester
+- Jesus Christ Superstar
+- Jewel in the Palace
+- Jewish Museum Berlin
+- Jewish music
+- Jig
+- Jin Ping Mei
+- Jingle
+- Jingle Bells
+- Jitterbug
+- Jive (dance)
+- JoJo's Bizarre Adventure
+- John Bull
+- John Falstaff
+- John Keats's 1819 odes
+- John Rambo
+- Joker (character)
+- Jolene
+- Jonathan Livingston Seagull
+- Journey from St. Petersburg to Moscow
+- Journey to the Centre of the Earth
+- Journey to the End of the Night
+- Journey to the West (1986 TV series)
+- Joy to the World
+- Jude the Obscure
+- Judith Slaying Holofernes (Artemisia Gentileschi, Naples)
+- Juggling
+- Jules Maigret
+- Julius Caesar (play)
+- Jumong (TV series)
+- Jungle music
+- Jurassic Park
+- Jùjú music
+- Kaiju
+- Kalevala
+- Kama Sutra
+- Kamen Rider
+- Karnak
+- Kathakali
+- Kazoo
+- Kebra Nagast
+- Keeping Up with the Kardashians
+- Kente cloth
+- Kermit the Frog
+- Kesh temple hymn
+- Key (music)
+- Key signature
+- Khajuraho Group of Monuments
+- Khmer architecture
+- Kim (novel)
+- Kim Il Sung and Kim Jong Il portraits
+- Kimigayo
+- Kinetic art
+- King Kong
+- King Kong (1933 film)
+- King's College Chapel, Cambridge
+- Kinky Boots (musical)
+- Kirtan
+- Kiss Me Deadly
+- Kitsch
+- Kiyomizu-dera
+- Klezmer
+- Knight, Death and the Devil
+- Kochari
+- Kombat (photograph)
+- Konzerthaus Berlin
+- Korean architecture
+- Korean literature
+- Koyaanisqatsi
+- Kozarčanka
+- Krak des Chevaliers
+- Krampus
+- Krazy Kat
+- Kremlin Armoury
+- Kubla Khan
+- Kumbaya
+- Kunstformen der Natur
+- Kunsthaus Zürich
+- Kunsthistorisches Museum
+- Kunstkamera
+- Kyoto National Museum
+- Kyunki Saas Bhi Kabhi Bahu Thi
+- L'Absinthe
+- L'Arlésienne (Bizet)
+- L'Arrivée d'un train en gare de La Ciotat
+- L'Atalante
+- L'Avventura
+- L'Homme qui marche I
+- L'Orfeo
+- L'Origine du monde
+- L'après-midi d'un faune (poem)
+- La Araucana
+- La Bamba (song)
+- La Bayadère
+- La Cucaracha
+- La Fenice
+- La Grande Illusion
+- La Marseillaise
+- La Scala
+- La Strada
+- La Vie en rose
+- La maja desnuda
+- La mer (Debussy)
+- Lady Chatterley's Lover
+- Lady Macbeth
+- Lady with an Ermine
+- Lais of Marie de France
+- Lancelot
+- Lancelot-Grail Cycle
+- Land art
+- Land of Hope and Glory
+- Landscape by Sesshū
+- Landscape design
+- Lantingji Xu
+- Laocoön and His Sons
+- Lara Croft
+- Lascaux
+- Last of the Summer Wine
+- Late Spring
+- Latin dance
+- Latin pop
+- Laurence Olivier Awards
+- Laverne & Shirley
+- Law & Order
+- Layamon's Brut
+- Layla and Majnun
+- LazyTown
+- Le Déjeuner sur l'herbe
+- Le Morte d'Arthur
+- Lech, Czech, and Rus
+- Led Zeppelin IV
+- Legal drama
+- Legend of the Galactic Heroes
+- Leitmotif
+- Les Fleurs du mal
+- Les Liaisons dangereuses
+- Les Misérables (musical)
+- Leshan Giant Buddha
+- Let's Get It On
+- Lex Luthor
+- Lexicon
+- Libretto
+- Lied
+- Life of Pi
+- Life of Samuel Johnson
+- Light My Fire
+- Light in August
+- Light music
+- Light novel
+- Lighthouse of Alexandria
+- Like a Virgin (song)
+- Limerick (poetry)
+- Lincoln Memorial
+- Line dance
+- Lion Monument
+- Lion dance
+- Lion-man
+- List of literary movements
+- Literary genre
+- Literary modernism
+- Literary realism
+- Literary theory
+- Lithography
+- Little Dancer of Fourteen Years
+- Little House on the Prairie
+- Little Nemo
+- Little Red Riding Hood
+- Lives of the Most Excellent Painters, Sculptors, and Architects
+- Living museum
+- Lo-fi music
+- Logo
+- Lohengrin (opera)
+- London Calling
+- London Eye
+- Long Day's Journey into Night
+- Look Back in Anger
+- Lord Jim
+- Lord Kitchener Wants You
+- Lord of the Flies
+- Lorem ipsum
+- Lost (TV series)
+- Lounge music
+- Love (image)
+- Love in the Time of Cholera
+- Lovecraftian horror
+- Loveless (album)
+- Lu Zhishen
+- Lucky Luke
+- Luke Skywalker
+- Lunch atop a Skyscraper
+- Luncheon of the Boating Party
+- Lupang Hinirang
+- Luther Bible
+- Luxor Temple
+- Lyrics
+- M (1931 film)
+- M*A*S*H (TV series)
+- MALBA
+- MIDI
+- Mabinogion
+- Macarena
+- Mack the Knife
+- Macross
+- Mad Max
+- Mad Men
+- Madama Butterfly
+- Madonna (art)
+- Madonna of Bruges
+- Madrigal
+- Mafalda
+- Magical realism
+- Magician (fantasy)
+- Magneto (Marvel Comics)
+- Magnificat (Bach)
+- Mahabodhi Temple
+- Maiden's Tower
+- Major and minor
+- Major scale
+- Malleus Maleficarum
+- Mambo (dance)
+- Man at the Crossroads
+- Man of La Mancha
+- Man with a Movie Camera
+- Man's Search for Meaning
+- Man'yōshū
+- Mandopop
+- Mandrake the Magician
+- Manhattan (1979 film)
+- Manhua
+- Manifesto of Futurism
+- Manneken Pis
+- Maple Leaf Rag
+- March (music)
+- March of the Volunteers
+- Marcha Real
+- Marching band
+- Marianne
+- Marilyn Diptych
+- Marimba
+- Marionette
+- Maritime museum
+- Married... with Children
+- Martín Fierro
+- Marvel Cinematic Universe
+- Mary Poppins (film)
+- Mas que nada
+- Masada
+- Masjid al-Haram
+- Mask of Tutankhamun
+- Masque
+- Mass (music)
+- Master of Puppets
+- Masterpiece
+- Mathematics and art
+- Matilda (novel)
+- Matter of Britain
+- Maus
+- Mausoleum at Halicarnassus
+- Maya architecture
+- Mecha
+- Medical drama
+- Medieval architecture
+- Medieval art
+- Medieval literature
+- Medieval theatre
+- Meditations
+- Meiji Shrine
+- Mein Kampf
+- Melencolia I
+- Melodrama
+- Memento mori
+- Memoir
+- Memoirs of Hadrian
+- Memorial
+- Memory (Cats song)
+- Mencius (book)
+- Mentalism
+- Mephistopheles
+- Mere Christianity
+- Merengue music
+- Merlin
+- Merlion
+- Meshes of the Afternoon
+- Messe de Nostre Dame
+- Metallica (album)
+- Method acting
+- Metre (music)
+- Metre (poetry)
+- Metropolitan Opera
+- Mexico City Metropolitan Cathedral
+- Mezzo-soprano
+- Miami Vice
+- Michael Jackson's Thriller (music video)
+- Michelin Guide
+- Middlesex (novel)
+- Migrant Mother
+- Migration Period art
+- Milan Cathedral
+- Military science fiction
+- Ming tombs
+- Miniature (illuminated manuscript)
+- Minimal music
+- Miniseries
+- Minnie Mouse
+- Minor scale
+- Minstrel show
+- Misdirection (magic)
+- Miserere (Allegri)
+- Missa Papae Marcelli
+- Missa solemnis (Beethoven)
+- Mister Rogers' Neighborhood
+- Mixtape
+- Mo Li Hua
+- Mode (music)
+- Model (person)
+- Modern Family
+- Modern Times (film)
+- Modernism (music)
+- Modulation (music)
+- Mogao Caves
+- Moll Flanders
+- Molloy (novel)
+- Momotarō
+- Money Heist
+- Monkey D. Luffy
+- Monodrama
+- Monologue
+- Mont Sainte-Victoire (Cézanne)
+- Mont-Saint-Michel
+- Montreal Museum of Fine Arts
+- Monty Python and the Holy Grail
+- Monty Python's Flying Circus
+- Monty Python's Life of Brian
+- Monument
+- Moomins
+- Moonrise, Hernandez, New Mexico
+- Moorish architecture
+- Morgan le Fay
+- Mortuary temple of Hatshepsut
+- Moses (Michelangelo)
+- Mosque–Cathedral of Córdoba
+- Mother Goose
+- Mother India
+- Motif (music)
+- Motif (narrative)
+- Mount Athos
+- Mount Rushmore
+- Mowgli
+- Mr and Mrs Andrews
+- Mr. Bean
+- Mr. Smith Goes to Washington
+- Mrs Dalloway
+- Much Ado About Nothing
+- Mughal-e-Azam
+- Muhteşem Yüzyıl
+- Mulholland Drive (film)
+- Murder on the Orient Express
+- Museo Nacional de Arte
+- Museo Nacional de Bellas Artes (Buenos Aires)
+- Museo Soumaya
+- Museology
+- Museum of Fine Arts (Budapest)
+- Museum of Fine Arts, Boston
+- Museum of Islamic Art, Doha
+- Museum of Mexico City
+- Museum of Science and Industry (Chicago)
+- Music hall
+- Music of Argentina
+- Music of Australia
+- Music of Austria
+- Music of Brazil
+- Music of Canada
+- Music of Cuba
+- Music of Egypt
+- Music of Ethiopia
+- Music of France
+- Music of Germany
+- Music of Hawaii
+- Music of India
+- Music of Indonesia
+- Music of Iran
+- Music of Italy
+- Music of Japan
+- Music of Latin America
+- Music of Mexico
+- Music of Nigeria
+- Music of Poland
+- Music of Polynesia
+- Music of Russia
+- Music of South Africa
+- Music of Spain
+- Music of Star Wars
+- Music of Sudan
+- Music of Thailand
+- Music of The Lord of the Rings film series
+- Music of Turkey
+- Music of Vietnam
+- Music of the Democratic Republic of the Congo
+- Music of the Final Fantasy series
+- Music of the James Bond series
+- Music of the United Kingdom
+- Music of the United States
+- Music sequencer
+- Music venue
+- Musical analysis
+- Musical composition
+- Musical ensemble
+- Musical film
+- Musical form
+- Musical improvisation
+- Musical note
+- Musical tuning
+- Musikverein
+- Musique concrète
+- Musée National d'Art Moderne
+- Musée des Arts et Métiers
+- My Beautiful Dark Twisted Fantasy
+- My Fair Lady
+- My Little Pony: Friendship Is Magic
+- My Love from the Star
+- My Name Is Red
+- My Neighbor Totoro
+- My Way
+- My Ántonia
+- Mystery fiction
+- Mystery play
+- MythBusters
+- Má vlast
+- Mémoires d'Outre-Tombe
+- Nabucco
+- Nag Hammadi library
+- Nan Madol
+- Nancy Drew
+- Nanook of the North
+- Napoleon Crossing the Alps
+- Napoléon (1927 film)
+- Naqsh-e Jahan Square
+- Narration
+- Narrative of the Life of Frederick Douglass
+- Naruto
+- Naruto Uzumaki
+- Nasreddin
+- National Congress Palace
+- National Film Awards
+- National Gallery of Art
+- National Maritime Museum
+- National Museum (Prague)
+- National Museum of American History
+- National Museum of Anthropology (Mexico)
+- National Museum of Australia
+- National Museum of Ethiopia
+- National Museum of India
+- National Museum of Indonesia
+- National Museum of Korea
+- National Museum of Natural History
+- National Museum of Scotland
+- National Museum of Singapore
+- National Museum of the Philippines
+- National Palace Museum
+- National anthem of Russia
+- Native Son
+- Nature documentary
+- Nausicaä of the Valley of the Wind (film)
+- Nautilus (photograph)
+- Nazca lines
+- Needlework
+- Nefertiti Bust
+- Neighbours
+- Neoclassicism (music)
+- Neolithic architecture
+- Neon Genesis Evangelion
+- Neuromancer
+- Neuschwanstein Castle
+- Never Gonna Give You Up
+- Never Let Me Go (novel)
+- Never Mind the Bollocks, Here's the Sex Pistols
+- Nevermind
+- New Criticism
+- New International Version
+- New York Philharmonic
+- New wave music
+- New-age music
+- Newgrange
+- Ney
+- Nezha
+- Nigerian literature
+- Night and Fog (1956 film)
+- Night of the Living Dead
+- Night on Bald Mountain
+- Nightclub
+- Nighthawks (Hopper)
+- Nixon in China
+- Njáls saga
+- Nkosi Sikelel' iAfrika
+- No Longer Human
+- No Woman, No Cry
+- No. 5, 1948
+- Nocturne
+- Nocturne in Black and Gold – The Falling Rocket
+- Noise music
+- Noli Me Tángere (novel)
+- Nonchord tone
+- North by Northwest
+- Norwegian Wood (novel)
+- Norwegian literature
+- Nosferatu
+- Nostromo
+- Note value
+- Novelist
+- Novella
+- Novelty song
+- Novodevichy Convent
+- Novum Organum
+- Nu couché
+- Nu metal
+- Nude (art)
+- Nude Descending a Staircase, No. 2
+- Nursery rhyme
+- O Canada
+- O Captain! My Captain!
+- O Tannenbaum
+- OK Computer
+- Obelisk
+- Oblomov
+- Ocarina
+- Oceanian art
+- Ode on a Grecian Urn
+- Ode to Joy
+- Odes (Horace)
+- Oedipus at Colonus
+- Of Human Bondage
+- Of Mice and Men
+- Off the Wall
+- Oh! Susanna
+- Oklahoma!
+- Ol' Man River
+- Old MacDonald Had a Farm
+- Old-time music
+- Oldboy (2003 film)
+- Oliver Twist
+- Olympia (Manet)
+- On Liberty
+- On the Soul
+- On the Waterfront
+- Once Upon a Time in the West
+- One Flew Over the Cuckoo's Nest (film)
+- One Flew Over the Cuckoo's Nest (novel)
+- Only Fools and Horses
+- Op art
+- Opera house
+- Operetta
+- Ophelia (painting)
+- Opticks
+- Oratorio
+- Orchestration
+- Ordet
+- Orientalism
+- Orientalism (book)
+- Orlando Furioso
+- Orlando: A Biography
+- Ornament (music)
+- Orpheus in the Underworld
+- Orthodoxy (book)
+- Os Lusíadas
+- Oshin
+- Ostankino Tower
+- Otello
+- Ottonian art
+- Oud
+- Ouroboros
+- Out of Africa
+- Outlander (novel)
+- Over the Rainbow
+- Overture
+- Ozymandias
+- Pachelbel's Canon
+- Palace Museum
+- Palace of Fontainebleau
+- Palais Garnier
+- Palazzo Pitti
+- Pale Blue Dot
+- Pale Fire
+- Palladian architecture
+- Pan flute
+- Pan's Labyrinth
+- Panthéon
+- Pantomime
+- Paper craft
+- Papier-mâché
+- Parable
+- Paradiso
+- Parallel Lives
+- Paranoid (album)
+- Parasite (2019 film)
+- Paris Opera
+- Paris Street; Rainy Day
+- Parliament Hill
+- Parliament House, Canberra
+- Parody music
+- Parsifal
+- Partita for Violin No. 2 (Bach)
+- Parzival
+- Pasodoble
+- Passacaglia and Fugue in C minor, BWV 582
+- Pather Panchali
+- Patronage
+- Paul Bunyan
+- Paul's Boutique
+- Pedro Páramo
+- Peer Gynt
+- Peer Gynt (Grieg)
+- Penmanship
+- Pensées
+- Peppa Pig
+- Performance
+- Performance poetry
+- Pergamon Museum
+- Persepolis (comics)
+- Persian miniature
+- Persian traditional music
+- Persona (1966 film)
+- Persuasion (novel)
+- Pet Sounds
+- Peter Pan (play and novel)
+- Peter and the Wolf
+- Peterhof Palace
+- Petroglyph
+- Petronas Towers
+- Petrushka (ballet)
+- Phaedo
+- Phaedrus (dialogue)
+- Pharsalia
+- Philadelphia Museum of Art
+- Philip Marlowe
+- Philoctetes (Sophocles play)
+- Philokalia
+- Philosophical Investigations
+- Philosophical fiction
+- Phineas and Ferb
+- Photorealism
+- Physics (Aristotle)
+- Phèdre
+- Piano Concerto (Grieg)
+- Piano Concerto No. 1 (Chopin)
+- Piano Concerto No. 1 (Tchaikovsky)
+- Piano Concerto No. 2 (Rachmaninoff)
+- Piano Concerto No. 3 (Rachmaninoff)
+- Piano Concerto No. 5 (Beethoven)
+- Piano Sonata No. 11 (Mozart)
+- Piano Sonata No. 14 (Beethoven)
+- Piano Sonata No. 2 (Chopin)
+- Piano Sonata No. 8 (Beethoven)
+- Piano Sonata in B minor (Liszt)
+- Piccadilly Circus
+- Piccolo
+- Picture book
+- Pictures at an Exhibition
+- Pied Piper of Hamelin
+- Pier (architecture)
+- Pierrot lunaire
+- Piers Plowman
+- Pietà (Michelangelo)
+- Pikachu
+- Pillars of Creation
+- Pinocchio
+- Pinocchio (1940 film)
+- Pippi Longstocking
+- Pippi Longstocking (novel)
+- Piss Christ
+- Pitch (music)
+- Planet of the Apes (1968 film)
+- Planetarium
+- Play (theatre)
+- Playtime
+- Playwright
+- Plot (narrative)
+- Plot twist
+- Poet
+- Poetic justice
+- Poetics
+- Poetics (Aristotle)
+- Pointillism
+- Pokémon (TV series)
+- Pole dance
+- Police Story (1985 film)
+- Police procedural
+- Polish literature
+- Political fiction
+- Politics (Aristotle)
+- Polka
+- Pomp and Circumstance Marches
+- Pop rock
+- Pop-punk
+- Popeye
+- Popular music
+- Porgy and Bess
+- Pornographic film
+- Pornographic film actor
+- Portnoy's Complaint
+- Portrait miniature
+- Portrait of Adele Bloch-Bauer I
+- Portrait of Dr. Gachet
+- Portrait of Madame X
+- Portrait of an Artist (Pool with Two Figures)
+- Portuguese architecture
+- Portuguese literature
+- Post-production
+- Post-punk
+- Postmodern art
+- Postmodern music
+- Potala Palace
+- Power Rangers
+- Practical effect
+- Practical joke
+- Prague Castle
+- Prambanan
+- Pre-Columbian art
+- Pre-production
+- Prehistoric music
+- Prelude (music)
+- Prelude in C-sharp minor (Rachmaninoff)
+- Prester John
+- Primavera (Botticelli)
+- Primetime Emmy Awards
+- Prince Charming
+- Prince Hamlet
+- Principia Mathematica
+- Private Lives
+- Product design
+- Progress and Poverty
+- Progressive rock
+- Prologue
+- Prometheus Bound
+- Prop
+- Prophet's Mosque
+- Prose Edda
+- Proslogion
+- Protagonist
+- Protagoras (dialogue)
+- Prélude à l'après-midi d'un faune
+- Psychedelic music
+- Psychological horror
+- Psychology of music
+- Puella Magi Madoka Magica
+- Pulp Fiction
+- Pump organ
+- Punch and Judy
+- Puppet
+- Purgatorio
+- Purple Rain (album)
+- Pushkin Museum
+- Puss in Boots
+- Pygmalion (play)
+- Pyramid of Djoser
+- Pyramid of the Sun
+- Père Goriot
+- Qawwali
+- Quickstep
+- Quiet Night Thought
+- Quo Vadis (novel)
+- Rabbit (Koons)
+- Rabbit, Run
+- Radetzky March
+- Raga
+- Raging Bull
+- Raiders of the Lost Ark
+- Raising a Flag over the Reichstag
+- Raising the Flag on Iwo Jima
+- Ramayan (1987 TV series)
+- Ramones (album)
+- Ran (film)
+- Range (music)
+- Ranma ½
+- Rapper's Delight
+- Rashomon
+- Raster graphics
+- Raï
+- Ready to Die
+- Rear Window
+- Rebecca (novel)
+- Record chart
+- Record label
+- Record producer
+- Red Fort
+- Red Sorghum (novel)
+- Red Square
+- Reference work
+- Reggaeton
+- Registan
+- Register (music)
+- Rehearsal
+- Reichstag building
+- Relativity (M. C. Escher)
+- Relief
+- Religious music
+- Remix
+- Renaissance Revival architecture
+- Renaissance literature
+- Rent (musical)
+- Requiem
+- Requiem (Fauré)
+- Requiem (Mozart)
+- Requiem (Verdi)
+- Respect (song)
+- Retro style
+- Revised Version
+- Revivalism (architecture)
+- Revolutionary opera
+- Revolver (Beatles album)
+- Rhapsody (music)
+- Rhapsody on a Theme of Paganini
+- Rhetoric (Aristotle)
+- Rhind Mathematical Papyrus
+- Richard II (play)
+- Richard III (play)
+- Rick and Morty
+- Rickshaw Boy
+- Ride of the Valkyries
+- Rigoletto
+- Rijksmuseum
+- Ring (film)
+- Ringmaster (circus)
+- Robert's Rules of Order
+- Robin (character)
+- RoboCop
+- Rock Around the Clock
+- Rock and Roll Hall of Fame
+- Rock-Hewn Churches, Lalibela
+- Rock-cut architecture
+- Rockefeller Center
+- Rocky
+- Rokeby Venus
+- Roland TR-808
+- Roman Forum
+- Roman de la Rose
+- Roman à clef
+- Romanian literature
+- Romantic comedy
+- Rome, Open City
+- Romeo and Juliet (Prokofiev)
+- Romeo and Juliet (Tchaikovsky)
+- Roots (1977 miniseries)
+- Roots: The Saga of an American Family
+- Roseanne
+- Rosemary's Baby (film)
+- Rosie the Riveter
+- Roundhay Garden Scene
+- Rowan & Martin's Laugh-In
+- Royal Alberta Museum
+- Royal Observatory, Greenwich
+- Royal Ontario Museum
+- Royal Opera House
+- Royal Tyrrell Museum of Palaeontology
+- Rugrats
+- Ruins
+- Rule, Britannia!
+- Rumours (album)
+- Rumpelstiltskin
+- Rurouni Kenshin
+- Russian Museum
+- Russian ballet
+- Sacred dance
+- Sahasranama
+- Saigon Execution
+- Sailor Moon
+- Saint Alexander Nevsky Cathedral, Sofia
+- Saint Basil's Cathedral
+- Saint Catherine's Monastery
+- Saint Louis Blues (song)
+- Salsa (dance)
+- Salvator Mundi (painting)
+- Salò, or the 120 Days of Sodom
+- Samba (Brazilian dance)
+- Samguk sagi
+- Samguk yusa
+- Sampler (musical instrument)
+- Sampling (music)
+- Sanchi Stupa
+- Sanctuary of Our Lady of Lourdes
+- Sandman
+- Sandpainting
+- Sanssouci
+- Santa Lucia (song)
+- Sarabhai vs Sarabhai
+- Sarcophagus
+- Sasuke (TV series)
+- Saturday Night Fever (soundtrack)
+- Saturday Night Live
+- Saturn Devouring His Son
+- Saving Private Ryan
+- Sazae-san
+- Scarborough Fair (ballad)
+- Scarface (1932 film)
+- Scat singing
+- Scenic design
+- Scenography
+- Scheherazade
+- Scheherazade (Rimsky-Korsakov)
+- Schindler's List
+- Schlager music
+- Schubert's last sonatas
+- Schönbrunn Palace
+- Science Museum, London
+- Science fiction film
+- Scivias
+- Scooby-Doo
+- Scotland Yard
+- Screenplay
+- Scrooge McDuck
+- Scrovegni Chapel
+- Scytho-Siberian art
+- Sea shanty
+- Season of Migration to the North
+- Sebiba
+- Secret History of the Mongols
+- Seikilos epitaph
+- Seinfeld
+- Selected Ambient Works 85–92
+- Self-Portrait with Thorn Necklace and Hummingbird
+- Self-help book
+- Self-portrait
+- Self-portraits by Rembrandt
+- Selimiye Mosque, Edirne
+- Sense and Sensibility
+- Sensō-ji
+- Sentimental Education
+- Sentimental ballad
+- Sequel
+- Serenade
+- Serial (radio and television)
+- Serialism
+- Servant of the People (2015 TV series)
+- Service design
+- Setting (narrative)
+- Seven Against Thebes (play)
+- Seven Nation Army
+- Seventeen Moments of Spring
+- Sex and the City
+- Shadow play
+- Shakespeare's plays
+- Shakuntala (play)
+- Shanghai Museum
+- Shapeshifting
+- Shchedryk (song)
+- She: A History of Adventure
+- Sheet music
+- Shigir Idol
+- Shiji
+- Shoah (film)
+- Short film
+- Show Boat
+- Show tune
+- Shrek
+- Shroud of Turin
+- Shwedagon Pagoda
+- Siddhartha (novel)
+- Sideshow
+- Siegfried (opera)
+- Sigiriya
+- Sign o' the Times
+- Sikh architecture
+- Silent Night
+- Silhouette
+- Sinbad the Sailor
+- Singer-songwriter
+- Single (music)
+- Sinterklaas
+- Sir Gawain and the Green Knight
+- Sirat Bani Hilal
+- Sistine Chapel ceiling
+- Sistine Madonna
+- Sitar
+- Six Characters in Search of an Author
+- Ska
+- Sketch comedy
+- Sky Tower (Auckland)
+- Skyline
+- Slapstick
+- Slasher film
+- Slaughterhouse-Five
+- Slavonic Dances
+- Sleeping Beauty
+- Sleeping Hermaphroditus
+- Sleight of hand
+- Slice of life
+- Smells Like Teen Spirit
+- Smithsonian American Art Museum
+- Snake charming
+- Snare drum
+- Snoopy
+- Snow White
+- Social dance
+- Social realism
+- Socialist realism
+- Solaris (1972 film)
+- Soliloquy
+- Solomon R. Guggenheim Museum
+- Some Like It Hot
+- Song of Solomon (novel)
+- Songs in the Key of Life
+- Sonic the Hedgehog (character)
+- Sonnet 18
+- Sonnet 20
+- Sonnets to Orpheus
+- Sons and Lovers
+- Sophie's World
+- Soprano
+- Sound design
+- Soundtrack
+- Sousaphone
+- South African literature
+- South Pacific (musical)
+- South Park
+- Space Battleship Yamato
+- Space Needle
+- Space opera
+- Spanish Gothic architecture
+- Spanish architecture
+- Spartacus (film)
+- Speculative fiction
+- Spem in alium
+- Spinoza's Ethics
+- Spire
+- Spirit of the Dead Watching
+- Spirituals
+- Spirou & Fantasio
+- Spock
+- Spoken word
+- SpongeBob SquarePants
+- SpongeBob SquarePants (character)
+- Spring and Autumn Annals
+- Spy fiction
+- Square dance
+- Squid Game
+- St Mark's Basilica
+- St Matthew Passion
+- St Paul's Cathedral
+- St. Patrick's Cathedral (New York City)
+- St. Peter's Square
+- Stabat Mater (Pergolesi)
+- Staff (music)
+- Stage hypnosis
+- Stage lighting
+- Stage management
+- Staging (theatre, film, television)
+- Stained glass
+- Stairway to Heaven
+- Stand by Me (Ben E. King song)
+- Stand by Your Man
+- Star Awards
+- Star Trek: The Next Generation
+- Star Trek: The Original Series
+- Star Wars (film)
+- Stardust (1927 song)
+- Starship Troopers
+- State Historical Museum
+- Statue
+- Statue of Freedom
+- Statue of Peace
+- Statue of Unity
+- Statue of Zeus at Olympia
+- Stayin' Alive
+- Steamboat Willie
+- Steampunk
+- Steel guitar
+- Steeple
+- Steppenwolf (novel)
+- Steven Universe
+- Still life
+- Stock character
+- Stone carving
+- Stop motion
+- Story arc
+- Story of Sinuhe
+- Story structure
+- Storytelling
+- Straight Outta Compton
+- Strange Case of Dr Jekyll and Mr Hyde
+- Strange Fruit
+- Strange Tales from a Chinese Studio
+- Stranger Things
+- Stranger in a Strange Land
+- Stream of consciousness
+- Streamline Moderne
+- Street art
+- Street dance
+- Street performance
+- String Quartets, Op. 76 (Haydn)
+- String Quintet (Schubert)
+- String Quintet No. 5 (Boccherini)
+- Striptease
+- Stunt
+- Sturm und Drang
+- Style (visual arts)
+- Stylistics
+- Sub-Saharan African music traditions
+- Sufi whirling
+- Suicide (Durkheim book)
+- Suite (music)
+- Suite bergamasque
+- Sukiyaki (song)
+- Sum of Logic
+- Sumerian literature
+- Summertime (George Gershwin song)
+- Sunflowers (Van Gogh series)
+- Sunrise: A Song of Two Humans
+- Sunset Boulevard (film)
+- Super Mario Bros. theme
+- Super Sentai
+- Supergirl
+- Superhero fiction
+- Superman (1978 film)
+- Supernatural (American TV series)
+- Supervillain
+- Supporting character
+- Suprematism
+- Survivor (franchise)
+- Suspiria
+- Sustainable architecture
+- Swedish literature
+- Sweeney Todd
+- Swing (dance)
+- Swing Low, Sweet Chariot
+- Swing music
+- Swiss literature
+- Sword Art Online
+- Sword swallowing
+- Sympathy for the Devil
+- Symphonic poem
+- Symphonie fantastique
+- Symphony Hall (Boston)
+- Symphony No. 2 (Rachmaninoff)
+- Symphony No. 2 (Sibelius)
+- Symphony No. 3 (Górecki)
+- Symphony No. 4 (Brahms)
+- Symphony No. 40 (Mozart)
+- Symphony No. 5 (Mahler)
+- Symphony No. 5 (Shostakovich)
+- Symphony No. 5 (Tchaikovsky)
+- Symphony No. 6 (Beethoven)
+- Symphony No. 6 (Tchaikovsky)
+- Symphony No. 7 (Beethoven)
+- Symphony No. 7 (Shostakovich)
+- Symphony No. 8 (Mahler)
+- Symphony No. 8 (Schubert)
+- Symphony No. 9 (Bruckner)
+- Symphony No. 9 (Dvořák)
+- Symposium (Plato)
+- Synth-pop
+- Syrian literature
+- Systems design
+- Sábado Gigante
+- São Paulo Museum of Art
+- Tabla
+- Tahrir Square
+- Taiga drama
+- Taiko
+- Taipei 101
+- Take Five
+- Take Me Home, Country Roads
+- Take the "A" Train
+- Takeshi's Castle
+- Taksim Square
+- Tala (music)
+- Tales from the Crypt (TV series)
+- Tales of Count Lucanor
+- Tambourine
+- Tang dynasty art
+- Tang poetry
+- Tango music
+- Tannhäuser (opera)
+- Tap dance
+- Tapestry (Carole King album)
+- Tarzan
+- Tate Modern
+- Tatort
+- Taxi (TV series)
+- Taxi Driver
+- Teatro Real
+- Teatro di San Carlo
+- Technicolor
+- Techno
+- Teenage Mutant Ninja Turtles
+- Telenovela
+- Teleportation
+- Teletubbies
+- Television comedy
+- Television documentary
+- Television film
+- Television pilot
+- Temple of Artemis
+- Temple of Confucius
+- Temple of Edfu
+- Temple of Heaven
+- Tempo
+- Tender Is the Night
+- Tenor
+- Terrace (building)
+- Tess of the d'Urbervilles
+- Textbook
+- Thai literature
+- Thanos
+- That'll Be the Day
+- The 120 Days of Sodom
+- The 400 Blows
+- The A-Team
+- The Act of Killing
+- The Addams Family
+- The Adventures of Augie March
+- The Adventures of Pinocchio
+- The Adventures of Sherlock Holmes
+- The Adventures of Tom Sawyer
+- The Age of Innocence
+- The Alchemist (novel)
+- The Amazing Adventures of Kavalier & Clay
+- The Amazing Race (American TV series)
+- The Ambassadors (Holbein)
+- The Ambassadors (novel)
+- The Anatomy Lesson of Dr. Nicolaes Tulp
+- The Andy Griffith Show
+- The Apartment
+- The Art of Computer Programming
+- The Art of Fugue
+- The Art of Painting
+- The Autobiography of Malcolm X
+- The Barber of Seville
+- The Battle of Algiers
+- The Beatles (album)
+- The Beheading of Saint John the Baptist (Caravaggio)
+- The Bell Jar
+- The Benny Hill Show
+- The Best Years of Our Lives
+- The Big Bang Theory
+- The Big Buddha (Hong Kong)
+- The Big Lebowski
+- The Big Sleep
+- The Birds (play)
+- The Birds of America
+- The Birth of Venus (Bouguereau)
+- The Birthday Party (play)
+- The Black Parade
+- The Blair Witch Project
+- The Blue Boy
+- The Blue Danube
+- The Bonfire of the Vanities
+- The Book of Disquiet
+- The Book of Five Rings
+- The Book of Good Love
+- The Book of the City of Ladies
+- The Boondocks (TV series)
+- The Brady Bunch
+- The Bride Stripped Bare by Her Bachelors, Even
+- The Bridge on the River Kwai
+- The Bridges of Madison County
+- The Brief Wondrous Life of Oscar Wao
+- The Bund
+- The Burghers of Calais
+- The Burial of the Count of Orgaz
+- The Cabinet of Dr. Caligari
+- The Calling of Saint Matthew
+- The Canon of Medicine
+- The Cantos
+- The Card Players
+- The Carnival of the Animals
+- The Castle (novel)
+- The Cat in the Hat
+- The Caucasian Chalk Circle
+- The Charterhouse of Parma
+- The Children's Museum of Indianapolis
+- The Chronic
+- The City of God
+- The Clock Towers
+- The Clouds
+- The Color of Pomegranates
+- The Common Sense Book of Baby and Child Care
+- The Concept of the Political
+- The Conference of the Birds
+- The Conquest of Bread
+- The Coronation of Napoleon
+- The Corrections
+- The Cosby Show
+- The Count of Monte Cristo
+- The Creation of Adam
+- The Crucible
+- The Da Vinci Code
+- The Dark Knight
+- The Dark Side of the Moon
+- The Daughter of Time
+- The Death and Life of Great American Cities
+- The Death of Ivan Ilyich
+- The Death of Marat
+- The Death of Socrates
+- The Decameron
+- The Decline of the West
+- The Deer Hunter
+- The Descent of Man, and Selection in Relation to Sex
+- The Diary of a Young Girl
+- The Dick Van Dyke Show
+- The Dinner Party
+- The Doctor
+- The Double Helix
+- The Dream of the Fisherman's Wife
+- The Dukes of Hazzard
+- The Ed Sullivan Show
+- The Education of Henry Adams
+- The Egyptian
+- The Electric Kool-Aid Acid Test
+- The Elements of Style
+- The Elevation of the Cross (Rubens)
+- The Embarkation for Cythera
+- The Emperor's New Clothes
+- The Empire Strikes Back
+- The Entertainer (rag)
+- The Exorcist
+- The Faerie Queene
+- The Falling Man
+- The Falling Soldier
+- The Fault in Our Stars
+- The Feast of the Gods
+- The Federalist Papers
+- The Feminine Mystique
+- The Feynman Lectures on Physics
+- The Fighting Temeraire
+- The Firebird
+- The Flash
+- The Flintstones
+- The Forsyte Saga
+- The Fresh Prince of Bel-Air
+- The Gates of Hell
+- The General (1926 film)
+- The Girl from Ipanema
+- The Girl with the Dragon Tattoo
+- The Gleaners
+- The God of Small Things
+- The Godfather Part II
+- The Gold Rush
+- The Golden Bough
+- The Golden Girls
+- The Golden Notebook
+- The Good Earth
+- The Good Soldier
+- The Good Soldier Švejk
+- The Good, the Bad and the Ugly
+- The Good, the Bad and the Ugly (soundtrack)
+- The Graduate
+- The Great Dictator
+- The Great Escape (film)
+- The Gross Clinic
+- The Gulag Archipelago
+- The Handmaid's Tale
+- The Hardy Boys
+- The Hay Wain
+- The Heart Is a Lonely Hunter
+- The Hero with a Thousand Faces
+- The History of Rome (Mommsen)
+- The History of Tom Jones, a Foundling
+- The History of the Standard Oil Company
+- The Hobbit
+- The Honeymooners
+- The Horse in Motion
+- The Hound of the Baskervilles
+- The House of Mirth
+- The House of the Rising Sun
+- The House of the Spirits
+- The Hunger Games
+- The Hunters in the Snow
+- The Idiot
+- The Imitation of Christ
+- The Incoherence of the Incoherence
+- The Internationale
+- The Interpretation of Dreams
+- The Jeffersons
+- The Joy Luck Club (novel)
+- The Jungle
+- The Jungle Book
+- The Katzenjammer Kids
+- The Kid (1921 film)
+- The King in Yellow
+- The Kingdom of This World
+- The Kiss (Hayez)
+- The Kiss (Klimt)
+- The Kiss (Rodin sculpture)
+- The Kite Runner
+- The Knight in the Panther's Skin
+- The Last Judgment (Michelangelo)
+- The Last Rose of Summer
+- The Last of the Mohicans
+- The Left Hand of Darkness
+- The Legend of Sleepy Hollow
+- The Leopard
+- The Leopard (1963 film)
+- The Library of Babel
+- The Life and Opinions of Tristram Shandy, Gentleman
+- The Lion King
+- The Lion King (musical)
+- The Lion Sleeps Tonight
+- The Little Foxes
+- The Little Mermaid
+- The Little Mermaid (statue)
+- The Lord of the Rings (film series)
+- The Magic Mountain
+- The Maltese Falcon (1941 film)
+- The Maltese Falcon (novel)
+- The Man Without Qualities
+- The Marshall Mathers LP
+- The Martian Chronicles
+- The Mary Tyler Moore Show
+- The Massacre at Chios
+- The Master and Margarita
+- The Matrix
+- The Maxims of Ptahhotep
+- The Merchant of Venice
+- The Merry Wives of Windsor
+- The Message (Grandmaster Flash and the Furious Five song)
+- The Mill on the Floss
+- The Miseducation of Lauryn Hill
+- The Moon Represents My Heart
+- The Motherland Calls
+- The Mousetrap
+- The Muppet Show
+- The Muppets
+- The Murder of Roger Ackroyd
+- The Musicians (Caravaggio)
+- The Naked and the Dead
+- The Name of the Rose
+- The Neverending Story
+- The New Colossus
+- The Night of the Hunter (film)
+- The Nightmare
+- The Nine Chapters on the Mathematical Art
+- The Ninth Wave
+- The Odd Couple (play)
+- The Office (American TV series)
+- The Old Guitarist
+- The Old Man and the Sea
+- The Open Society and Its Enemies
+- The Oprah Winfrey Show
+- The Origins of Totalitarianism
+- The Outsiders (novel)
+- The Passion of Joan of Arc
+- The Peacock Room
+- The Pentagon
+- The Persians
+- The Phantom
+- The Phantom of the Opera (novel)
+- The Phenomenology of Spirit
+- The Physical Impossibility of Death in the Mind of Someone Living
+- The Piano
+- The Picture of Dorian Gray
+- The Pilgrim's Progress
+- The Pillow Book
+- The Pink Panther
+- The Pirates of Penzance
+- The Plague (novel)
+- The Planets
+- The Playboy of the Western World
+- The Portrait of a Lady
+- The Potato Eaters
+- The Price Is Right
+- The Prime of Miss Jean Brodie (novel)
+- The Prince and the Pauper
+- The Problem We All Live With
+- The Producers (musical)
+- The Prophet (book)
+- The Protestant Ethic and the Spirit of Capitalism
+- The Protocols of the Elders of Zion
+- The Queen Is Dead
+- The Raft of the Medusa
+- The Rape of Proserpina
+- The Rape of the Lock
+- The Real World
+- The Red Badge of Courage
+- The Red Shoes (1948 film)
+- The Red and the Black
+- The Remains of the Day
+- The Ren & Stimpy Show
+- The Return of the Prodigal Son (Rembrandt)
+- The Rise and Fall of Ziggy Stardust and the Spiders from Mars
+- The Road
+- The Road Not Taken
+- The Road to Serfdom
+- The Rocky Horror Picture Show
+- The Rose of Versailles
+- The Rules of Sociological Method
+- The Rules of the Game
+- The Sandman (comic book)
+- The Satanic Verses
+- The Scholars (novel)
+- The School of Athens
+- The Sea of Fertility
+- The Seagull
+- The Searchers
+- The Second Coming (poem)
+- The Second Sex
+- The Selfish Gene
+- The Shawshank Redemption
+- The Shining (film)
+- The Silence of the Lambs (film)
+- The Skin of Our Teeth
+- The Slave Ship
+- The Sleeping Beauty (ballet)
+- The Sleeping Gypsy
+- The Smurfs
+- The Snow Queen
+- The Son of Man
+- The Song of Hiawatha
+- The Song of the Volga Boatmen
+- The Sorrows of Young Werther
+- The Souls of Black Folk
+- The Sphere
+- The Spirit of Law
+- The Stand
+- The Star-Spangled Banner
+- The Steerage
+- The Storm on the Sea of Galilee
+- The Stranger (Camus novel)
+- The Suppliants (Aeschylus)
+- The Swing (Fragonard)
+- The System of Nature
+- The Tale of Igor's Campaign
+- The Tale of Kieu
+- The Tale of Peter Rabbit
+- The Tales of Hoffmann
+- The Taming of the Shrew
+- The Tell-Tale Heart
+- The Temple of the Golden Pavilion
+- The Ten Commandments (1956 film)
+- The Terminator
+- The Terror of War
+- The Texas Chain Saw Massacre
+- The Thief of Bagdad (1924 film)
+- The Thing (1982 film)
+- The Third Man
+- The Third of May 1808
+- The Thorn Birds
+- The Three Little Pigs
+- The Three-Body Problem (novel)
+- The Threepenny Opera
+- The Time Machine
+- The Tin Drum
+- The Tonight Show
+- The Tortoise Trainer
+- The Tortoise and the Hare
+- The Tower of Babel (Bruegel)
+- The Transformers (TV series)
+- The Travels of Marco Polo
+- The Treachery of Images
+- The Trial
+- The Tribute Money (Masaccio)
+- The True Story of Ah Q
+- The Truman Show
+- The Turkish Bath
+- The Twelve Caesars
+- The Twilight Zone
+- The Twist (song)
+- The Two Fridas
+- The Tyger
+- The Ugly Duckling
+- The Unbearable Lightness of Being
+- The Vagina Monologues
+- The Vampire Chronicles
+- The Varieties of Religious Experience
+- The Velvet Underground & Nico
+- The Very Hungry Caterpillar
+- The Vulture and the Little Girl
+- The Walking Dead (TV series)
+- The Wall
+- The Waves
+- The Way of All Flesh
+- The Weeping Woman
+- The West Wing
+- The Wild Bunch
+- The Wind-Up Bird Chronicle
+- The Wire
+- The Wonderful Wizard of Oz
+- The World According to Garp
+- The World as Will and Representation
+- The Wounded Deer
+- The Wretched of the Earth
+- The X Factor (British TV series)
+- The X-Files
+- The Year of Magical Thinking
+- The Yellow Kid
+- The Yellow Wallpaper
+- The Young and the Restless
+- Theaetetus (dialogue)
+- Theatre of Japan
+- Theatre of ancient Rome
+- Their Eyes Were Watching God
+- Theme (narrative)
+- Theme music
+- Theogony
+- There Will Be Blood
+- This Land Is Your Land
+- Thomas & Friends
+- Thor (Marvel Comics)
+- Thrash metal
+- Three Essays on the Theory of Sexuality
+- Three's Company
+- Thriller (genre)
+- Thriller film
+- Through the Looking-Glass
+- Thumbelina
+- Thunderbirds (TV series)
+- Thus Spoke Zarathustra
+- Tiananmen Square
+- Tiger in a Tropical Storm
+- Tightrope walking
+- Till Death Us Do Part
+- Timbre
+- Time signature
+- Times Square
+- Timpani
+- Tin Pan Alley
+- Tirant lo Blanch
+- Titanic (1997 film)
+- To Kill a Mockingbird (film)
+- To Pimp a Butterfly
+- Toccata and Fugue in D minor, BWV 565
+- Today (American TV program)
+- Tokusatsu
+- Tokyo National Museum
+- Tokyo Skytree
+- Tokyo Tower
+- Tom and Jerry
+- Tommy (The Who album)
+- Tonality
+- Tony Awards
+- Tooth fairy
+- Top Gear (2002 TV series)
+- Top Girls
+- Top Gun
+- Top of the Pops
+- Topkapı Palace
+- Toronto International Film Festival
+- Tosca
+- Totem pole
+- Touch of Evil
+- Tower of London
+- Tractatus Logico-Philosophicus
+- Traditional animation
+- Traditional music of Korea
+- Traditional pop
+- Trafalgar Square
+- Trailer Park Boys
+- Trainspotting (film)
+- Trance music
+- Trans-Europe Express (album)
+- Trap music
+- Trapeze
+- Treasure Island
+- Tretyakov Gallery
+- Trevi Fountain
+- Tribute act
+- Trickster
+- Triptych of the Temptation of St. Anthony
+- Tritone
+- Triumph of the Will
+- Troilus and Cressida
+- Troilus and Criseyde
+- Trompe-l'œil
+- Tropic of Cancer (novel)
+- Troubadour
+- True crime
+- Tubular bells
+- Tuol Sleng Genocide Museum
+- Turandot
+- Turkish folk dance
+- Turkish literature
+- Tutti Frutti (song)
+- Twelfth Night
+- Twelve-tone technique
+- Twenty Love Poems and a Song of Despair
+- Twenty Thousand Leagues Under the Seas
+- Twilight (novel series)
+- Twin Peaks
+- Twinkle, Twinkle, Little Star
+- Twist (dance)
+- Two Treatises of Government
+- Tyndale Bible
+- Táin Bó Cúailnge
+- Tōdai-ji
+- U.S.A. (trilogy)
+- Ugetsu
+- Ukulele
+- Ultraman (character)
+- Umayyad Mosque
+- Un Chien Andalou
+- Unchained Melody
+- Uncle Sam
+- Uncle Tom
+- Under the Volcano
+- United States Capitol
+- United States Holocaust Memorial Museum
+- Unreliable narrator
+- Up from Slavery
+- Urashima Tarō
+- User experience design
+- User interface design
+- Utilitarianism (book)
+- V for Vendetta
+- V-J Day in Times Square
+- Valérian and Laureline
+- Van Gogh Museum
+- Vanity Fair (novel)
+- Variety show
+- Vaudeville
+- Vault (architecture)
+- Vector graphics
+- Veiled Christ
+- Venice Biennale
+- Venice Film Festival
+- Ventriloquism
+- Venus Callipyge
+- Venus de' Medici
+- Venus figurine
+- Venus of Urbino
+- Vernacular architecture
+- Verse (poetry)
+- Vessel flute
+- Vibraphone
+- Victoria Memorial, London
+- Victoria and Albert Museum
+- Victorian architecture
+- Victorian burlesque
+- Video art
+- Video game music
+- Vienna Philharmonic
+- Viennese waltz
+- Vietnam Veterans Memorial
+- View from the Window at Le Gras
+- View of Toledo
+- Viking art
+- Villa La Rotonda
+- Villain
+- Violin Concerto (Beethoven)
+- Violin Concerto (Mendelssohn)
+- Violin Concerto (Sibelius)
+- Violin Concerto (Tchaikovsky)
+- Violin Concerto No. 1 (Bruch)
+- Virgin of the Rocks
+- Visual effects
+- Vitruvian Man
+- Vocal harmony
+- Vocal range
+- Voice acting
+- Voice leading
+- Voice type
+- Voicing (music)
+- Voynich manuscript
+- Vremya
+- Walden
+- Wallace & Gromit
+- Waltharius
+- Waltzing Matilda
+- Wanderer above the Sea of Fog
+- Wandering Jew
+- Wannabe
+- War and Peace (film series)
+- War dance
+- War film
+- War novel
+- Warsaw Ghetto boy
+- Warsaw Rising Museum
+- Washington Crossing the Delaware (1851 paintings)
+- Washington Monument
+- Washington National Cathedral
+- Watchmen
+- Watchtower
+- Water Music
+- Wayang
+- We Are the Champions
+- We Are the World
+- We Shall Overcome
+- We Wish You a Merry Christmas
+- We'll Meet Again
+- Webcomic
+- Webster's Dictionary
+- Webtoon
+- Wedding March (Mendelssohn)
+- Wen Xuan
+- West Side Story (1961 film)
+- Western Wall
+- Western canon
+- Western fiction
+- Western film
+- Western literature
+- Westminster Abbey
+- Whaam!
+- Whakairo
+- What a Wonderful World
+- What'd I Say
+- What's Going On (album)
+- What? Where? When?
+- Wheatfield with Crows
+- Wheel of Fortune (American game show)
+- When Will You Marry?
+- When the Saints Go Marching In
+- Where Do We Come From? What Are We? Where Are We Going?
+- Where the Wild Things Are
+- Where's Wally?
+- Whistler's Mother
+- White Christmas (song)
+- White House
+- White Noise (novel)
+- White Teeth
+- Who Framed Roger Rabbit
+- Who Wants to Be a Millionaire?
+- Who's Afraid of Virginia Woolf?
+- Wicked (musical)
+- Wide Sargasso Sea
+- Wiegenlied (Brahms)
+- Wild West shows
+- William Tell
+- William Tell (opera)
+- Willis Tower
+- Windsor Castle
+- Winnie-the-Pooh (book)
+- Winter Palace
+- Winter Sonata
+- Winterreise
+- Wish You Were Here (Pink Floyd album)
+- Witch (archetype)
+- Wolf Hall
+- Wolverine (character)
+- Women in Love
+- Women of Trachis
+- Women's writing (literary category)
+- Woodblock printing
+- Work of art
+- Work song
+- Worker and Kolkhoz Woman
+- Works and Days
+- World Trade Center (1973–2001)
+- World literature
+- World music
+- Writing style
+- Wujing Zongyao
+- Wuxia
+- Wycliffe's Bible
+- X-Men
+- Xena: Warrior Princess
+- Xiangsheng
+- Xkcd
+- Y.M.C.A. (song)
+- Yankee Doodle
+- Yasukuni Shrine
+- Yeh Rishta Kya Kehlata Hai
+- Yes Minister
+- Yesterday (song)
+- Yodeling
+- Yongle Encyclopedia
+- You Can't Take It with You (play)
+- You've Lost That Lovin' Feelin'
+- Young adult literature
+- Yu-Gi-Oh!
+- YuYu Hakusho
+- Yue opera
+- Yuri (genre)
+- Zeno's Conscience
+- Zhongnanhai
+- Zither
+- Ziye
+- Zizhi Tongjian
+- Zoetrope
+- Zorba the Greek
+- Zorro
+- Zuo Zhuan
+- Étude
+
+### Biology and health sciences (+4197)
+- ABO blood group system
+- ACE inhibitor
+- ALS
+- ATPase
+- Aardwolf
+- Abalone
+- Abdominal cavity
+- Abdominal pain
+- Abelisauridae
+- Aberdeen Angus
+- Abies alba
+- Abies balsamea
+- Abies grandis
+- Abies nordmanniana
+- Abies procera
+- Abrasion (medicine)
+- Abscess
+- Abscisic acid
+- Abyssinian cat
+- Acacia
+- Acacia decurrens
+- Acacia melanoxylon
+- Acacia pycnantha
+- Acanthocephala
+- Acanthosoma
+- Acanthostega
+- Acanthuridae
+- Acariformes
+- Accentor
+- Accommodation (vertebrate eye)
+- Acer platanoides
+- Acer pseudoplatanus
+- Acer rubrum
+- Acer saccharinum
+- Acer saccharum
+- Acetylcholine
+- Achatina
+- Acherontia lachesis
+- Achillea
+- Achromatopsia
+- Aciclovir
+- Acidobacteriota
+- Acid–base homeostasis
+- Acorn
+- Acorus
+- Acorus calamus
+- Acromegaly
+- Acrophobia
+- Actin
+- Actin filament
+- Actinomycetota
+- Action potential
+- Activities of daily living
+- Acute (medicine)
+- Acute medicine
+- Acute radiation syndrome
+- Adansonia digitata
+- Adaptive immune system
+- Addax
+- Adenine
+- Adipocyte
+- Adipose tissue
+- Adverse effect
+- Adzuki bean
+- Aedes aegypti
+- Aepycamelus
+- Aerial root
+- Aerobic exercise
+- Aerobics
+- Aestivation
+- Aetosauria
+- African bullfrog
+- African bush elephant
+- African civet
+- African elephant
+- African forest elephant
+- African palm civet
+- African penguin
+- African sacred ibis
+- African spurred tortoise
+- African swine fever virus
+- African traditional medicine
+- African trypanosomiasis
+- African village dog
+- African wild ass
+- African wild dog
+- African wolf
+- Afrocarpus
+- Agalychnis
+- Agamidae
+- Agar
+- Agaricus bisporus
+- Agathis australis
+- Agelenidae
+- Ageusia
+- Agoraphobia
+- Agouti
+- Agrobacterium tumefaciens
+- Ahaetulla
+- Ailuridae
+- Airborne transmission
+- Aizoaceae
+- Ajwain
+- Alanine
+- Albendazole
+- Albinism
+- Alcohols (medicine)
+- Alcyonacea
+- Aldabra giant tortoise
+- Aldosterone
+- Alfalfa
+- Aliivibrio fischeri
+- Allele
+- Allergen
+- Allergic rhinitis
+- Allied health professionals
+- Alligator pepper
+- Allium
+- Allium fistulosum
+- Allium ursinum
+- Allspice
+- Alnus glutinosa
+- Alnus rubra
+- Alopecia areata
+- Alosa
+- Alpheidae
+- Alpine goat
+- Alpine ibex
+- Alvarezsauridae
+- Alytidae
+- Amaranthaceae
+- Amargasaurus
+- Amazon parrot
+- Amazon river dolphin
+- Amblypygi
+- Amborella
+- Ambulocetus
+- Amchoor
+- Amenorrhea
+- American Shorthair
+- American alligator
+- American badger
+- American black bear
+- American chestnut
+- American cockroach
+- American crow
+- American lion
+- American lobster
+- American mink
+- American pickerel
+- Amiatina
+- Amitriptyline
+- Ammonoidea
+- Amniote
+- Amoeba
+- Amoebiasis
+- Amoxicillin
+- Amphicyon
+- Amphicyonidae
+- Amphioctopus marginatus
+- Amphipoda
+- Amphisbaenia
+- Amphotericin B
+- Ampicillin
+- Amusia
+- Amygdala
+- Anabaena
+- Anabolic steroid
+- Anacardiaceae
+- Anaconda
+- Anaerobic exercise
+- Anaerobic respiration
+- Anal hygiene
+- Anancus
+- Anaphylaxis
+- Anaspida
+- Anatidae
+- Anatomical Therapeutic Chemical Classification System
+- Anatomical variation
+- Anchiornis
+- Ancient Egyptian medicine
+- Ancient Greek medicine
+- Ancylostoma
+- Andean condor
+- Andrewsarchus
+- Androgen
+- Andrology
+- Anesthesiology
+- Anesthetic
+- Angelshark
+- Angioplasty
+- Angora goat
+- Angora rabbit
+- Anguinae
+- Ani (bird)
+- Animal cognition
+- Animal consciousness
+- Animal embryonic development
+- Animal sexual behaviour
+- Ankle
+- Ankylosauria
+- Ankylosaurus
+- Annatto
+- Annona squamosa
+- Annonaceae
+- Anolidae
+- Anomalocaris
+- Anomalopidae
+- Anomura
+- Anopheles
+- Anoplotheriidae
+- Anoplotherium
+- Anorexia nervosa
+- Anosmia
+- Anser (bird)
+- Ant colony
+- Antarctic fishes
+- Antarctic toothfish
+- Antelope jackrabbit
+- Antenna (zoology)
+- Anterior cruciate ligament
+- Antheridium
+- Anthias anthias
+- Anthozoa
+- Anthracotheriidae
+- Anthracotherium
+- Antibiotic sensitivity testing
+- Anticoagulant
+- Anticonvulsant
+- Antidepressant
+- Antidote
+- Antifungal
+- Antigen
+- Antigone (bird)
+- Antihistamine
+- Antilocapridae
+- Antimicrobial
+- Antimicrobial resistance
+- Antioxidant
+- Antiparasitic
+- Antipsychotic
+- Antisense therapy
+- Antiseptic
+- Antisocial personality disorder
+- Antiviral drug
+- Antler
+- Antlion
+- Anurognathidae
+- Anus
+- Anxiolytic
+- Aorta
+- Apatosaurus
+- Apex predator
+- Aphasia
+- Aphelida
+- Aphonopelma chalcodes
+- Aphrophoridae
+- Apicomplexa
+- Aplacophora
+- Aplysiida
+- Apoptosis
+- Appaloosa
+- Appendicitis
+- Appendix (anatomy)
+- Appetite
+- Aquatic animal
+- Aquatic locomotion
+- Aquatic plant
+- Aquificota
+- Arabian oryx
+- Arachnophobia
+- Arandaspis
+- Araucaria araucana
+- Araucariaceae
+- Arboreal locomotion
+- Archaeognatha
+- Archaeopteris
+- Archaeplastida
+- Archegonium
+- Archelon
+- Archerfish
+- Archispirostreptus gigas
+- Archosaur
+- Archosauromorpha
+- Arctic fox
+- Arctic tern
+- Arctodus
+- Ardi
+- Ardipithecus
+- Ardipithecus kadabba
+- Ardipithecus ramidus
+- Areca catechu
+- Arecales
+- Arenicola
+- Argentavis
+- Argentine ant
+- Argentinosaurus
+- Arginine
+- Argonaut (animal)
+- Argulidae
+- Aristida
+- Arizona bark scorpion
+- Arizonasaurus
+- Army ant
+- Arrhythmia
+- Arsinoitherium
+- Artemisinin
+- Arteriole
+- Arteriosclerosis
+- Arthropathy
+- Arthropleura
+- Arthropod leg
+- Artificial life
+- Asafoetida
+- Asbestosis
+- Ascariasis
+- Ascaris lumbricoides
+- Ascidiacea
+- Asclepias
+- Ascus
+- Asian black bear
+- Asian elephant
+- Asian giant hornet
+- Asian water monitor
+- Asiatic linsang
+- Asiatic lion
+- Asiatic salamander
+- Asparagaceae
+- Asparagales
+- Asparagine
+- Aspartic acid
+- Asperger syndrome
+- Aspergillus
+- Asphyxia
+- Aspleniaceae
+- Astacus astacus
+- Asterales
+- Asteriornis
+- Astigmatism
+- Astrapotheria
+- Ataxia
+- Atherosclerosis
+- Athlete's foot
+- Atlantic canary
+- Atlantic cod
+- Atlantic herring
+- Atlantic salmon
+- Atopic dermatitis
+- Atorvastatin
+- Atrial fibrillation
+- Atrium (heart)
+- Atropa bella-donna
+- Atrophy
+- Atropine
+- Audiology
+- Auditory cortex
+- Aura (symptom)
+- Aurelia (cnidarian)
+- Auscultation
+- Austral storm petrel
+- Australian Lowline
+- Australian feral camel
+- Australian funnel-web spider
+- Australian magpie
+- Australopithecine
+- Australopithecus afarensis
+- Australopithecus africanus
+- Australopithecus anamensis
+- Australopithecus bahrelghazali
+- Australopithecus deyiremeda
+- Australopithecus garhi
+- Australopithecus sediba
+- Australorp
+- Autonomic nervous system
+- Autophagy
+- Autotroph
+- Auxin
+- Avian influenza
+- Avocet
+- Avoidant personality disorder
+- Avulsion injury
+- Axiidea
+- Axolotl
+- Axon
+- Axonopus
+- Aye-aye
+- Azhdarchidae
+- Azithromycin
+- Azolla
+- Açaí palm
+- B cell
+- B vitamins
+- Babirusa
+- Bacillota
+- Bacillus
+- Bacillus anthracis
+- Bacillus subtilis
+- Bacterial capsule
+- Bacterial cell structure
+- Bacteriophage
+- Bacteroides
+- Bacteroides fragilis
+- Bacteroidota
+- Badger
+- Bagheera kiplingi
+- Baiji
+- Balance disorder
+- Balaur bondoc
+- Bald eagle
+- Baleen whale
+- Balinese cat
+- Ball python
+- Balto
+- Bamboo shoot
+- Banana pepper
+- Banana slug
+- Banded bullfrog
+- Banded knifefish
+- Banded palm civet
+- Bandicoot
+- Banksia
+- Banteng
+- Barbary dove
+- Barbary lion
+- Barbary sheep
+- Barbiturate
+- Bariatric surgery
+- Barn swallow
+- Barnacle
+- Barreleye
+- Baryonyx
+- Basa (fish)
+- Basal ganglia
+- Base pair
+- Basement membrane
+- Basidium
+- Basiliscus (lizard)
+- Basilosaurus
+- Basket star
+- Basking shark
+- Basmati
+- Basophil
+- Bassaricyon
+- Basset
+- Bat-eared fox
+- Bateleur
+- Bathypterois grallator
+- Batrachoididae
+- Baudet du Poitou
+- Baurusuchidae
+- Bay leaf
+- Beak
+- Beaked whale
+- Bearded vulture
+- Beaver dam
+- Bee-eater
+- Beech marten
+- Belching
+- Belemnitida
+- Bell's palsy
+- Beloniformes
+- Belostomatidae
+- Beluga (sturgeon)
+- Beluga whale
+- Bench press
+- Bengal monitor
+- Bengal tiger
+- Benign tumor
+- Bennettitales
+- Benzocaine
+- Bergamot orange
+- Berkshire pig
+- Beta vulgaris
+- Betula nigra
+- Betula papyrifera
+- Betula pendula
+- Betulaceae
+- Biceps
+- Bichon
+- Bifidobacterium
+- Bighorn sheep
+- Bikont
+- Bile
+- Billfish
+- Binturong
+- Biochemical cascade
+- Biodegradation
+- Biodiversity loss
+- Biofilm
+- Biogeographic realm
+- Biogeography
+- Bioindicator
+- Bioinformatics
+- Biological carbon fixation
+- Biological dispersal
+- Biological interaction
+- Biological life cycle
+- Biological membrane
+- Bioluminescence
+- Biomagnification
+- Biosynthesis
+- Biotin
+- Bipolar I disorder
+- Bipolar II disorder
+- Bird anatomy
+- Bird migration
+- Bird nest
+- Bird vocalization
+- Bird wing
+- Birdwing
+- Birman
+- Birth defect
+- Bison
+- Bitter orange
+- Bitter taste evolution
+- Bittern
+- Black Iberian pig
+- Black bullhead
+- Black caiman
+- Black ghost knifefish
+- Black mamba
+- Black rat
+- Black rhinoceros
+- Black seadevil
+- Black stork
+- Black swallower
+- Black swan
+- Black turtle bean
+- Black-and-white colobus
+- Black-backed jackal
+- Black-eyed pea
+- Black-headed gull
+- Blackbuck
+- Blastocladiomycota
+- Blastulation
+- Blattodea
+- Blennioidei
+- Blesmol
+- Blinking
+- Blister beetle
+- Blood cell
+- Blood culture
+- Blood donation
+- Blood orange
+- Blood plasma
+- Blood vessel
+- Bloodhound
+- Bloodletting
+- Bloodstream infection
+- Blood–brain barrier
+- Blue Java banana
+- Blue eared pheasant
+- Blue shark
+- Blue spruce
+- Blue-ringed octopus
+- Blue-tongued skink
+- Blurred vision
+- Boa constrictor
+- Bobcat
+- Body (biology)
+- Body cavity
+- Body dysmorphic disorder
+- Body fluid
+- Body hair
+- Body image disturbance
+- Body odor
+- Bok choy
+- Bomdong
+- Bone marrow
+- Bone tumor
+- Bonito
+- Booby
+- Borage
+- Boraginaceae
+- Borassus flabellifer
+- Borderline personality disorder
+- Bordetella pertussis
+- Bornean bearded pig
+- Bornean orangutan
+- Borophagus
+- Borrelia
+- Bothriolepis
+- Bottlenose dolphin
+- Botulinum toxin
+- Bougainvillea
+- Boverisuchus
+- Bovine spongiform encephalopathy
+- Bowerbird
+- Bowfin
+- Bowhead whale
+- Box jellyfish
+- Brachiopod
+- Brachiosaurus
+- Brachypelma hamorii
+- Brachyura
+- Bracken
+- Bradycardia
+- Bradymetabolism
+- Brain coral
+- Brain death
+- Branch
+- Branchiopoda
+- Branta
+- Brassica oleracea
+- Brassica rapa
+- Brassinosteroid
+- Breast milk
+- Breech birth
+- Brine shrimp
+- Brittle star
+- Broad Breasted White
+- Broca's area
+- Bronchodilator
+- Bronchus
+- Brontosaurus
+- Brontotheriidae
+- Brosimum alicastrum
+- Brow ridge
+- Brown recluse spider
+- Brown rice
+- Browsing (herbivory)
+- Brucellosis
+- Brussels sprout
+- Bruxism
+- Bryopsida
+- Bucephalus
+- Bud
+- Bulb
+- Bulimia nervosa
+- Bull
+- Bull and terrier
+- Bull shark
+- Bulldog bat
+- Bulldog type
+- Bullhead shark
+- Bungarus
+- Bupivacaine
+- Bupropion
+- Burbot
+- Burmese cat
+- Burnetia
+- Burrow
+- Bush dog
+- Buteo
+- Butterflyfish
+- Butternut squash
+- Buttocks
+- Buttonquail
+- C3 carbon fixation
+- C4 carbon fixation
+- COVID-19 vaccine
+- CRISPR
+- Cacomistle
+- Cadaver
+- Caddisfly
+- Caenagnathidae
+- Caesarean section
+- Cainotheriidae
+- Calabash
+- Calamine
+- Calcareous sponge
+- Calcarisporiellaceae
+- Calendula
+- Calf (leg)
+- California condor
+- Calisthenics
+- Callinectes sapidus
+- Callitropsis nootkatensis
+- Callorhinchus
+- Callosciurus
+- Calocedrus decurrens
+- Calvin cycle
+- Camarasaurus
+- Camellia sinensis
+- Campylobacter jejuni
+- Canada goose
+- Canadaspis
+- Cancer pagurus
+- Candida albicans
+- Candidiasis
+- Cane toad
+- Canid hybrid
+- Caninae
+- Canis
+- Cannabaceae
+- Cannabis indica
+- Cannabis ruderalis
+- Cannabis sativa
+- Cantaloupe
+- Cantharellus cibarius
+- Caper
+- Capsule (pharmacy)
+- Caracal
+- Caranx
+- Carassius
+- Caraway
+- Carbamazepine
+- Carbon monoxide poisoning
+- Carbon-based life
+- Carcinus maenas
+- Cardiac cycle
+- Cardiac muscle
+- Cardinal beetle
+- Cardiogenic shock
+- Cardiopulmonary resuscitation
+- Carex
+- Caridea
+- Carnosauria
+- Carnotaurus
+- Carob
+- Carolina Reaper
+- Carpal bones
+- Carpal tunnel syndrome
+- Carpenter bee
+- Carpet shark
+- Carrying capacity
+- Carya glabra
+- Carya laciniosa
+- Carya ovata
+- Carya tomentosa
+- Caryophyllales
+- Cashmere goat
+- Caspian tiger
+- Castorocauda
+- Cat flea
+- Catabolism
+- Cataract
+- Catatonia
+- Catecholamine
+- Caterpillar
+- Cattle egret
+- Cauterization
+- Cave bear
+- Cave hyena
+- Cavendish banana
+- Cayenne pepper
+- Cecidomyiidae
+- Cecum
+- Cedrus libani
+- Cefalexin
+- Cefazolin
+- Celeriac
+- Celiac plexus
+- Cell death
+- Cell division
+- Cell junction
+- Cell migration
+- Cell polarity
+- Cellular differentiation
+- Centaurea cyanus
+- Central dogma of molecular biology
+- Centrosome
+- Cephalaspis
+- Cephalopod
+- Cephalopod beak
+- Cephalosporin
+- Ceprano Man
+- Ceratogaulus
+- Ceratophryidae
+- Ceratopsia
+- Ceratosaurus
+- Cercopithecinae
+- Cercozoa
+- Cerebrospinal fluid
+- Ceroxylon quindiuense
+- Cervalces
+- Cervical cancer
+- Cervix
+- Cetraria islandica
+- Chachalaca
+- Chaetognatha
+- Chagas disease
+- Chalicotheriidae
+- Chalicotherium
+- Chamois
+- Champsosaurus
+- Channichthyidae
+- Chaos (genus)
+- Characidae
+- Charadriiformes
+- Charolais cattle
+- Charonia
+- Chat (bird)
+- Cheek
+- Chelodina
+- Chemosynthesis
+- Cherax pulcher
+- Cherimoya
+- Cherry blossom
+- Chervil
+- Chevrotain
+- Chianina
+- Chihuahua (dog breed)
+- Chikungunya
+- Chin
+- Chinchilla
+- Chinchilla rabbit
+- Chinese alligator
+- Chinese cabbage
+- Chinese giant salamander
+- Chinese herbology
+- Chinese water dragon
+- Chionoecetes
+- Chipmunk
+- Chironex fleckeri
+- Chiropractic
+- Chital
+- Chiton
+- Chives
+- Chlamydia (bacterium)
+- Chlamydia pneumoniae
+- Chlamydia trachomatis
+- Chlamydiota
+- Chlamydomonas
+- Chlorella
+- Chlorocebus
+- Chloroflexota
+- Chlorophytum comosum
+- Chloroquine
+- Chlorpromazine
+- Choanoflagellate
+- Choking
+- Choristodera
+- Chough
+- Chow Chow
+- Choy sum
+- Christmas Island red crab
+- Chromatin
+- Chromista
+- Chromosomal translocation
+- Chromosome abnormality
+- Chronic condition
+- Chronic pain
+- Chronic traumatic encephalopathy
+- Chrysalidocarpus lutescens
+- Chrysaora fuscescens
+- Chrysopelea
+- Chytridiomycota
+- Cider apple
+- Cigar
+- Ciliate
+- Cilium
+- Cimetidine
+- Cinereous vulture
+- Cirrhitidae
+- Citric acid cycle
+- Citron
+- Clade
+- Cladistics
+- Cladonia rangiferina
+- Clam
+- Clamator
+- Class (taxonomy)
+- Classical swine fever
+- Claustrophobia
+- Clavicle
+- Claw
+- Cleaner shrimp
+- Cleavage (embryo)
+- Clementine
+- Cleridae
+- Clinic
+- Clinical neuroscience
+- Clione limacina
+- Cloaca
+- Clomipramine
+- Clonazepam
+- Cloning vector
+- Clostridium
+- Clostridium botulinum
+- Clostridium perfringens
+- Clostridium tetani
+- Clothes moth
+- Clouded leopard
+- Clover
+- Clownfish
+- Clupeidae
+- Clupeiformes
+- Clydesdale horse
+- Coagulation
+- Coastal fish
+- Coati
+- Cobra
+- Coca
+- Coccinella septempunctata
+- Cochlea
+- Cock-of-the-rock
+- Cockatiel
+- Cockchafer
+- Cockle (bivalve)
+- Coconut crab
+- Codeine
+- Coelophysis
+- Coelurosauria
+- Coevolution
+- Coffea
+- Cold sore
+- Coldwater fish
+- Collagen
+- Collie
+- Colobinae
+- Colony (biology)
+- Colorado potato beetle
+- Colossal squid
+- Colubridae
+- Colugo
+- Columbian mammoth
+- Comb
+- Comedo
+- Commelina
+- Commelinaceae
+- Commelinales
+- Commensalism
+- Common blackbird
+- Common bream
+- Common brushtail possum
+- Common carp
+- Common collared lizard
+- Common cuckoo
+- Common death adder
+- Common hill myna
+- Common house gecko
+- Common midwife toad
+- Common octopus
+- Common ringtail possum
+- Common seadragon
+- Common sunflower
+- Common swift
+- Common toad
+- Common walkingstick
+- Common wood pigeon
+- Community (ecology)
+- Complementary DNA
+- Complete blood count
+- Complex post-traumatic stress disorder
+- Comprehensive metabolic panel
+- Compsognathus
+- Computational biology
+- Conch
+- Conduct disorder
+- Cone cell
+- Cone snail
+- Confuciusornis
+- Congenital heart defect
+- Conidium
+- Conifer cone
+- Conium maculatum
+- Conjunctivitis
+- Connecticut field pumpkin
+- Conodont
+- Conservation biology
+- Constipation
+- Convergent evolution
+- Convolvulaceae
+- Cookiecutter shark
+- Cooking apple
+- Cooksonia
+- Cooloola (insect)
+- Coonhound
+- Coot
+- Copepod
+- Coprinus comatus
+- Coptotermes gestroi
+- Copulation (zoology)
+- Coraciidae
+- Cordyceps
+- Cordylidae
+- Coregonus
+- Coreidae
+- Coriander
+- Corixidae
+- Corn snake
+- Cornea
+- Cornish Rex
+- Cornu aspersum
+- Coronary artery disease
+- Corpus callosum
+- Corriente
+- Cortex (botany)
+- Cortisol
+- Corylus maxima
+- Corynebacterium
+- Corynebacterium diphtheriae
+- Corypha umbraculifera
+- Coryphodon
+- Corythosaurus
+- Cotinga
+- Cottontail rabbit
+- Cotyledon
+- Cotylorhynchus
+- Coua
+- Coucal
+- Cough
+- Courser
+- Cow shark
+- Cownose ray
+- Cowpea
+- Cowpox
+- Cowrie
+- Coywolf
+- Crab louse
+- Crab-eating fox
+- Crab-eating macaque
+- Crangon crangon
+- Cranial nerves
+- Crassulacean acid metabolism
+- Crested caracara
+- Crested penguin
+- Cretoxyrhina
+- Creutzfeldt–Jakob disease
+- Crinoid
+- Crocus
+- Crohn's disease
+- Cross River gorilla
+- Crossbill
+- Croup
+- Crown (dental restoration)
+- Crown group
+- Crown-of-thorns starfish
+- Crowned pigeon
+- Crunch (exercise)
+- Cryptoclidus
+- Cryptomeria
+- Cryptopidae
+- Ctenophora
+- Cuckoo bee
+- Cuckoo-roller
+- Cucumis metuliferus
+- Culcita (echinoderm)
+- Culex
+- Cumacea
+- Cupressaceae
+- Cupressus sempervirens
+- Curassow
+- Curculionidae
+- Cure
+- Curlew
+- Curry tree
+- Cusk-eel
+- Cutibacterium acnes
+- Cuttlefish
+- Cuvier's dwarf caiman
+- Cyanosis
+- Cyclostomi
+- Cymbopogon
+- Cynodon
+- Cynodontia
+- Cyprinidae
+- Cysteine
+- Cystic fibrosis
+- Cysticercosis
+- Cytokine
+- Cytokinin
+- Cytosine
+- Cytosol
+- DNA ligase
+- DNA polymerase
+- DNA repair
+- DNA sequencing
+- DPT vaccine
+- Daeodon
+- Dalbergia
+- Dall sheep
+- Dall's porpoise
+- Dallasaurus
+- Damselfish
+- Danionin
+- Darwin's finches
+- Darwin's frog
+- Dead leaf mantis
+- Deadlift
+- Deafness
+- Deathstalker
+- Debridement
+- Decomposer
+- Defibrillation
+- Dehydration
+- Deinocheirus
+- Deinonychus
+- Deinosuchus
+- Deinotheriidae
+- Deinotherium
+- Delichon
+- Delirium tremens
+- Deltoid muscle
+- Demersal fish
+- Demoiselle crane
+- Demosponge
+- Dendrite
+- Dendritic cell
+- Dental avulsion
+- Dental braces
+- Dental extraction
+- Dental floss
+- Dental implant
+- Dental plaque
+- Dental trauma
+- Dentist
+- Dentition
+- Deodorant
+- Deoxyribose
+- Dependent personality disorder
+- Depersonalization-derealization disorder
+- Depressant
+- Depressive personality disorder
+- Dermatitis
+- Dermatophytosis
+- Dermis
+- Desman
+- Desmidiales
+- Desmostylia
+- Detritivore
+- Deuterostome
+- Developmental coordination disorder
+- Developmental disorder
+- Devon Rex
+- Dewberry
+- Dexter cattle
+- Dhole
+- Diabetes medication
+- Diadectes
+- Diagnostic microbiology
+- Diamondback terrapin
+- Dianthus
+- Dianthus caryophyllus
+- Diapause
+- Diaphoretickes
+- Diazepam
+- Dibamidae
+- Dichromacy
+- Dickinsonia
+- Dicotyledon
+- Dictyostelium discoideum
+- Dicyemida
+- Dicynodontia
+- Didelphodon
+- Dieffenbachia
+- Dietary fiber
+- Digit (anatomy)
+- Digitaria
+- Dik-dik
+- Dill
+- Dilophosaurus
+- Dimorphic fungus
+- Dimorphodon
+- Dinocaridida
+- Dinocephalia
+- Dinofelis
+- Diphenhydramine
+- Diplocaulus
+- Diplostraca
+- Diplura
+- Dipper
+- Diprotodon
+- Dire wolf
+- Disaccharide
+- Disc herniation
+- Disease vector
+- Dissociative amnesia
+- Dissociative disorder
+- Dissociative identity disorder
+- Distributive shock
+- Disturbance (ecology)
+- Divergent evolution
+- Diverticulitis
+- Diving bell spider
+- Diving duck
+- Dizziness
+- Dmanisi hominins
+- Doctor's office
+- Doctor's visit
+- Dog crossbreed
+- Dog flea
+- Dolly (sheep)
+- Dolomedes
+- Domestic canary
+- Domestic duck
+- Domestic goose
+- Domestic pigeon
+- Domesticated hedgehog
+- Domesticated quail
+- Dominance (genetics)
+- Dorcatherium
+- Dormancy
+- Dorudon
+- Dosage form
+- Dowitcher
+- Doxycycline
+- Dracaena (plant)
+- Dracaena trifasciata
+- Draco (lizard)
+- Dracunculiasis
+- Dragonet
+- Drepanosauromorpha
+- Dromaeosauridae
+- Dromiidae
+- Dromornis
+- Drongo
+- Drosera
+- Droseraceae
+- Drowning
+- Drug class
+- Drug delivery
+- Drug discovery
+- Drug interaction
+- Drug overdose
+- Drug test
+- Dryopithecus
+- Dryopteridaceae
+- Dsungaripterus
+- Dugong
+- Duiker
+- Dunkleosteus
+- Dunnart
+- Duodenum
+- Durum wheat
+- Duttaphrynus melanostictus
+- Dwarf crocodile
+- Dwarf elephant
+- Dwarf rabbit
+- Dwarfism
+- Dyscalculia
+- Dysgeusia
+- Dysgraphia
+- Dysmenorrhea
+- Dysthymia
+- Dytiscus
+- Eagle ray
+- Eardrum
+- Eared dove
+- Earliest known life forms
+- Early modern human
+- Earwax
+- Eastern gray squirrel
+- Eastern grey kangaroo
+- Eastern lowland gorilla
+- Eastern mole
+- Eastern newt
+- Ecdysozoa
+- Ecological resilience
+- Ecological restoration
+- Ecological succession
+- Ecosystem collapse
+- Ecosystem model
+- Ecosystem service
+- Ectopic pregnancy
+- Ectotherm
+- Eczema herpeticum
+- Edaphosaurus
+- Ediacaran biota
+- Edible mushroom
+- Edmontosaurus
+- Effigia
+- Egg white
+- Egyptian mongoose
+- Egyptian vulture
+- Eider
+- Einkorn
+- Ejaculation
+- Elacatinus
+- Elaeis guineensis
+- Elaninae
+- Elapidae
+- Elasmosaurus
+- Elasmotherium
+- Elbow
+- Electron transport chain
+- Electronic cigarette
+- Elephant bird
+- Elephant seal
+- Elephant shrew
+- Elephantidae
+- Emberiza
+- Embioptera
+- Embryology
+- Embryonic stem cell
+- Embryophyte
+- Emergency medical technician
+- Emergency medicine
+- Emmer
+- Emperor angelfish
+- Emperor dragonfly
+- Emperor penguin
+- Emperor scorpion
+- Emphysema
+- Empusidae
+- Enantiornithes
+- End-of-life care
+- Endemism
+- Endive
+- Endocrine gland
+- Endocrinology
+- Endocytosis
+- Endodermis
+- Endomembrane system
+- Endometriosis
+- Endorphins
+- Endospore
+- Endospore staining
+- Endothelium
+- Endotherm
+- Energy flow (ecology)
+- Enhancer (genetics)
+- Ensis
+- Entelodontidae
+- Entomology
+- Entoprocta
+- Entorrhizomycetes
+- Eohippus
+- Eomaia
+- Eoraptor
+- Eosinophil
+- Ephedra (plant)
+- Ephedrine
+- Epidermis
+- Epigenome
+- Epigenomics
+- Epinephrine (medication)
+- Epstein–Barr virus
+- Erebidae
+- Erectile dysfunction
+- Ergot
+- Ericales
+- Erinaceidae
+- Erysipelas
+- Erythromycin
+- Erythroxylum
+- Esocoidei
+- Essential amino acid
+- Estradiol
+- Estrildidae
+- Ethiopian wolf
+- Ethnobiology
+- Eublepharis
+- Eucestoda
+- Eugenics
+- Euglenid
+- Euharamiyida
+- Euoplocephalus
+- Euparkeria
+- Eupleridae
+- Eurasian brown bear
+- Eurasian collared dove
+- Europasaurus
+- European conger
+- European dark bee
+- European eel
+- European fallow deer
+- European hare
+- European honey buzzard
+- European mink
+- European perch
+- European polecat
+- European rabbit
+- European shag
+- European spadefoot toad
+- Eurypterus
+- Eurytherm
+- Eusociality
+- Eusthenopteron
+- Eutriconodonta
+- Evolution of bacteria
+- Evolution of birds
+- Evolution of cetaceans
+- Evolution of fish
+- Evolution of fungi
+- Evolution of insects
+- Evolution of mammals
+- Evolution of molluscs
+- Evolution of reptiles
+- Evolution of sexual reproduction
+- Evolution of spiders
+- Evolution of tetrapods
+- Evolution of the horse
+- Evolutionary biology
+- Evolutionary developmental biology
+- Evolutionary history of plants
+- Exocrine gland
+- Exocytosis
+- Exon
+- Exoskeleton
+- Exotic Shorthair
+- Expression vector
+- Extended breastfeeding
+- Extracellular fluid
+- Extranuclear inheritance
+- Eye color
+- Eyelid
+- Fabales
+- Facial skeleton
+- Facial tissue
+- Facilitated diffusion
+- Facultative bipedalism
+- Fagaceae
+- Fagales
+- Fagus grandifolia
+- Fagus sylvatica
+- Falkland Islands wolf
+- Fall armyworm
+- Fallopian tube
+- False gharial
+- False killer whale
+- Family (taxonomy)
+- Family medicine
+- Fancy pigeon
+- Fanfin
+- Fang
+- Farsightedness
+- Fatigue
+- Fattail scorpion
+- Fe'i banana
+- Fear of flying
+- Feathered dinosaur
+- Fecal–oral route
+- Feces
+- Female ejaculation
+- Femur
+- Fennec fox
+- Fentanyl
+- Fenugreek
+- Feral cat
+- Feral horse
+- Feral pigeon
+- Ferret
+- Ferret-badger
+- Fetal alcohol spectrum disorder
+- Fever
+- Fibrobacterota
+- Fibroblast
+- Fibromyalgia
+- Fibula
+- Ficus
+- Fiddler crab
+- Fiddler ray
+- Fig wasp
+- Fight-or-flight response
+- Filasterea
+- Filefish
+- Fin
+- Fin whale
+- Finger millet
+- Finless porpoise
+- Fire salamander
+- Fire-bellied toad
+- Firebrat
+- First aid kit
+- Fish anatomy
+- Fish fin
+- Fish migration
+- Fishing cat
+- Fistula
+- Fitness (biology)
+- Flammulina filiformis
+- Flathead (fish)
+- Flathead grey mullet
+- Flatulence
+- Flemish Giant rabbit
+- Flipper (anatomy)
+- Flock (birds)
+- Florigen
+- Flounder
+- Flour beetle
+- Flour mite
+- Flower mantis
+- Fluconazole
+- Fluoxetine
+- Fluphenazine
+- Flying and gliding animals
+- Flying squirrel
+- Folate
+- Fonio
+- Food allergy
+- Food chain
+- Food web
+- Footballfish
+- Foraminifera
+- Forearm
+- Forehead
+- Foreskin
+- Formica rufa
+- Formosan subterranean termite
+- Fossa (animal)
+- Founder effect
+- Four-eyed fish
+- Fowl
+- Fox Terrier
+- Foxhound
+- Frailty syndrome
+- Francolin
+- Fraser fir
+- Free-ranging dog
+- French Bulldog
+- Freshwater butterflyfish
+- Freshwater crab
+- Freshwater crocodile
+- Freshwater fish
+- Freshwater pearl mussel
+- Freshwater snail
+- Frilled lizard
+- Frilled shark
+- Fritillaria
+- Frogfish
+- Frogmouth
+- Frontal lobe
+- Fruit dove
+- Fuchsia
+- Fucus
+- Fuji (apple)
+- Fulgoridae
+- Fungi imperfecti
+- Fur seal
+- Furry lobster
+- G protein-coupled receptor
+- G-spot
+- GABA
+- GLP-1 receptor agonist
+- Gabapentin
+- Gadiformes
+- Gai lan
+- Gala (apple)
+- Galactose
+- Galangal
+- Galanthus
+- Galeaspida
+- Gall wasp
+- Gallbladder
+- Gallicolumba
+- Gallstone
+- Gamete
+- Gang-gang cockatoo
+- Gannet
+- Gar
+- Garden cress
+- Gasterosteoidei
+- Gastornis
+- Gastrotrich
+- Gastrulation
+- Gekkonidae
+- Gelada
+- Gelatin
+- Gene flow
+- General anaesthesia
+- General anaesthetic
+- General practitioner
+- Generalized anxiety disorder
+- Genet (animal)
+- Genetic admixture
+- Genetic disorder
+- Genetic diversity
+- Genetic linkage
+- Genetic recombination
+- Genital herpes
+- Genitourinary system
+- Genome
+- Genomics
+- Genotype
+- Genus
+- Geoduck
+- Gerbillinae
+- Gerenuk
+- Germ layer
+- Germ theory of disease
+- German Shepherd
+- German cockroach
+- Germination
+- Germline
+- Gerontology
+- Gerridae
+- Gestational diabetes
+- Gharial
+- Ghost crab
+- Ghost pepper
+- Ghrelin
+- Giant Gippsland earthworm
+- Giant Pacific octopus
+- Giant anteater
+- Giant armadillo
+- Giant clam
+- Giant isopod
+- Giant oarfish
+- Giant otter
+- Giant otter shrew
+- Giant petrel
+- Giant pouched rat
+- Giant salamander
+- Giant squid
+- Giant wētā
+- Giardia duodenalis
+- Giardiasis
+- Gibberellin
+- Giganotosaurus
+- Gigantopithecus
+- Gigantothermy
+- Gingivitis
+- Giraffe weevil
+- Giraffidae
+- Glanders
+- Glans penis
+- Glass frog
+- Glass knifefish
+- Glaucoma
+- Glaucophyte
+- Glaucus atlanticus
+- Glia
+- Glomeromycota
+- Glucocorticoid
+- Gluconeogenesis
+- Glucose test
+- Glutamic acid
+- Glutamine
+- Glutathione
+- Gluten
+- Gluteus maximus
+- Glycated hemoglobin
+- Glyceraldehyde
+- Glycine
+- Glycoprotein
+- Glyptodon
+- Gnatcatcher
+- Gnathostomulid
+- Gnetophyta
+- Gnetum gnemon
+- Gobiinae
+- Goblin shark
+- Godwit
+- Goji
+- Golden Delicious
+- Golden Retriever
+- Golden algae
+- Golden jackal
+- Golden mole
+- Golden pheasant
+- Goliath birdeater
+- Goliath frog
+- Goliathus
+- Gomphothere
+- Gonepteryx rhamni
+- Gonorynchiformes
+- Gonostomatidae
+- Goose bumps
+- Gooseberry
+- Goosefish
+- Gopher
+- Gorgonops
+- Gorgonopsia
+- Gossypium
+- Gossypium arboreum
+- Gossypium hirsutum
+- Gouldian finch
+- Gourami
+- Graecopithecus
+- Grains of paradise
+- Gram stain
+- Gram-negative bacteria
+- Gram-positive bacteria
+- Granny Smith
+- Grapsus grapsus
+- Grass carp
+- Grass snake
+- Gray fox
+- Gray whale
+- Great auk
+- Greater kudu
+- Greater painted-snipe
+- Grebe
+- Green pheasant
+- Green sea turtle
+- Greenland shark
+- Grenadiers (fish)
+- Grey crowned crane
+- Grey junglefowl
+- Grey parrot
+- Greyhound
+- Greylag goose
+- Grifola frondosa
+- Grizzly bear
+- Groin
+- Gros Michel
+- Ground beetle
+- Ground hornbill
+- Ground roller
+- Ground sloth
+- Ground squirrel
+- Groundhog
+- Growth hormone
+- Grylloblattidae
+- Grévy's zebra
+- Guan (bird)
+- Guanine
+- Guernsey cattle
+- Guillemot
+- Guitarfish
+- Gums
+- Gunshot wound
+- Gymnotiformes
+- Gynaecology
+- Gynoecium
+- Gyrfalcon
+- HPV vaccine
+- Haast's eagle
+- Habanero
+- Habitat destruction
+- Habitat fragmentation
+- Hachikō
+- Hadrosauridae
+- Haemophilia
+- Haemophilus influenzae
+- Haikouichthys
+- Hair care
+- Hair cell
+- Hair conditioner
+- Hair follicle
+- Hair loss
+- Hair removal
+- Hairbrush
+- Hake
+- Halfbeak
+- Halibut
+- Halkieriid
+- Hallucigenia
+- Hallucinogen
+- Halobacterium
+- Halobates
+- Halothane
+- Halszkaraptor
+- Hamadryas baboon
+- Hamerkop
+- Hamstring
+- Hand sanitizer
+- Hand washing
+- Handedness
+- Handfish
+- Haplogroup
+- Harbor seal
+- Harbour porpoise
+- Hardy–Weinberg principle
+- Harpy eagle
+- Harvester ant
+- Hass avocado
+- Hatzegopteryx
+- Hawaiian honeycreeper
+- Hawksbill sea turtle
+- Hazard
+- Hazel
+- Head and neck cancer
+- Head lice infestation
+- Head louse
+- Headache
+- Healing
+- Health club
+- Health education
+- Health facility
+- Health professional
+- Healthcare industry
+- Healthy diet
+- Heart failure
+- Heart rate
+- Heart sounds
+- Heart transplantation
+- Heart valve
+- Heartburn
+- Heat illness
+- Heat stroke
+- Hector's dolphin
+- Helicase
+- Helicidae
+- Helicobacter pylori
+- Helicoprion
+- Helix pomatia
+- Helminthiasis
+- Hematophagy
+- Hematopoietic stem cell
+- Hemichordate
+- Hemodialysis
+- Hemorrhoid
+- Hemostasis
+- Hemp
+- Heparin
+- Hepatitis A
+- Hepatitis B
+- Hepatitis B vaccine
+- Hepatitis C
+- Hepatitis C virus
+- Hepatitis D
+- Hepatitis E
+- Hepatology
+- Herbaceous plant
+- Hercules beetle
+- Heritability
+- Hermit crab
+- Hernia
+- Heroin
+- Herpes esophagitis
+- Herpes simplex encephalitis
+- Herpes simplex keratitis
+- Herpes simplex virus
+- Herpesviridae
+- Herpetic gingivostomatitis
+- Herpetic whitlow
+- Herpetology
+- Herrerasaurus
+- Herto Man
+- Hesperocyparis lusitanica
+- Hesperocyparis macrocarpa
+- Hesperornis
+- Heterocongrinae
+- Heterodontosauridae
+- Heterodontosaurus
+- Heteroptera
+- Heteropteryx
+- Heterosis
+- Heterothermy
+- Heterotroph
+- Hevea brasiliensis
+- Hexactinellid
+- Hib vaccine
+- Hibiscus
+- Hiccup
+- High cholesterol
+- High-intensity interval training
+- Highland cattle
+- Himalayan cat
+- Hinny
+- Hip
+- Hip fracture
+- Hipparion
+- Hipparionini
+- Hippocampus
+- Hippoidea
+- Histidine
+- Histology
+- Histone
+- Histrionic personality disorder
+- Hives
+- Hoarding disorder
+- Hodgkin lymphoma
+- Holly
+- Holozoa
+- Homarus gammarus
+- Homeopathy
+- Homeostasis
+- Homeothermy
+- Homing pigeon
+- Hominidae
+- Homininae
+- Hominini
+- Homo antecessor
+- Homo ergaster
+- Homo floresiensis
+- Homo gautengensis
+- Homo heidelbergensis
+- Homo luzonensis
+- Homo naledi
+- Homo rhodesiensis
+- Homo rudolfensis
+- Homologous recombination
+- Homology (biology)
+- Homosclerophorida
+- Honduran white bat
+- Honey bee
+- Honey possum
+- Honeycrisp
+- Honeydew (melon)
+- Honeypot ant
+- Honeysuckle
+- Hooded crow
+- Hoof
+- Hops
+- Horizontal gene transfer
+- Hormone replacement therapy
+- Horn (anatomy)
+- Hornbeam
+- Horsehair crab
+- Horseshoe bat
+- Horseshoe crab
+- Hospice
+- Host (biology)
+- Hot flash
+- Houndshark
+- House crow
+- House mouse
+- Howler monkey
+- Huckleberry
+- Human Genome Project
+- Human anatomy
+- Human anus
+- Human back
+- Human biology
+- Human body temperature
+- Human digestive system
+- Human embryonic development
+- Human fertilization
+- Human hair color
+- Human head
+- Human microbiome
+- Human mouth
+- Human musculoskeletal system
+- Human nose
+- Human nutrition
+- Human penis
+- Human reproduction
+- Human reproductive system
+- Human skin
+- Human skin color
+- Human variability
+- Human–animal breastfeeding
+- Humerus
+- Hummingbird hawk-moth
+- Humorism
+- Hump-winged grig
+- Humphead wrasse
+- Humulus lupulus
+- Hunger (physiology)
+- Huntington's disease
+- Huntsman spider
+- Husky
+- Hyacinth
+- Hyaenodon
+- Hyaenodonta
+- Hyaline cartilage
+- Hybodontiformes
+- Hydra (genus)
+- Hydrangea
+- Hydrocodone
+- Hydrocortisone
+- Hydrosaurus
+- Hydroxyzine
+- Hydrozoa
+- Hylonomus
+- Hymen
+- Hyneria
+- Hyoid bone
+- Hypercarnivore
+- Hypericum perforatum
+- Hypertensive heart disease
+- Hyperthermia
+- Hyperthyroidism
+- Hypnotic
+- Hypocarnivore
+- Hypochondriasis
+- Hypocotyl
+- Hypoesthesia
+- Hypogeusia
+- Hyposmia
+- Hypotension
+- Hypothalamus
+- Hypothyroidism
+- Hypovolemic shock
+- Hypsilophodon
+- Hyssopus officinalis
+- Hysterectomy
+- Hysteria
+- Ibuprofen
+- Ichthyology
+- Ichthyornis
+- Ichthyosauria
+- Ichthyosaurus
+- Ichthyosporea
+- Ichthyostega
+- Ictonychinae
+- Iguana
+- Iguanidae
+- Ileum
+- Ilex aquifolium
+- Illicium verum
+- Imipramine
+- Immunity (medicine)
+- Immunization
+- Immunodeficiency
+- Immunosuppressive drug
+- Impacted wisdom teeth
+- Impetigo
+- Imprinting (psychology)
+- In vitro fertilisation
+- Inbreeding
+- Incertae sedis
+- Incision and drainage
+- Incisivosaurus
+- Index finger
+- Indian flying fox
+- Indian prawn
+- Indian rhinoceros
+- Indigofera
+- Indonesian coelacanth
+- Indri
+- Infant mortality
+- Infectious diseases (medical specialty)
+- Infectious mononucleosis
+- Infestation
+- Inflammatory bowel disease
+- Influenza A virus
+- Influenza A virus subtype H5N1
+- Influenza B virus
+- Influenza vaccine
+- Infraspecific name
+- Ingrown nail
+- Inhaler
+- Injection (medicine)
+- Injury in humans
+- Inkayacu
+- Inland taipan
+- Innate immune system
+- Inoculation
+- Inostrancevia
+- Insect morphology
+- Insect mouthparts
+- Insect wing
+- Insectivore
+- Insemination
+- Insomnia
+- Insular biogeography
+- Insulin (medication)
+- Intensive care medicine
+- Intensive care unit
+- Interbreeding between archaic and modern humans
+- Internal bleeding
+- Internal medicine
+- International Classification of Diseases
+- Intervertebral disc
+- Intravenous therapy
+- Introduction to evolution
+- Introduction to genetics
+- Introduction to viruses
+- Intron
+- Ipomoea
+- Ipomoea aquatica
+- Iris (anatomy)
+- Irish elk
+- Irritable bowel syndrome
+- Isatis tinctoria
+- Isoetes
+- Isoflurane
+- Isoleucine
+- Isopoda
+- Itch
+- Ivermectin
+- Ixora
+- Jacamar
+- Jacanidae
+- Jackson's chameleon
+- Jacob sheep
+- Jaekelopterus
+- Jalapeño
+- Jameson's mamba
+- Japanese encephalitis
+- Japanese giant salamander
+- Japanese macaque
+- Japanese rhinoceros beetle
+- Japanese spider crab
+- Jasmine
+- Jasmine rice
+- Jasminum officinale
+- Jasminum sambac
+- Jasmonate
+- Jaundice
+- Java Man
+- Java sparrow
+- Javan rhinoceros
+- Jay
+- Jejunum
+- Jerboa
+- Jersey cattle
+- Jet lag
+- Job's tears
+- John Dory
+- Joint dislocation
+- Juglandaceae
+- Jujube
+- Julida
+- Jumbo
+- Jumping jack
+- Juniper berry
+- Juniperus californica
+- Juniperus communis
+- Juniperus deppeana
+- Juniperus oxycedrus
+- Juniperus phoenicea
+- Juniperus scopulorum
+- Juniperus virginiana
+- Kabocha
+- Kaffir lime
+- Kagu
+- Kangaroo rat
+- Kaprosuchus
+- Kava
+- Kelenken
+- Kentrosaurus
+- Kenyanthropus
+- Keratin
+- Keratitis
+- Ketamine
+- Key lime
+- Keystone species
+- Kiang
+- Kidney bean
+- Kidney failure
+- Kidney stone disease
+- Kidney transplantation
+- Killifish
+- Kimura spider
+- Kinetoplastid
+- King cobra
+- King crab
+- King quail
+- Kingfisher
+- Kinglet
+- Kingsnake
+- Kinkajou
+- Kinorhyncha
+- Kitten
+- Kiwa hirsuta
+- Klebsiella pneumoniae
+- Kleptomania
+- Kleptothermy
+- Knee
+- Kodiak bear
+- Koel
+- Koko (gorilla)
+- Kola nut
+- Kookaburra
+- Koolasuchus
+- Kronosaurus
+- Kudzu
+- Kākāpō
+- LASIK
+- LSD
+- Labia
+- Lablab
+- Laboratory mouse
+- Laboratory rat
+- Lacerta (genus)
+- Lacertidae
+- Lactation
+- Lactobacillus
+- Lactobacillus delbrueckii subsp. bulgaricus
+- Lactococcus lactis
+- Lactose intolerance
+- Lady Amherst's pheasant
+- Lagerpetidae
+- Laika
+- Laika (dog type)
+- Lambeosaurus
+- Lamiales
+- Laminaria
+- Lamniformes
+- Lampriformes
+- Lancelet
+- Lancetfish
+- Land change science
+- Land snail
+- Landscape ecology
+- Lanternfish
+- Lantian Man
+- Lapwing
+- Lar gibbon
+- Larch
+- Laridae
+- Larus
+- Larynx
+- Lasiocampidae
+- Last universal common ancestor
+- Lateral line
+- Latissimus dorsi muscle
+- Latrodectus
+- Laughing dove
+- Lauraceae
+- Lead poisoning
+- Leaellynasaura
+- Leaf beetle
+- Leafcutter ant
+- Leafy seadragon
+- Leanchoilia
+- Learning disability
+- Leatherback sea turtle
+- Lecanorales
+- Leedsichthys
+- Leghorn chicken
+- Legionella
+- Legionella pneumophila
+- Legionnaires' disease
+- Legless lizard
+- Legume
+- Leicester Longwool
+- Leishmaniasis
+- Lemming
+- Lemnoideae
+- Lens (vertebrate anatomy)
+- Leopard seal
+- Lepas anatifera
+- Lepidodendron
+- Lepospondyli
+- Leptin
+- Leptospirosis
+- Leptosporangiate fern
+- Leptostraca
+- Lesser florican
+- Leucine
+- Liana
+- Libellula
+- Libellulidae
+- Lidocaine
+- Life extension
+- Ligand (biochemistry)
+- Light-dependent reactions
+- Lightheadedness
+- Ligia
+- Limb (anatomy)
+- Limnognathia
+- Limousin cattle
+- Limpet
+- Limpkin
+- Linckia laevigata
+- Lingulata
+- Linyphiidae
+- Lion tamarin
+- Lion's mane jellyfish
+- Lionfish
+- Liopleurodon
+- Lip
+- Lip balm
+- Lipid bilayer
+- Lipid profile
+- Lipizzan
+- Lipopolysaccharide
+- Lipoprotein
+- Liriodendron
+- Lissachatina fulica
+- Listeria monocytogenes
+- Lithium (medication)
+- Lithocarpus
+- Litopterna
+- Little egret
+- Little finger
+- Little owl
+- Little penguin
+- Liver cancer
+- Livestock guardian dog
+- Living fossil
+- Livyatan
+- Loach
+- Lobaria pulmonaria
+- Lobopodia
+- Local anesthesia
+- Local anesthetic
+- Locustellidae
+- Loggerhead sea turtle
+- Lonesome George
+- Long COVID
+- Long pepper
+- Long-tailed duck
+- Long-tailed weasel
+- Longclaw
+- Longfin mako shark
+- Longhorn beetle
+- Longisquama
+- Longleaf pine
+- Loperamide
+- Lophiodon
+- Lophotrochozoa
+- Loratadine
+- Loricifera
+- Loriini
+- Lotka–Volterra equations
+- Lovebird
+- Low back pain
+- Lucy (hominid)
+- Luna moth
+- Lupin bean
+- Lupinus
+- Lupus
+- Lutein
+- Lybiidae
+- Lycopodiaceae
+- Lycopodiopsida
+- Lycopodium
+- Lycopodium powder
+- Lygaeidae
+- Lygodium
+- Lymantria dispar dispar
+- Lymph
+- Lymph node
+- Lymphatic filariasis
+- Lymphatic vessel
+- Lysine
+- Lystrosaurus
+- MDMA
+- MMR vaccine
+- Macaw
+- Machairodontinae
+- Maclura pomifera
+- Macrauchenia
+- Macrobrachium rosenbergii
+- Macroevolution
+- Macrophage
+- Macropodiformes
+- Macrotermes bellicosus
+- Macrotis
+- Madagascar hissing cockroach
+- Madtsoiidae
+- Magnolia
+- Magnoliaceae
+- Magpie goose
+- Maine Coon
+- Maja squinado
+- Majoidea
+- Malacology
+- Malaria vaccine
+- Malayan tapir
+- Malpighiales
+- Maltose
+- Malus sieversii
+- Mamenchisauridae
+- Mammaliaformes
+- Mammalogy
+- Mammary gland
+- Mammutidae
+- Manakin
+- Manatee
+- Mandible
+- Mandibular fracture
+- Mandrill
+- Maned wolf
+- Mangabey
+- Mangosteen
+- Mangrove crab
+- Mania
+- Manilkara zapota
+- Manot 1
+- Mantella
+- Mantis shrimp
+- Mantophasmatidae
+- Manx cat
+- Mara (mammal)
+- Marabou stork
+- Marattiaceae
+- Marginocephalia
+- Marine fish
+- Marine hatchetfish
+- Marine iguana
+- Marine mammal
+- Marjoram
+- Markhor
+- Marmoset
+- Marsupial mole
+- Masai giraffe
+- Masiakasaurus
+- Mass psychogenic illness
+- Massage
+- Mast cell
+- Mastodon
+- Maternity den
+- Mating
+- Matoke
+- Mawsonia (fish)
+- Maxilla
+- Mayfly
+- McIntosh (apple)
+- Mecoptera
+- Medical abortion
+- Medical cannabis
+- Medical device
+- Medical emergency
+- Medical genetics
+- Medical glove
+- Medical microbiology
+- Medical procedure
+- Medical specialty
+- Medicalization
+- Medicinal plants
+- Medicine in the medieval Islamic world
+- Mediterranean house gecko
+- Medulla oblongata
+- Medulloblastoma
+- Meerkat
+- Megacerops
+- Megafauna
+- Megalaimidae
+- Megalania
+- Megalictis
+- Megalodon
+- Megalonyx
+- Megaloptera
+- Megalosaurus
+- Megamouth shark
+- Meganeura
+- Megapode
+- Megarachne
+- Megatherium
+- Megazostrodon
+- Meiolania
+- Mekosuchus
+- Melastomataceae
+- Melatonin
+- Melon
+- Membrane potential
+- Membrane protein
+- Membrane transport
+- Men's health
+- Menhaden
+- Meninges
+- Meningococcal vaccine
+- Menstrual cup
+- Menstrual pad
+- Menstruation
+- Mephitidae
+- Mercury poisoning
+- Mergini
+- Mergus
+- Merlangius
+- Merycoidodontoidea
+- Mescaline
+- Mesite
+- Mesocarnivore
+- Mesonychia
+- Mesonychidae
+- Mesoplodon
+- Mesosaurus
+- Mesothelae
+- Mesothelioma
+- Mesotherm
+- Messenger RNA
+- Metabolic disorder
+- Metabolomics
+- Metacarpal bones
+- Metagenomics
+- Metanephrops challengeri
+- Metastasis
+- Metatarsal bones
+- Metformin
+- Methadone
+- Methamphetamine
+- Methanobacteriati
+- Methanobacterium
+- Methionine
+- Methylphenidate
+- Metriorhynchidae
+- Metroxylon sagu
+- MicroRNA
+- Microbial ecology
+- Microbiological culture
+- Microbiome
+- Microdictyon
+- Microevolution
+- Micropaleontology
+- Microraptor
+- Microsauria
+- Microsporidia
+- Microtubule
+- Midazolam
+- Midbrain
+- Middle finger
+- Midge
+- Midwifery
+- Mimicry
+- Mineral (nutrient)
+- Miniature horse
+- Minke whale
+- Minnow
+- Miscarriage
+- Misgurnus fossilis
+- Missing link (human evolution)
+- Mitochondrial DNA
+- Mitochondrial Eve
+- Moa-nalo
+- Moeritherium
+- Moggy
+- Moisturizer
+- Mold
+- Mole salamander
+- Molecular evolution
+- Molecular genetics
+- Mollusc shell
+- Momordica charantia
+- Monal
+- Monarch butterfly
+- Mongrel
+- Monitor lizard
+- Monochromacy
+- Monoplacophora
+- Monosaccharide
+- Mood disorder
+- Mood stabilizer
+- Moonrat
+- Moorhen
+- Moorish idol
+- Moray eel
+- Morchella
+- Morchella esculenta
+- Mormyridae
+- Morpho (genus)
+- Morphology (biology)
+- Mosasaur
+- Mosasaurus
+- Moschidae
+- Moschops
+- Mosquito-borne disease
+- Motacillidae
+- Motion sickness
+- Motmot
+- Motor cortex
+- Motor neuron
+- Mountain goat
+- Mountain gorilla
+- Mountain zebra
+- Mourning dove
+- Mousebird
+- Mouth ulcer
+- Mouth-to-mouth resuscitation
+- Mouthwash
+- Mpox
+- Mucoromycotina
+- Mucus
+- Mudskipper
+- Mugger crocodile
+- Mugwort
+- Multiple birth
+- Multiple myeloma
+- Multituberculata
+- Mung bean
+- Muntjac
+- Muricidae
+- Murray cod
+- Musa acuminata
+- Musa balbisiana
+- Muscovy duck
+- Musk deer
+- Muskellunge
+- Mussel
+- Mustard plant
+- Mutagen
+- Muteness
+- Mutualism (biology)
+- Myalgia
+- Myalgic encephalomyelitis/chronic fatigue syndrome
+- Mycobacterium
+- Mycobacterium leprae
+- Mycobacterium tuberculosis
+- Mycoplasma
+- Mycoplasma pneumoniae
+- Mycorrhiza
+- Myctophiformes
+- Myelin
+- Myiasis
+- Myna
+- Myoclonus
+- Myopia
+- Myosin
+- Myosotis
+- Myrmecia (ant)
+- Myxogastria
+- Myxozoa
+- Nairobi fly
+- Najash
+- Naked mole-rat
+- Naloxone
+- Nanjing Man
+- Nanobdellati
+- Napa cabbage
+- Napkin
+- Naproxen
+- Narcissistic personality disorder
+- Narcissus poeticus
+- Narcolepsy
+- Narwhal
+- Nasal fracture
+- Natural killer cell
+- Natural reservoir
+- Naturopathy
+- Nausea
+- Nautiloid
+- Nautilus
+- Navel
+- Navy bean
+- Nebulizer
+- Neck
+- Necrosis
+- Nectar
+- Necturus
+- Needlefish
+- Neglected tropical diseases
+- Neisseria
+- Neisseria gonorrhoeae
+- Neisseria meningitidis
+- Nelumbo nucifera
+- Nematomorpha
+- Nemertea
+- Nene (bird)
+- Neocallimastigomycota
+- Neogale
+- Neomycin/polymyxin B/bacitracin
+- Neon tetra
+- Neonatal herpes
+- Neonatology
+- Nephrology
+- Nephron
+- Nephrops norvegicus
+- Nepomorpha
+- Nereididae
+- Nerium
+- Nerve
+- Nest
+- Neural network (biology)
+- Neurodegenerative disease
+- Neurological disorder
+- Neuroplasticity
+- Neuroptera
+- Neurospora crassa
+- Neurosurgery
+- Neurotoxin
+- Neutrophil
+- Nevus
+- New Mexico whiptail
+- New World barbet
+- New World quail
+- New Zealand parrot
+- Niche construction
+- Nicobar pigeon
+- Nicotiana
+- Nicotinamide adenine dinucleotide
+- Nicotinic acid
+- Nigella sativa
+- Nigerian Dwarf
+- Night heron
+- Night monkey
+- Nile crocodile
+- Nile monitor
+- Nile perch
+- Nimravidae
+- Nipah virus infection
+- Nipple
+- Nitazoxanide
+- Nitrososphaeria
+- Nitrous oxide (medication)
+- Noctuidae
+- Nodosauridae
+- Non-cellular life
+- Non-coding DNA
+- Non-coding RNA
+- Nonsteroidal anti-inflammatory drug
+- Norepinephrine
+- Norfolk Black
+- Norovirus
+- North African elephant
+- Northern giraffe
+- Northern mockingbird
+- Northern pintail
+- Northern shoveler
+- Northern storm petrel
+- Nosebleed
+- Nostril
+- Nothofagus
+- Nothofagus fusca
+- Nothofagus menziesii
+- Nothosaurus
+- Notonectidae
+- Notopteridae
+- Notostraca
+- Notosuchia
+- Notoungulata
+- Nuclear envelope
+- Nuclear medicine
+- Nucleic acid structure
+- Nucleolus
+- Nucleotide
+- Nudibranch
+- Numbat
+- Nuthatch
+- Nutrient
+- Nyctereutes
+- Nymphaea
+- Nymphaea lotus
+- Nymphaea nouchali var. caerulea
+- Nymphaea thermarum
+- Nymphaeaceae
+- Nymphalidae
+- Nypa fruticans
+- Oakmoss
+- Obsessive–compulsive disorder
+- Obsessive–compulsive personality disorder
+- Obstetrics
+- Obstructive shock
+- Occipital lobe
+- Occupational medicine
+- Occupational therapy
+- Oceanic dolphin
+- Ocellated turkey
+- Ocelot
+- Ochetellus glaber
+- Ocimum tenuiflorum
+- Octodon
+- Odobenocetops
+- Offspring
+- Oilbird
+- Okapi
+- Old Tjikko
+- Old World oriole
+- Old World porcupine
+- Old World quail
+- Old World warbler
+- Oligochaeta
+- Olive baboon
+- Olm
+- Omega−3 fatty acid
+- Omega−6 fatty acid
+- Omnivore
+- Onager
+- Onchocerciasis
+- Oncorhynchus
+- Onychomycosis
+- Onychophora
+- Oogenesis
+- Oogonium
+- Oomycete
+- Opabinia
+- Opah
+- Open fracture
+- Operating theater
+- Operon
+- Ophioglossidae
+- Ophthalmosaurus
+- Opiliones
+- Opioid
+- Opisthokont
+- Opportunistic infection
+- Oppositional defiant disorder
+- Optic nerve
+- Opuntia
+- Oral administration
+- Oral rehydration therapy
+- Orb-weaver spider
+- Order (taxonomy)
+- Oregano
+- Organ system
+- Organic matter
+- Oriental Shorthair
+- Oriental garden lizard
+- Oriental giant squirrel
+- Oriental pied hornbill
+- Oriental rat flea
+- Ornithischia
+- Ornithocheirus
+- Ornithology
+- Ornithomimosauria
+- Ornithomimus
+- Ornithopoda
+- Orrorin
+- Orthoceras
+- Orthodontics
+- Orthomyxoviridae
+- Orthonectida
+- Orthopedic surgery
+- Orthotics
+- Oryx
+- Oryza
+- Oryza glaberrima
+- Oseltamivir
+- Osmoregulation
+- Ossicles
+- Osteoarthritis
+- Osteoglossiformes
+- Osteolepis
+- Osteopathy
+- Osteoporosis
+- Ostraciidae
+- Ostrich
+- Otitis externa
+- Otitis media
+- Ottoia
+- Outer ear
+- Ovarian cancer
+- Overweight
+- Oviraptor
+- Ovulation
+- Owlet-nightjar
+- Oxidative phosphorylation
+- Oxpecker
+- Oxyaenidae
+- Oxycodone
+- Oxygen therapy
+- Oystercatcher
+- Pachycephalosauria
+- Pachycephalosaurus
+- Pachyrhinosaurus
+- Pacific bluefin tuna
+- Pacific saury
+- Paddlefish
+- Pademelon
+- Palaemon serratus
+- Palaeomerycidae
+- Palaeotheriidae
+- Palaeotherium
+- Palate
+- Paleobotany
+- Paleoecology
+- Pallas's cat
+- Palomino
+- Palpation
+- Palpigradi
+- Pan (genus)
+- Pancreatic cancer
+- Pandalus borealis
+- Pandanaceae
+- Pando (tree)
+- Panic attack
+- Panthera
+- Panthera hybrid
+- Panthera spelaea
+- Pantodonta
+- Pantothenic acid
+- Papaver somniferum
+- Papeda (citrus)
+- Paper towel
+- Paracanthurus
+- Paraceratherium
+- Paracetamol
+- Parakaryon
+- Parakeet
+- Parallel evolution
+- Paralysis
+- Paramedic
+- Paranoia
+- Paranoid personality disorder
+- Paranthropus aethiopicus
+- Paranthropus boisei
+- Paranthropus robustus
+- Parareptilia
+- Parasaurolophus
+- Parasitic disease
+- Parasitiformes
+- Parasitoid wasp
+- Parasympathetic nervous system
+- Parathyroid gland
+- Pareiasauria
+- Parietal lobe
+- Parmeliaceae
+- Parmotrema perlatum
+- Parrotfish
+- Parthenogenesis
+- Partridge
+- Passiflora edulis
+- Passive smoking
+- Passive transport
+- Patagona
+- Patella
+- Pathogen transmission
+- Pathogenic Escherichia coli
+- Pathogenic bacteria
+- Pathology
+- Pattern hair loss
+- Paubrasilia
+- Pauropoda
+- Pearlfish
+- Pecten maximus
+- Pectin
+- Pectoralis major
+- Pedetes
+- Peking Man
+- Pelagic fish
+- Pelagornis
+- Pelagornithidae
+- Pelican eel
+- Pellagra
+- Pelvic floor
+- Pelvic inflammatory disease
+- Pelycosaur
+- Penaeus monodon
+- Pencil fish
+- Penduline tit
+- Penetrance
+- Penetrating trauma
+- Penghu 1
+- Penicillium
+- Penile cancer
+- Pentatomoidea
+- Peony
+- Peppered moth
+- Peppermint
+- Peptic ulcer disease
+- Peptide
+- Peptidoglycan
+- Percussion (medicine)
+- Perentie
+- Perinatal asphyxia
+- Periodical cicadas
+- Periodontal disease
+- Peripheral artery disease
+- Peritoneum
+- Peroxisome
+- Persian cat
+- Persimmon
+- Personal grooming
+- Perspiration
+- Petal
+- Peteinosaurus
+- Petrified wood
+- Phage therapy
+- Phalaenopsis amabilis
+- Phalangeriformes
+- Phalangiotarbida
+- Phalanx bone
+- Phalarope
+- Phar Lap
+- Pharaoh ant
+- Pharmacodynamics
+- Pharmacotherapy
+- Pharynx
+- Phasianidae
+- Pheasant
+- Phencyclidine
+- Phenotype
+- Phenylalanine
+- Philippine eagle
+- Phloem
+- Pholcidae
+- Pholcus phalangioides
+- Phoneutria
+- Phonophobia
+- Phoronid
+- Phorusrhacidae
+- Phorusrhacos
+- Phospholipid
+- Photophobia
+- Photoreceptor cell
+- Phragmites australis
+- Phylliidae
+- Phylogenetic tree
+- Phylum
+- Physical activity
+- Phytelephas
+- Phytolacca
+- Phytophthora infestans
+- Phytoplankton
+- Phytosauria
+- Pica (disorder)
+- Picea abies
+- Picea engelmannii
+- Picea glauca
+- Picea mariana
+- Picea rubens
+- Picea sitchensis
+- Piciformes
+- Pickled cucumber
+- Pigeon pea
+- Pika
+- Pikaia
+- Pilates
+- Pill millipede
+- Pilot whale
+- Pilus
+- Pimple
+- Pinaceae
+- Pinales
+- Pine nut
+- Pine squirrel
+- Pineal gland
+- Pinguicula
+- Pinnidae
+- Pinto bean
+- Pinus elliottii
+- Pinus halepensis
+- Pinus lambertiana
+- Pinus longaeva
+- Pinus pinaster
+- Pinus pinea
+- Pinus ponderosa
+- Pinus strobus
+- Pinus sylvestris
+- Pinus taeda
+- Pipefish
+- Piper (plant)
+- Pipit
+- Piri piri
+- Pistachio
+- Pit viper
+- Pitaya
+- Pitcher plant
+- Pith
+- Pituitary gland
+- Placentalia
+- Placerias
+- Placodontia
+- Placozoa
+- Plague (disease)
+- Plains zebra
+- Plank (exercise)
+- Plant embryonic development
+- Plant nutrition
+- Plant pathology
+- Plant physiology
+- Planthopper
+- Plasmodesma
+- Plasmodium
+- Plastid DNA
+- Platax
+- Platelet
+- Plateosaurus
+- Platybelodon
+- Platypterygius
+- Plecoptera
+- Plesiosauroidea
+- Plesiosaurus
+- Plethodontidae
+- Pleural effusion
+- Pleurosauridae
+- Pleurotus
+- Pliosauroidea
+- Ploidy
+- Plotopteridae
+- Plover
+- Plymouth Rock chicken
+- Pneumococcal vaccine
+- Poales
+- Podiatry
+- Podocarpaceae
+- Poecilotheria metallica
+- Pogona
+- Poikilotherm
+- Point mutation
+- Pointing dog
+- Poison dart frog
+- Poison ivy
+- Pollicipes pollicipes
+- Pollock
+- Polycotylidae
+- Polyendocrine metabolic ovarian syndrome
+- Polygonaceae
+- Polylepis
+- Polynesian rat
+- Polyp (zoology)
+- Polysaccharide
+- Polysporangiophyte
+- Polytrauma
+- Pomacanthidae
+- Pomelo
+- Pomfret
+- Pons
+- Poodle
+- Poposauroidea
+- Population bottleneck
+- Population genetics
+- Population growth
+- Populus
+- Populus tremula
+- Populus tremuloides
+- Populus trichocarpa
+- Porcelain crab
+- Porcupinefish
+- Porphyra
+- Portia (spider)
+- Portia labiata
+- Portuguese man o' war
+- Portunidae
+- Post-nasal drip
+- Post-transcriptional modification
+- Post-translational modification
+- Postosuchus
+- Postpartum depression
+- Postterm pregnancy
+- Potamotrygonidae
+- Potoo
+- Potoroo
+- Pouch (marsupial)
+- Pouched lamprey
+- Pouteria campechiana
+- Pouteria sapota
+- Prairie dog
+- Pratincole
+- Prawn
+- Praya dubia
+- Precious coral
+- Pregnancy (mammals)
+- Pregnancy in fish
+- Pregnancy test
+- Prehensile-tailed porcupine
+- Premenstrual syndrome
+- Presbyopia
+- Presbyornis
+- Preterm birth
+- Priacanthidae
+- Priapulida
+- Primary amoebic meningoencephalitis
+- Primary production
+- Primary vein
+- Primula
+- Proboscis
+- Proboscis monkey
+- Procaine
+- Procambarus alleni
+- Procellariidae
+- Proconsul (mammal)
+- Proganochelys
+- Progesterone
+- Progestogen
+- Progymnosperm
+- Prolibytherium
+- Proline
+- Promoter (genetics)
+- Propofol
+- Propranolol
+- Proprioception
+- Prostate
+- Proteasome
+- Protein biosynthesis
+- Protein folding
+- Protein structure
+- Protein targeting
+- Proteinogenic amino acid
+- Proteome
+- Proteomics
+- Proterosuchus
+- Protocarnivorous plant
+- Protoceratidae
+- Protoceratops
+- Protostome
+- Protozoa
+- Protura
+- Prowfish
+- Prunus
+- Prunus avium
+- Prunus serotina
+- Przewalski's horse
+- Pseudevernia furfuracea
+- Pseudomonadota
+- Pseudomonas aeruginosa
+- Psilocybin
+- Psilocybin mushroom
+- Psittacosaurus
+- Psocodea
+- Psocoptera
+- Psophia
+- Psoriasis
+- Psychedelic drug
+- Psychiatric medication
+- Psychoactive drug
+- Psychodidae
+- Psychological trauma
+- Pteranodon
+- Pteraspis
+- Pteridosperm
+- Pterocarpus indicus
+- Pterodactylus
+- Pterodaustro
+- Pterophyllum
+- Pubic hair
+- Pudu
+- Puffball
+- Puffin
+- Pull-up
+- Pulmonary alveolus
+- Pumpkinseed
+- Pungency
+- Pupfish
+- Pupil
+- Puppy
+- Purgatorius
+- Purkinje effect
+- Push-up
+- Pye-dog
+- Pygmy hippopotamus
+- Pygmy marmoset
+- Pygmy sperm whale
+- Pyridoxine
+- Pyromania
+- Pyrrhocoris apterus
+- Pyrus communis
+- Pyrus pyrifolia
+- Pyrus × bretschneideri
+- Python (genus)
+- Pythonidae
+- Père David's deer
+- Quadrupedalism
+- Quagga
+- Quality of life
+- Quantitative genetics
+- Quarantine
+- Quercus acutissima
+- Quercus alba
+- Quercus macrocarpa
+- Quercus oblongifolia
+- Quercus robur
+- Quercus rubra
+- Quercus suber
+- Quercus velutina
+- Quercus virginiana
+- Quetzalcoatlus
+- Quince
+- Quokka
+- Quoll
+- R/K selection theory
+- RNA interference
+- RNA polymerase
+- RNA splicing
+- Rabbit fish
+- Rabbitfish
+- Rabies vaccine
+- Raccoon
+- Radicle
+- Radiolaria
+- Radius (bone)
+- Rafflesia arnoldii
+- Ragamuffin cat
+- Ragdoll
+- Rainbow lorikeet
+- Rainbow trout
+- Rambouillet sheep
+- Rambutan
+- Rana (genus)
+- Ranatra
+- Ranina ranina
+- Ranitidine
+- Ranunculus
+- Rapid eye movement sleep
+- Rapini
+- Rash
+- Rattan
+- Ravenala
+- Raynaud syndrome
+- Receptor (biochemistry)
+- Rectum
+- Rectus abdominis muscle
+- Red Deer Cave people
+- Red Delicious
+- Red banana
+- Red fox
+- Red junglefowl
+- Red kangaroo
+- Red king crab
+- Red mullet
+- Red panda
+- Red river hog
+- Red squirrel
+- Red wolf
+- Red-bellied black snake
+- Red-billed quelea
+- Redback spider
+- Redcurrant
+- Reduction (orthopedic procedure)
+- Reduviidae
+- Reedfish
+- Reef lobster
+- Refractive error
+- Regulation of gene expression
+- Regurgitation (digestion)
+- Remingtonocetidae
+- Repenomamus
+- Reperfusion therapy
+- Repetitive strain injury
+- Reproductive isolation
+- Reproductive medicine
+- Reptiliomorpha
+- Requiem shark
+- Residential treatment center
+- Respiratory disease
+- Respiratory rate
+- Respiratory sounds
+- Respiratory tract infection
+- Restriction enzyme
+- Reticulated giraffe
+- Reticulated python
+- Retina
+- Retriever
+- Reverse genetics
+- Reverse transcriptase
+- Reverse zoonosis
+- Rex rabbit
+- Reynoutria japonica
+- Rh blood group system
+- Rhamphorhynchus
+- Rhaphidophoridae
+- Rheumatic fever
+- Rheumatoid arthritis
+- Rheumatology
+- Rhinocerotoidea
+- Rhinorrhea
+- Rhizobia
+- Rhizome
+- Rhizopus
+- Rhode Island Red
+- Rhodopsin
+- Rhubarb
+- Rhynchocephalia
+- Rhynchocinetidae
+- Rhynchosauria
+- Rhyniophyte
+- Rib
+- Rib cage
+- Ribbon eel
+- Ribbonfish
+- Ribes
+- Riboflavin
+- Ribose
+- Ribosomal RNA
+- Ricefish
+- Ricinulei
+- Rickets
+- Rift Valley fever
+- Riftia
+- Right whale
+- Right whale dolphin
+- Rin Tin Tin
+- Rinderpest
+- Ring finger
+- Ring-tailed lemur
+- Ringtail
+- Risso's dolphin
+- River dolphin
+- River shark
+- Roadrunner
+- Rock-wallaby
+- Rod cell
+- Roe deer
+- Romney sheep
+- Rook (bird)
+- Root canal treatment
+- Rosales
+- Rosella
+- Rosemary
+- Rotavirus vaccine
+- Rotifer
+- Rough-skinned newt
+- Route of administration
+- Rove beetle
+- Rowan
+- Roystonea
+- Roystonea oleracea
+- Roystonea regia
+- Rubia tinctorum
+- Rubus
+- Rudists
+- Ruff (bird)
+- Ruffed lemur
+- Rufous hummingbird
+- Russet Burbank
+- Russian Blue
+- Rusty-spotted cat
+- Rutaceae
+- Rynchops
+- SAR supergroup
+- SARS
+- SARS-CoV-2
+- SIDS
+- Saba banana
+- Sabal
+- Saber-toothed predator
+- Sable
+- Sacrum
+- Safety razor
+- Safflower
+- Sahelanthropus
+- Saiga antelope
+- Sailfish
+- Salbutamol
+- Saldidae
+- Salicaceae
+- Salicylic acid
+- Saliva
+- Salivary gland
+- Salix alba
+- Salix babylonica
+- Salix nigra
+- Salmeterol
+- Salmonella enterica
+- Salp
+- Saltasauridae
+- Saltwater crocodile
+- Salvia hispanica
+- Salvia officinalis
+- Salviniales
+- Samanea saman
+- Sambucus
+- Sand dollar
+- Sand shark
+- Sand tiger shark
+- Sandfly
+- Sandgrouse
+- Sapindaceae
+- Sarcoma
+- Sarcosuchus
+- Sassafras
+- Sauria
+- Saurischia
+- Sauropsida
+- Savoy cabbage
+- Sawfly
+- Sawshark
+- Scalding
+- Scallion
+- Scalp
+- Scansoriopterygidae
+- Scapula
+- Scar
+- Scarabaeidae
+- Scelidosaurus
+- Sceliphrini
+- Scent hound
+- Schinus
+- Schistosomiasis
+- Schizoid personality disorder
+- Schizomida
+- Schizosaccharomyces pombe
+- Schizotypal personality disorder
+- Sciadopitys
+- Sciatica
+- Sciurus
+- Scleromochlus
+- Scolecophidia
+- Scoliosis
+- Scolopendra gigantea
+- Scolopendridae
+- Scombridae
+- Scops owl
+- Scorpaenidae
+- Scotoplanes globosa
+- Screamer
+- Screening (medicine)
+- Scrotum
+- Scurvy
+- Scutigera coleoptrata
+- Scutosaurus
+- Scyliorhinidae
+- Scylla serrata
+- Scyphozoa
+- Sea anemone
+- Sea apple
+- Sea eagle
+- Sea krait
+- Sea lamprey
+- Sea lettuce
+- Sea lion
+- Sea pen
+- Sea slug
+- Sea snail
+- Sea spider
+- Sea toad
+- Sea-Monkeys
+- Seabiscuit
+- Seagrass
+- Search and rescue
+- Seasonal affective disorder
+- Sebastinae
+- Second messenger system
+- Secondary metabolite
+- Secretariat (horse)
+- Secretin
+- Sedative
+- Seed dispersal
+- Seed plant
+- Seedling
+- Seizure
+- Selaginella
+- Selective serotonin reuptake inhibitor
+- Self-harm
+- Semnopithecus
+- Senescence
+- Sensory neuron
+- Sepal
+- Sepsis
+- Septic shock
+- Sequoia sempervirens
+- Sequoiadendron giganteum
+- Serenoa
+- Seriema
+- Serine
+- Serotonin
+- Serow
+- Sertraline
+- Serval
+- Setter
+- Sex chromosome
+- Sex linkage
+- Sex-determination system
+- Sexual dysfunction
+- Sexual selection
+- Seymouria
+- Shallot
+- Shampoo
+- Sharovipteryx
+- Shaving cream
+- Sheep–goat hybrid
+- Shetland pony
+- Shigella
+- Shimeji
+- Shingles
+- Shipworm
+- Shivering
+- Shonisaurus
+- Short-eared dog
+- Shortness of breath
+- Shoulder
+- Shower gel
+- Shrimpfish
+- Shringasaurus
+- Siamang
+- Siberian crane
+- Siberian tiger
+- Sichuan pepper
+- Sickle cell disease
+- Side effect
+- Side-striped jackal
+- Sidneyia
+- Siesta
+- Sifaka
+- Sighthound
+- Signal transduction
+- Signs and symptoms
+- Sika deer
+- Sildenafil
+- Silesauridae
+- Silkie
+- Silphium
+- Silver carp
+- Silverfish
+- Simmental cattle
+- Simosuchus
+- Simple eye in invertebrates
+- Siphonophore
+- Sipuncula
+- Sirenidae
+- Sit-up
+- Sivapithecus
+- Sivatherium
+- Skeletal muscle cramp
+- Skin care
+- Skin grafting
+- Skin infection
+- Skipjack tuna
+- Skua
+- Skull fracture
+- Sleep apnea
+- Sleep deprivation
+- Sleep disorder
+- Sleep in animals
+- Sleep paralysis
+- Sleepwalking
+- Slimehead
+- Slipper lobster
+- Sloth bear
+- Slug
+- Smilodon
+- Smoking pipe
+- Smooth muscle
+- Smooth-coated otter
+- Snail
+- Snakebite
+- Snakefly
+- Snap pea
+- Sneeze
+- Snipe
+- Snipe eel
+- Snout
+- Snow goose
+- Snow pea
+- Snowshoe hare
+- Snowy owl
+- Social anxiety disorder
+- Sociobiology
+- Sole (fish)
+- Solenodon
+- Solifugae
+- Solo Man
+- Somali cat
+- Somatic cell
+- Somatic symptom disorder
+- Sore throat
+- Soursop
+- South American fox
+- Southern giraffe
+- Southern hawker
+- Southern right whale
+- Spaghetti squash
+- Spalax
+- Spaniel
+- Spanish Fighting Bull
+- Spanish dancer
+- Spanish mackerel
+- Sparassodonta
+- Sparidae
+- Spearmint
+- Speciation
+- Spectacled bear
+- Speculum (medicine)
+- Speech disorder
+- Speech–language pathology
+- Spelt
+- Spermatogenesis
+- Spermophilus
+- Sphingidae
+- Sphynx cat
+- Spider web
+- Spinal nerve
+- Spine (zoology)
+- Spinosauridae
+- Spinosaurus
+- Spiny lobster
+- Spirogyra
+- Spirula
+- Splinter
+- Spongia officinalis
+- Spoonbill
+- Sporangium
+- Sports medicine
+- Spotted dove
+- Spotted ratfish
+- Spotted skunk
+- Sprain
+- Springbok
+- Squamata
+- Squat (exercise)
+- Squat lobster
+- Squilla mantis
+- Squirrel monkey
+- Stab wound
+- Stag beetle
+- Staining
+- Stamen
+- Staphylococcal infection
+- Staphylococcus
+- Star-nosed mole
+- Starvation
+- Statin
+- Stegoceras
+- Stegodon
+- Stegodontidae
+- Stegosauria
+- Stele (biology)
+- Steller's sea cow
+- Stenopodidea
+- Stenotherm
+- Steppe bison
+- Steppe eagle
+- Stereospondyli
+- Sternum
+- Steroid hormone
+- Stethacanthus
+- Sthenurus
+- Stick mantis
+- Stillbirth
+- Stilt
+- Stingless bee
+- Stolon
+- Stomach cancer
+- Stomatosuchidae
+- Stomiiformes
+- Stone-curlew
+- Straight razor
+- Strain (injury)
+- Strelitzia
+- Strength training
+- Strepsiptera
+- Streptococcal pharyngitis
+- Streptococcus
+- Streptococcus pneumoniae
+- Streptococcus pyogenes
+- Stretching
+- Strigidae
+- Strigolactone
+- Strix (bird)
+- Strobilus
+- Stromatolite
+- Strongylocentrotus purpuratus
+- Structural biology
+- Structural coloration
+- Stunted growth
+- Stupendemys
+- Stuttering
+- Styracosaurus
+- Styrax
+- Subfossil lemur
+- Subspecies
+- Substance abuse
+- Sucrose
+- Sue (dinosaur)
+- Sugar glider
+- Suicide crisis
+- Suicide intervention
+- Suicide methods
+- Suicide prevention
+- Suidae
+- Sulfolobus
+- Sumac
+- Sumatran orangutan
+- Sumatran rhinoceros
+- Sumatran tiger
+- Summer squash
+- Sun bear
+- Sunbittern
+- Sunburn
+- Sunda clouded leopard
+- Sunflower sea star
+- Sunscreen
+- Supercentenarian
+- Surgeon
+- Surrogacy
+- Sus (genus)
+- Swamphen
+- Swan goose
+- Swarm behaviour
+- Sweat gland
+- Sweet chestnut
+- Sweet corn
+- Sweetness
+- Swietenia
+- Swiftlet
+- Syagrus romanzoffiana
+- Symbion
+- Sympathetic nervous system
+- Symphyla
+- Synapse
+- Syncope (medicine)
+- Synesthesia
+- Syngnathiformes
+- Synodontidae
+- Synonym (taxonomy)
+- Syringa
+- Systematics
+- Systems biology
+- T cell
+- Tabasco pepper
+- Tabby cat
+- Tablet (pharmacy)
+- Tachinidae
+- Tachycardia
+- Tadorna
+- Taenia solium
+- Taeniasis
+- Taeniodonta
+- Tahr
+- Tail
+- Tailed frog
+- Taipan
+- Takahē
+- Takifugu
+- Takin
+- Tamandua
+- Tamarin
+- Tambaqui
+- Tamisiocarididae
+- Tampon
+- Tanager
+- Tangerine
+- Tanystropheus
+- Tapejaridae
+- Tapinoma melanocephalum
+- Tapinoma sessile
+- Taproot
+- Tarantula hawk
+- Tarpan
+- Tarpon
+- Tarragon
+- Tarsus (skeleton)
+- Taung Child
+- Tautavel Man
+- Taxaceae
+- Taxodium distichum
+- Taxon
+- Taxonomic rank
+- Taxus
+- Taxus baccata
+- Taxus brevifolia
+- Teak
+- Tears
+- Teff
+- Tegenaria domestica
+- Teiidae
+- Telehealth
+- Teleoceras
+- Teleosauridae
+- Teleost
+- Telogen effluvium
+- Telomere
+- Temnodontosaurus
+- Temnospondyli
+- Temporal lobe
+- Tempskya
+- Tench
+- Tendinopathy
+- Tendril
+- Tennis elbow
+- Tenrec
+- Tension headache
+- Tephritidae
+- Teratornithidae
+- Terminator (genetics)
+- Terrestrial crab
+- Terrestrial locomotion
+- Testicular cancer
+- Testudo (genus)
+- Tetra
+- Tetrachromacy
+- Tetracycline
+- Tetracycline antibiotics
+- Tetraodontiformes
+- Tetrigidae
+- Texas Longhorn
+- Thai basil
+- Thalamus
+- Thalassodromeus
+- Thalattosauria
+- Thallus
+- Thelodonti
+- Theobroma cacao
+- Therapsida
+- Theridiidae
+- Therizinosaurus
+- Thermogenesis
+- Thermolabile
+- Thermoplasma
+- Thermoproteati
+- Thermoproteota
+- Thermostability
+- Thermus aquaticus
+- Therocephalia
+- Theropoda
+- Thescelosaurus
+- Thiamine
+- Thiamine deficiency
+- Thigh
+- Thomisidae
+- Thoracic diaphragm
+- Thorax (arthropod anatomy)
+- Thorny devil
+- Three-spined stickleback
+- Threonine
+- Thresher shark
+- Thrinaxodon
+- Thrips
+- Throat
+- Thrombosis
+- Thumb
+- Thylacine
+- Thylacocephala
+- Thylacoleo
+- Thylacosmilus
+- Thylakoid
+- Thymine
+- Thymus
+- Thyreophora
+- Thyroid hormones
+- Tibia
+- Tick-borne disease
+- Tigecycline
+- Tiktaalik
+- Tilefish
+- Tilia
+- Timema
+- Tinnitus
+- Titanis
+- Titanoboa
+- Titanosauria
+- Tityus serrulatus
+- Toad
+- Toco toucan
+- Tody
+- Toe
+- Toilet paper
+- Tokay gecko
+- Tomatillo
+- Tonkinese cat
+- Tonsil
+- Tooth
+- Toothbrush
+- Toothed whale
+- Toothpaste
+- Toothpick
+- Topical medication
+- Torso
+- Tortricidae
+- Tourette syndrome
+- Towel
+- Toxic injury
+- Toxicodendron
+- Toxicodendron vernicifluum
+- Toxin
+- Toxocariasis
+- Toxodon
+- Toxoplasma gondii
+- Toxoplasmosis
+- Toy dog
+- Trace fossil
+- Trachea
+- Tracheal intubation
+- Tradescantia
+- Tragopan
+- Transcription factor
+- Transcriptome
+- Transfer RNA
+- Transitional fossil
+- Transmissible spongiform encephalopathy
+- Transposable element
+- Trapeziidae
+- Trauma center
+- Traumatology
+- Tree frog
+- Tree kingfisher
+- Tree squirrel
+- Tree-kangaroo
+- Treehopper
+- Treeshrew
+- Treeswift
+- Trematoda
+- Treponema pallidum
+- Triadobatrachus
+- Triage
+- Tribe (taxonomy)
+- Triceps
+- Trichomonas vaginalis
+- Trichoplax
+- Trichromacy
+- Triggerfish
+- Triglidae
+- Trigonotarbida
+- Trimerophytopsida
+- Tringa
+- Trionychidae
+- Tripedalism
+- Triticale
+- Trombiculidae
+- Troodontidae
+- Trophic cascade
+- Trophic level
+- Tropical fish
+- Tropicbird
+- True parrot
+- Trumpetfish
+- Trypanosoma
+- Trypanosoma brucei
+- Trypanosoma cruzi
+- Tryptophan
+- Tsuga
+- Tuber
+- Tuber (fungus)
+- Tubifex
+- Tui na
+- Tumbleweed
+- Tunicate
+- Turbellaria
+- Turkey (bird)
+- Turkish Angora
+- Turmeric
+- Turnstone
+- Turrid
+- Turritellidae
+- Turritopsis dohrnii
+- Tusk
+- Tusk shell
+- Twig
+- Two-toed sloth
+- Tylosaurus
+- Type 1 diabetes
+- Type 2 diabetes
+- Type genus
+- Type species
+- Typha latifolia
+- Typhoid vaccine
+- Tyranni
+- Tyrannosauroidea
+- Tyrosine
+- Uakari
+- Ubiquitin
+- Udder
+- Uintatherium
+- Ulcerative colitis
+- Ulmaceae
+- Ulmus americana
+- Ulmus davidiana
+- Ulmus glabra
+- Ulmus laevis
+- Ulmus minor
+- Ulmus parvifolia
+- Ulmus pumila
+- Ulmus rubra
+- Ulna
+- Umami
+- Umbilical cord
+- Umbrella octopus
+- Underweight
+- Unenlagiinae
+- Ungulate
+- Unionida
+- Unipedalism
+- Universal health care
+- Uracil
+- Urban ecology
+- Ureter
+- Urethra
+- Urinary tract infection
+- Urination
+- Urine
+- Urine test
+- Uromastyx
+- Uropygi
+- Ursid hybrid
+- Urtica dioica
+- Urticaceae
+- Usnea
+- Utahraptor
+- Utricularia
+- Uvula
+- Vaccines and autism
+- Vaccinium
+- Vaccinium myrtillus
+- Vaccinium vitis-idaea
+- Vachellia
+- Vachellia tortilis
+- Valine
+- Vampire squid
+- Vanessa cardui
+- Vaquita
+- Variant Creutzfeldt–Jakob disease
+- Varicella vaccine
+- Varicella zoster virus
+- Vascular plant
+- Vasectomy
+- Vasopressin
+- Vechur cattle
+- Vegetative reproduction
+- Veliidae
+- Velvet crab
+- Veneridae
+- Ventricle (heart)
+- Venule
+- Venus flytrap
+- Vernalization
+- Vertebra
+- Vertigo
+- Vesicle (biology and chemistry)
+- Vespertilionidae
+- Vestibular system
+- Vestigiality
+- Veterinarian
+- Vetulicolia
+- Vibrio
+- Vibrio cholerae
+- Victoria (plant)
+- Victoria amazonica
+- Vietnamese Pot-bellied
+- Vigna
+- Vigna aconitifolia
+- Vigna mungo
+- Vine
+- Viper
+- Viperfish
+- Viral disease
+- Viral evolution
+- Vireo
+- Virginia opossum
+- Virology
+- Virus latency
+- Viscacha
+- Visual acuity
+- Visual cortex
+- Vital signs
+- Vitamin A
+- Vitamin B12
+- Vitamin B3
+- Vitamin B6
+- Vitamin C
+- Vitamin D
+- Vitamin E
+- Vitamin K
+- Vitellaria
+- Vitiligo
+- Vitreous body
+- Viverridae
+- Viviparous brotula
+- Viviparous lizard
+- Voay
+- Vocal sac
+- Vole
+- Volvariella volvacea
+- Vombatiformes
+- Vomiting
+- Vulpes
+- Vulture
+- Vulva
+- WASH
+- WHO Model List of Essential Medicines
+- Wagtail
+- Wakefulness
+- Wallaby
+- Wallaroo
+- Wallcreeper
+- Warfarin
+- Warm-blooded
+- Wart
+- Warthog
+- Wasabi
+- Washingtonia filifera
+- Water beetle
+- Water deer
+- Water dog
+- Water kingfisher
+- Waterborne disease
+- Watercress
+- Wattieza
+- Wattleseed
+- Waxwing
+- Weaver ant
+- Webbed foot
+- Wedge-tailed eagle
+- Wedgefish
+- Weever
+- Wels catfish
+- Welwitschia
+- Wentletrap
+- Wernicke's area
+- West Indian Ocean coelacanth
+- Western grey kangaroo
+- Western jackdaw
+- Western lowland gorilla
+- Wet nurse
+- Wet wipe
+- Whelk
+- Whiptail stingray
+- Whirligig beetle
+- Whistling duck
+- White coat
+- White currant
+- White rhinoceros
+- White rice
+- White stork
+- White tiger
+- White-eye
+- White-tailed deer
+- Whiteleg shrimp
+- Wild Bactrian camel
+- Wild goat
+- Wild rice
+- Wild turkey
+- Wild water buffalo
+- Wild yak
+- Wildcat
+- Wildlife
+- Winter squash
+- Wisteria
+- Wiwaxia
+- Wobbegong
+- Wolf spider
+- Wolfdog
+- Wombat
+- Women's health
+- Wood frog
+- Wood turtle
+- Woolly mammoth
+- Woolly rhinoceros
+- Worm
+- Wound healing
+- Wrestling halfbeak
+- Wrinkle
+- Wrist
+- Wētā
+- Xanthorrhoea
+- Xenacoelomorpha
+- Xenopeltis
+- Xenopus
+- Xerini
+- Xiphactinus
+- Xylem
+- Y-chromosomal Adam
+- Yawn
+- Yellow crazy ant
+- Yellow fever vaccine
+- Yellow-bellied sea snake
+- Yellow-green algae
+- Yellow-lipped sea krait
+- Yellow-throated marten
+- Yellowjacket
+- Yersinia pestis
+- Yinlong
+- Yoga as exercise
+- Yolk
+- Youngina
+- Yuanmou Man
+- Yukon Gold potato
+- Yutyrannus
+- Zanthoxylum piperitum
+- Zebra dove
+- Zebra mussel
+- Zebra shark
+- Zebroid
+- Zebu
+- Zidovudine
+- Ziehl–Neelsen stain
+- Zika fever
+- Zingiber
+- Zingiberaceae
+- Zinnia
+- Zoonosis
+- Zooplankton
+- Zoraptera
+- Zosterophyll
+- Zoysia
+- Zygentoma
+- Zygosity
+- Zygote
+- Âne Corse
+- Β-Carotene
+
+### Everyday life (+1992)
+- 1936 Summer Olympics
+- 1980 Summer Olympics
+- 200 metres
+- 24 Hours of Le Mans
+- 3x3 basketball
+- 69 (sex position)
+- 7 Up
+- AC Milan
+- AFC Ajax
+- ATP Tour
+- Absinthe
+- Acrobatic gymnastics
+- Action game
+- Action role-playing game
+- Action-adventure game
+- Adolescent sexuality
+- Adult movie theater
+- Adventure (1980 video game)
+- Adventure game
+- Aerobatics
+- African Games
+- African cuisine
+- Afro
+- Age of Empires
+- Aikido
+- Air hockey
+- Airbrush makeup
+- Airsoft
+- Ale
+- Almond milk
+- Aloha shirt
+- Aluminium foil
+- Amateur boxing
+- Amateur pornography
+- Amateur sports
+- America's Cup
+- American cheese
+- American cuisine
+- American handball
+- American whiskey
+- Amusement arcade
+- Anchovies as food
+- Ancient Olympic pentathlon
+- Angry Birds
+- Anilingus
+- Animal Crossing
+- Antique
+- Apple cider vinegar
+- Apple juice
+- Apple pie
+- Applejack (drink)
+- Apron
+- Arab cuisine
+- Arabic coffee
+- Arcade video game
+- Arena
+- Argentina national football team
+- Arm wrestling
+- Arnis
+- Aromanticism
+- Arsenal F.C.
+- Artificial hair integrations
+- Artificial intelligence in video games
+- Artistic gymnastics
+- Ascot tie
+- Assassin's Creed
+- Assisted living
+- Asteroids (video game)
+- Atari 2600
+- Athlete
+- Attic
+- Aunt
+- Australia national cricket team
+- Australian Football League
+- Australian Open
+- Autograph
+- Avocado oil
+- Award
+- BLT
+- BMX
+- BMX racing
+- BWF World Championships
+- Baby food
+- Babysitting
+- Baccarat
+- Backpack
+- Backpacking (hiking)
+- Backpacking (travel)
+- Backstroke
+- Badge
+- Bagel
+- Baggage
+- Baguazhang
+- Baguette
+- Baja 1000
+- Baklava
+- Balance beam
+- Balcony
+- Baldur's Gate
+- Ball (association football)
+- Ball gown
+- Balloon
+- Balsamic vinegar
+- Bando
+- Bandy
+- Bangs (hair)
+- Banquet
+- Baozi
+- Barbecue
+- Barbecue sauce
+- Barbell
+- Barber
+- Bare-knuckle boxing
+- Barquillo
+- Barrel racing
+- Baseball (ball)
+- Baseball bat
+- Baseball cap
+- Baseball card
+- Baseball glove
+- Basement
+- Basketball (ball)
+- Basque pelota
+- Bass fishing
+- Batter (cooking)
+- Batting (cricket)
+- Battleship (game)
+- Beach ball
+- Beanie (seamed cap)
+- Bedding
+- Beef tenderloin
+- Beer glassware
+- Beer pong
+- Beijing National Stadium
+- Bench (furniture)
+- Beret
+- Berry
+- Beshbarmak
+- Bezique
+- Big Mac
+- Big-game fishing
+- Bigamy
+- Bikini
+- Bingo (American version)
+- Bingo (British version)
+- BioShock
+- Birdwatching
+- Birth order
+- Birthday cake
+- Biryani
+- Bishop (chess)
+- Black tea
+- Blanket
+- Blazer
+- Blind man's buff
+- Blini
+- Blood as food
+- Blood brother
+- Blood sport
+- Bloody Mary (cocktail)
+- Blouse
+- Blue cheese
+- Bob cut
+- Bocce
+- Boccia
+- Bodyline
+- Boiled egg
+- Bolo tie
+- Bolster
+- Bondage (BDSM)
+- Book collecting
+- Bookcase
+- Borscht
+- Boss (video games)
+- Boston Celtics
+- Boston Red Sox
+- Bottled water
+- Bouillabaisse
+- Bouldering
+- Bourbon whiskey
+- Bow tie
+- Bowl
+- Bowler hat
+- Bowling (cricket)
+- Bowls
+- Box lacrosse
+- Boxer shorts
+- Bracelet
+- Braid (hairstyle)
+- Brain teaser
+- Braising
+- Bratwurst
+- Bratz
+- Brazil national football team
+- Brazilian cuisine
+- Breadcrumbs
+- Breaststroke
+- Bride price
+- Brie
+- Briefcase
+- Briefs
+- Brisket
+- British cuisine
+- Bronc riding
+- Bronx Zoo
+- Brooch
+- Broth
+- Brothel
+- Brunch
+- Bruschetta
+- Bubble gum
+- Bubble tea
+- Buffalo wing
+- Buffet
+- Bulgogi
+- Bulgur
+- Bull riding
+- Bumper cars
+- Bun
+- Bundesliga
+- Bungee jumping
+- Bunk bed
+- Burqa
+- Burrito
+- Busch Gardens
+- Bushmeat
+- Butter chicken
+- Butter knife
+- Butterfly stroke
+- Buttermilk
+- Buzkashi
+- Buzz cut
+- Bánh mì
+- Caesar salad
+- Cafeteria
+- Calcio storico fiorentino
+- California roll
+- Call girl
+- Call of Cthulhu (role-playing game)
+- Call of Duty
+- Call of Duty 4: Modern Warfare
+- Camel racing
+- Camisole
+- Camogie
+- Campeonato Brasileiro Série A
+- Canada men's national ice hockey team
+- Canadian Football League
+- Canadian cuisine
+- Canadian football
+- Canasta
+- Candy Crush Saga
+- Candy Land
+- Candy bar
+- Candy corn
+- Canned fish
+- Canoe slalom
+- Canoe sprint
+- Cantonese cuisine
+- Canyoning
+- Cap
+- Cape
+- Cappuccino
+- Capture the flag
+- Carbonara
+- Carbonated water
+- Carcassonne (board game)
+- Caribbean cuisine
+- Carom billiards
+- Carousel
+- Carrom
+- Casserole
+- Casting (fishing)
+- Castlevania
+- Castlevania: Symphony of the Night
+- Casual sex
+- Casual wear
+- Cat meat
+- Catan
+- Caviar
+- Cedar Point
+- Censer
+- Ceviche
+- Chamomile
+- Champagne
+- Chapati
+- Char kway teow
+- Char siu
+- Charades
+- Chariot racing
+- Chaturanga
+- Cheddar cheese
+- Cheek kissing
+- Cheerleading
+- Cheeseburger
+- Cheesecake
+- Chess piece
+- Chess theory
+- Chest of drawers
+- Chewing gum
+- Chicago Bulls
+- Chicken nugget
+- Chicken soup
+- Chicken tikka masala
+- Child care
+- Child pornography
+- Childlessness
+- Chili sauce and paste
+- Chinese checkers
+- Chinese noodles
+- Chocolate bar
+- Chocolate cake
+- Chocolate chip cookie
+- Chocolate milk
+- Chorizo
+- Choux pastry
+- Chowder
+- Christmas cake
+- Chuck steak
+- Churro
+- Chutney
+- Civil marriage
+- Civilization (series)
+- Clarified butter
+- Clay pigeon shooting
+- Cleaning
+- Client (prostitution)
+- Climbing wall
+- Closet
+- Clotted cream
+- Club sandwich
+- Cluedo
+- Coach (sport)
+- Cock ring
+- Cockfighting
+- Cocktail dress
+- Cocktail sauce
+- Coconut milk
+- Coconut oil
+- Coconut water
+- Cod as food
+- Coffee culture
+- Coffee cup
+- Coffee preparation
+- Coffee table
+- Coffeehouse
+- Cognac
+- Coin collecting
+- Coin flipping
+- Cola
+- Colby cheese
+- Coleslaw
+- Collectible card game
+- College basketball
+- College football
+- Colossal Cave Adventure
+- Comb over
+- Comic book convention
+- Coming of age
+- Common-law marriage
+- Commonwealth Games
+- Community card poker
+- Competition climbing
+- Competitive eating
+- Concealer
+- Concentration (card game)
+- Condominium
+- Coney Island
+- Confectionery
+- Congee
+- Consejo Mundial de Lucha Libre
+- Construction set
+- Contraceptive implant
+- Cooked rice
+- Cookie
+- Cooperative board game
+- Copa América
+- Copa Libertadores
+- Corn chowder
+- Corn oil
+- Cornbread
+- Cornhole
+- Cornmeal
+- Cornrows
+- Corset
+- Cotton candy
+- Cottonseed oil
+- Counter-Strike
+- Course (food)
+- Court of Arbitration for Sport
+- Courtesan
+- Courtyard
+- Couscous
+- Cowboy hat
+- Crab meat
+- Cranberry juice
+- Craps
+- Crazy Eights
+- Cream cheese
+- Cream soda
+- Cream soup
+- Crew cut
+- Cribbage
+- Cricket ball
+- Cricket bat
+- Croissant
+- Croquet
+- Croquette
+- Cross country running
+- Cross-country skiing
+- Cross-country skiing (sport)
+- Cross-dressing
+- CrossFit Games
+- Crown
+- Crème fraîche
+- Crêpe
+- Cuban cuisine
+- Cuckold
+- Cufflink
+- Cuju
+- Cultural tourism
+- Cunnilingus
+- Cupboard
+- Cupcake
+- Cured fish
+- Curing (food preservation)
+- Curtain
+- Custard
+- Cut of beef
+- Cutlet
+- Cybersex
+- Cycle speedway
+- Cyclo-cross
+- Dairy product
+- Daitō-ryū Aiki-jūjutsu
+- Dal
+- Dallas Cowboys
+- Dance Dance Revolution
+- Dancesport
+- Dandan noodles
+- Dark Souls (video game)
+- Dark chocolate
+- Dark ride
+- Daughter
+- Deep frying
+- Desk
+- Deus Ex (video game)
+- Diaphragm (birth control)
+- Die-cast toy
+- Digital collectible card game
+- Digital distribution of video games
+- Dildo
+- Dim sum
+- Dining room
+- Diplomacy (game)
+- Dirt track racing
+- Disc golf
+- Disownment
+- Distilled water
+- Dock jumping
+- Dodgeball
+- Dog agility
+- Dog fighting
+- Dog meat
+- Doggy style
+- Dollhouse
+- Dolma
+- Dominance and submission
+- Dominatrix
+- Donburi
+- Doner kebab
+- Donkey Kong (1981 video game)
+- Doom (1993 video game)
+- Dosa (food)
+- Dota 2
+- Dough
+- Doughnut
+- Down jacket
+- Dowry
+- Drag racing
+- Dragon Quest
+- Dragon boat
+- Draw poker
+- Drawer
+- Dreadlocks
+- Dreamcast
+- Dreidel
+- Dress code
+- Dress shoe
+- Dressage
+- Dressing table
+- Dried fish
+- Dried fruit
+- Drifting (motorsport)
+- Drinking game
+- Drinking straw
+- Drip coffee
+- Drone racing
+- Drop tower
+- Dry roasting
+- Duck as food
+- Duck, duck, goose
+- Dumbbell
+- Dungeon Fighter Online
+- Dungeons & Dragons
+- Durak
+- Dying
+- Earl Grey tea
+- Early childhood
+- Earring
+- East Asian tea ceremony
+- Easy-Bake Oven
+- Economy rice
+- Ecotourism
+- Edible seaweed
+- Educational toy
+- Educational video game
+- Eel as food
+- Efteling
+- Egg salad
+- Egg substitutes
+- Egg tart
+- Eggnog
+- Egyptian cuisine
+- Eight-ball
+- Eight-ball pool (British variation)
+- Elite (video game)
+- Elo rating system
+- Emergency contraception
+- Empanada
+- Enchilada
+- Endogamy
+- Endurance racing (motorsport)
+- Enemy
+- Energy drink
+- Engagement
+- England cricket team
+- English billiards
+- Entrée
+- Episkyros
+- Equestrian vaulting
+- Eredivisie
+- Erotic humiliation
+- Erotic massage
+- Erotic spanking
+- Erotica
+- Escape room
+- Escort agency
+- Eskimo kiss
+- Espresso
+- Essential oil
+- Etch A Sketch
+- Ethics of eating meat
+- Ethiopian cuisine
+- Ethnic pornography
+- Euchre
+- EuroLeague
+- Eurogame
+- European Games
+- Evening gown
+- Eventing
+- Everyday life
+- Evolution Championship Series
+- Exercise ball
+- Exogamy
+- Extramarital sex
+- Extreme Championship Wrestling
+- Eye liner
+- Eye shadow
+- FC Barcelona
+- FC Bayern Munich
+- FIBA
+- FIBA Basketball World Cup
+- FIDE
+- FIFA
+- FIFA (video game series)
+- FIFA Women's World Cup
+- FINA Water Polo World League
+- FISU World University Games
+- FIVB Men's Volleyball World Cup
+- Face powder
+- Facial hair
+- Facial mask
+- Fair
+- Falafel
+- Fallout (franchise)
+- Familiar stranger
+- Family entertainment center
+- Family tree
+- Fan convention
+- Fanta
+- Fashion accessory
+- Fast-food restaurant
+- Fate/Stay Night
+- Fedora
+- Fellatio
+- Female condom
+- Fermented tea
+- Ferris wheel
+- Feta
+- Fez (hat)
+- Fictive kinship
+- Fidget spinner
+- Field lacrosse
+- Fighting game
+- Filet mignon
+- Filing cabinet
+- Filipino cuisine
+- Filo
+- Final Fantasy VII
+- Fingering (sexual act)
+- Finswimming
+- First-person (video games)
+- First-person shooter
+- Firstborn
+- Fish and chips
+- Fish fillet
+- Fish processing
+- Fish products
+- Fish sauce
+- Fistball
+- Fitness and figure competition
+- Five-card draw
+- Five-card stud
+- Flag football
+- Flambé
+- Flank steak
+- Flatbread
+- Flattop
+- Flight jacket
+- Flip-flops
+- Flirting
+- Floor (gymnastics)
+- Floor hockey
+- Floorball
+- Fly fishing
+- Foie gras
+- Foil (fencing)
+- Food cart
+- Food court
+- Food safety
+- Food science
+- Food truck
+- Foot fetishism
+- Football
+- Football boot
+- Footwear
+- Formal wear
+- Formula racing
+- Fortified wine
+- Fortnite
+- Foster care
+- Foundation (cosmetics)
+- Four square
+- Frankincense
+- Freediving
+- Freestyle BMX
+- Freestyle scootering
+- Freestyle skateboarding
+- Freestyle skiing
+- Freestyle swimming
+- Freestyle wrestling
+- French Open
+- French fries
+- French kiss
+- French onion soup
+- French toast
+- Fricassee
+- Fried chicken
+- Fried egg
+- Fried rice
+- Friend of a friend
+- Frozen food
+- Frozen meal
+- Frozen yogurt
+- Fruitcake
+- Frying pan
+- Fur clothing
+- Furby
+- Fusion cuisine
+- Futon
+- Futsal
+- Fédération Aéronautique Internationale
+- Fédération Internationale de Volleyball
+- Fédération Internationale de l'Automobile
+- G-string
+- G.I. Joe
+- Gaelic football
+- Game (hunting)
+- Game Boy
+- Game Boy Advance
+- Game art design
+- Game balance
+- Game controller
+- Game engine
+- Game mechanics
+- Game of chance
+- Game of skill
+- Game of the Goose
+- Game studies
+- GameCube
+- Gameplay
+- Gang bang
+- Garlic bread
+- Garter
+- Gashapon
+- Gatorade
+- Gay
+- Gay men
+- Gay pornography
+- Gazpacho
+- Gelatine dessert
+- Gelato
+- Gender binary
+- Gender identity
+- Gender transition
+- Genshin Impact
+- Georgian cuisine
+- German cuisine
+- Germany national football team
+- Ghee
+- Gin and tonic
+- Gin rummy
+- Ginger ale
+- Girdle
+- Glamping
+- Glass noodles
+- Glutinous rice
+- Glíma
+- Gnocchi
+- Goal (sports)
+- Goalball
+- Goat cheese
+- Goat meat
+- Goatee
+- God of War (franchise)
+- Godparent
+- GoldenEye 007
+- Golf ball
+- Gomoku
+- Goulash
+- Gown
+- Grain
+- Gran Turismo (series)
+- Grand Prix motor racing
+- Grand Prix motorcycle racing
+- Grand Slam (golf)
+- Grand Slam (tennis)
+- Grand Theft Auto III
+- Grand Theft Auto V
+- Granular cheese
+- Grape juice
+- Gravy
+- Greco-Roman wrestling
+- Greek cuisine
+- Green curry
+- Green tea
+- Greyhound racing
+- Griddle
+- Gridiron football
+- Groat (grain)
+- Group home
+- Group sex
+- Gruyère cheese
+- Guacamole
+- Guitar Hero
+- Gumbo
+- Gym
+- Gyūdon
+- Hacky sack
+- Hainanese chicken rice
+- Hair coloring
+- Hairdresser
+- Hairstyling product
+- Half-Life (video game)
+- Half-Life 2
+- Hall
+- Halo (franchise)
+- Halva
+- Hammam
+- Hammer throw
+- Hammock
+- Hanafuda
+- Hanbok
+- Hand game
+- Hand-kissing
+- Handball-Bundesliga
+- Handheld game console
+- Handjob
+- Handkerchief
+- Hanfu
+- Hang gliding
+- Hapkido
+- Hardcore pornography
+- Harem
+- Harlem Globetrotters
+- Harness racing
+- Harpastum
+- Hatstand
+- Hawaiian pizza
+- Headgear
+- Hearts (card game)
+- Hentai
+- Herbal tea
+- Herring as food
+- Hibiscus tea
+- High-heeled shoe
+- Hijab
+- Historical reenactment
+- Hockey puck
+- Hockey stick
+- Home economics
+- Home improvement
+- Homemaking
+- Honeymoon
+- Honor of Kings
+- Hoodie
+- Hookup culture
+- Horror game
+- Hors d'oeuvre
+- Horse meat
+- Horseshoes (game)
+- Hosiery
+- Hostel
+- Hot Wheels
+- Hot and sour soup
+- Hot chocolate
+- Hot cross bun
+- Hot dog
+- Hot pot
+- Hot sauce
+- House society
+- Housekeeping
+- Houseplant
+- Housing
+- Housing cooperative
+- Housing tenure
+- Hula hoop
+- Human food
+- Hummus
+- Hurling
+- Hypergamy
+- ITTF World Tour
+- Ice Hockey World Championships
+- Ice climbing
+- Ice cream van
+- Ice dance
+- Ice skate
+- Iced coffee
+- Iced tea
+- Iftar
+- Imagawayaki
+- Incense
+- Incest taboo
+- Incremental game
+- India men's national field hockey team
+- India national cricket team
+- India pale ale
+- Indian Premier League
+- Indian club
+- Indianapolis 500
+- Indie game
+- Indigenous cuisine of the Americas
+- Indonesian cuisine
+- IndyCar Series
+- Infant formula
+- Ingredients of cosmetics
+- Injera
+- Inline skates
+- Inline skating
+- Inline speed skating
+- Inn
+- Insects as food
+- Instant coffee
+- Instant noodles
+- Inter Milan
+- Interactive fiction
+- Interfaith marriage
+- International Army Games
+- International Boxing Association
+- International Cricket Council
+- International Handball Federation
+- International Ice Hockey Federation
+- International Olympic Committee
+- International Skating Union
+- International Ski and Snowboard Federation
+- International Tennis Federation
+- Internet pornography
+- Interracial marriage
+- Intrauterine device
+- Iranian cuisine
+- Irish whiskey
+- Italy national football team
+- J1 League
+- Jack-in-the-box
+- Jacket
+- Jai alai
+- Jamaican cuisine
+- Janggi
+- Japan National Stadium
+- Japanese curry
+- Japanese whisky
+- Jeans
+- Jeet Kune Do
+- Jelly bean
+- Jellyfish as food
+- Jenga
+- Jeu de paume
+- Jewish cuisine
+- Jianzi
+- Jiaozi
+- Jook-sing noodles
+- Jousting
+- Jumpsuit
+- Jungle gym
+- Juventus FC
+- Kaftan
+- Kart racing
+- Karuta
+- Katsudon
+- Kayaking
+- Kayfabe
+- Kebab
+- Kefir
+- Keirin
+- Kemari
+- Kendo
+- Kentucky Derby
+- Kerchief
+- Kettle
+- Kettlebell
+- Kho kho
+- Kickball
+- Kilt
+- Kimchi
+- Kimono
+- King (chess)
+- King's Quest
+- Kinship terminology
+- Kitchen knife
+- Kitchen utensil
+- Klondike (solitaire)
+- Knight (chess)
+- Knit cap
+- Knucklebones
+- Kombucha
+- Kontinental Hockey League
+- Korean barbecue
+- Korean cuisine
+- Korean martial arts
+- Korfball
+- Krav Maga
+- Kulfi
+- Kun Khmer
+- Kung fu (term)
+- Kurash
+- Kvass
+- Lacrosse stick
+- Lacto-ovo vegetarianism
+- Lager
+- Laksa
+- Lasagna
+- Latte
+- Laundry room
+- Lavash
+- Lawn
+- Lawn game
+- Layer cake
+- Leaf vegetable
+- League of Legends
+- League of Legends World Championship
+- Leather jacket
+- Leggings
+- Legoland
+- Lemonade
+- Lentil soup
+- Lesbian
+- Lesbian erotica
+- Lethwei
+- Levantine cuisine
+- Level (video games)
+- Levirate marriage
+- Lifesaving (sport)
+- Liga MX
+- Light fixture
+- Ligue 1
+- Limbo (dance)
+- Lingerie
+- Lipstick
+- Liqueur
+- Liquorice (confectionery)
+- List of home video game consoles
+- Little black dress
+- Live action role-playing game
+- Liver as food
+- Liverpool F.C.
+- Living room
+- Lollipop
+- London Zoo
+- Long hair
+- Long-distance running
+- Los Angeles Dodgers
+- Los Angeles Lakers
+- Los Angeles Memorial Coliseum
+- Lotería
+- Low-alcohol beer
+- LucasArts adventure games
+- Lucha libre
+- Ludo
+- Luna Park
+- Luzhniki Stadium
+- Macaroni
+- Macaroni and cheese
+- Maccabiah Games
+- Madden NFL
+- Madison Square Garden
+- Magic 8 Ball
+- Magic: The Gathering
+- Magnavox Odyssey
+- Mahjong solitaire
+- Main course
+- Major League Gaming
+- Major League Lacrosse
+- Major League Soccer
+- Make-up artist
+- Makeup brush
+- Making out
+- Male cosmetics
+- Male prostitution
+- Mammary intercourse
+- Manchester United F.C.
+- Manhattan (cocktail)
+- Mannequin
+- Mansion
+- Maple syrup
+- Maracanã Stadium
+- Marco Polo (game)
+- Margarita
+- Mariage (card game)
+- Marine Corps Martial Arts Program
+- Marine mammal park
+- Mario (franchise)
+- Mario Kart
+- Marmalade
+- Marriage of convenience
+- Marsala wine
+- Martini (cocktail)
+- Masala chai
+- Mascara
+- Mashed potato
+- Masquerade ball
+- Massively multiplayer online game
+- Massively multiplayer online role-playing game
+- Master System
+- Mastermind (board game)
+- Masters Tournament
+- Masters of the Universe
+- Mat
+- Match fixing
+- Matchmaking
+- Matrilineality
+- Matryoshka doll
+- Mattress
+- Matzah
+- Mead
+- Meat alternative
+- Meat pie
+- Meatball
+- Medical tourism
+- Medicine ball
+- Medieval cuisine
+- Mediterranean cuisine
+- Mega Man
+- Mega Millions
+- Melbourne Cricket Ground
+- Mensch ärgere Dich nicht
+- Menudo (Mexican soup)
+- Mesoamerican ballgame
+- Messenger bag
+- Metal Gear
+- Metal Gear Solid (video game)
+- Metroid
+- Microsoft Flight Simulator
+- Middle Eastern cuisine
+- Middle-distance running
+- Military uniform
+- Milk caps (game)
+- Milk chocolate
+- Milk coffee
+- Milk substitute
+- Milk tea
+- Milkshake
+- Mind sport
+- Mineral water
+- Minesweeper (video game)
+- Miniature golf
+- Miniature wargame
+- Mirin
+- Miso
+- Miso soup
+- Miss America
+- Miss Universe
+- Miss World
+- Missionary position
+- Mistress (lover)
+- Misua
+- Mixed drink
+- Mobile game
+- Mobile home
+- Model aircraft
+- Model car
+- Model figure
+- Modern pentathlon
+- Mohawk hairstyle
+- Mojito
+- Molasses
+- Molecular gastronomy
+- Momo (food)
+- Montreal Canadiens
+- Moonshine
+- Moroccan cuisine
+- Mortal Kombat
+- Motel
+- Mother (video game series)
+- Motocross
+- Motorcycle racing
+- Motorcycle speedway
+- Motorsport
+- Mountain bike racing
+- Mozzarella
+- Mr. Olympia
+- Mr. Potato Head
+- Muffin
+- Mug
+- Multiplayer online battle arena
+- Multiplayer video game
+- Musical chairs
+- My Little Pony
+- Myrrh
+- Myst
+- NASCAR
+- Naan
+- Nachos
+- Nail polish
+- Naming ceremony
+- Nanny
+- Nasi goreng
+- Nasi lemak
+- National Collegiate Athletic Association
+- National Lacrosse League
+- National Rugby League
+- National Wrestling Alliance
+- National sports team
+- Naturism
+- Neapolitan pizza
+- Necklace
+- Necktie
+- Necrophilia
+- Need for Speed
+- New England Patriots
+- New Japan Pro-Wrestling
+- New York Yankees
+- New Zealand national rugby union team
+- Niece and nephew
+- Nigerian cuisine
+- Nightlife
+- Nightstand
+- Nine men's morris
+- Nine-ball
+- Ninjutsu
+- Nintendo 3DS
+- Nintendo 64
+- Nintendo DS
+- Nintendo Entertainment System
+- Nintendo Switch
+- Nippon Professional Baseball
+- Niqab
+- Niten Ichi-ryū
+- Non-binary
+- Non-dairy creamer
+- Non-penetrative sex
+- Nonogram
+- Noodle soup
+- Nordic combined
+- Nordic walking
+- Oat milk
+- Oatmeal
+- Obstacle course
+- Octopus as food
+- Off-road racing
+- Offal
+- Offshore powerboat racing
+- Okonomiyaki
+- Oladyi
+- Olive oil
+- Olympic flame
+- Olympic medal
+- Omelette
+- One Day International
+- One-night stand
+- One-piece swimsuit
+- Onion ring
+- Online game
+- Only child
+- Oolong
+- Open world
+- Orange juice
+- Orienteering
+- Ottoman (furniture)
+- Outdoor recreation
+- Overcoat
+- Oyster sauce
+- PC game
+- PGA Championship
+- PGA Tour
+- PUBG: Battlegrounds
+- Pac-Man
+- Pachinko
+- Pacific Games
+- Pad thai
+- Paella
+- Paintball
+- Pajamas
+- Pakistan national cricket team
+- Palm oil
+- Pan American Games
+- Pan frying
+- Pancake
+- Pandemic (board game)
+- Paneer
+- Pankration
+- Pansexuality
+- Panties
+- Pantry
+- Pantyhose
+- Papadam
+- Paper cup
+- Paper plane
+- Parachuting
+- Paragliding
+- Parallel bars
+- Paraphilia
+- Parasailing
+- Parasports
+- Paratha
+- Parent-in-law
+- Parenting styles
+- Paris Saint-Germain FC
+- Parka
+- Parkour
+- Parmesan
+- Party game
+- Pastry fork
+- Patio
+- Patrilineality
+- Pawn (chess)
+- Peanut butter
+- Peanut butter and jelly sandwich
+- Peanut oil
+- Pecan pie
+- Peep show
+- Peg solitaire
+- Peking duck
+- Pelmeni
+- Pencak silat
+- Pendant
+- Pepperoni
+- Pepsi
+- Personal development
+- Personal life
+- Pescetarianism
+- Pesto
+- Pesäpallo
+- Petticoat
+- Pho
+- Phone sex
+- Phrygian cap
+- Physical attractiveness
+- Pickleball
+- Picnic
+- Pierogi
+- Pigeon racing
+- Pigtail
+- Pilaf
+- Pineapple juice
+- Pirog
+- Pita
+- Pittsburgh Steelers
+- Piña colada
+- Piñata
+- Plant milk
+- Plastic wrap
+- Platformer
+- Play-Doh
+- PlayStation
+- PlayStation (console)
+- PlayStation 2
+- PlayStation 3
+- PlayStation 4
+- PlayStation 5
+- PlayStation Portable
+- Playground slide
+- Playing card
+- Poached egg
+- Poaching (cooking)
+- Pogo stick
+- Poke (dish)
+- Pokémon Go
+- Pokémon Red, Blue, and Yellow
+- Pokémon Trading Card Game
+- Pole sports
+- Polish cuisine
+- Polyamory
+- Polyandry
+- Polygyny
+- Pommel horse
+- Pompadour (hairstyle)
+- Poncho
+- Pong
+- Ponytail
+- Popcorn
+- Porch
+- Port wine
+- Portal (video game)
+- Porter (beer)
+- Portuguese cuisine
+- Pot pie
+- Potato chips
+- Potato salad
+- Potpourri
+- Powerball
+- Practical shooting
+- Preadolescence
+- Premarital sex
+- Pressure cooker
+- Pretzel
+- Prince of Persia
+- Pro Kabaddi League
+- Processed cheese
+- Professional Darts Corporation
+- Professional sports
+- Prune
+- Pseudocereal
+- Pub
+- Pub quiz
+- Public aquarium
+- Public bathing
+- Public housing
+- Public toilet
+- Pudding
+- Puff pastry
+- Pumpkin pie
+- Punch (drink)
+- Puroresu
+- Puzzle video game
+- Pétanque
+- Qigong
+- Quail as food
+- Quake (series)
+- Quark (dairy product)
+- Queen (chess)
+- Quesadilla
+- Quiz bowl
+- Race game
+- Race walking
+- Racing
+- Racing video game
+- Racket (sports equipment)
+- Racquetball
+- Radio-controlled car
+- Rafting
+- Rag doll
+- Rail transport modelling
+- Raincoat
+- Raisin
+- Rallycross
+- Rallying
+- Ramen
+- Ranch dressing
+- Rapeseed oil
+- Raspberry juice
+- Ravioli
+- Real Madrid CF
+- Real-time strategy game
+- Recliner
+- Recreational fishing
+- Red Bull
+- Red Rover
+- Red meat
+- Red wine
+- Red-light district
+- Referee
+- Regular haircut
+- Relay race
+- Rendang
+- Renting
+- Resident Evil
+- Resident Evil 4
+- Resort
+- Reuben sandwich
+- Reversi
+- Rhythm game
+- Rhythmic gymnastics
+- Rib eye steak
+- Rice ball
+- Rice cake
+- Rice flour
+- Rice milk
+- Rice noodles
+- Rice vermicelli
+- Rice wine
+- Ring (jewellery)
+- Ringball
+- Ringette
+- Rings (gymnastics)
+- Risk (game)
+- Risotto
+- Road bicycle racing
+- Road trip
+- Roast chicken
+- Roasting
+- Roblox
+- Rock paper scissors
+- Rocking chair
+- Rocking horse
+- Roe
+- Rogue (video game)
+- Roguelike
+- Role-playing video game
+- Roller coaster
+- Roller derby
+- Roller hockey
+- Roller skates
+- Rooibos
+- Rook (chess)
+- Root beer
+- Roti
+- Rotisserie
+- Rouge (cosmetics)
+- Roundabout (play)
+- Rounders
+- Rowing
+- Royal Game of Ur
+- Rubber duck
+- Rugby League World Cup
+- Rum and Coke
+- Rummikub
+- Rummy
+- Russian Premier League
+- Russian cuisine
+- Russian roulette
+- Rye bread
+- Sabre (fencing)
+- Sacred prostitution
+- Sadomasochism
+- Safari
+- Safe sex
+- Salami
+- Salmon as food
+- Salsa (food)
+- Salt and pepper shakers
+- Salted fish
+- Salting (food)
+- Sambo (martial art)
+- Same-sex marriage
+- Samosa
+- San Diego Comic-Con
+- San Diego Zoo
+- Sand art and play
+- Sanda (sport)
+- Sandal
+- Sandalwood
+- Sandbox game
+- Sandpit
+- Sangria
+- Sardines as food
+- Sari
+- Sarong
+- Sashimi
+- Satay
+- Sautéing
+- Savate
+- Saved game
+- Sazerac
+- Schnapsen
+- Schönbrunn Zoo
+- Science fiction convention
+- Scone
+- Scotch whisky
+- Scrambled eggs
+- Scrunchie
+- Scuba diving
+- Scuba set
+- SeaWorld
+- Searing
+- Seasoning
+- Seat
+- Seesaw
+- Sega Genesis
+- Sega Saturn
+- Semolina
+- Senet
+- Sepak takraw
+- Serie A
+- Seven-card stud
+- Sex differences in humans
+- Sex doll
+- Sex industry
+- Sex magic
+- Sex position
+- Sex shop
+- Sex therapy
+- Sex tourism
+- Sex toy
+- Sex work
+- Sexting
+- Sexual abstinence
+- Sexual arousal
+- Sexual fantasy
+- Sexual ritual
+- Sexual roleplay
+- Shadowrun
+- Shahe fen
+- Shaolin kung fu
+- Shatranj
+- Shawarma
+- Shawl
+- Shelf (storage)
+- Shell game
+- Shellfish
+- Shelter
+- Shepherd's pie
+- Sherry
+- Shinty
+- Shoelaces
+- Shoot 'em up
+- Short hair
+- Short-track speed skating
+- Shortcake
+- Shortcrust pastry
+- Shorts
+- Show jumping
+- Shrimp and prawn as food
+- Shuai jiao
+- Sibling-in-law
+- Sichuan cuisine
+- Sicilian pizza
+- Side dish
+- Sideburns
+- Significant other
+- Silat Melayu
+- Silent Hill
+- Silly Putty
+- Silver needle noodles
+- SimCity
+- Simmering
+- Simulation video game
+- Single parent
+- Single-family detached home
+- Single-player video game
+- Sirloin steak
+- Six Flags
+- Skat (card game)
+- Skateboard
+- Skeleton (sport)
+- Skewer
+- Ski
+- Ski resort
+- Skimmed milk
+- Skipping rope
+- Slacklining
+- Sled dog racing
+- Sleeveless shirt
+- Sliced bread
+- Sliding puzzle
+- Slinky
+- Slipper
+- Slopestyle
+- Slot car racing
+- Snake (video game genre)
+- Snakes and ladders
+- Sneakers
+- Snorkel (swimming)
+- Snowboard
+- Snowboard cross
+- Snowboard racing
+- Snowshoe
+- Soba
+- Social connection
+- Social deduction game
+- Sofa bed
+- Soft serve
+- Softcore pornography
+- Soju
+- Solitaire
+- Sombrero
+- Son
+- Sonic the Hedgehog
+- Sororate marriage
+- Soul food
+- Sour cream
+- Sourdough
+- South Africa national rugby union team
+- South Sydney Rabbitohs
+- Spa
+- Space Invaders
+- Space tourism
+- Spacewar!
+- Spaghetti
+- Spaghetti aglio e olio
+- Spam (food)
+- Spanish cuisine
+- Spanish-style bullfighting
+- Sparkling wine
+- Special Olympics
+- Special Olympics World Games
+- Speedcubing
+- Speedrunning
+- Spelling bee
+- Sponge cake
+- Spooning
+- Spork
+- Sport climbing
+- Sports bra
+- Sports car racing
+- Sports drink
+- Sports league
+- Sports video game
+- Sportsmanship
+- Sportswear
+- Spouse
+- Spread (food)
+- Spring roll
+- Sprint (running)
+- Spätzle
+- Squab
+- Squatting
+- Squid as food
+- Ssireum
+- Stade de France
+- Stadio Olimpico
+- Standard 52-card deck
+- Standup paddleboarding
+- Staple food
+- StarCraft
+- StarCraft (video game)
+- Stardew Valley
+- Stationary bicycle
+- Statues (game)
+- Steak
+- Steak knife
+- Steak tartare
+- Steeplechase (athletics)
+- Steeplechase (horse racing)
+- Steer wrestling
+- Stepchild
+- Stepfather
+- Stepmother
+- Stepsibling
+- Stir frying
+- Stock car racing
+- Stocking
+- Stool (seat)
+- Stout
+- Stranger
+- Strapless dress
+- Stratego
+- Strategy game
+- Strategy video game
+- Straw hat
+- Street Fighter II
+- Street League Skateboarding
+- Street fighting
+- Street food
+- Street furniture
+- Street game
+- Street hockey
+- Street prostitution
+- Street racing
+- Street skateboarding
+- Streetball
+- Strip club
+- Stripper
+- Stud poker
+- Study (room)
+- Submarine sandwich
+- Sudoku
+- Suitcase
+- Sujeo
+- Sun-dried tomato
+- Sundae
+- Sunflower oil
+- Sunglasses
+- Super Bowl
+- Super League
+- Super Mario 64
+- Super Mario Bros.
+- Super Nintendo Entertainment System
+- Super Rugby
+- Super Smash Bros.
+- Supercars Championship
+- Supper
+- Surfboard
+- Surimi
+- Survival horror
+- Suspenders
+- Suutei tsai
+- Sweater
+- Sweatshirt
+- Sweet soy sauce
+- Sweetbread
+- Swim briefs
+- Swing (seat)
+- Swinging (sexual practice)
+- Sydney Roosters
+- Synchronised swimming
+- Syrup
+- Süper Lig
+- T-shirt
+- Table football
+- Table knife
+- Tabletop game
+- Tabletop role-playing game
+- Taco
+- Taekkyon
+- Tag rugby
+- Tagine
+- Tai chi
+- Take-out
+- Takoyaki
+- Tallow
+- Tamagotchi
+- Tamale
+- Tangram
+- Tap water
+- Tarot card games
+- Tart
+- Tatami
+- Tavern
+- Tchoukball
+- Tea (meal)
+- Tea blending and additives
+- Tea culture
+- Teahouse
+- Team jersey
+- Teapot
+- Teddy bear
+- Teenage pregnancy
+- Tekken
+- Tempeh
+- Tempura
+- Tendon as food
+- Tennis ball
+- Test cricket
+- Tetherball
+- Texas hold 'em
+- Text-based game
+- Thai cuisine
+- Thai tea
+- The Ashes
+- The Boat Race
+- The Elder Scrolls
+- The Elder Scrolls V: Skyrim
+- The Game of Life
+- The International (esports)
+- The Last of Us (video game)
+- The Legend of Zelda (video game)
+- The Legend of Zelda: Breath of the Wild
+- The Legend of Zelda: Ocarina of Time
+- The Open Championship
+- The Oregon Trail (1971 video game)
+- The Sims
+- The floor is lava
+- Third gender
+- Thong
+- Thousand Island dressing
+- Threesome
+- Thumb war
+- Tiara
+- Tic-tac-toe
+- Ticket to Ride (board game)
+- Tiddlywinks
+- Tights
+- Tipi
+- Tiramisu
+- Tivoli Gardens
+- Toast (food)
+- Toaster
+- Toddler
+- Toilet (room)
+- Tomato juice
+- Tomato sauce
+- Tomato soup
+- Tomb Raider
+- Tonic water
+- Tonkatsu
+- Tonsure
+- Top (clothing)
+- Top hat
+- Toplessness
+- Toronto Maple Leafs
+- Tortilla
+- Toupée
+- Touring car racing
+- Tower of Hanoi
+- Toy balloon
+- Toy block
+- Toy gun
+- Toy soldier
+- Toy train
+- Track cycling
+- Track spikes
+- Trading card
+- Trail blazing
+- Trail mix
+- Trampoline
+- Trampolining
+- Trans man
+- Trans woman
+- Transformers
+- Transgender pornography
+- Trap shooting
+- Travel agency
+- Traveling carnival
+- Traveller (role-playing game)
+- Treadmill
+- Trench coat
+- Triathlon
+- Tribadism
+- Trick shot
+- Trick-taking game
+- Tricorne
+- Tripe
+- Triple jump
+- Trivia
+- Trivial Pursuit
+- Troll doll
+- Trophy
+- Truck racing
+- Truth or dare?
+- Tube top
+- Tunic
+- Turban
+- Turkey as food
+- Turkey bacon
+- Turkish coffee
+- Turkish cuisine
+- Twenty20 International
+- Twister (game)
+- U.S. Open (golf)
+- UEFA
+- UEFA European Championship
+- US Open (tennis)
+- Udon
+- Ugali
+- Ultima (series)
+- Ultimate Fighting Championship
+- Ultimate frisbee
+- Ultramarathon
+- Uncle
+- Undershirt
+- Uneven bars
+- Unintended pregnancy
+- Union Cycliste Internationale
+- United Rugby Championship
+- United States men's national basketball team
+- United States women's national soccer team
+- Universal Destinations & Experiences
+- University and college sport
+- Uno (card game)
+- Upholstery
+- Urolagnia
+- Ushanka
+- Vacation rental
+- Vase
+- Vault (gymnastics)
+- Veal
+- Vegemite
+- Vegetable soup
+- Vegetarian cuisine
+- Vegetarianism and religion
+- Venison
+- Vermouth
+- Vibrator (sex toy)
+- Video game culture
+- Video game design
+- Video game development
+- Video game genre
+- Video game graphics
+- Video game industry
+- Video game modding
+- Vienna sausage
+- Vietnamese cuisine
+- Villa
+- Virtual camera system
+- Visual novel
+- Volleyball (ball)
+- Volleyball World Beach Pro Tour
+- Vovinam
+- WTA Tour
+- WWE
+- Waffle
+- Wagashi
+- Waistcoat
+- Wakeboarding
+- Wallpaper
+- Walt Disney World
+- War (card game)
+- Wardrobe
+- Wargame
+- Warhammer 40,000
+- Waste container
+- Water gun
+- Water park
+- Water polo
+- Water skiing
+- Water slide
+- Webcam model
+- Wedding cake
+- Wedding dress
+- Wedding ring
+- Weightlifting
+- Wellington boot
+- Wembley Stadium
+- West Indies cricket team
+- Wetsuit
+- Whipped cream
+- Whist
+- White chocolate
+- White meat
+- White tea
+- White wine
+- Whole grain
+- Widow
+- Wii
+- Wii Sports
+- Wimbledon Championships
+- Window blind
+- Windsurfing
+- Wine bar
+- Wine glass
+- Winemaking
+- Wing Chun
+- Wingsuit flying
+- Winter sports
+- Wok
+- Wolfenstein 3D
+- Woman on top
+- Women's National Basketball Association
+- Women's Super League
+- Women's association football
+- Women's basketball
+- Women's lacrosse
+- Wonton
+- Wonton noodles
+- Worcestershire sauce
+- Word search
+- World Aquatics
+- World Aquatics Championships
+- World Athletics
+- World Athletics Championships
+- World Championship Wrestling
+- World Chess Championship
+- World Games
+- World Gymnastics
+- World Rally Championship
+- World Rugby
+- World Series
+- World Snooker Championship
+- World Snooker Tour
+- World of Warcraft
+- Wushu (sport)
+- X Games
+- Xbox
+- Xbox (console)
+- Xbox 360
+- Xbox One
+- Yahtzee
+- Yakisoba
+- Yard (land)
+- Yellow tea
+- Yerba mate
+- Yo-yo
+- Yomiuri Giants
+- Youth
+- Youth Olympic Games
+- Yu-Gi-Oh! Trading Card Game
+- Yurt
+- Zhajiangmian
+- Zoophilia
+- Zork
+- À la carte
+- Épée
+
+### Geography (+3961)
+- 180th meridian
+- A Coruña
+- Aachen
+- Aalborg
+- Aare Gorge
+- Aargau
+- Aarhus
+- Aba, Nigeria
+- Abadan, Iran
+- Abakan
+- Abeokuta
+- Aberdeen
+- Abha
+- Abia State
+- Abiod Valley
+- Abruzzo
+- Absheron Peninsula
+- Abu Musa
+- Abyei
+- Acadia National Park
+- Acapulco
+- Achill Island
+- Acre (state)
+- Acteon Group
+- Activity space
+- Adam's Bridge
+- Adamawa State
+- Adapazarı
+- Address
+- Adelaide Island
+- Adirondack Mountains
+- Adjara
+- Administrative division
+- Admiralty Islands
+- Adygea
+- Adélie Land
+- Aegean Islands
+- Aegean region
+- Afar Region
+- Afqa
+- Afro-Eurasia
+- Agadir
+- Agaléga
+- Agartala
+- Aguascalientes
+- Aguascalientes (city)
+- Ahmednagar
+- Aichi Prefecture
+- Aix-en-Provence
+- Aizawl
+- Ajaccio
+- Ajman
+- Ajmer
+- Akita (city)
+- Akita Prefecture
+- Akola
+- Akrotiri and Dhekelia
+- Aktobe
+- Akure
+- Akwa Ibom State
+- Al Ain
+- Al Diwaniyah
+- Al Qadarif State
+- Al-Ahsa Oasis
+- Al-Baha Province
+- Al-Faw peninsula
+- Al-Jouf Province
+- Al-Kharj
+- Al-Qassim Province
+- Alabama
+- Aladagh Mountains
+- Alagoas
+- Alaska Peninsula
+- Albany, New York
+- Albert Canal
+- Alberta
+- Alboran Sea
+- Alborz
+- Alborz province
+- Albuquerque, New Mexico
+- Alcalá de Henares
+- Alcatraz Island
+- Aldabra
+- Aletsch Glacier
+- Alexander Archipelago
+- Alexandria Governorate
+- Algarve
+- Alicante
+- Alice Springs
+- Aligarh
+- Almería
+- Alor Setar
+- Alsace
+- Altai Nature Reserve
+- Altai Republic
+- Altitude
+- Alto Ribeira Tourist State Park
+- Alwar
+- Amadjuak Lake
+- Amakusa
+- Amami Islands
+- Amami Ōshima
+- Amanohashidate
+- Amapá
+- Amarah
+- Amaravati
+- Amazon Delta
+- Amazonas (Brazilian state)
+- Ambattur
+- Ambon, Maluku
+- American Cordillera
+- Amhara Region
+- Amiens
+- Amirante Islands
+- Amojjar Pass
+- Amol
+- Amravati
+- Amsterdam–Rhine Canal
+- Amundsen Sea
+- Amundsen–Scott South Pole Station
+- Anadyr Highlands
+- Anaheim, California
+- Anambra State
+- Anchorage, Alaska
+- Andaman Islands
+- Anderlecht
+- Andijan
+- Andorra la Vella
+- Andringitra Massif
+- Andros, The Bahamas
+- Angeles City
+- Angers
+- Anglesey
+- Anglo-America
+- Anglosphere
+- Anguilla
+- Anhui
+- Ankarana Special Reserve
+- Annaba
+- Annamite Range
+- Annapolis, Maryland
+- Annapurna
+- Annecy
+- Anou Boussouil
+- Anshan
+- Antarctic
+- Antarctic Sound
+- Antigua
+- Antipodes Islands
+- Antipolo
+- Antofagasta
+- Antofagasta Region
+- Antsirabe
+- Antwerp Province
+- Anvers Island
+- Anyang
+- Aomori
+- Aomori Prefecture
+- Aoraki / Mount Cook
+- Aosta Valley
+- Aparados da Serra National Park
+- Apia
+- Appalachia
+- Appenzell
+- Apuan Alps
+- Apulia
+- Apurímac River
+- Apuseni Mountains
+- Aqaba
+- Aquitaine
+- Aracaju
+- Arafura Sea
+- Aragon
+- Arak, Iran
+- Arakan Mountains
+- Aran Islands
+- Aras (river)
+- Araucanía Region
+- Arawa, Bougainville
+- Arches National Park
+- Arctic ice pack
+- Ardabil
+- Argentine Antarctica
+- Ariake Sea
+- Arica
+- Arica y Parinacota Region
+- Arizona
+- Arkansas
+- Arkansas River
+- Arkhangelsk
+- Arnhem Land
+- Arrábida Natural Park
+- Aru Islands Regency
+- Aruba
+- Arunachal Pradesh
+- Arusha
+- Asahikawa
+- Asan
+- Asansol
+- Ascension Island
+- Ashdod
+- Ashgabat
+- Ashmore and Cartier Islands
+- Ashuradeh
+- Asir
+- Assam
+- Astrakhan
+- Asturias
+- Aswan Governorate
+- Asyut
+- Asyut Governorate
+- Atacama Region
+- Atchafalaya River
+- Athabasca River
+- Atlantic Canada
+- Atlantic Plain
+- Atlantic meridional overturning circulation
+- Atolls of the Maldives
+- Attica
+- Attu Island
+- Auckland Islands
+- Auckland Region
+- Augrabies Falls
+- Augsburg
+- Augusta, Georgia
+- Aurangabad
+- Austral Islands
+- Australasia
+- Australian Antarctic Territory
+- Australian Capital Territory
+- Autonomous Region of Bougainville
+- Autonomous Republic of Crimea
+- Autonomous communities of Spain
+- Auvergne
+- Avachinsky
+- Avadi
+- Aven Armand
+- Avignon
+- Awaji Island
+- Axel Heiberg Island
+- Axum
+- Ayeyarwady Region
+- Ayodhya
+- Aysén Region
+- Az Zubayr
+- Azad Kashmir
+- Azimuth
+- Azimuthal equidistant projection
+- Bab-el-Mandeb
+- Babol
+- Babruysk
+- Babuyan Islands
+- Bacolod
+- Badain Jaran Desert
+- Badakhshan
+- Baden-Württemberg
+- Badlands National Park
+- Bafoussam
+- Bago, Myanmar
+- Baguio
+- Bahariya Oasis
+- Bahawalpur
+- Bahia
+- Bahrain Island
+- Bahía Blanca
+- Bailiwick of Guernsey
+- Baja California
+- Baja California Sur
+- Baker Island
+- Bakersfield, California
+- Baku Archipelago
+- Balancing rocks of Zimbabwe
+- Balikpapan
+- Ballari
+- Balleny Islands
+- Balochistan
+- Baltic states
+- Bamenda
+- Banat
+- Band-e Amir National Park
+- Banda Aceh
+- Banda Sea
+- Bandar Abbas
+- Bandar Lampung
+- Bandar Seri Begawan
+- Bangka Belitung Islands
+- Bangsamoro
+- Banja Luka
+- Banjarbaru
+- Banjarmasin
+- Banjul
+- Banks Island
+- Banks Islands
+- Banten
+- Baoding
+- Baoji
+- Baotou
+- Baqubah
+- Barbuda
+- Bardhaman
+- Bareilly
+- Bari
+- Bariloche
+- Barisal
+- Barisal Division
+- Barnaul
+- Barquisimeto
+- Basel
+- Basilan
+- Basilicata
+- Basin and Range Province
+- Basse-Terre
+- Basseterre
+- Batam
+- Batanes
+- Bathinda
+- Bathurst Island (Northern Territory)
+- Bathymetry
+- Batna (city)
+- Baton Rouge, Louisiana
+- Battambang
+- Batumi
+- Bauchi (city)
+- Bauchi State
+- Bay of Fundy
+- Bay of Kotor
+- Bay of Plenty Region
+- Bayelsa State
+- Beas River
+- Bedfordshire
+- Beersheba
+- Beheira Governorate
+- Beira, Mozambique
+- Bekasi
+- Belaya (Kama)
+- Belgaum
+- Belize Barrier Reef
+- Belize City
+- Belkovsky Island
+- Bellingshausen Sea
+- Belmopan
+- Belogradchik Rocks
+- Ben Nevis
+- Benbulbin
+- Bengal
+- Bengbu
+- Bengkulu
+- Bengkulu (city)
+- Benguela
+- Beni Suef Governorate
+- Benishangul-Gumuz Region
+- Benue River
+- Benue State
+- Bergamo
+- Bergen
+- Berhampore
+- Berkeley, California
+- Berkner Island
+- Berkshire
+- Berlengas
+- Bermuda Triangle
+- Bern
+- Besançon
+- Bessarabia
+- Bethlehem
+- Bhagalpur
+- Bharatpur, Nepal
+- Bhatpara
+- Bhavnagar
+- Bhilai
+- Bhilwara
+- Bhiwandi
+- Białowieża Forest
+- Białystok
+- Bible Belt
+- Bicol Region
+- Bielefeld
+- Big Hole
+- Bijapur
+- Bikaner
+- Bikini Atoll
+- Bilaspur, Chhattisgarh
+- Bilbao
+- Billings, Montana
+- Bilma
+- Binalud Mountains
+- Binzhou
+- Biobío Region
+- Bioregionalism
+- Biratnagar
+- Birgunj
+- Birjand
+- Birmingham, Alabama
+- Bishkek
+- Biskra
+- Bismarck Archipelago
+- Bismarck Sea
+- Bissau
+- Biên Hòa
+- Black Canyon of the Gunnison National Park
+- Black Drin
+- Black Elk Peak
+- Black Forest
+- Black Hills
+- Black River (Asia)
+- Black Sea region
+- Blantyre
+- Blida
+- Bloemfontein
+- Blue Mountains (Pacific Northwest)
+- Blue Ridge Mountains
+- Bo, Sierra Leone
+- Boa Vista, Roraima
+- Bobo-Dioulasso
+- Bochum
+- Bogor
+- Bogra
+- Bohai Sea
+- Bohemia
+- Bohol
+- Boise, Idaho
+- Bojnord
+- Bokaro Steel City
+- Bologna
+- Bolshevik Island
+- Bolshoy Lyakhovsky Island
+- Bolshoy Ussuriysky Island
+- Bolzano
+- Bonaire
+- Bondi Beach
+- Bonin Islands
+- Bonn
+- Bonneville Salt Flats
+- Bora Bora
+- Borah Peak
+- Boreal forest of Canada
+- Borneo lowland rain forests
+- Bornholm
+- Borno State
+- Bouaké
+- Bougainville Island
+- Bounty Islands
+- Bournemouth
+- Bouvet Island
+- Bradford
+- Braga
+- Brahmanbaria
+- Brahmapur, Odisha
+- Brandenburg
+- Braunschweig
+- Brazos River
+- Brașov
+- Bremen
+- Bremen (state)
+- Brescia
+- Brest, Belarus
+- Brest, France
+- Bridgeport, Connecticut
+- Bridgetown
+- Bridgewater Canal
+- Brighton
+- Bristol
+- Bristol Bay
+- British Antarctic Territory
+- British Columbia
+- British Overseas Territories
+- British Virgin Islands
+- Brno
+- Broad Peak
+- Brooklyn
+- Brooks Range
+- Brownsville, Texas
+- Bruges
+- Bryansk
+- Bryce Canyon National Park
+- Brčko District
+- Bubiyan Island
+- Bucaramanga
+- Bucegi Mountains
+- Buckingham Canal
+- Buckinghamshire
+- Buenos Aires Province
+- Buffalo, New York
+- Bujumbura
+- Bukavu
+- Bukhara
+- Bulawayo
+- Bungo Channel
+- Buraydah, Saudi Arabia
+- Burgas
+- Burgenland
+- Burgundy
+- Buru
+- Buryatia
+- Bushehr
+- Bushehr province
+- Butuan
+- Buôn Ma Thuột
+- Bydgoszcz
+- Bydgoszcz Canal
+- Byrranga Mountains
+- Béni Abbès
+- Bōsō Peninsula
+- Bắc Ninh
+- Cabinda (city)
+- Cabo San Lucas
+- Cabo da Roca
+- Caen
+- Cagayan Valley
+- Cagayan de Oro
+- Cagliari
+- Cairns
+- Cairo Governorate
+- Calabar
+- Calabarzon
+- Calabria
+- Calais
+- Calamian Islands
+- Caldera Basin
+- Caledonian Canal
+- Caloocan
+- Camagüey
+- Camargue
+- Cambridge
+- Cambridge, Massachusetts
+- Cambridgeshire
+- Cameroon line
+- Campania
+- Campbell Island, New Zealand
+- Campeche
+- Campinas
+- Campo Grande
+- Campo del Cielo
+- Campos Basin
+- Canadian Prairies
+- Canadian River
+- Canadian Rockies
+- Canal du Midi
+- Canals of Amsterdam
+- Canberra
+- Cancún
+- Candelaria Caves
+- Cango Caves
+- Cangzhou
+- Cannes
+- Cantabria
+- Canterbury
+- Canterbury Region
+- Canton Island
+- Canton of Bern
+- Canton of Geneva
+- Canton of Lucerne
+- Canton of Neuchâtel
+- Canton of Schwyz
+- Canton of St. Gallen
+- Canton of Zurich
+- Cap de Formentor
+- Cap-Haïtien
+- Cape Agulhas
+- Cape Breton Island
+- Cape Canaveral
+- Cape Chidley
+- Cape Cod Canal
+- Cape Crillon
+- Cape Eluanbi
+- Cape Farewell, Greenland
+- Cape Fear (headland)
+- Cape Hatteras
+- Cape Leeuwin
+- Cape Lopatka
+- Cape Morris Jesup
+- Cape Muroto
+- Cape Reinga
+- Cape São Roque
+- Cape Sōya
+- Cape York (Greenland)
+- Cape York Peninsula
+- Cape Zhelaniya
+- Cappadocia
+- Caraga
+- Carinthia
+- Carlsbad Caverns National Park
+- Caroline Islands
+- Cartagena, Spain
+- Casamance
+- Cascade Range
+- Cascade Volcanoes
+- Cascades de Karfiguéla
+- Casiquiare canal
+- Castile and León
+- Castilla–La Mancha
+- Castries
+- Catamarca Province
+- Catanduanes
+- Catania
+- Cave of Swallows
+- Caves of Aggtelek Karst and Slovak Karst
+- Caves of Han-sur-Lesse
+- Cayenne
+- Ceará
+- Cebu
+- Celebes Sea
+- Celestial pole
+- Celilo Falls
+- Celtic Sea
+- Celtic nations
+- Central Anatolia region
+- Central China
+- Central Europe
+- Central Federal District
+- Central Greece (geographic region)
+- Central Hungary
+- Central Indian Ridge
+- Central Java
+- Central Kalahari Game Reserve
+- Central Kalimantan
+- Central Luzon
+- Central Mountain Range
+- Central Papua
+- Central Siberian Plateau
+- Central Sulawesi
+- Central Thailand
+- Central Valley (California)
+- Central Visayas
+- Central place theory
+- Central-West Region, Brazil
+- Centre-Val de Loire
+- Cephalonia
+- Cerro Sarisariñama
+- Ceuta
+- Chaco Province
+- Chad Basin
+- Chagang Province
+- Chaharmahal and Bakhtiari province
+- Challenger Deep
+- Chambeshi River
+- Chambly Canal
+- Champagne (province)
+- Chandrapur
+- Changbai Mountains
+- Changde
+- Changhua County
+- Changwon
+- Changzhi
+- Changzhou
+- Channel Islands (California)
+- Channeled Scablands
+- Chao Phraya River
+- Chaoshan
+- Chaoyang, Beijing
+- Chaozhou
+- Charleroi
+- Charleston, South Carolina
+- Charleston, West Virginia
+- Charlotte, North Carolina
+- Charlottetown
+- Chatham Island
+- Chatham Islands
+- Chaîne des Puys
+- Chemnitz
+- Chenab River
+- Cheonan
+- Cheongju
+- Cherkasy
+- Cherkasy Oblast
+- Chernihiv
+- Chernihiv Oblast
+- Chernivtsi
+- Chernivtsi Oblast
+- Cherokee Nation
+- Chersky Range
+- Chesapeake & Delaware Canal
+- Chesapeake Bay
+- Chesapeake and Ohio Canal
+- Cheshire
+- Cheyenne, Wyoming
+- Chhattisgarh
+- Chiang Rai
+- Chiapas
+- Chiayi
+- Chiayi County
+- Chiba (city)
+- Chiba Prefecture
+- Chicago Loop
+- Chicago Sanitary and Ship Canal
+- Chiclayo
+- Chicxulub crater
+- Chifeng
+- Chihuahua (state)
+- Chihuahua City
+- Chilean Antarctic Territory
+- Chilean Sea
+- Chilov
+- Chiloé Island
+- Chimborazo
+- Chimney Rock National Historic Site
+- Chimoio
+- Chin State
+- Chinatown
+- Chinhoyi Caves
+- Chios
+- Chipata
+- Chittagong Division
+- Chiyoda, Tokyo
+- Chișinău
+- Cho Oyu
+- Chocolate Hills
+- Choctaw Nation of Oklahoma
+- Chongjin
+- Chongming Island
+- Chonos Archipelago
+- Choropleth map
+- Chott el Djerid
+- Christchurch
+- Christmas Island
+- Chubut Province
+- Chukchi Peninsula
+- Chukchi Sea
+- Chukotka Autonomous Okrug
+- Chuncheon
+- Churchill River (Atlantic)
+- Churchill River (Hudson Bay)
+- Chuuk Lagoon
+- Chuuk State
+- Chuvashia
+- Chūbu region
+- Chūgoku region
+- Cilegon
+- Cilicia
+- Cincinnati
+- Circle of latitude
+- City centre
+- City of Brussels
+- City of London
+- City of Westminster
+- Ciudad Encantada
+- Ciudad Guayana
+- Ciudad Nezahualcóyotl
+- Ciudad del Este
+- Clermont-Ferrand
+- Clipperton Island
+- Cluj-Napoca
+- Coahuila
+- Coast Mountains
+- Cochabamba
+- Cocos (Keeling) Islands
+- Cocos Island
+- Coimbra
+- Colima
+- Collectivity of Saint Martin
+- Colonia del Sacramento
+- Colony
+- Colorado
+- Colorado Plateau
+- Colorado River (Texas)
+- Colorado Springs, Colorado
+- Columbia Icefield
+- Columbia Plateau
+- Columbia River Gorge
+- Columbia, South Carolina
+- Columbus, Ohio
+- Colón, Panama
+- Comilla
+- Commander Islands
+- Commercial area
+- Community of Madrid
+- Commuter town
+- Commuting
+- Comodoro Rivadavia
+- Comoro Islands
+- Comoé National Park
+- Complexo do Alemão
+- Computer cartography
+- Concepción, Chile
+- Connacht
+- Connecticut
+- Connecticut River
+- Constanța
+- Continental Divide of the Americas
+- Continental Europe
+- Contour line
+- Conurbation
+- Cooper Creek
+- Copacabana, Rio de Janeiro
+- Copper Canyon
+- Coquimbo Region
+- Coral Sea Islands
+- Cordillera Administrative Region
+- Cordillera Blanca
+- Corfu
+- Corfu (city)
+- Corinth Canal
+- Cork (city)
+- Cornwall
+- Corpus Christi, Texas
+- Corrientes Province
+- Cotopaxi
+- Counties of England
+- Counties of Ireland
+- County
+- County (United States)
+- County Durham
+- Courland
+- Coventry
+- Cox's Bazar
+- Cradle of Humankind
+- Craiova
+- Crater Lake
+- Crater Lake National Park
+- Craters of the Moon National Monument and Preserve
+- Critical geography
+- Cross River State
+- Crozet Islands
+- Cuautitlán Izcalli
+- Cuenca, Ecuador
+- Cuernavaca
+- Cuiabá
+- Culiacán
+- Cultural geography
+- Cumberland
+- Cumberland River
+- Cumbria
+- Curaçao
+- Curonian Spit
+- Cuttack
+- Cyclades
+- Cyrenaica
+- Czech Silesia
+- Częstochowa
+- Cà Mau
+- Cádiz
+- Cévennes
+- Córdoba Province, Argentina
+- Córdoba, Spain
+- Cúcuta
+- Da Lat
+- Dadès Gorges
+- Dahlak Archipelago
+- Daisetsuzan Volcanic Group
+- Dakahlia Governorate
+- Dakhla Oasis
+- Dali City
+- Dallas–Fort Worth metroplex
+- Dallol (hydrothermal system)
+- Daloa
+- Damietta Governorate
+- Dammam
+- Dandong
+- Danish Realm
+- Danube–Black Sea Canal
+- Daqing
+- Darfur
+- Darién Gap
+- Darjeeling
+- Darling River
+- Dartmoor
+- Darwin, Northern Territory
+- Datong
+- Daugava
+- Daugavpils
+- Davanagere
+- Davao Region
+- Davis Strait
+- Dayton, Ohio
+- Daşoguz
+- De Long Islands
+- Death Valley
+- Death Valley National Park
+- Debrecen
+- Deception Island
+- Deep South
+- Dehiwala-Mount Lavinia
+- Dehradun
+- Deir ez-Zor
+- Delaware
+- Delaware River
+- Delft
+- Delicate Arch
+- Delmarva Peninsula
+- Delta State
+- Democratic Autonomous Administration of North and East Syria
+- Denizli
+- Denmark Strait
+- Denpasar
+- Dependent territory
+- Depok
+- Dera Ghazi Khan
+- Derbent
+- Derby
+- Derbyshire
+- Derry
+- Des Moines, Iowa
+- Desventuradas Islands
+- Dettifoss
+- Development geography
+- Devil's Island
+- Devils Tower
+- Devon
+- Devon Island
+- Dezful
+- Dhaka Division
+- Dhamar, Yemen
+- Dhanbad
+- Dharamshala
+- Dhaulagiri
+- Dhule
+- Diego Garcia
+- Dieng Plateau
+- Digital elevation model
+- Dijon
+- Dili
+- Dimapur
+- Dinajpur
+- Dinosaur Provincial Park
+- Disko Island
+- District
+- Diyarbakır
+- Djelfa
+- Djerba
+- Djibouti City
+- Djougou
+- Dniester
+- Dnipropetrovsk Oblast
+- Dobruja
+- Dodecanese
+- Dodoma
+- Doggerland
+- Dolomites
+- Donbas
+- Donetsk Oblast
+- Dong River (China)
+- Dongcheng, Beijing
+- Dongguan
+- Dongting Lake
+- Dongying
+- Dorset
+- Dortmund
+- Dortmund–Ems Canal
+- Dot distribution map
+- Douro
+- Dover
+- Downtown
+- Doñana National Park
+- Drenthe
+- Dubrovnik
+- Duhok
+- Duisburg
+- Dundee
+- Dune of Pilat
+- Duque de Caxias, Rio de Janeiro
+- Durango
+- Durango (city)
+- Durgapur
+- Durham, North Carolina
+- Durrës
+- Dushanbe
+- Dwarka
+- Dzhugdzhur
+- Dzungaria
+- East
+- East African Rift
+- East Antarctica
+- East China
+- East Flanders
+- East Java
+- East Jerusalem
+- East Kalimantan
+- East London, South Africa
+- East Malaysia
+- East Nusa Tenggara
+- East Pacific Rise
+- East Riding of Yorkshire
+- East Siberian Sea
+- East Siberian taiga
+- East Sussex
+- East Thrace
+- Eastern Anatolia region
+- Eastern Cape
+- Eastern Ghats
+- Eastern Hemisphere
+- Eastern Province, Saudi Arabia
+- Eastern Visayas
+- Ebonyi State
+- Ebro
+- Ecatepec de Morelos
+- Economic geography
+- Edirne
+- Edmonton
+- Edo State
+- Ehime Prefecture
+- Eiger
+- Eilat
+- Ein Gedi Nature Reserve
+- Eindhoven
+- Eisriesenwelt
+- Ekiti State
+- El Kantara
+- El Mahalla El Kubra
+- El Paso, Texas
+- El Torcal de Antequera
+- El-Gadarif
+- El-Obeid
+- Elbe–Lübeck Canal
+- Elche
+- Eldoret
+- Electoral district
+- Elephant Island
+- Elephanta Caves
+- Eluru
+- Emba (river)
+- Emi Koussi
+- Emilia-Romagna
+- Emirate of Abu Dhabi
+- Emirate of Ajman
+- Emirate of Dubai
+- Emirate of Fujairah
+- Emirate of Ras Al Khaimah
+- Emirate of Sharjah
+- Emirate of Umm Al Quwain
+- Enewetak Atoll
+- Ennedi Plateau
+- Entre Ríos Province
+- Enugu State
+- Epirus (region)
+- Erdenet
+- Erfurt
+- Erode
+- Erzurum
+- Eskişehir
+- Eslamshahr
+- Espiritu Santo
+- Espírito Santo
+- Essen
+- Essex
+- Ethnic enclave
+- Etosha Pan
+- Euboea
+- Eugene, Oregon
+- Eugénie Archipelago
+- European Plain
+- Everglades National Park
+- Externsteine
+- Extremadura
+- Faial Island
+- Failaka Island
+- Faiyum Governorate
+- Fakaofo
+- Fallujah
+- False Cape Horn
+- Fangchenggang
+- Fanjingshan
+- Far East
+- Fargo, North Dakota
+- Faridabad
+- Fars province
+- Fayetteville, North Carolina
+- Federal Capital Territory (Nigeria)
+- Federal District (Brazil)
+- Federation of Bosnia and Herzegovina
+- Fennoscandia
+- Fergana
+- Fergana Valley
+- Fernando de Noronha
+- Ferrara
+- Fezzan
+- Fife
+- Filchner–Ronne Ice Shelf
+- Fingal's Cave
+- Finnish Lakeland
+- Firozabad
+- Fishing village
+- Fitz Roy
+- Five West Sea Islands
+- Flathead Indian Reservation
+- Flemish Brabant
+- Flevoland
+- Flores
+- Flores Island (Azores)
+- Flores Sea
+- Florianópolis
+- Florida Keys
+- Flow map
+- Fly River
+- Foggia
+- Fontaine de Vaucluse (spring)
+- Forlì
+- Formosa Province
+- Fort Lauderdale, Florida
+- Fort Wayne, Indiana
+- Fort Worth, Texas
+- Fort-de-France
+- Foshan
+- Fossa Magna
+- Fouta Djallon
+- Franche-Comté
+- Francistown
+- Franconia
+- Francophonie
+- Franklin River
+- Franz Josef Glacier
+- Franz Josef Land
+- Frasassi Caves
+- Fraser River
+- Free State (province)
+- Freiburg im Breisgau
+- French America
+- French Southern and Antarctic Lands
+- Fresno, California
+- Friesland
+- Friouato Caves
+- Frisia
+- Friuli-Venezia Giulia
+- Front Range
+- Fuerteventura
+- Fuji Five Lakes
+- Fukui Prefecture
+- Fukuoka Prefecture
+- Fukushima (city)
+- Fukushima Prefecture
+- Fulda Gap
+- Funafuti
+- Funchal
+- Fuxin
+- Gagauzia
+- Galați
+- Galeras
+- Galicia (Eastern Europe)
+- Galilee
+- Galle
+- Gall–Peters projection
+- Galmudug
+- Galway
+- Gambela Region
+- Gambia River
+- Gambier Islands
+- Gamburtsev Mountain Range
+- Gandhinagar
+- Ganges Delta
+- Gangotri Glacier
+- Gangtok
+- Gangwon Province, South Korea
+- Ganja, Azerbaijan
+- Gannett Peak
+- Gansu
+- Gao
+- Garoua
+- Gasherbrum I
+- Gasherbrum II
+- Gates of the Arctic National Park and Preserve
+- Gauteng
+- Gaya, India
+- Gaza City
+- Gazetteer
+- Gazipur
+- Gdynia
+- Geirangerfjord
+- Gelderland
+- General Santos
+- Gentrification
+- Geographer
+- Geographic information science
+- Geographical zone
+- Geography of Africa
+- Geography of Antarctica
+- Geography of Asia
+- Geography of Europe
+- Geography of North America
+- Geography of South America
+- Geoinformatics
+- George Town, Cayman Islands
+- George Town, Penang
+- Georgetown, Guyana
+- Georgia (U.S. state)
+- Geostatistics
+- Geovisualization
+- German Bight
+- Gerrymandering
+- Geysir
+- Gezira State
+- Ghaghara
+- Ghajar
+- Gharbia Governorate
+- Ghaziabad
+- Ghazni
+- Ghent
+- Ghent–Terneuzen Canal
+- Ghost town
+- Giant's Causeway
+- Gifu
+- Gifu Prefecture
+- Gihon Spring
+- Gijón
+- Gila River
+- Gilan province
+- Gilbert Islands
+- Gilgit-Baltistan
+- Gitega
+- Giza Governorate
+- Glacial Lake Missoula
+- Glacier Peak
+- Glenwood Canyon
+- Global city
+- Gloucestershire
+- Goa
+- Goiás
+- Goiânia
+- Golan Heights
+- Gold Coast, Queensland
+- Golden Gate Highlands National Park
+- Golestan National Park
+- Golestan province
+- Golestan, Tehran
+- Goma
+- Gombe State
+- Gomel
+- Gorakhpur
+- Gorgan
+- Gorontalo
+- Gorontalo (city)
+- Gorée
+- Gothenburg
+- Gotland
+- Gotō Islands
+- Gough Island
+- Goyang
+- Gozo
+- Grade (slope)
+- Gran Canaria
+- Granada
+- Grand Bahama
+- Grand Canal (Venice)
+- Grand Canal of Alsace
+- Grand Canyon National Park
+- Grand Rapids, Michigan
+- Grand Teton
+- Grand Teton National Park
+- Graz
+- Great Arctic State Nature Reserve
+- Great Basin
+- Great Basin Desert
+- Great Dismal Swamp
+- Great Fish River
+- Great Glen
+- Great Hungarian Plain
+- Great Lakes region
+- Great Lakes–St. Lawrence Lowlands
+- Great Limpopo Transfrontier Park
+- Great Man-Made River
+- Great Salt Desert
+- Great Salt Lake
+- Great Sandy Desert
+- Great Smoky Mountains
+- Great Wall of Sand
+- Great circle
+- Greater China
+- Greater India
+- Greater Iran
+- Greater Khingan
+- Greater London
+- Greater Manchester
+- Greater Poland Voivodeship
+- Greater Sunda Islands
+- Greater Tokyo Area
+- Greater and Lesser Tunbs
+- Green River (Colorado River tributary)
+- Greensboro, North Carolina
+- Grenoble
+- Grisons
+- Grodno
+- Groningen
+- Groningen (province)
+- Grossglockner
+- Grozny
+- Guadalcanal
+- Guadalupe Island
+- Guanajuato
+- Guangxi
+- Guantánamo
+- Guarani Aquifer
+- Guarulhos
+- Guernsey
+- Guerrero
+- Guilin
+- Guinea (region)
+- Guiyang
+- Guizhou
+- Gujrat, Pakistan
+- Gulangyu
+- Gulf Islands
+- Gulf of Aqaba
+- Gulf of Bothnia
+- Gulf of Finland
+- Gulf of Maine
+- Gulf of Ob
+- Gulf of Panama
+- Gulf of Porto
+- Gulf of Tonkin
+- Gulu
+- Gumi, South Korea
+- Guna Yala
+- Gunma Prefecture
+- Gunsan
+- Guntur
+- Gurgaon
+- Gwalior
+- Gwangju
+- Gyda Peninsula
+- Gyeonggi Province
+- Gyeongju
+- Gyumri
+- Göreme Historical National Park
+- Göta Canal
+- Götaland
+- Hachinohe
+- Hadhramaut
+- Hafar al-Batin
+- Hai River
+- Haidian, Beijing
+- Haifa
+- Haikou
+- Hail (city)
+- Hail Province, Saudi Arabia
+- Hainaut Province
+- Hakodate
+- Haleakalā
+- Halifax, Nova Scotia
+- Hall Islands
+- Hallasan
+- Halle (Saale)
+- Halmahera
+- Hama
+- Hamadan
+- Hamadan province
+- Hamamatsu
+- Hamhung
+- Hamilton, Bermuda
+- Hamilton, Ontario
+- Hamlet (place)
+- Hammam Maskhoutine
+- Hampshire
+- Han River (Hubei and Shaanxi)
+- Han River (Korea)
+- Handan
+- Hang Sơn Đoòng
+- Hanover
+- Harar
+- Harari Region
+- Hargeisa
+- Haridwar
+- Hartford, Connecticut
+- Haryana
+- Harz
+- Hat Yai
+- Havel
+- Hawaiian Islands
+- Hawaiian–Emperor seamount chain
+- Hawaiʻi (island)
+- Hawar Islands
+- Hawassa
+- Health geography
+- Heard Island and McDonald Islands
+- Heat map
+- Hebrides
+- Hebron
+- Hegang
+- Height above mean sea level
+- Heilongjiang
+- Hekla
+- Heligoland
+- Hells Canyon
+- Helmcken Falls
+- Hengduan Mountains
+- Hengqin
+- Heraklion
+- Herefordshire
+- Hermosillo
+- Hertfordshire
+- Hesse
+- Heze
+- Hidalgo (state)
+- High Atlas
+- High Plains (United States)
+- Highland Papua
+- Hillah
+- Himachal Pradesh
+- Himeji
+- Hiroshima Prefecture
+- Hirshabelle
+- Hispanic America
+- Historic counties of England
+- Historic preservation
+- Historical geography
+- Historical region
+- Hobart
+- Hodeidah
+- Hofuf
+- Hoggar Mountains
+- Hoh Xil
+- Hohhot
+- Holland
+- Hollywood, Los Angeles
+- Homs
+- Hong Kong Island
+- Honiara
+- Honolulu
+- Hoorn Islands
+- Hormozgan province
+- Hormuz Island
+- Houston Ship Channel
+- Howland Island
+- Howrah
+- Hsinchu
+- Hsinchu County
+- Huai River
+- Huaibei
+- Hualien County
+- Huambo
+- Huanglong Scenic and Historic Interest Area
+- Huangshan
+- Huangshi
+- Huayllay National Sanctuary
+- Hubli
+- Hubli–Dharwad
+- Hudson Bay Lowlands
+- Hudson River
+- Hudson Strait
+- Huizhou
+- Huludao
+- Huntingdonshire
+- Huntsville, Alabama
+- Hurghada
+- Hyde Park, London
+- Hypsometry
+- Hyōgo Prefecture
+- Hölloch
+- Hạ Long
+- Hạ Long Bay
+- Hải Dương
+- IJsselmeer
+- Iași
+- Ibagué
+- Ibaraki Prefecture
+- Ibiza
+- Idaho
+- Idlib
+- Ifẹ
+- Ikorodu
+- Iksan
+- Ilam province
+- Ilam, Iran
+- Ili River
+- Iligan
+- Illimani
+- Illinois
+- Ilocos Region
+- Iloilo City
+- Ilorin
+- Imo State
+- Imphal
+- Imus
+- Incheon
+- Indian Ocean trade
+- Indian reservation
+- Indian subcontinent
+- Indiana
+- Indianapolis
+- Indigirka
+- Ingria
+- Ingushetia
+- Inland Empire
+- Inner Hebrides
+- Innsbruck
+- Inside Passage
+- Intracoastal Waterway
+- Inverness
+- Ioannina
+- Ionian Islands
+- Iowa
+- Ipoh
+- Iquitos
+- Irazú Volcano
+- Irbid
+- Irkutsk
+- Irkutsk Oblast
+- Ironbottom Sound
+- Isan
+- Isfahan province
+- Ishikawa Prefecture
+- Iskar (river)
+- Isla Grande de Tierra del Fuego
+- Isla Salas y Gómez
+- Islamabad Capital Territory
+- Island of Montreal
+- Island of Mozambique
+- Islands of the Clyde
+- Islands of the Forth
+- Isle of Skye
+- Isle of Wight
+- Isles of Scilly
+- Ismailia Governorate
+- Ismoil Somoni Peak
+- Isthmus of Chignecto
+- Isthmus of Corinth
+- Isthmus of Panama
+- Isthmus of Perekop
+- Isthmus of Suez
+- Isthmus of Tehuantepec
+- Italian Peninsula
+- Itoigawa-Shizuoka Tectonic Line
+- Itsukushima
+- Ivano-Frankivsk
+- Ivano-Frankivsk Oblast
+- Ivanovo
+- Iwaki, Fukushima
+- Iwate Prefecture
+- Izhevsk
+- Izu Islands
+- Izu Peninsula
+- Izu–Bonin–Mariana arc
+- Jabalpur
+- Jackson, Mississippi
+- Jacksonville, Florida
+- Jaffna
+- Jalalabad
+- Jalandhar
+- Jalgaon
+- Jalisco
+- Jalpaiguri
+- Jambi
+- Jambi (city)
+- James Bay
+- James River
+- James River (Dakotas)
+- James Ross Island
+- Jammu
+- Jammu and Kashmir (union territory)
+- Jamnagar
+- Jamshedpur
+- Jan Mayen
+- Japan Median Tectonic Line
+- Japanese Alps
+- Japanese archipelago
+- Japurá River
+- Jarvis Island
+- Java Sea
+- Jayapura
+- Jazan Province
+- Jaú National Park
+- Jeita Grotto
+- Jeju City
+- Jeju Province
+- Jenolan Caves
+- Jeonju
+- Jerez de la Frontera
+- Jersey
+- Jersey City, New Jersey
+- Jessore
+- Jewel Cave National Monument
+- Jewish Autonomous Oblast
+- Jhang
+- Jhansi
+- Jharkhand
+- Jhelum River
+- Jialing River
+- Jiamusi
+- Jiangmen
+- Jiangxi
+- Jiaozuo
+- Jiaxing
+- Jieyang
+- Jigawa State
+- Jijiga
+- Jilin
+- Jilin City
+- Jim Corbett National Park
+- Jingdezhen
+- Jingzhou
+- Jinhua
+- Jining
+- Jinzhou
+- Jiujiang
+- Jiuquan
+- Jiuzhaigou
+- Jixi
+- Johnston Atoll
+- Johor
+- Jolo
+- Jordan Valley
+- Jos
+- Joshua Tree National Park
+- Jostedal Glacier
+- João Pessoa, Paraíba
+- Juan Fernández Islands
+- Juba
+- Jubail
+- Jubaland
+- Jubba River
+- Judaean Mountains
+- Judea
+- Judea and Samaria Area
+- Jugurtha Tableland
+- Jujuy Province
+- Junagadh
+- Juneau, Alaska
+- Jungfrau
+- Junggar Basin
+- Jurong Island
+- Jutland
+- K'gari
+- Kabardino-Balkaria
+- Kabul River
+- Kabylia
+- Kachin State
+- Kadapa
+- Kaduna State
+- Kaesong
+- Kafr El Sheikh Governorate
+- Kagawa Prefecture
+- Kagera River
+- Kagoshima
+- Kagoshima Prefecture
+- Kahramanmaraş
+- Kaieteur Falls
+- Kaifeng
+- Kairouan
+- Kakinada
+- Kalaburagi
+- Kalimantan
+- Kaliningrad
+- Kalmunai
+- Kalmykia
+- Kalyan-Dombivli
+- Kama (river)
+- Kamarhati
+- Kampong
+- Kanagawa Prefecture
+- Kananga
+- Kanazawa
+- Kanchipuram
+- Kandy
+- Kangar
+- Kangchenjunga
+- Kangwon Province, North Korea
+- Kanmon Straits
+- Kano State
+- Kansai region
+- Kansas
+- Kansas City, Missouri
+- Kantō Plain
+- Kantō region
+- Kapuas River
+- Karachay-Cherkessia
+- Karaganda
+- Karaj
+- Karakalpakstan
+- Karakum Canal
+- Karbala
+- Karelia
+- Karelian Isthmus
+- Karlsruhe
+- Karnataka
+- Karoo
+- Karpathos
+- Kasai River
+- Kashan
+- Kashgar
+- Kashmir Valley
+- Kassala
+- Kassala State
+- Kassel
+- Kasur
+- Kata Tjuta
+- Katanga Province
+- Katowice
+- Katsina State
+- Kauaʻi
+- Kaunas
+- Kaveri
+- Kawasaki, Kanagawa
+- Kayin State
+- Kayseri
+- Kebbi State
+- Kedah
+- Keelung
+- Kelantan
+- Kemerovo
+- Kendari
+- Kenema
+- Kenitra
+- Kent
+- Kentucky
+- Kerala
+- Kerala backwaters
+- Kerguelen Islands
+- Kerguelen Plateau
+- Kermadec Islands
+- Kerman
+- Kerman province
+- Kermanshah province
+- Key Largo
+- Key West
+- Khabarovsk
+- Khakassia
+- Khamis Mushait
+- Khammam
+- Khangai Mountains
+- Khanty-Mansi Autonomous Okrug
+- Kharg Island
+- Kharga Oasis
+- Kharkiv Oblast
+- Khartoum North
+- Khartoum State
+- Khasab
+- Kherson
+- Kherson Oblast
+- Khlong Saen Saep
+- Khmelnytskyi
+- Khmelnytskyi Oblast
+- Khobar
+- Khomeynishahr
+- Khone Phapheng Falls
+- Khorasan province
+- Khorramabad
+- Khujand
+- Khulna
+- Khulna Division
+- Khuzestan province
+- Khyber Pakhtunkhwa
+- Khyber Pass
+- Kibbutz
+- Kiel
+- Kielce
+- Kii Channel
+- Kii Peninsula
+- Kikwit
+- Kimberley, South Africa
+- King William Island
+- Kingdom of the Netherlands
+- Kingman Reef
+- Kingston upon Hull
+- Kingstown
+- Kinmen
+- Kinnekulle
+- Kiritimati
+- Kirkuk
+- Kirovohrad Oblast
+- Kisangani
+- Kish Island
+- Kisumu
+- Kitakyushu
+- Kitamaebune
+- Kitwe
+- Klagenfurt
+- Klaipėda
+- Kluane / Wrangell–St. Elias / Glacier Bay / Tatshenshini-Alsek
+- Klyuchevskaya Sopka
+- Knoxville, Tennessee
+- Ko Samui
+- Kochi
+- Kodiak Island
+- Kogi State
+- Kohgiluyeh and Boyer-Ahmad province
+- Kokand
+- Kola Peninsula
+- Kolhapur
+- Kollam
+- Kolwezi
+- Kolyma (river)
+- Kolyma Mountains
+- Komi Republic
+- Komodo National Park
+- Komsomolets Island
+- Konya
+- Kootenay River
+- Kopet Dag
+- Korba, Chhattisgarh
+- Kordofan
+- Koror (city)
+- Koryaksky
+- Kos
+- Kosrae
+- Kostanay
+- Kota Bharu
+- Kota Kinabalu
+- Kota, Rajasthan
+- Kotelny Island
+- Kowloon
+- Kowloon Peninsula
+- Kozhikode
+- Košice
+- Kra Isthmus
+- Krasnodar
+- Krasnodar Krai
+- Krasnoyarsk
+- Krefeld
+- Kronotsky Nature Reserve
+- Kryvyi Rih
+- Kuala Terengganu
+- Kuang Si Falls
+- Kuantan
+- Kuching
+- Kufa
+- Kumamoto
+- Kumamoto Prefecture
+- Kumba, Cameroon
+- Kunduz
+- Kupang
+- Kura (South Caucasus river)
+- Kurdistan Region
+- Kurdistan province
+- Kure, Hiroshima
+- Kuril–Kamchatka Trench
+- Kurnool
+- Kursk
+- Kushtia
+- Kuskokwim River
+- Kut
+- Kutupalong refugee camp
+- Kuyavian–Pomeranian Voivodeship
+- KwaZulu-Natal
+- Kwajalein Atoll
+- Kwara State
+- Kyiv Oblast
+- Kyoto Prefecture
+- Kyzylkum Desert
+- Kyzylorda
+- Königssee
+- Kīlauea
+- Kōchi Prefecture
+- Kōchi, Kōchi
+- Kōriyama
+- La Amistad International Park
+- La Palma
+- La Pampa Province
+- La Paz, Baja California Sur
+- La Plata
+- La Portada
+- La Pérouse Strait
+- La Rioja
+- La Rioja Province, Argentina
+- La Verna Cave
+- Laacher See
+- Laayoune
+- Labrador Peninsula
+- Labuan
+- Lachlan River
+- Lae
+- Lafia
+- Lagos State
+- Laguna de Bay
+- Lake Argyle
+- Lake Assal (Djibouti)
+- Lake Athabasca
+- Lake Balaton
+- Lake Biwa
+- Lake Bonneville
+- Lake Champlain
+- Lake Chapala
+- Lake Constance
+- Lake Edward
+- Lake Garda
+- Lake Geneva
+- Lake Itasca
+- Lake Khanka
+- Lake Kivu
+- Lake Lanao
+- Lake Lucerne
+- Lake Mackay
+- Lake Maggiore
+- Lake Manitoba
+- Lake Mashū
+- Lake Mead
+- Lake Nasser
+- Lake Okeechobee
+- Lake Peipus
+- Lake Pontchartrain
+- Lake Pátzcuaro
+- Lake Sevan
+- Lake Simcoe
+- Lake Tahoe
+- Lake Tai
+- Lake Taupō
+- Lake Taymyr
+- Lake Toba
+- Lake Tritriva
+- Lake Washington Ship Canal
+- Lake Winnipegosis
+- Lake of the Woods
+- Lakes of Killarney
+- Lakshadweep
+- Lalitpur, Nepal
+- Lampung
+- Lancashire
+- Land and water hemispheres
+- Land's End
+- Langfang
+- Langkawi
+- Langkofel Group
+- Language geography
+- Languedoc
+- Lantau Island
+- Lanzarote
+- Laptev Sea
+- Larkana
+- Larnaca
+- Las Palmas
+- Las Piñas
+- Las Vegas Strip
+- Lashkargah
+- Latakia
+- Latina, Lazio
+- Latur
+- Lausanne
+- Layover
+- Lazio
+- Le Havre
+- Le Mans
+- Lechuguilla Cave
+- Ledenika
+- Leeward Antilles
+- Leeward Islands
+- Lefkada
+- Leicester
+- Leicestershire
+- Leidsevaart
+- Leinster
+- Leipzig
+- Leizhou Peninsula
+- Lemnos
+- Lena Delta Wildlife Reserve
+- Lerma River
+- Lesbos
+- Leshan
+- Lesser Poland Voivodeship
+- Levantine Sea
+- Leviathan Cave
+- Lewis and Harris
+- Lexington, Kentucky
+- Leyte
+- León, Nicaragua
+- Lhasa (prefecture-level city)
+- Lhotse
+- Lianyungang
+- Liao River
+- Liaocheng
+- Liaodong Peninsula
+- Liaoning
+- Liaoyang
+- Liberia, Costa Rica
+- Libreville
+- Libyan Desert
+- Liepāja
+- Liguria
+- Ligurian Sea
+- Lille
+- Limassol
+- Limburg (Belgium)
+- Limburg (Netherlands)
+- Limerick
+- Limoges
+- Limousin
+- Limpopo
+- Lincoln, Nebraska
+- Lincolnshire
+- Line Islands
+- Linear settlement
+- Lingdingyang
+- Lingga Regency
+- Lingqu
+- Linköping
+- Linyi
+- Linz
+- Lion Rock
+- Lipetsk
+- Little Rock, Arkansas
+- Livingston Island
+- Livingstone, Zambia
+- Livonia
+- Livorno
+- Liège
+- Liège Province
+- Ljubljana
+- Llanos
+- Llullaillaco
+- Location
+- Loch Lomond
+- Loch Morar
+- Loch Ness
+- Loess Plateau
+- Lofoi Falls
+- Lofoten
+- Lombardy
+- Lombok
+- Lombok Strait
+- Lomé
+- London, Ontario
+- Long Beach, California
+- Long Island
+- Long Island Sound
+- Long Xuyên, Mekong Delta
+- Longyearbyen
+- Loni, Ghaziabad
+- Lord Howe Island
+- Lorentz National Park
+- Lorestan province
+- Lorraine
+- Los Lagos Region
+- Los Ríos Region
+- Louisiana
+- Louisville, Kentucky
+- Low Countries
+- Lower Austria
+- Lower Saxony
+- Lower Silesian Voivodeship
+- Lualaba River
+- Luang Prabang
+- Lubango
+- Lublin
+- Lublin Voivodeship
+- Lubusz Voivodeship
+- Lucayan Archipelago
+- Lucena
+- Lucerne
+- Luhansk
+- Luhansk Oblast
+- Luohe
+- Lurgrotte
+- Lut Desert
+- Luton
+- Luxembourg (Belgium)
+- Luxembourg City
+- Luxor Governorate
+- Luzhou
+- Lviv Oblast
+- Lyakhovsky Islands
+- Lübeck
+- Lānaʻi
+- M'banza-Kongo
+- Ma'anshan
+- MacDonnell Ranges
+- Macapá
+- Macaronesia
+- Macedonia (Greece)
+- Maceió
+- Macquarie Island
+- Madeira Island
+- Madhya Pradesh
+- Madison, Wisconsin
+- Madura
+- Maebashi
+- Mafikeng
+- Magallanes Region
+- Magdeburg
+- Maghreb
+- Magnitogorsk
+- Mahakam River
+- Maheshtala
+- Maine
+- Mainz
+- Majuro
+- Makalu
+- Makati
+- Makgadikgadi Pan
+- Makhachkala
+- Malabo
+- Malacca
+- Malacca City
+- Malaita
+- Malard
+- Malaspina Glacier
+- Malatya
+- Malden Island
+- Malegaon
+- Maletsunyane Falls
+- Mallorca
+- Mallos de Riglos
+- Malmö
+- Malpelo Island
+- Malta (island)
+- Maluku (province)
+- Maly Lyakhovsky Island
+- Malé
+- Mamberamo River
+- Mammoth Cave National Park
+- Manado
+- Manama
+- Manaslu
+- Manbij
+- Manchester Ship Canal
+- Manchester, New Hampshire
+- Mandara Mountains
+- Mandaue
+- Mandraka Falls
+- Mangaia
+- Mangaluru
+- Manhattan
+- Manicouagan Reservoir
+- Manipur
+- Manitoba
+- Manitoulin Island
+- Mannheim
+- Manovo-Gounda St. Floris National Park
+- Mansoura, Egypt
+- Mantua
+- Manzini
+- Maoming
+- Map symbol
+- Mar del Plata
+- Maracay
+- Maradi, Niger
+- Maranhão
+- Marañón River
+- Marche
+- Mardalsfossen
+- Mardan
+- Margilan
+- Mari El
+- Mariana Islands
+- Marie Byrd Land
+- Marikina
+- Marinduque
+- Maritime Silk Road
+- Mariupol
+- Markazi province
+- Marmara region
+- Maroua
+- Marquesas Islands
+- Marrah Mountains
+- Maryland
+- Masbate Island
+- Mascarene Islands
+- Maseru
+- Masovian Voivodeship
+- Massachusetts
+- Massachusetts Bay
+- Matabeleland
+- Matadi
+- Matamoros, Tamaulipas
+- Mataram (city)
+- Mathura
+- Mato Grosso
+- Mato Grosso do Sul
+- Matola
+- Matrouh Governorate
+- Matsu Islands
+- Matsushima
+- Matsuyama
+- Matterhorn
+- Maui
+- Maule Region
+- Mauna Kea
+- Mawlamyine
+- Mayon
+- Mazandaran province
+- Mazar-i-Sharif
+- Mbabane
+- Mbarara
+- Mbeya
+- Mbombela
+- Mbomou River
+- McDonald Islands
+- McMurdo Sound
+- McMurdo Station
+- Mdina
+- Mecca Province
+- Mecklenburg-Vorpommern
+- Medina Province, Saudi Arabia
+- Mediterranean region, Turkey
+- Meerut
+- Megacity
+- Meghalaya
+- Mekelle
+- Meknes
+- Mekong Delta
+- Melilla
+- Melnik Earth Pyramids
+- Melville Island (Northwest Territories and Nunavut)
+- Memphis, Tennessee
+- Mendoza Province
+- Mendoza, Argentina
+- Menengai
+- Menorca
+- Meridian (geography)
+- Merseyside
+- Mersin
+- Mesa, Arizona
+- Messina
+- Meteor Crater
+- Meteora
+- Metro Manila
+- Metropolis
+- Metropolitan France
+- Metz
+- Meuse
+- Mexicali
+- Mexican Plateau
+- Mianyang
+- Miaoli County
+- Michigan
+- Michoacán
+- Mid-Atlantic (United States)
+- Middle East and North Africa
+- Middle Peninsula
+- Middlesex
+- Midi-Pyrénées
+- Midlands
+- Midway Atoll
+- Mie Prefecture
+- Milford Sound
+- Milk River (Alberta–Montana)
+- Milton Keynes
+- Milwaukee
+- Mimaropa
+- Min River (Sichuan)
+- Mindoro
+- Mingora
+- Minho (river)
+- Minna
+- Minnesota
+- Minya Governorate
+- Mira-Bhayandar
+- Misiones Province
+- Misrata
+- Mississippi
+- Mississippi River Delta
+- Missouri
+- Misti
+- Mittelland Canal
+- Mixed-use development
+- Miyagi Prefecture
+- Miyazaki (city)
+- Miyazaki Prefecture
+- Mizoram
+- Mobile, Alabama
+- Modena
+- Mogilev
+- Molise
+- Molokaʻi
+- Molucca Sea
+- Moncton
+- Mongolian Plateau
+- Montana
+- Monte Carlo
+- Montego Bay
+- Montería
+- Montgomery, Alabama
+- Montpellier
+- Montserrat
+- Monufia Governorate
+- Monument Valley
+- Monywa
+- Monza
+- Moradabad
+- Moratuwa
+- Morava (river)
+- Moravia
+- Mordovia
+- Morelia
+- Morelos
+- Morioka
+- Morogoro
+- Moroni, Comoros
+- Moruroa
+- Moscow Canal
+- Moscow Oblast
+- Moselle
+- Moskva (river)
+- Moundou
+- Mount Adams (Washington)
+- Mount Ararat
+- Mount Asama
+- Mount Aso
+- Mount Baker
+- Mount Blackburn
+- Mount Bromo
+- Mount Caubvick
+- Mount Damavand
+- Mount Edziza volcanic complex
+- Mount Elbert
+- Mount Emei
+- Mount Erebus
+- Mount Fairweather
+- Mount Graham
+- Mount Heng (Hunan)
+- Mount Heng (Shanxi)
+- Mount Hood
+- Mount Hotakadake
+- Mount Hua
+- Mount Jiuhua
+- Mount Kita
+- Mount Logan
+- Mount Merapi
+- Mount Mitchell
+- Mount Nyiragongo
+- Mount Paektu
+- Mount Papandayan
+- Mount Parnassus
+- Mount Putuo
+- Mount Rainier
+- Mount Rainier National Park
+- Mount Ruapehu
+- Mount Saint Elias
+- Mount Shasta
+- Mount Sidley
+- Mount Song
+- Mount Stanley
+- Mount Tambora
+- Mount Unzen
+- Mount Washington
+- Mount Whitney
+- Mount Williamson
+- Mount Wutai
+- Mountain states
+- Moynaq
+- Moçâmedes
+- Moʼorea
+- Mpumalanga
+- Mudanjiang
+- Mulhouse
+- Multnomah Falls
+- Municipality
+- Munster
+- Murcia
+- Murmansk
+- Murrumbidgee River
+- Musgrave Ranges
+- Muzaffarnagar
+- Muzaffarpur
+- Mwanza
+- Myitkyina
+- Mykolaiv
+- Mykolaiv Oblast
+- Mykonos
+- Mymensingh
+- Mymensingh Division
+- Málaga
+- Mönch
+- Mönchengladbach
+- Møns Klint
+- Münster
+- Mỹ Tho (city)
+- NIMBY
+- Nabesna Glacier
+- Nagaland
+- Nagano (city)
+- Nagano Prefecture
+- Nagasaki
+- Nagasaki Prefecture
+- Naha
+- Nahuel Huapi National Park
+- Najaf
+- Najran
+- Najran Province
+- Nakhchivan Autonomous Republic
+- Nakhon Ratchasima
+- Nakhon Si Thammarat
+- Nakuru
+- Namangan
+- Namche Bazaar
+- Namib
+- Nampo
+- Nampula
+- Namtso
+- Namur
+- Namur Province
+- Nanchong
+- Nancy, France
+- Nanded
+- Nanga Parbat
+- Nankai Trough
+- Nanling Mountains
+- Nantong
+- Nantou County
+- Nanyang, Henan
+- Nara (city)
+- Nara Prefecture
+- Narayanganj
+- Narmada River
+- Nasarawa State
+- Nashik
+- Nasiriyah
+- Nassau, Bahamas
+- Natal, Rio Grande do Norte
+- National Mall
+- Natuna Regency
+- Nature reserve
+- Naucalpan
+- Nautical chart
+- Navajo Nation
+- Navarre
+- Navassa Island
+- Navi Mumbai
+- Naxos
+- Nayarit
+- Naypyidaw
+- Nazareth
+- Ndola
+- Near East
+- Nebraska
+- Nefta, Tunisia
+- Negeri Sembilan
+- Negev
+- Negombo
+- Negros
+- Negros Island Region
+- Nellore
+- Nelson River
+- Neman
+- Nenets Autonomous Okrug
+- Nenets Nature Reserve
+- Neptune's Grotto
+- Neretva
+- Nettilling Lake
+- Neuquén
+- Neuquén Province
+- Nevada
+- Nevado Sajama
+- Nevado de Toluca
+- Nevis
+- New Brunswick
+- New Delhi
+- New Guinea Highlands
+- New Hampshire
+- New Haven, Connecticut
+- New Ireland (island)
+- New Jersey
+- New Mexico
+- New Providence
+- New Siberia
+- New Siberian Islands
+- New South Wales
+- New Taipei City
+- New Territories
+- New Valley Governorate
+- New World
+- New York Harbor
+- New York State Canal System
+- Newark, New Jersey
+- Newcastle upon Tyne
+- Newcastle, New South Wales
+- Newfoundland and Labrador
+- Newport, Rhode Island
+- Newport, Wales
+- Ngaoundéré
+- Ngäbe-Buglé Comarca
+- Nha Trang
+- Niagara Peninsula
+- Niagara River
+- Nicobar Islands
+- Nicosia
+- Niger State
+- Niigata (city)
+- Niigata Prefecture
+- Nijmegen
+- Nile Delta
+- Nilgiri Mountains
+- Ningxia
+- Nishapur
+- Nizamabad, Telangana
+- Niš
+- Noida
+- Nomoi Islands
+- Nonthaburi
+- Nord-Pas-de-Calais
+- Nordic countries
+- Norfolk
+- Norfolk Island
+- Norfolk, Virginia
+- Norilsk
+- Normandy
+- Norrland
+- North
+- North Aral Sea
+- North Asia
+- North Brabant
+- North Cape (Norway)
+- North Caribbean Coast Autonomous Region
+- North Carolina
+- North Cascades
+- North Caucasus
+- North China
+- North Chungcheong Province
+- North Dakota
+- North European Plain
+- North Gyeongsang Province
+- North Hamgyong Province
+- North Holland
+- North Hwanghae Province
+- North India
+- North Jeolla Province
+- North Jiangsu Main Irrigation Canal
+- North Kalimantan
+- North Khorasan province
+- North Maluku
+- North Ossetia–Alania
+- North Platte River
+- North Pyongan Province
+- North Region, Brazil
+- North Rhine-Westphalia
+- North Sentinel Island
+- North Sinai Governorate
+- North Sulawesi
+- North Sumatra
+- North West (South African province)
+- North West Cape
+- North Yorkshire
+- Northampton
+- Northamptonshire
+- Northeast Asia
+- Northeast China
+- Northeast China Plain
+- Northeast Region, Brazil
+- Northeast megalopolis
+- Northeastern United States
+- Northern Borders Province
+- Northern California
+- Northern Cape
+- Northern Dvina
+- Northern England
+- Northern Europe
+- Northern Hemisphere
+- Northern Hungary
+- Northern Isles
+- Northern Mindanao
+- Northern Neck
+- Northern Sea Route
+- Northern State (Sudan)
+- Northern Territory
+- Northern Thailand
+- Northland Peninsula
+- Northumberland
+- Northwest Territories
+- Northwestern China
+- Norwich
+- Noto Peninsula
+- Nottingham
+- Nottinghamshire
+- Nouméa
+- Nova Scotia
+- Novara
+- Novi Sad
+- Novokuznetsk
+- Novosibirsk Oblast
+- Nubian Desert
+- Nubian Sandstone Aquifer System
+- Nuevo León
+- Nukus
+- Nukuʻalofa
+- Nullarbor Plain
+- Nunavut
+- Nuuk
+- Nyala, Sudan
+- Nyenchen Tanglha Mountains
+- Nîmes
+- O'Higgins Region
+- Oakland, California
+- Oaxaca
+- Oaxaca City
+- Occitania
+- October Revolution Island
+- Odense
+- Oder
+- Oder–Havel Canal
+- Odesa Oblast
+- Odisha
+- Oecusse
+- Oga Peninsula
+- Ogallala Aquifer
+- Ogooué River
+- Ogun State
+- Ohio
+- Ojos del Salado
+- Oka (river)
+- Okapi Wildlife Reserve
+- Okara, Pakistan
+- Okavango Delta
+- Okavango River
+- Okayama
+- Okayama Prefecture
+- Okazaki, Aichi
+- Okinawa Island
+- Okinawa Prefecture
+- Oklahoma
+- Oklahoma City
+- Old City of Jerusalem
+- Old Faithful
+- Old Man of Hoy
+- Old World
+- Olongapo
+- Olsztyn
+- Olympia, Washington
+- Olympic Mountains
+- Olympic National Park
+- Olympic Peninsula
+- Omaha, Nebraska
+- Ometepe
+- Omo River
+- Ondo State
+- Onitsha
+- Ontong Java Atoll
+- Opole Voivodeship
+- Optymistychna Cave
+- Oral, Kazakhstan
+- Ordesa Valley
+- Oregon
+- Orenburg
+- Orient
+- Orkney
+- Orlando, Florida
+- Orléans
+- Oromia
+- Orontes River
+- Oruro
+- Osaka Prefecture
+- Osh
+- Oshima Peninsula
+- Oskemen
+- Osogbo
+- Ostrava
+- Osun State
+- Otago
+- Ottawa River
+- Oujda
+- Oulu
+- Oum Er-Rbia River
+- Ouro Preto
+- Outer Banks
+- Outer Hebrides
+- Outer Manchuria
+- Overijssel
+- Overseas France
+- Oviedo
+- Owerri
+- Oxford
+- Oxfordshire
+- Oyo State
+- Oyo, Oyo State
+- Ozarks
+- Oʻahu
+- Pacific Northwest
+- Pacific temperate rainforests
+- Pacific–Antarctic Ridge
+- Padma River
+- Padua
+- Pahang
+- Painted Desert (Arizona)
+- Paju
+- Pakdasht
+- Pakse
+- Palangka Raya
+- Palawan (island)
+- Palestine (region)
+- Palikir
+- Palm Islands
+- Palma de Mallorca
+- Palmas, Tocantins
+- Palu
+- Pamir Mountains
+- Pamlico Sound
+- Pamplona
+- Pamukkale
+- Panaji
+- Panay
+- Pangkalpinang
+- Panihati
+- Panjin
+- Pantanal
+- Panzhihua
+- Papahānaumokuākea Marine National Monument
+- Papeete
+- Papua (province)
+- Papuan Peninsula
+- Paracel Islands
+- Paraguay River
+- Paramaribo
+- Paraná (state)
+- Paraíba
+- Parañaque
+- Parbhani
+- Parma
+- Paroo River
+- Parthia
+- Pará
+- Parícutin
+- Pasay
+- Pasig
+- Pasto, Colombia
+- Patagonian Desert
+- Patiala
+- Patras
+- Pattaya
+- Pavlodar
+- Pays de la Loire
+- Peace River
+- Peak Pobeda (Sakha)
+- Peanut Hole
+- Pearl River Delta
+- Pechora (river)
+- Pecos River
+- Pedestrian zone
+- Pekanbaru
+- Peloponnese
+- Penang Island
+- Penghu
+- Perak
+- Percé Rock
+- Pereira, Colombia
+- Perito Moreno Glacier
+- Perlis
+- Perm, Russia
+- Pernambuco
+- Perpignan
+- Perugia
+- Pescara
+- Petah Tikva
+- Petaling Jaya
+- Peter I Island
+- Petrified Forest National Park
+- Petropavl
+- Petropavlovsk-Kamchatsky
+- Petrozavodsk
+- Phan Thiết
+- Phantom island
+- Philippine Trench
+- Philosophy of geography
+- Phoenix Islands
+- Phong Nha–Kẻ Bàng National Park
+- Photogrammetry
+- Phuket (city)
+- Physical geodesy
+- Phú Quốc
+- Piacenza
+- Piauí
+- Picardy
+- Pico Bolívar
+- Pico Cristóbal Colón
+- Pico Island
+- Pico da Neblina
+- Pico de Orizaba
+- Piedmont
+- Piedmont (plateau)
+- Pietermaritzburg
+- Pikes Peak
+- Pimpri-Chinchwad
+- Pingdingshan
+- Pingtung County
+- Pioneer Island (Russia)
+- Piraeus
+- Pisa
+- Pitcairn Islands
+- Pitt Island
+- Piura
+- Place identity
+- Plateau State
+- Platte River
+- Plitvice Lakes National Park
+- Plovdiv
+- Plymouth
+- Plzeň
+- Po (river)
+- Pobiti Kamani
+- Podgorica
+- Podkarpackie Voivodeship
+- Podlaskie Voivodeship
+- Pohang
+- Pohnpei
+- Pohnpei State
+- Pointe de Pen-Hir
+- Pointe-Noire
+- Pointe-à-Pitre
+- Poipet
+- Poitiers
+- Poitou-Charentes
+- Pokhara
+- Polar regions of Earth
+- Political geography
+- Polokwane
+- Poltava
+- Poltava Oblast
+- Poluwat
+- Pomerania
+- Pomeranian Voivodeship
+- Ponce, Puerto Rico
+- Pondicherry
+- Pont d'Arc
+- Ponta Delgada
+- Pontianak
+- Pontic Mountains
+- Popigai impact structure
+- Popocatépetl
+- Population density
+- Port Campbell National Park
+- Port Jackson
+- Port Louis
+- Port Moresby
+- Port Said
+- Port Said Governorate
+- Port Sudan
+- Port Vila
+- Port of Spain
+- Port-de-Paix
+- Portland, Maine
+- Portland, Oregon
+- Porto Velho
+- Porto-Novo
+- Portsmouth
+- Postojna Cave
+- Potomac River
+- Potosí
+- Potsdam
+- Prachov Rocks
+- Praia
+- Pratas Island
+- Prato
+- Prefectures of Japan
+- Primate city
+- Primorsky Krai
+- Prince Edward Island
+- Prince Edward Islands
+- Prince of Wales Island (Alaska)
+- Prince of Wales Island (Nunavut)
+- Pristina
+- Proportional symbol map
+- Protected area
+- Providence, Rhode Island
+- Province
+- Provinces of Ireland
+- Prussia (region)
+- Public space
+- Pudong
+- Puebla
+- Puente del Inca
+- Puerto Princesa
+- Puerto Princesa Subterranean River National Park
+- Puerto Vallarta
+- Puget Sound
+- Puli Khumri
+- Punjab, India
+- Punta Arenas
+- Punta Pariñas
+- Purus River
+- Putorana Nature Reserve
+- Putorana Plateau
+- Putrajaya
+- Pyatigorsk
+- Pyeongtaek
+- Pyramid Lake (Nevada)
+- Pınargözü Cave
+- Qaem Shahr
+- Qalyubiyya Governorate
+- Qarchak
+- Qarshi
+- Qatif
+- Qazvin province
+- Qena Governorate
+- Qeshm Island
+- Qinghai
+- Qinhuangdao
+- Qinling
+- Qiongzhou Strait
+- Qiqihar
+- Qods, Iran
+- Qom province
+- Quad Cities
+- Quantitative geography
+- Quantitative revolution
+- Quebec City
+- Queen Elizabeth Islands
+- Queen Maud Land
+- Queens
+- Queensland
+- Querétaro
+- Querétaro (city)
+- Quetta
+- Quetzaltenango
+- Qufu
+- Quintana Roo
+- Qujing
+- Quy Nhơn
+- Rahim Yar Khan
+- Rainbow Bridge National Monument
+- Rajahmundry
+- Rajarhat
+- Rajkot
+- Rajpur Sonarpur
+- Rajshahi
+- Rajshahi Division
+- Rakhine State
+- Raleigh, North Carolina
+- Ramadi
+- Ramallah
+- Rampur, Uttar Pradesh
+- Rancagua
+- Rangpur Division
+- Rangpur, Bangladesh
+- Raoul Island
+- Raqqa
+- Rarotonga
+- Ras Dashen
+- Rasht
+- Rason
+- Ravenna
+- Ravi River
+- Rawson, Chubut
+- Razavi Khorasan province
+- Reading, Berkshire
+- Red Flag Canal
+- Red River (Asia)
+- Red River Delta
+- Red River of the North
+- Red River of the South
+- Red Sea Governorate
+- Redwood National and State Parks
+- Reggio Calabria
+- Reggio Emilia
+- Regina, Saskatchewan
+- Region of Murcia
+- Regional geography
+- Regions of Peru
+- Reims
+- Rennes
+- Reno, Nevada
+- Republic of Karelia
+- Republika Srpska
+- Residential area
+- Revillagigedo Islands
+- Reykjavík
+- Reynosa
+- Rhine-Ruhr metropolitan region
+- Rhineland-Palatinate
+- Rhine–Main–Danube Canal
+- Rhode Island
+- Rhodes
+- Rhodes (city)
+- Rhône
+- Rhône-Alpes
+- Riau
+- Riau Archipelago
+- Riau Islands
+- Ribeirão Preto
+- Richmond, Virginia
+- Rideau Canal
+- Rig-e Jenn
+- Rimini
+- Rio Branco, Acre
+- Rio Grande do Norte
+- Rio Grande do Sul
+- Rio de Janeiro (state)
+- Rishikesh
+- Rishon LeZion
+- River Forth
+- River Severn
+- River Thames
+- River Tyne
+- Riverina
+- Rivers State
+- Rivne
+- Rivne Oblast
+- Riyadh Province
+- Rizhao
+- Roanoke Island
+- Rocher de Sel
+- Rochester, New York
+- Rocky Mountain National Park
+- Rodrigues
+- Rohtak
+- Rondônia
+- Roraima
+- Roseau
+- Ross Dependency
+- Ross Ice Shelf
+- Rostock
+- Rotuma
+- Rouen
+- Rourkela
+- Rub' al Khali
+- Ruse, Bulgaria
+- Russeifa
+- Russian Arctic National Park
+- Russian Far East
+- Rust Belt
+- Rustenburg
+- Rutland
+- Rwenzori Mountains
+- Ryanggang Province
+- Ryazan
+- Rzeszów
+- Råbjerg Mile
+- Río Gallegos, Santa Cruz
+- Río Grande, Tierra del Fuego
+- Río Negro Province
+- Rügen
+- Rạch Giá
+- Saarbrücken
+- Saarland
+- Saba (island)
+- Sabadell
+- Sabah
+- Sabha, Libya
+- Sabzevar
+- Sacramento River
+- Sacramento, California
+- Sadamisaki Peninsula
+- Sado, Niigata
+- Safed Koh
+- Saga (city)
+- Saga Prefecture
+- Sagami Bay
+- Sagamihara
+- Saguaro National Park
+- Saguenay River
+- Sahand
+- Saharanpur
+- Sahiwal
+- Sahrawi Arab Democratic Republic
+- Saimaa
+- Saint Anthony Falls
+- Saint Barthélemy
+- Saint Helena
+- Saint John River (Bay of Fundy)
+- Saint John, New Brunswick
+- Saint Kitts
+- Saint Martin (island)
+- Saint Paul, Minnesota
+- Saint Pierre and Miquelon
+- Saint Vincent (Saint Vincent and the Grenadines)
+- Saint-Denis, Réunion
+- Saint-Denis, Seine-Saint-Denis
+- Saint-Louis, Senegal
+- Saint-Étienne
+- Saipan, Northern Mariana Islands
+- Saitama (city)
+- Saitama Prefecture
+- Sakai
+- Sakurajima
+- Salalah
+- Salamanca
+- Salamis Island
+- Salem, Oregon
+- Salem, Tamil Nadu
+- Salento
+- Salerno
+- Salish Sea
+- Salonga National Park
+- Salt Lake City
+- Salta
+- Salta Province
+- Saltillo
+- Salto, Uruguay
+- Salton Sea
+- Salzburg
+- Salzburg (state)
+- Salzkammergut
+- Salé
+- Samar
+- Samaria
+- Samarinda
+- Samarra
+- Sambalpur
+- Samoan Islands
+- Samos
+- Samosir
+- Samsun
+- San Andreas Fault
+- San Cristóbal, Táchira
+- San Francisco Bay
+- San Francisco Bay Area
+- San Joaquin River
+- San Jose, California
+- San Juan Islands
+- San Juan Province, Argentina
+- San Lorenzo, Paraguay
+- San Luis Potosí
+- San Luis Potosí (city)
+- San Luis Province
+- San Miguel de Tucumán
+- San Miguel, El Salvador
+- San Nicolás de los Garza
+- San Pedro Sula
+- San Sebastián
+- Sanandaj
+- Sangli Metropolitan Region
+- Sanriku Coast
+- Santa Ana, El Salvador
+- Santa Catarina (state)
+- Santa Clara, Cuba
+- Santa Cruz Province, Argentina
+- Santa Cruz de Tenerife
+- Santa Fe Province
+- Santa Fe, Argentina
+- Santa Fe, New Mexico
+- Santa Maria Island
+- Santa Marta
+- Santa María (volcano)
+- Santiago Metropolitan Region
+- Santiago de Cuba
+- Santiago de los Caballeros
+- Santiago del Estero Province
+- Santiago, Cape Verde
+- Santo André, São Paulo
+- Santo Antão, Cape Verde
+- Santorini
+- Santorini caldera
+- Santos, São Paulo
+- Sanya
+- Saratov
+- Sarawak
+- Sargodha
+- Sari, Iran
+- Saronic Islands
+- Sasebo
+- Saskatchewan
+- Saskatchewan River
+- Saskatoon
+- Satara (city)
+- Sava
+- Savannah, Georgia
+- Savannakhet
+- Savar
+- Sawatch Range
+- Saxon Switzerland
+- Saxony
+- Saxony-Anhalt
+- Sayan Mountains
+- Scale (geography)
+- Scandinavian Peninsula
+- Scania
+- Scarborough Shoal
+- Schaerbeek
+- Schleswig-Holstein
+- Schwerin
+- Scottish Highlands
+- Scărișoara Cave
+- Sea of Galilee
+- Sechura Desert
+- Seenu Atoll
+- Seine
+- Sejong City
+- Sekondi-Takoradi
+- Selangor
+- Selenga
+- Selous Game Reserve
+- Semey
+- Semnan province
+- Semnan, Iran
+- Senkaku Islands
+- Sentosa
+- Seongnam
+- Sepik
+- Sequoia National Park
+- Seram Island
+- Serang
+- Serei Saophoan (city)
+- Serekunda
+- Seremban
+- Serengeti
+- Sergipe
+- Serra do Mar
+- Sevastopol
+- Seven Coloured Earths
+- Severnaya Zemlya
+- Severny Island
+- Seward Peninsula
+- Sfax
+- Shaanxi
+- Shah Alam
+- Shahjahanpur
+- Shahr-e Kord
+- Shahriar, Tehran province
+- Shan Hills
+- Shan State
+- Shandong Peninsula
+- Shangqiu
+- Shantou
+- Shanxi
+- Shaoguan
+- Shaoxing
+- Sharjah
+- Sharqia Governorate
+- Shatt al-Arab
+- Shebaa Farms
+- Sheffield
+- Sheikhupura
+- Sherwood Forest
+- Shetland
+- Shiga Prefecture
+- Shimane Prefecture
+- Shimla
+- Shimoga
+- Shimokita Peninsula
+- Shimonoseki
+- Shirakawa, Gifu (village)
+- Shiretoko Peninsula
+- Shishapangma
+- Shivanasamudra Falls
+- Shizuoka (city)
+- Shizuoka Prefecture
+- Shreveport, Louisiana
+- Shropshire
+- Shubra El Kheima
+- Shuttle Radar Topography Mission
+- Shymkent
+- Shyok River
+- Siachen Glacier
+- Sialkot
+- Sian Kaʼan Biosphere Reserve
+- Sichuan Basin
+- Sidama Region
+- Sidi Bel Abbès
+- Sidon
+- Siem Reap
+- Siena
+- Sierra Madre Occidental
+- Sierra Madre Oriental
+- Sierra Madre de Chiapas
+- Sierra Madre de Oaxaca
+- Sierra Madre del Sur
+- Sihanoukville
+- Sikaiana
+- Sikasso
+- Sikhote-Alin
+- Sikkim
+- Silesia
+- Silesian Voivodeship
+- Siliguri
+- Simferopol
+- Simpson Desert
+- Sinaloa
+- Singapore (island)
+- Singapore River
+- Singapore Strait
+- Sinosphere
+- Sint Eustatius
+- Sint Maarten
+- Sinuiju
+- Sioux Falls, South Dakota
+- Siping, Jilin
+- Sirajganj
+- Sirhind Canal
+- Sirjan
+- Sistan Basin
+- Sistan and Baluchestan province
+- Siwa Oasis
+- Skiathos
+- Skopje
+- Slave River
+- Slovak Paradise
+- Smallwood Reservoir
+- Snake River
+- Snowdonia
+- Soccsksargen
+- Sochi
+- Society Islands
+- Sof Omar Caves
+- Sognefjord
+- Sohag Governorate
+- Sokoto (city)
+- Sokoto State
+- Solapur
+- Solomon Islands (archipelago)
+- Solomon Sea
+- Somali Region
+- Somerset
+- Sonora
+- Sonoran Desert
+- Sorong
+- Sousse
+- South
+- South Arabia
+- South Aral Sea
+- South Australia
+- South Caribbean Coast Autonomous Region
+- South Carolina
+- South Caucasus
+- South Central China
+- South China
+- South Chungcheong Province
+- South Dakota
+- South Dum Dum
+- South East Cape
+- South Georgia
+- South Georgia and the South Sandwich Islands
+- South Gyeongsang Province
+- South Hamgyong Province
+- South Holland
+- South Hwanghae Province
+- South India
+- South Jeolla Province
+- South Kalimantan
+- South Khorasan province
+- South Orkney Islands
+- South Papua
+- South Pyongan Province
+- South Region, Brazil
+- South Sandwich Islands
+- South Shetland Islands
+- South Sinai Governorate
+- South Sulawesi
+- South Sumatra
+- South Tangerang
+- South Tarawa
+- South Tyrol
+- South West Ethiopia Peoples' Region
+- South West State of Somalia
+- South Yorkshire
+- Southampton
+- Southampton Island
+- Southeast Region, Brazil
+- Southeast Sulawesi
+- Southeastern Anatolia region
+- Southern California
+- Southern England
+- Southern Europe
+- Southern Hemisphere
+- Southern Nations, Nationalities, and Peoples' Region
+- Southern Ocean overturning circulation
+- Southern Thailand
+- Southwest Indian Ridge
+- Southwestern China
+- Southwestern United States
+- Sovereign Military Order of Malta
+- Soweto
+- Spanish Town
+- Spanish Virgin Islands
+- Spatial analysis
+- Spatial planning
+- Special Region of Yogyakarta
+- Spitsbergen
+- Split, Croatia
+- Spokane, Washington
+- Sporades
+- Spratly Islands
+- Springfield, Illinois
+- Sri Jayawardenepura Kotte
+- St Kilda, Scotland
+- St. Augustine, Florida
+- St. George's, Grenada
+- St. John's, Antigua and Barbuda
+- St. John's, Newfoundland and Labrador
+- Staffordshire
+- Starbuck Island
+- State of Mexico
+- States of Germany
+- Statistical geography
+- Stavanger
+- Stavropol
+- Steamboat Geyser
+- Stecknitz Canal
+- Stewart Island
+- Stockholm Archipelago
+- Stockton, California
+- Stoke-on-Trent
+- Stone Forest
+- Stone Mountain
+- Stora Sjöfallet National Park
+- Strait of Georgia
+- Strait of Juan de Fuca
+- Strait of Messina
+- Strait of Otranto
+- Street
+- Strokkur
+- Stromboli
+- Styria
+- Subantarctic
+- Subarctic
+- Subtropics
+- Suburbanization
+- Sucre
+- Sudanian savanna
+- Sudbury Basin
+- Sudd
+- Suez
+- Suez Governorate
+- Suffolk
+- Sugarloaf Mountain
+- Sukhumi
+- Sukkur
+- Sulaymaniyah
+- Sulu Archipelago
+- Sulu Sea
+- Sumba
+- Sumbawa
+- Sumy
+- Sumy Oblast
+- Sun Belt
+- Suncheon
+- Sunda Islands
+- Sunda Strait
+- Sundarbans National Park
+- Sunderland
+- Sunshine Coast, Queensland
+- Sunyani
+- Surakarta
+- Surgut
+- Surigao Strait
+- Surrey
+- Surtsey
+- Suruga Bay
+- Susquehanna River
+- Sussex
+- Sutherland Falls
+- Sutlej
+- Suva
+- Suwałki Gap
+- Suwon
+- Svealand
+- Swahili coast
+- Swansea
+- Syktyvkar
+- Sylhet Division
+- Syracuse, New York
+- Syrian desert
+- Szczecin
+- Szeged
+- Székely Land
+- Székesfehérvár
+- Sápmi
+- São Bernardo do Campo
+- São Gonçalo, Rio de Janeiro
+- São Jorge Island
+- São José dos Campos
+- São Miguel Island
+- São Tomé
+- São Tomé (island)
+- Sétif
+- Taal Volcano
+- Tabasco
+- Table Mountain
+- Tabuk Province
+- Tabuk, Saudi Arabia
+- Tacloban
+- Tacoma, Washington
+- Taebaek Mountains
+- Taguig
+- Tagus
+- Tahiti
+- Taif
+- Taihang Mountains
+- Tainan
+- Taipa
+- Taitung County
+- Taiz
+- Taizhou, Zhejiang
+- Takamatsu
+- Talca
+- Tallahassee, Florida
+- Taloqan
+- Tam Kỳ
+- Tamale, Ghana
+- Tamaulipas
+- Tampa, Florida
+- Tampere
+- Tampico
+- Tanana River
+- Tanegashima
+- Tang-e Gharu
+- Tangail
+- Tangerang
+- Tangier
+- Tangshan
+- Tanjungpinang
+- Tanta
+- Taoyuan, Taiwan
+- Tapajós
+- Taraba State
+- Tarakan
+- Taranto
+- Tarapacá Region
+- Tarawa
+- Taraz
+- Tarim Basin
+- Tarim River
+- Tartu
+- Tartus
+- Tasman Glacier
+- Tasman Peninsula
+- Tasmanian Wilderness World Heritage Area
+- Taunggyi
+- Taurus Mountains
+- Tawi-Tawi Island
+- Tayabas Isthmus
+- Taymyr Peninsula
+- Te Wahipounamu
+- Teesta River
+- Tehran province
+- Teide
+- Telangana
+- Telegraph Island
+- Temuco
+- Tenasserim Hills
+- Tenerife
+- Tennessee
+- Tennessee River
+- Terceira Island
+- Terengganu
+- Teresina
+- Ternate
+- Terni
+- Ternopil Oblast
+- Terra nullius
+- Terrain
+- Terrassa
+- Territorial claims in Antarctica
+- Territorial dispute
+- Territories of the United States
+- Territory
+- Teton Range
+- Texas barrier islands
+- Thane
+- Thar Desert
+- The Bronx
+- The Fens
+- The Guianas
+- The Maritimes
+- The Pearl Island
+- Thematic map
+- Thessaloniki
+- Thessaly
+- Thimphu
+- Thiès
+- Thiên Đường Cave
+- Three Gorges
+- Thrissur
+- Thuringia
+- Thurston Island
+- Thái Bình
+- Thái Nguyên
+- Thủ Dầu Một
+- Tianshui
+- Tiber
+- Tiberias
+- Tibet Autonomous Region
+- Ticino
+- Tidore
+- Tierra del Fuego Province, Argentina
+- Tifariti
+- Tigray Region
+- Tilburg
+- Time geography
+- Timișoara
+- Tirana
+- Tiraspol
+- Tiruchirappalli
+- Tirunelveli
+- Tirupati
+- Tiruppur
+- Tlalnepantla de Baz
+- Tlaxcala
+- Toamasina
+- Tobago
+- Tobruk
+- Tocantins
+- Tocantins River
+- Tochigi Prefecture
+- Todgha Gorge
+- Todos los Santos Lake
+- Tokara Islands
+- Tokelau
+- Tokushima (city)
+- Tokushima Prefecture
+- Tokyo Bay
+- Toledo, Ohio
+- Toledo, Spain
+- Toluca
+- Tolyatti
+- Tomsk
+- Tonga Trench
+- Tongi
+- Topeka, Kansas
+- Topographic map
+- Topography
+- Torres Strait
+- Torres Strait Islands
+- Torres del Paine National Park
+- Torreón
+- Tottori Prefecture
+- Touba
+- Toubkal
+- Toulon
+- Tours
+- Town square
+- Toyama Prefecture
+- Toyohashi
+- Toyota, Aichi
+- Trans-Mexican Volcanic Belt
+- Transdanubia
+- Transit-oriented development
+- Transportation planning
+- Trentino
+- Trentino-Alto Adige/Südtirol
+- Trento
+- Trenton, New Jersey
+- Trieste
+- Trindade and Martim Vaz
+- Trinidad
+- Tripoli, Lebanon
+- Tripolitania
+- Tripura
+- Tristan da Cunha
+- Trollhätte Canal
+- Tromelin Island
+- Tromsø
+- Tronador
+- Trondheim
+- Tropical Rainforest Heritage of Sumatra
+- Trou au Natron
+- Trou aux Cerfs
+- Trujillo, Peru
+- Tshikapa
+- Tsu, Mie
+- Tsugaru Strait
+- Tsushima Island
+- Tuamotus
+- Tucson, Arizona
+- Tucumán Province
+- Tula, Russia
+- Tulsa, Oklahoma
+- Tumen River
+- Tumkur
+- Tunkinsky National Park
+- Turan Depression
+- Turkestan
+- Turks and Caicos Islands
+- Turku
+- Turpan Depression
+- Tuva
+- Tuxtla Gutiérrez
+- Tver
+- Tweedsmuir South Provincial Park
+- Tyne and Wear
+- Tyrol
+- Tyrol (state)
+- Tyrrhenian Sea
+- Tyuleny Archipelago
+- Tyumen
+- Tórshavn
+- Türkmenabat
+- Tōhoku region
+- U.S. state
+- Uberlândia
+- Ucayali River
+- Udaipur
+- Udmurtia
+- Uele River
+- Uinta Mountains
+- Ujjain
+- Ulan-Ude
+- Ulawun
+- Ulhasnagar
+- Ulsan
+- Ulster
+- Ulyanovsk
+- Umbria
+- Umeå
+- Umuahia
+- Ungava Peninsula
+- United States Virgin Islands
+- Upland South
+- Upper Austria
+- Upper Taz Nature Reserve
+- Uppsala
+- Uraga Channel
+- Urban area
+- Urban decay
+- Urban park
+- Urban renewal
+- Urban sprawl
+- Urban studies
+- Urbanism
+- Urfa
+- Urmia
+- Ushuaia
+- Ussuri
+- Usumacinta River
+- Utah
+- Utrecht
+- Utrecht (province)
+- Utsunomiya
+- Uttarakhand
+- Uyo
+- Vaduz
+- Valais
+- Valencian Community
+- Valentia Island
+- Valenzuela, Metro Manila
+- Valladolid
+- Valle de la Luna (Bolivia)
+- Valledupar
+- Valletta
+- Valparaíso Region
+- Van, Turkey
+- Vanch-Yakh Glacier
+- Vancouver Island
+- Vanua Levu
+- Varamin
+- Varna, Bulgaria
+- Vasai-Virar
+- Vasyugan Swamp
+- Vatnajökull
+- Vaud
+- Veliky Novgorod
+- Venetian Lagoon
+- Veneto
+- Veracruz
+- Verdon Gorge
+- Verkhoyansk Range
+- Vermont
+- Verona
+- Versailles, Yvelines
+- Veryovkina Cave
+- Vicenza
+- Vichy
+- Victoria (state)
+- Victoria Harbour
+- Victoria Island
+- Victoria, British Columbia
+- Victoria, Seychelles
+- Vigo
+- Vijayawada
+- Villa Las Estrellas
+- Villahermosa
+- Villavicencio
+- Vinh
+- Vinnytsia
+- Vinnytsia Oblast
+- Virgin Islands
+- Virgin Komi Forests
+- Virginia
+- Virginia Beach, Virginia
+- Virunga National Park
+- Vitebsk
+- Viti Levu
+- Vitoria-Gasteiz
+- Vitória, Espírito Santo
+- Viña del Mar
+- Việt Trì
+- Vladikavkaz
+- Volcano Islands
+- Volcán de Agua
+- Volcán de Colima
+- Volga Delta
+- Volga–Don Canal
+- Vologda
+- Volta River
+- Volyn Oblast
+- Vorarlberg
+- Voronezh
+- Vredefort impact structure
+- Vättern
+- Vøringsfossen
+- Vũng Tàu
+- Wad Madani
+- Wadden Sea
+- Wadi Rum
+- Wah Cantonment
+- Waikato
+- Waikato River
+- Waiotapu
+- Wakayama Prefecture
+- Wake Island
+- Wakhan Corridor
+- Walkability
+- Wall Street
+- Wallis and Futuna
+- Walloon Brabant
+- Walvis Bay
+- Wanshan Archipelago
+- Wanzai, Small Hengqin and Great Hengqin islands
+- Warangal
+- Warmian–Masurian Voivodeship
+- Warrego River
+- Warri
+- Warwickshire
+- Wasatch Range
+- Washington (state)
+- Waterton-Glacier International Peace Park
+- Weather map
+- Wei River
+- Weihai
+- Weimar
+- Welland Canal
+- Wellington
+- Wenzhou
+- West
+- West Antarctica
+- West Asia
+- West Azerbaijan province
+- West Bank
+- West Flanders
+- West Java
+- West Kalimantan
+- West Midlands (county)
+- West Nusa Tenggara
+- West Papua (province)
+- West Pomeranian Voivodeship
+- West Sulawesi
+- West Sumatra
+- West Sussex
+- West Virginia
+- West Yorkshire
+- Western Australia
+- Western Canada
+- Western Cape
+- Western China
+- Western Hemisphere
+- Western Plateau
+- Western Thrace
+- Western Visayas
+- Westmorland
+- Whakaari / White Island
+- Whakarewarewa
+- Wheeler Peak (Nevada)
+- White Nile State
+- White River (Arkansas–Missouri)
+- White Sands National Park
+- White flight
+- Whitehorse
+- Wichita, Kansas
+- Wiesbaden
+- Willamette River
+- Willamette Valley
+- Willemstad
+- Wiltshire
+- Wind Cave National Park
+- Wind River Indian Reservation
+- Windsor, Ontario
+- Windward Islands
+- Winnipeg
+- Winston-Salem, North Carolina
+- Wisconsin
+- Wollongong
+- Wonju
+- Wonsan
+- Wood Buffalo National Park
+- Worcester, Massachusetts
+- Worcestershire
+- World map
+- Wrangel Island
+- Wudang Mountains
+- Wuhu
+- Wulingyuan
+- Wuppertal
+- Wuxi
+- Wyoming
+- Xalapa
+- Xiamen Island
+- Xiang River
+- Xiangtan
+- Xianyang
+- Xicheng, Beijing
+- Xiling Gorge
+- Xingtai
+- Xingu River
+- Xining
+- Xinxiang
+- Xuzhou
+- Ya'an
+- Yablonovy Mountains
+- Yaeyama Islands
+- Yakama Indian Reservation
+- Yakushima
+- Yakutsk
+- Yalu River
+- Yamagata Prefecture
+- Yamaguchi Prefecture
+- Yamal Peninsula
+- Yamalo-Nenets Autonomous Okrug
+- Yamanashi Prefecture
+- Yamoussoukro
+- Yan'an
+- Yangquan
+- Yangtze Delta
+- Yangtze Plain
+- Yangzhou
+- Yantai
+- Yap
+- Yap State
+- Yaren
+- Yarlung Tsangpo
+- Yaroslavl
+- Yasuj
+- Yazd
+- Yazd province
+- Yellowstone River
+- Yeosu
+- Yichang
+- Yichun, Heilongjiang
+- Yilan County, Taiwan
+- Yinchuan
+- Yingkou
+- Yiwu
+- Yobe State
+- Yokosuka
+- Yola, Nigeria
+- Yonaguni Monument
+- Yongin
+- York
+- Yorkshire
+- Yosemite Falls
+- Yucatán
+- Yucatán Channel
+- Yueyang
+- Yugansky Nature Reserve
+- Yugyd Va National Park
+- Yukon
+- Yunlin County
+- Yuzhny Island
+- Zacatecas
+- Zadar
+- Zahedan
+- Zakarpattia Oblast
+- Zakynthos
+- Zamboanga City
+- Zamboanga Peninsula
+- Zamfara State
+- Zanjan, Iran
+- Zanzibar Archipelago
+- Zanzibar City
+- Zaozhuang
+- Zapopan
+- Zaporizhzhia
+- Zaporizhzhia Oblast
+- Zaria
+- Zarqa
+- Zawiya, Libya
+- Zealandia
+- Zeeland
+- Zhangjiajie
+- Zhangjiakou
+- Zhanjiang
+- Zhaoqing
+- Zhenbao Island
+- Zhenjiang
+- Zhongshan
+- Zhoushan
+- Zhuhai
+- Zhuzhou
+- Zhytomyr
+- Zhytomyr Oblast
+- Zibo
+- Zigong
+- Ziguinchor
+- Zinder
+- Zion National Park
+- Ziz Gorges
+- Zliten
+- Zugspitze
+- Zunyi
+- Åland
+- Étretat
+- Île Amsterdam
+- Île Saint-Paul
+- Île-de-France
+- Ñuble Region
+- Øresund
+- İskenderun
+- Łódź Voivodeship
+- Ōita (city)
+- Ōita Prefecture
+- Ōtsu
+- Świętokrzyskie Voivodeship
+
+### History (+2588)
+- 16th Street Baptist Church bombing
+- 16th century
+- 17th century
+- 1815 eruption of Mount Tambora
+- 1883 eruption of Krakatoa
+- 1887 Yellow River flood
+- 18th century
+- 1900s
+- 1902 eruption of Mount Pelée
+- 1906 San Francisco earthquake
+- 1910s
+- 1913 Ottoman coup d'état
+- 1919 Egyptian revolution
+- 1920 Haiyuan earthquake
+- 1920s
+- 1930s
+- 1936–1939 Arab revolt in Palestine
+- 1940s
+- 1948 Arab–Israeli War
+- 1948 Czechoslovak coup d'état
+- 1948 Palestinian expulsion and flight
+- 1950s
+- 1953 Iranian coup d'état
+- 1954 Geneva Conference
+- 1954 Guatemalan coup d'état
+- 1956 Poznań protests
+- 1957–1958 influenza pandemic
+- 1959 Tibetan uprising
+- 1960 Valdivia earthquake
+- 1960s
+- 1963 South Vietnamese coup d'état
+- 1964 Brazilian coup d'état
+- 1966 anti-Igbo pogrom
+- 1968 Olympics Black Power salute
+- 1970s
+- 1973 Chilean coup d'état
+- 1975 Australian constitutional crisis
+- 1980s
+- 1983–1985 famine in Ethiopia
+- 1984–1985 United Kingdom miners' strike
+- 1987 Fijian coups d'état
+- 1990s
+- 1990s North Korean famine
+- 1991 Bangladesh cyclone
+- 1991 Soviet coup attempt
+- 1992 Los Angeles riots
+- 1993 Russian constitutional crisis
+- 1994 South African general election
+- 1995 Hanshin earthquake
+- 1997 Asian financial crisis
+- 1998 Russian financial crisis
+- 1999 East Timorese crisis
+- 19th century
+- 2000s
+- 2002 Bali bombings
+- 2002 Venezuelan coup attempt
+- 2002–2004 SARS outbreak
+- 2003 invasion of Iraq
+- 2004 Haitian coup d'état
+- 2004 Madrid train bombings
+- 2005–2006 Thai political crisis
+- 2006 Lebanon War
+- 2008 Mumbai attacks
+- 2008 Sichuan earthquake
+- 2009 swine flu pandemic
+- 2010 Haiti earthquake
+- 2010s
+- 2011 Egyptian revolution
+- 2011 Norway attacks
+- 2011 South Sudanese independence referendum
+- 2011 Tōhoku earthquake and tsunami
+- 2014 Russian annexation of Crimea
+- 2015 European migrant crisis
+- 2015 Rohingya refugee crisis
+- 2015–16 Zika virus epidemic
+- 2016 Turkish coup d'état attempt
+- 2017 Zimbabwean coup d'état
+- 2019 Bolivian political crisis
+- 2019–20 Australian bushfire season
+- 2019–2020 Hong Kong protests
+- 2020 Beirut explosion
+- 2020 Hong Kong national security law
+- 2020 Indian agriculture acts
+- 2020s
+- 2021 Myanmar coup d'état
+- 2021 Taliban offensive
+- 2021–2023 global supply chain crisis
+- 2023 Turkey–Syria earthquakes
+- 20th century
+- 21st century
+- 7 July 2005 London bombings
+- 8888 Uprising
+- AI boom
+- Abadan Crisis
+- Abbasid revolution
+- Abolition of the han system
+- Abraham Accords
+- Abu Ghraib torture and prisoner abuse
+- Abydos, Egypt
+- Acadia
+- Aceh Sultanate
+- Acts of Union 1707
+- Acts of Union 1800
+- Adal Sultanate
+- Adams–Onís Treaty
+- Afghan Civil War (1989–1992)
+- Afghan Civil War (1992–1996)
+- Afghan Civil War (1996–2001)
+- African theatre of World War I
+- African-American history
+- Afsharid Iran
+- Aftermath of World War I
+- Aftermath of World War II
+- Age of Revolution
+- Age of Sail
+- Aghlabid dynasty
+- Agriculture in Mesoamerica
+- Agriculture in ancient Rome
+- Agriculture in the Middle Ages
+- Ahmadnagar Sultanate
+- Ahom kingdom
+- Ai-Khanoum
+- Air raids on Japan
+- Air warfare of World War II
+- Akkad (city)
+- Aktion T4
+- Al Bu Said dynasty
+- Alaska Purchase
+- Albigensian Crusade
+- Algerian Civil War
+- Allied invasion of Sicily
+- Allies of World War I
+- Allies of World War II
+- Almogavars
+- Almohad Caliphate
+- Alodia
+- Alternatives to Darwinian evolution
+- Amber Road
+- American System (economic plan)
+- Amphictyonic league
+- Amundsen's South Pole expedition
+- Amur Annexation
+- Ancien régime
+- Ancient Corinth
+- Ancient Egyptian agriculture
+- Ancient Greek technology
+- Ancient Hawaii
+- Ancient Near East
+- Ancient Roman technology
+- Ancient maritime history
+- Ancient technology
+- Ancient warfare
+- Andronovo culture
+- Angevin Empire
+- Angkor
+- Angles (tribe)
+- Anglo-Ashanti wars
+- Anglo-Dutch Treaty of 1824
+- Anglo-Egyptian War
+- Anglo-Irish Treaty
+- Anglo-Norman invasion of Ireland
+- Anglo-Persian Oil Company
+- Anglo-Soviet invasion of Iran
+- Anglo-Spanish War (1585–1604)
+- Anglo-Zanzibar War
+- Angolan War of Independence
+- Ani
+- Annales school
+- Annexation of Tibet by the People's Republic of China
+- Anschluss
+- Antebellum South
+- Anti-Rightist Campaign
+- Anti-communist mass killings
+- Anti-corruption campaign under Xi Jinping
+- Antipope
+- Antium
+- Antonine Plague
+- Anuradhapura kingdom
+- Arab Agricultural Revolution
+- Arab Revolt
+- Arab conquest of Egypt
+- Arab–Khazar wars
+- Arameans
+- Archaeogenetics
+- Archaeological site
+- Archaic Greece
+- Archival science
+- Arctic exploration
+- Argentine Civil Wars
+- Argentine War of Independence
+- Armenian Kingdom of Cilicia
+- Armenian genocide denial
+- Armenian national movement
+- Armenian question
+- Arpino
+- Art history
+- Artifact (archaeology)
+- Aryan race
+- Ascalon
+- Assassination of Abraham Lincoln
+- Assassination of Indira Gandhi
+- Assassination of John F. Kennedy
+- Assassination of Jovenel Moïse
+- Assassination of Julius Caesar
+- Assassination of Juvénal Habyarimana and Cyprien Ntaryamira
+- Assassination of Mahatma Gandhi
+- Assassination of Martin Luther King Jr.
+- Assassination of Uthman
+- Assassination of Yitzhak Rabin
+- Assur
+- Asuka period
+- Athenian democracy
+- Atomic Age
+- Atrocities in the Congo Free State
+- Auschwitz concentration camp
+- Auspicious Incident
+- Australian frontier wars
+- Austrasia
+- Austrian colonial policy
+- Austro-Prussian War
+- Avignon Papacy
+- Axial Age
+- Axis powers
+- Ayyubid dynasty
+- Azawad
+- Aztec Empire
+- Ba'ath Party
+- Baalbek
+- Babi Yar
+- Babylonian captivity
+- Bacatá
+- Bacon's Rebellion
+- Badarian culture
+- Bagan
+- Bagratid Armenia
+- Bahmani Kingdom
+- Baiyue
+- Bakumatsu
+- Bali Kingdom
+- Balkans campaign (World War II)
+- Bambatha Rebellion
+- Banana Wars
+- Bandenbekämpfung
+- Bangladesh genocide
+- Bank War
+- Banner
+- Banpo
+- Bantustan
+- Banu Hilal
+- Barbarian
+- Barbary corsairs
+- Baroda State
+- Batavia, Dutch East Indies
+- Bath School disaster
+- Battle of Actium
+- Battle of Adwa
+- Battle of Agincourt
+- Battle of Ain Jalut
+- Battle of Alesia
+- Battle of Ankara
+- Battle of Antietam
+- Battle of Austerlitz
+- Battle of Berlin
+- Battle of Blenheim
+- Battle of Borodino
+- Battle of Bouvines
+- Battle of Breitenfeld (1631)
+- Battle of Britain
+- Battle of Cajamarca
+- Battle of Cannae
+- Battle of Cape Ecnomus
+- Battle of Caporetto
+- Battle of Crécy
+- Battle of Dien Bien Phu
+- Battle of Diu
+- Battle of Fontenoy
+- Battle of France
+- Battle of Galicia
+- Battle of Gaugamela
+- Battle of Gettysburg
+- Battle of Gravelotte
+- Battle of Grunwald
+- Battle of Guilford Court House
+- Battle of Hampton Roads
+- Battle of Hastings
+- Battle of Hattin
+- Battle of Hong Kong
+- Battle of Ilipa
+- Battle of Ipsus
+- Battle of Isandlwana
+- Battle of Issus
+- Battle of Iwo Jima
+- Battle of Jena–Auerstedt
+- Battle of Jutland
+- Battle of Kabul (1992–1996)
+- Battle of Kadesh
+- Battle of Karbala
+- Battle of Krtsanisi
+- Battle of Kunersdorf
+- Battle of Kursk
+- Battle of Königgrätz
+- Battle of Lake Trasimene
+- Battle of Las Navas de Tolosa
+- Battle of Lechfeld
+- Battle of Leipzig
+- Battle of Lepanto
+- Battle of Leuthen
+- Battle of Leyte Gulf
+- Battle of Lützen (1632)
+- Battle of Malplaquet
+- Battle of Manzikert
+- Battle of Megiddo (15th century BC)
+- Battle of Midway
+- Battle of Mogadishu (1993)
+- Battle of Mohács
+- Battle of Muye
+- Battle of Myeongnyang
+- Battle of Nahavand
+- Battle of Narva (1700)
+- Battle of Navarino
+- Battle of Nördlingen (1634)
+- Battle of Okinawa
+- Battle of Oudenarde
+- Battle of Passchendaele
+- Battle of Pavia
+- Battle of Plassey
+- Battle of Plataea
+- Battle of Poitiers
+- Battle of Poltava
+- Battle of Quiberon Bay
+- Battle of Ramillies
+- Battle of Red Cliffs
+- Battle of Rocroi
+- Battle of Rossbach
+- Battle of Salamis
+- Battle of Saragarhi
+- Battle of Sedan
+- Battle of Sekigahara
+- Battle of Shanghai
+- Battle of Shanhai Pass
+- Battle of Shiloh
+- Battle of Sirte (2011)
+- Battle of Stamford Bridge
+- Battle of Talas
+- Battle of Tannenberg
+- Battle of Thermopylae
+- Battle of Tours
+- Battle of Trafalgar
+- Battle of Tsushima
+- Battle of Verdun
+- Battle of Vittorio Veneto
+- Battle of Wagram
+- Battle of Warsaw (1920)
+- Battle of Waterloo
+- Battle of White Mountain
+- Battle of Zama
+- Battle of Zenta
+- Battle of the Alamo
+- Battle of the Bulge
+- Battle of the Catalaunian Plains
+- Battle of the Frontiers
+- Battle of the Hydaspes
+- Battle of the Little Bighorn
+- Battle of the Metaurus
+- Battle of the Somme
+- Battle of the Teutoburg Forest
+- Battle of the Trebia
+- Battle of the Yarmuk
+- Battle on the Ice
+- Battles of Lexington and Concord
+- Battles of Saratoga
+- Battles of the Isonzo
+- Bay of Pigs Invasion
+- Beer Hall Putsch
+- Belgae
+- Belgian Congo
+- Belgian Revolution
+- Bell Beaker culture
+- Belle Époque
+- Belt and Road Initiative
+- Bengal Renaissance
+- Bengal Sultanate
+- Bengal famine of 1943
+- Bengali language movement
+- Benin Expedition of 1897
+- Beringia
+- Beslan school siege
+- Bhopal State
+- Bhopal disaster
+- Biafra
+- Bibracte
+- Birmingham campaign
+- Black Lives Matter
+- Black Monday (1987)
+- Black Panther Party
+- Black Saturday bushfires
+- Black War
+- Bleeding Kansas
+- Blockade of the Gaza Strip
+- Boer republics
+- Bofors scandal
+- Boko Haram insurgency
+- Bolivian War of Independence
+- Bolsheviks
+- Boluan Fanzheng
+- Bolívar's campaign to liberate New Granada
+- Bombing of Guernica
+- Boshin War
+- Bosnian War
+- Bosporan Kingdom
+- Boston Tea Party
+- Bougainville conflict
+- Brazilian gold rush
+- Breakup of Yugoslavia
+- Bretton Woods system
+- Brexit
+- British Agricultural Revolution
+- British Hong Kong
+- British Invasion
+- British Western Pacific Territories
+- British rule in Burma
+- Brusilov offensive
+- Buddhist councils
+- Budj Bim heritage areas
+- Bulgarian–Ottoman wars
+- Bulgars
+- Burgundian Netherlands
+- Burgundians
+- Burke and Wills expedition
+- Burma campaign
+- Burmese–Siamese War (1765–1767)
+- Burning of Smyrna
+- Burning of Washington
+- Burundian Civil War
+- Bushido
+- Bushranger
+- Butuan (historical polity)
+- Buyid dynasty
+- Byblos
+- Byzantine bureaucracy and aristocracy
+- Byzantine–Bulgarian wars
+- Byzantine–Sasanian War of 602–628
+- Byzantine–Seljuk wars
+- Byzantium
+- COINTELPRO
+- COVID-19 recession
+- Caesar's civil war
+- Caesarea Maritima
+- California genocide
+- California gold rush
+- Cambodian Civil War
+- Cambodian–Vietnamese War
+- Campaign to Suppress Counterrevolutionaries
+- Canaan
+- Canadian Confederation
+- Cao Wei
+- Cape Colony
+- Capua
+- Caral
+- Carnation Revolution
+- Carolingian Renaissance
+- Carolingian dynasty
+- Caste War of Yucatán
+- Catholic Church sexual abuse cases
+- Caucasian War
+- Caucasus campaign
+- Causes of World War I
+- Causes of World War II
+- Causes of the Great Depression
+- Cave of the Patriarchs massacre
+- Central African Bush War
+- Central African Republic Civil War
+- Central Powers
+- Chaco Culture National Historical Park
+- Chaco War
+- Chagatai Khanate
+- Chalukya dynasty
+- Chan Chan
+- Chang'an
+- Charlie Hebdo shooting
+- Chartism
+- Chaulukya dynasty
+- Chavda dynasty
+- Chechen–Russian conflict
+- Chenla
+- Chera dynasty
+- Chetniks
+- Chiang Hung
+- Chilean War of Independence
+- China–United States trade war
+- Chinchorro culture
+- Chinese Communist Revolution
+- Chinese Exclusion Act
+- Chinese Soviet Republic
+- Chinese nobility
+- Christchurch mosque shootings
+- Christianization of Bulgaria
+- Christianization of Kievan Rus'
+- Christianization of Poland
+- Christianization of Scandinavia
+- Chu (state)
+- Chutia kingdom
+- Chu–Han Contention
+- Cimmerians
+- Circassian genocide
+- Cisplatine War
+- Civil rights movement (1865–1896)
+- Civil rights movement (1896–1954)
+- Classic Maya collapse
+- Classical Greece
+- Classical Hollywood cinema
+- Classical element
+- Classical radicalism
+- Classics
+- Climate change adaptation
+- Cluniac Reforms
+- Coat of arms
+- Cocoliztli epidemics
+- Colchis
+- Collective memory
+- Colombian conflict
+- Colonial Brazil
+- Colonial history of the United States
+- Colony of Natal
+- Colony of New Zealand
+- Colony of Rhode Island and Providence Plantations
+- Colony of Virginia
+- Colour revolution
+- Columbine High School massacre
+- Comfort women
+- Communist International
+- Communist Party of the Soviet Union
+- Communist revolution
+- Comparative history
+- Compromise of 1850
+- Compromise of 1877
+- Concordat of Worms
+- Condottiere
+- Confederate States of America
+- Confederation of the Rhine
+- Conflict in the Niger Delta
+- Congo Crisis
+- Connecticut Colony
+- Constantine the Great and Christianity
+- Constitutional Convention (United States)
+- Continental System
+- Continuation War
+- Coptic history
+- Copán
+- Corded Ware culture
+- Council of Chalcedon
+- Council of Trent
+- Counterculture of the 1960s
+- County of Flanders
+- County of Holland
+- Coup of 18 Brumaire
+- Cowboy
+- Cretan War (1645–1669)
+- Crisis in Venezuela
+- Crisis of the Roman Republic
+- Crisis of the late Middle Ages
+- Cristero War
+- Croatia in personal union with Hungary
+- Croatian War of Independence
+- Cromwellian conquest of Ireland
+- Crotone
+- Crown of Aragon
+- Cuban War of Independence
+- Cucuteni–Trypillia culture
+- Cueva de las Manos
+- Cultural history
+- Cumae
+- Cumania
+- Cyprus problem
+- Cyrene, Libya
+- Dacia
+- Dahomey
+- Dali Kingdom
+- Damascus steel
+- Danegeld
+- Danelaw
+- Danish overseas colonies
+- Darfur genocide (2003–2005)
+- Deccan wars
+- Decembrist revolt
+- Decline of Buddhism in the Indian subcontinent
+- Decolonisation of Africa
+- Decolonisation of Asia
+- Decolonisation of Oceania
+- Decolonization of the Americas
+- Defence of the Reich
+- Delaware Colony
+- Delphi
+- Democratic Republic of Afghanistan
+- Democratic-Republican Party
+- Denazification
+- Deng Xiaoping's southern tour
+- Denmark–Norway
+- Derg
+- Desegregation in the United States
+- Dhofar rebellion
+- Diadochi
+- Dilmun
+- Diplomatic history
+- Diplomatics
+- Dirty War
+- Discourses on Salt and Iron
+- Discovery and exploration of the Solar System
+- Disfranchisement after the Reconstruction era
+- Disney Renaissance
+- Dissolution of Austria-Hungary
+- Dissolution of Czechoslovakia
+- Dissolution of the Ottoman Empire
+- Division of the Mongol Empire
+- Djenné
+- Domestication of the horse
+- Dominican Civil War
+- Dominican War of Independence
+- Duchy of Brittany
+- Duchy of Milan
+- Duchy of Savoy
+- Duchy of Spoleto
+- Duchy of Urbino
+- Dungan Revolt (1862–1877)
+- Dunkirk evacuation
+- Dur-Sharrukin
+- Durand Line
+- Durrani Empire
+- Dutch Cape Colony
+- Dutch Ceylon
+- Dutch West India Company
+- Dutch colonial empire
+- Dutch colonization of the Americas
+- Dutch–Portuguese War
+- Dvaravati
+- Dzungar genocide
+- Dál Riata
+- ETA (separatist group)
+- Early Dynastic Period (Mesopotamia)
+- Early Dynastic Period of Egypt
+- Early Middle Ages
+- Early Slavs
+- Early modern warfare
+- East African campaign (World War I)
+- East Berlin
+- East Francia
+- East Germany
+- East Timor genocide
+- East Turkestan independence movement
+- Easter Rising
+- Eastern Ganga dynasty
+- Eastern Turkic Khaganate
+- Eastern Wu
+- Eastern question
+- Economic history
+- Economic liberalization
+- Ecuadorian War of Independence
+- Ecumenical council
+- Edicts of Ashoka
+- Egyptian revolution of 1952
+- Egyptian–Hittite peace treaty
+- Eight Banners
+- Einsatzgruppen
+- El Abra
+- Electoral Palatinate
+- Electorate of Cologne
+- Electorate of Mainz
+- Electorate of Saxony
+- Electorate of Trier
+- Emirate of Bukhara
+- Emirate of Granada
+- Empire of Great Fulo
+- Encomienda
+- End of the Han dynasty
+- English Reformation
+- English longbow
+- English overseas possessions
+- Environmental history
+- Ephesus
+- Epidemiology of HIV/AIDS
+- Epipalaeolithic
+- Era of Good Feelings
+- Eretria
+- Eridu
+- Eritrean War of Independence
+- Eruption of Mount Vesuvius in 79 AD
+- Estado Novo (Portugal)
+- Estates of the realm
+- Ethiopian–Adal War
+- Eureka Rebellion
+- Euro area crisis
+- Euromaidan
+- European exploration of Africa
+- European land exploration of Australia
+- European science in the Middle Ages
+- European wars of religion
+- Evidence and documentation for the Holocaust
+- Evolution of languages
+- Evolution of morality
+- Execution of Charles I of England
+- Exploration of the Moon
+- Exploration of the Pacific
+- Expulsion of the Chagossians
+- Extermination camp
+- Faiyum
+- Falklands War
+- Fall of Babylon
+- Fall of Kabul (2021)
+- Fall of Saigon
+- Fall of Singapore
+- Fall of Tenochtitlan
+- Fall of the Assad regime
+- Fall of the Berlin Wall
+- Fall of the Republic of Venice
+- Fashoda Incident
+- Fatimid conquest of Egypt
+- February 26 incident
+- February 28 incident
+- February Revolution
+- Federal Republic of Central America
+- Federalist Party
+- Federation of Australia
+- Fengjian
+- Final Solution
+- Finland under Swedish rule
+- Finnish Civil War
+- Finnish War
+- First Balkan War
+- First Battle of Panipat
+- First Battle of the Marne
+- First Boer War
+- First Brazilian Republic
+- First Carlist War
+- First Chechen War
+- First Chimurenga
+- First Congo War
+- First Council of Nicaea
+- First Crusade
+- First Fitna
+- First Fleet
+- First Franco-Dahomean War
+- First French Empire
+- First Great Awakening
+- First Intermediate Period of Egypt
+- First Intifada
+- First Italo-Ethiopian War
+- First Ivorian Civil War
+- First Liberian Civil War
+- First Matabele War
+- First Mongol invasion of Burma
+- First Punic War
+- First Red Scare
+- First Sudanese Civil War
+- First Taiwan Strait Crisis
+- First Turkic Khaganate
+- First-wave feminism
+- Flag of Brazil
+- Flag of Canada
+- Flag of China
+- Flag of Egypt
+- Flag of Ethiopia
+- Flag of France
+- Flag of Germany
+- Flag of India
+- Flag of Indonesia
+- Flag of Iran
+- Flag of Italy
+- Flag of Japan
+- Flag of Mexico
+- Flag of Nigeria
+- Flag of Pakistan
+- Flag of Russia
+- Flag of Turkey
+- Flag of the United States
+- Fleur-de-lis
+- Flight and expulsion of Germans (1944–1950)
+- Flower war
+- Football War
+- Foreign concessions in China
+- Four Asian Tigers
+- Four Commanderies of Han
+- Fourteen Points
+- Fourth Crusade
+- Fourth Fitna
+- Fourth-wave feminism
+- Franco-Dutch War
+- Franco-Hova Wars
+- Franco-Tahitian War
+- Franco-Thai War
+- Francoist Spain
+- Free France
+- Free Speech Movement
+- Free company
+- Free imperial city
+- French Algeria
+- French Equatorial Africa
+- French India
+- French New Wave
+- French Resistance
+- French Revolution of 1848
+- French West Africa
+- French and Indian Wars
+- French colonization of the Americas
+- French conquest of Algeria
+- French conquest of Morocco
+- French conquest of Tunisia
+- Frisian freedom
+- Fujiwara clan
+- Fukushima nuclear accident
+- Fula jihads
+- Funan
+- Funnelbeaker culture
+- Gaelic Ireland
+- Gallipoli campaign
+- Gandhara
+- Gao Empire
+- Gaucho
+- Gaul
+- Gauls
+- Gaza war
+- Gen Z protests
+- Generalplan Ost
+- Genocide of Serbs in the Independent State of Croatia
+- Genocide of indigenous peoples
+- Genoese colonies
+- Genpei War
+- Geocentrism
+- George Floyd protests
+- Georgian era
+- German Peasants' War
+- German Samoa
+- German atrocities committed against Soviet prisoners of war
+- German colonial empire
+- German invasion of Greece
+- German revolution of 1918–1919
+- German revolutions of 1848–1849
+- German spring offensive
+- German-occupied Europe
+- Germanic peoples
+- Gestapo
+- Gettysburg Address
+- Ghassanids
+- Ghaznavid Empire
+- Ghurid dynasty
+- Gilded Age
+- Glasnost
+- Global silver trade from the 16th to 19th centuries
+- Glorious Revolution
+- Goa Inquisition
+- Goguryeo
+- Goguryeo–Sui War
+- Goguryeo–Tang War
+- Goguryeo–Wei War
+- Gold Coast (region)
+- Gold rush
+- Gold standard
+- Golden Age of Piracy
+- Golden age of American animation
+- Golden age of arcade video games
+- Good Friday Agreement
+- Gordyene
+- Gorlice–Tarnów offensive
+- Graeco-Arabic translation movement
+- Grand Duchy of Finland
+- Grand Duchy of Tuscany
+- Great Chinese Famine
+- Great Divergence
+- Great Exhibition
+- Great Fire of London
+- Great Fire of Rome
+- Great Flood (China)
+- Great Kantō Earthquake
+- Great Migration (African American)
+- Great Railroad Strike of 1877
+- Great Recession
+- Great Retreat (Russia)
+- Great Siege of Malta
+- Great Stand on the Ugra River
+- Great Trek
+- Great man theory
+- Greater East Asia Co-Prosperity Sphere
+- Greco-Bactrian Kingdom
+- Greek Civil War
+- Greek Dark Ages
+- Greek colonisation
+- Greek genocide
+- Greek government-debt crisis
+- Greek junta
+- Greensburg tornado
+- Guadalcanal campaign
+- Guanzhong
+- Guatemalan Civil War
+- Guatemalan genocide
+- Guinea-Bissau War of Independence
+- Gukurahundi
+- Gulf of Tonkin incident
+- Gunfight at the O.K. Corral
+- Gunpowder Plot
+- Gutians
+- Gwalior State
+- Gwangju Uprising
+- Habsburg monarchy
+- Halifax Explosion
+- Hammer and sickle
+- Handover of Hong Kong
+- Hannibal's crossing of the Alps
+- Han–Xiongnu wars
+- Harappa
+- Harlem Renaissance
+- Hattusa
+- Hawaiian Kingdom
+- Hawaiian Renaissance
+- Haymarket affair
+- Hays Code
+- Heian-kyō
+- Heijō-kyō
+- Heliocentrism
+- Heliopolis (ancient Egypt)
+- Heptarchy
+- Herero and Nama genocide
+- Herero uprising
+- Heroic Age of Antarctic Exploration
+- Hetao
+- Hexi Corridor
+- High Middle Ages
+- Highway of Death
+- Hillsborough disaster
+- Himyar
+- Hindenburg disaster
+- Hindu Shahis
+- Historian
+- Historic site
+- Historical figure
+- Historical negationism
+- Historical race concepts
+- Historical revisionism
+- Historical society
+- Historical source
+- Historicity of the Bible
+- Historiography of science
+- History of Abkhazia
+- History of Alabama
+- History of Alaska
+- History of Albania
+- History of Algeria
+- History of American football
+- History of Amsterdam
+- History of Andhra Pradesh
+- History of Andorra
+- History of Angola
+- History of Antigua and Barbuda
+- History of Arizona
+- History of Armenia
+- History of Asian Americans
+- History of Athens
+- History of Austria
+- History of Azerbaijan
+- History of Baden-Württemberg
+- History of Baghdad
+- History of Bahrain
+- History of Balochistan
+- History of Bangkok
+- History of Bangladesh
+- History of Barbados
+- History of Bavaria
+- History of Beijing
+- History of Belarus
+- History of Belgium
+- History of Belize
+- History of Benin
+- History of Berlin
+- History of Bermuda
+- History of Bhutan
+- History of Bihar
+- History of Bolivia
+- History of Bosnia and Herzegovina
+- History of Botswana
+- History of Brittany
+- History of Brunei
+- History of Bulgaria
+- History of Burkina Faso
+- History of Burundi
+- History of California
+- History of Cambodia
+- History of Cameroon
+- History of Cape Town
+- History of Cape Verde
+- History of Catalonia
+- History of Central Africa
+- History of Central America
+- History of Chad
+- History of Chechnya
+- History of Chicago
+- History of Chile
+- History of Colorado
+- History of Cornwall
+- History of Corsica
+- History of Costa Rica
+- History of Crimea
+- History of Croatia
+- History of Cuba
+- History of Curaçao
+- History of Cyprus
+- History of Dagestan
+- History of Delhi
+- History of Denmark
+- History of Dhaka
+- History of Djibouti
+- History of Dominica
+- History of East Africa
+- History of Ecuador
+- History of El Salvador
+- History of England
+- History of English
+- History of Equatorial Guinea
+- History of Eritrea
+- History of Estonia
+- History of Eswatini
+- History of Eurasia
+- History of Fiji
+- History of Finland
+- History of Flanders
+- History of Florida
+- History of Formula One
+- History of Gabon
+- History of Galicia
+- History of Galicia (Eastern Europe)
+- History of Georgia (U.S. state)
+- History of Georgia (country)
+- History of Ghana
+- History of Gibraltar
+- History of Greenland
+- History of Grenada
+- History of Guam
+- History of Guatemala
+- History of Guinea
+- History of Guinea-Bissau
+- History of Gujarat
+- History of Guyana
+- History of Haiti
+- History of Hawaii
+- History of Hesse
+- History of Hispanic and Latino Americans in the United States
+- History of Honduras
+- History of Hong Kong
+- History of Hungary
+- History of Iceland
+- History of Illinois
+- History of Indiana
+- History of Ireland
+- History of Istanbul
+- History of Ivory Coast
+- History of Jainism
+- History of Jakarta
+- History of Jamaica
+- History of Jerusalem
+- History of Jordan
+- History of Karachi
+- History of Kashmir
+- History of Kazakhstan
+- History of Kentucky
+- History of Kenya
+- History of Kiribati
+- History of Kolkata
+- History of Kosovo
+- History of Kyrgyzstan
+- History of Lagos
+- History of Laos
+- History of Latin America
+- History of Latvia
+- History of Lebanon
+- History of Lesotho
+- History of Liberia
+- History of Libya
+- History of Libya under Muammar Gaddafi
+- History of Liechtenstein
+- History of Lithuania
+- History of London
+- History of Louisiana
+- History of Luxembourg
+- History of Macau
+- History of Madagascar
+- History of Madrid
+- History of Maharashtra
+- History of Malawi
+- History of Malaysia
+- History of Mali
+- History of Malta
+- History of Manchuria
+- History of Maryland
+- History of Massachusetts
+- History of Mauritania
+- History of Mauritius
+- History of Mexican Americans
+- History of Mexico City
+- History of Michigan
+- History of Minnesota
+- History of Missouri
+- History of Moldova
+- History of Monaco
+- History of Mongolia
+- History of Montenegro
+- History of Moscow
+- History of Mozambique
+- History of Mumbai
+- History of Myanmar
+- History of Nagorno-Karabakh
+- History of Nairobi
+- History of Namibia
+- History of Naples
+- History of Native Americans in the United States
+- History of Nauru
+- History of Nepal
+- History of Nevada
+- History of New Jersey
+- History of New Mexico
+- History of New South Wales
+- History of New York (state)
+- History of New York City
+- History of New Zealand
+- History of Newfoundland and Labrador
+- History of Nicaragua
+- History of Niger
+- History of North Carolina
+- History of North Korea
+- History of North Macedonia
+- History of Northern Ireland
+- History of Norway
+- History of Ohio
+- History of Oklahoma
+- History of Oman
+- History of Ontario
+- History of Oregon
+- History of Oriental Orthodoxy
+- History of Palau
+- History of Palestine
+- History of Panama
+- History of Papua New Guinea
+- History of Paraguay
+- History of Paris
+- History of Pennsylvania
+- History of Poland (1945–1989)
+- History of Poland during the Jagiellonian dynasty
+- History of Poland during the Piast dynasty
+- History of Pomerania
+- History of Protestantism
+- History of Provence
+- History of Puerto Rico
+- History of Punjab
+- History of Qatar
+- History of Quebec
+- History of Rajasthan
+- History of Rio de Janeiro
+- History of Roman-era Tunisia
+- History of Romania
+- History of Rome
+- History of Rwanda
+- History of Sabah
+- History of Saint Kitts and Nevis
+- History of Saint Lucia
+- History of Saint Petersburg
+- History of Saint Vincent and the Grenadines
+- History of Samoa
+- History of San Marino
+- History of Sarawak
+- History of Sardinia
+- History of Saxony
+- History of Scotland
+- History of Senegal
+- History of Seoul
+- History of Serbia
+- History of Seychelles
+- History of Shanghai
+- History of Shia Islam
+- History of Siberia
+- History of Sicily
+- History of Sierra Leone
+- History of Sikhism
+- History of Silesia
+- History of Sindh
+- History of Singapore
+- History of Slovakia
+- History of Slovenia
+- History of Solomon Islands
+- History of Somalia
+- History of Somaliland
+- History of South Carolina
+- History of South Korea
+- History of South Sudan
+- History of Southern Africa
+- History of Spain (1700–1808)
+- History of Sri Lanka
+- History of Suriname
+- History of Sweden
+- History of Switzerland
+- History of Sydney
+- History of Syria
+- History of São Paulo
+- History of São Tomé and Príncipe
+- History of Taiwan
+- History of Tajikistan
+- History of Tamil Nadu
+- History of Tanzania
+- History of Taoism
+- History of Tennessee
+- History of Texas
+- History of Tibet
+- History of Timor-Leste
+- History of Togo
+- History of Tokyo
+- History of Tonga
+- History of Transnistria
+- History of Transylvania
+- History of Trinidad and Tobago
+- History of Tunisia
+- History of Turkmenistan
+- History of Tuscany
+- History of Tuvalu
+- History of Uganda
+- History of Ukraine
+- History of Uruguay
+- History of Utah
+- History of Uttar Pradesh
+- History of Uzbekistan
+- History of Vanuatu
+- History of Venezuela
+- History of Victoria
+- History of Vienna
+- History of Virginia
+- History of Vojvodina
+- History of Wales
+- History of Wallonia
+- History of Warsaw
+- History of Washington (state)
+- History of Washington, D.C.
+- History of West Africa
+- History of West Bengal
+- History of Western Sahara
+- History of Wisconsin
+- History of Xinjiang
+- History of Yemen
+- History of Yunnan
+- History of Zambia
+- History of Zimbabwe
+- History of abortion
+- History of alcoholic beverages
+- History of algebra
+- History of anarchism
+- History of anatomy
+- History of ancient Egypt
+- History of animation
+- History of anime
+- History of anthropology
+- History of antisemitism
+- History of archaeology
+- History of archery
+- History of artificial intelligence
+- History of artificial life
+- History of association football
+- History of auto racing
+- History of ballet
+- History of banking
+- History of baseball
+- History of basketball
+- History of biochemistry
+- History of biotechnology
+- History of birth control
+- History of books
+- History of botany
+- History of broadcasting
+- History of calculus
+- History of calendars
+- History of cancer
+- History of capitalism
+- History of cartography
+- History of chemical engineering
+- History of chess
+- History of cholera
+- History of cities
+- History of classical mechanics
+- History of climate change science
+- History of clothing and textiles
+- History of coffee
+- History of colonialism
+- History of combinatorics
+- History of comics
+- History of communism
+- History of computer science
+- History of computing
+- History of construction
+- History of cosmetics
+- History of creationism
+- History of cricket
+- History of criminal justice
+- History of cryptography
+- History of cycling
+- History of dance
+- History of democracy
+- History of ecology
+- History of education
+- History of electrical engineering
+- History of electromagnetic theory
+- History of electronics engineering
+- History of emotions
+- History of encyclopedias
+- History of energy
+- History of engineering
+- History of erotic depictions
+- History of ethics
+- History of evolutionary thought
+- History of fantasy
+- History of fashion design
+- History of feminism
+- History of fencing
+- History of fertilizer
+- History of figure skating
+- History of film technology
+- History of food
+- History of general relativity
+- History of genetic engineering
+- History of genetics
+- History of geomagnetism
+- History of geometry
+- History of geophysics
+- History of glass
+- History of globalization
+- History of golf
+- History of graphic design
+- History of gunpowder
+- History of hip-hop dance
+- History of hospitals
+- History of human rights
+- History of journalism
+- History of liberalism
+- History of libraries
+- History of logic
+- History of macroeconomic thought
+- History of malaria
+- History of martial arts
+- History of materials science
+- History of mathematical notation
+- History of measurement
+- History of military logistics
+- History of military technology
+- History of mineralogy
+- History of mobile phones
+- History of money
+- History of navigation
+- History of nuclear weapons
+- History of nursing
+- History of optics
+- History of organic farming
+- History of painting
+- History of paleontology
+- History of paper
+- History of pathology
+- History of photography
+- History of poetry
+- History of political science
+- History of printing
+- History of probability
+- History of prostitution
+- History of quantum mechanics
+- History of radar
+- History of radio
+- History of rail transport
+- History of road transport
+- History of robots
+- History of rockets
+- History of rugby union
+- History of science and technology
+- History of science and technology in Africa
+- History of science and technology in China
+- History of science and technology on the Indian subcontinent
+- History of science fiction
+- History of skiing
+- History of social democracy
+- History of socialism
+- History of software
+- History of special relativity
+- History of statistics
+- History of subatomic physics
+- History of submarines
+- History of suicide
+- History of telecommunication
+- History of television
+- History of tennis
+- History of terrorism
+- History of the Americas
+- History of the Assyrians
+- History of the Bahamas
+- History of the Baháʼí Faith
+- History of the Balkans
+- History of the Basques
+- History of the Catholic Church
+- History of the Caucasus
+- History of the Central African Republic
+- History of the Comoros
+- History of the Cossacks
+- History of the Czech lands
+- History of the Democratic Republic of the Congo
+- History of the Dominican Republic
+- History of the Eastern Orthodox Church
+- History of the European Union
+- History of the Federated States of Micronesia
+- History of the Gambia
+- History of the Incas
+- History of the Internet
+- History of the Jews in Africa
+- History of the Jews in Europe
+- History of the Jews in Turkey
+- History of the Jews in the United States
+- History of the Kingdom of Italy (1861–1946)
+- History of the Kurds
+- History of the Latter Day Saint movement
+- History of the Maldives
+- History of the Marshall Islands
+- History of the Netherlands
+- History of the Pacific Islands
+- History of the Republic of China
+- History of the Republic of Ireland
+- History of the Republic of Venice
+- History of the Republic of the Congo
+- History of the Roman Empire
+- History of the Romani people
+- History of the Ryukyu Islands
+- History of the Southern United States
+- History of the United Arab Emirates
+- History of the United Nations
+- History of the World Wide Web
+- History of the alphabet
+- History of the ancient Levant
+- History of the automobile
+- History of the battery
+- History of the bicycle
+- History of the camera
+- History of the family
+- History of the firearm
+- History of the internal combustion engine
+- History of the jet engine
+- History of the metric system
+- History of the papacy
+- History of the periodic table
+- History of the petroleum industry
+- History of the potato
+- History of the social sciences
+- History of the steam engine
+- History of the tank
+- History of the telephone
+- History of the telescope
+- History of the transistor
+- History of thermodynamics
+- History of timekeeping devices
+- History of trigonometry
+- History of video game consoles
+- History of water supply and sanitation
+- History of weapons
+- History of wind power
+- History of wrestling
+- Ho Chi Minh trail
+- Hohenstaufen
+- Holocaust denial
+- Holy Alliance
+- Home Army
+- House of Bourbon
+- House of Saud
+- Houthi insurgency
+- Hoysala Kingdom
+- Hudson's Bay Company
+- Hundred Days
+- Hundred Days Offensive
+- Hundred Flowers Campaign
+- Hundred Schools of Thought
+- Hungarian Revolution of 1848
+- Hungarian invasions of Europe
+- Hurrians
+- Hurricane Katrina
+- Hurricane Maria
+- Hyderabad State
+- Hyksos
+- Hyperinflation in Zimbabwe
+- I Have a Dream
+- Iberian Union
+- Icelandic Commonwealth
+- Iconography
+- Idel-Ural State
+- Idrisid dynasty
+- Ifni War
+- Ikiza
+- Ilkhanate
+- Illyrians
+- Immigration Act of 1924
+- Imperial House of Japan
+- Imperial examination
+- Inca Civil War
+- Inca agriculture
+- Incense trade route
+- Independence of Brazil
+- Indian annexation of Goa
+- India–Pakistan war of 1971
+- India–Pakistan wars and conflicts
+- Indigo dye
+- Indo-European migrations
+- Indo-Parthian kingdom
+- Indonesian National Awakening
+- Indonesian invasion of East Timor
+- Indonesian mass killings of 1965–66
+- Indonesian occupation of East Timor
+- Indonesia–Malaysia confrontation
+- Indore State
+- Inner German border
+- Insurgency in Khyber Pakhtunkhwa
+- Insurgency in the Maghreb (2002–present)
+- Intellectual history
+- Internal conflict in Peru
+- Internal resistance to apartheid
+- International relations (1814–1919)
+- Internment of Japanese Americans
+- Interregnum (Holy Roman Empire)
+- Interwar period
+- Invasion of Poland
+- Invasion of the Waikato
+- Ionian Revolt
+- Iran hostage crisis
+- Iranian Intermezzo
+- Iran–Contra affair
+- Iran–Israel proxy conflict
+- Iran–Saudi Arabia proxy war
+- Iraqi invasion of Kuwait
+- Irish Civil War
+- Irish Republican Army (1922–1969)
+- Irish War of Independence
+- Irish revolutionary period
+- Isaaq genocide
+- Islamic Republic of Afghanistan
+- Islamist insurgency in Burkina Faso
+- Israelites
+- Italian Empire
+- Italian Regency of Carnaro
+- Italian Renaissance
+- Italian campaign (World War II)
+- Italian neorealism
+- Italo-Ethiopian War of 1887–1889
+- Italo-Turkish War
+- Jacobitism
+- Jaffa
+- Jallianwala Bagh massacre
+- Jamestown, Virginia
+- Janissary
+- January 6 United States Capitol attack
+- Japanese economic miracle
+- Japanese invasion of Manchuria
+- Japanese occupation of the Philippines
+- Japanese war crimes
+- Jay Treaty
+- Jazz Age
+- Jebel Akhdar War
+- Jebel Irhoud
+- Jeffersonian democracy
+- Jewish exodus from the Muslim world
+- Jewish ghettos established by Nazi Germany
+- Jewish question
+- Jewish–Roman wars
+- Jiangnan
+- Jiayu Pass
+- Jihad of Usman dan Fodio
+- Jin (Chinese state)
+- Jingkang incident
+- Jin–Song wars
+- John Brown's raid on Harpers Ferry
+- Johor Sultanate
+- Jolly Roger
+- Jolof Empire
+- Jonestown
+- Jordanian annexation of the West Bank
+- July Crisis
+- June Democratic Struggle
+- Junker (Prussia)
+- Kadamba dynasty
+- Kalinga War
+- Kalmar Union
+- Kamakura shogunate
+- Kamerun campaign
+- Kamikaze (typhoon)
+- Kansas–Nebraska Act
+- Kapp Putsch
+- Kapsan faction incident
+- Kapsin Coup
+- Kara-Khanid Khanate
+- Karakorum
+- Kargil War
+- Kashmir conflict
+- Kassites
+- Katyn massacre
+- Kaya confederacy
+- Kazakh famine of 1930–1933
+- Kediri kingdom
+- Kellogg–Briand Pact
+- Kenmu Restoration
+- Kerma
+- Khalistan movement
+- Khanate of Khiva
+- Khanate of Kokand
+- Khanate of Sibir
+- Khitan people
+- Khmer Rouge
+- Khrushchev thaw
+- Kiev offensive (1920)
+- Killing of Osama bin Laden
+- Kilwa Sultanate
+- Kingdom of Alba
+- Kingdom of Asturias
+- Kingdom of Benin
+- Kingdom of Bora Bora
+- Kingdom of Cochin
+- Kingdom of Croatia (925–1102)
+- Kingdom of East Anglia
+- Kingdom of Essex
+- Kingdom of Fiji
+- Kingdom of Georgia
+- Kingdom of Great Britain
+- Kingdom of Great Zimbabwe
+- Kingdom of Greece
+- Kingdom of Gwynedd
+- Kingdom of Ireland
+- Kingdom of Italy (Napoleonic)
+- Kingdom of Jerusalem
+- Kingdom of Kandy
+- Kingdom of Khotan
+- Kingdom of León
+- Kingdom of Loango
+- Kingdom of Mysore
+- Kingdom of Nagpur
+- Kingdom of Naples
+- Kingdom of Navarre
+- Kingdom of Nri
+- Kingdom of Pergamon
+- Kingdom of Pontus
+- Kingdom of Portugal
+- Kingdom of Prussia
+- Kingdom of Rarotonga
+- Kingdom of Sardinia
+- Kingdom of Scotland
+- Kingdom of Serbia (1217–1346)
+- Kingdom of Sikkim
+- Kingdom of Simien
+- Kingdom of Strathclyde
+- Kingdom of Tahiti
+- Kipchaks
+- Kleinstaaterei
+- Klondike Gold Rush
+- Knights Hospitaller
+- Kokoda Track campaign
+- Kolkhoz
+- Kong Empire
+- Konye-Urgench
+- Korea under Japanese rule
+- Korean Wave
+- Korean conflict
+- Kosovo War
+- Kowloon Walled City
+- Kościuszko Uprising
+- Kresy
+- Kristallnacht
+- Kronstadt rebellion
+- Kurdistan Workers' Party insurgency
+- Kurgan hypothesis
+- Kuril Islands dispute
+- Kuru kingdom
+- Kuwaiti oil fires
+- Kyoto Protocol
+- Königsberg
+- LGBTQ history
+- La Tène culture
+- La Venta
+- La Violencia
+- Lakhmid kingdom
+- Lan Na
+- Land Reform Movement
+- Lanfang Republic
+- Langkasuka
+- Laotian Civil War
+- Lapita culture
+- Las Vegas culture (archaeology)
+- Late Middle Ages
+- Late Period of Egypt
+- Later Three Kingdoms
+- Latin Empire
+- Latin translations of the 12th century
+- League of Corinth
+- Lebanese Civil War
+- Lend-Lease
+- Leper colony
+- Liaoshen campaign
+- Liberators' civil war
+- Liberty Bell
+- Libyan civil war (2011)
+- Libyan civil war (2014–2020)
+- Libyan crisis
+- Lindbergh kidnapping
+- List of oldest higher-learning institutions
+- Live Aid
+- Livonian Order
+- Lobotomy
+- Local history
+- Lollardy
+- Lombard League
+- Londinium
+- Long Depression
+- Long March
+- Lost Cause of the Confederacy
+- Lost Decades
+- Lotharingia
+- Louisiana Purchase
+- Loulan Kingdom
+- Luba Empire
+- Lunda Empire
+- Lutetia
+- Lynching of Jesse Washington
+- Lüshunkou
+- Lý dynasty
+- MKUltra
+- Maccabean Revolt
+- Macedonian front
+- Magna Graecia
+- Mahajanapadas
+- Mahasthangarh
+- Mahdist State
+- Mahdist War
+- Maitraka dynasty
+- Majeerteen Sultanate
+- Maji Maji Rebellion
+- Makassan contact with Australia
+- Makuria
+- Malagasy Uprising
+- Malayan Emergency
+- Malayan campaign
+- Malaysia Airlines Flight 370
+- Mali War
+- Mamluk Sultanate
+- Mamluk–Portuguese conflicts
+- Manchukuo
+- Manifest destiny
+- Marajoara culture
+- Maravi
+- March 1933 German federal election
+- March First Movement
+- March of Tuscany
+- March on Washington
+- Margraviate of Brandenburg
+- Marinid dynasty
+- Maritime flag
+- Maritime republics
+- Marshall Plan
+- Martial law under Ferdinand Marcos
+- Mass killings under communist states
+- Mataram Sultanate
+- Mataram kingdom
+- Mau Mau rebellion
+- Mau movement
+- May 16 coup
+- May 68
+- May Fourth Movement
+- May Revolution
+- McCarthyism
+- MeToo movement
+- Medieval commune
+- Medieval football
+- Medieval renaissances
+- Medieval technology
+- Medieval warfare
+- Medri Bahri
+- Meiji era
+- Mensheviks
+- Mercia
+- Merina Kingdom
+- Merv
+- Mesa Verde National Park
+- Mesha Stele
+- Mesopotamian campaign
+- Metrication
+- Meuse–Argonne offensive
+- Mexican drug war
+- Mexican peso crisis
+- Mfecane
+- Miasma theory
+- Mid-20th-century baby boom
+- Middle kingdoms of India
+- Miletus
+- Military Government of Santo Domingo
+- Military dictatorship in Brazil
+- Military dictatorship of Chile
+- Military of the Mongol Empire
+- Military operations in North Africa during World War I
+- Ming treasure voyages
+- Minoan eruption
+- Minyue
+- Miracle on Ice
+- Miracle on the Han River
+- Mirza (name)
+- Missouri Compromise
+- Mixtec culture
+- Modern warfare
+- Modernity
+- Mogollon culture
+- Molotov–Ribbentrop Pact
+- Mongol campaigns in Central Asia
+- Mongol conquest of China
+- Mongol invasion of Europe
+- Mongol invasion of Syria
+- Mongol invasion of the Khwarazmian Empire
+- Mongol invasions of India
+- Mongol invasions of Japan
+- Mongol invasions of Korea
+- Mongol invasions of Vietnam
+- Monte Verde
+- Montgomery bus boycott
+- Montreal Protocol
+- Moors
+- Moriori genocide
+- Moro conflict
+- Moscow theater hostage crisis
+- Mossi Kingdoms
+- Mozambican Civil War
+- Mozambican War of Independence
+- Muhammad Ali dynasty
+- Muisca Confederations (political units)
+- Mukden incident
+- Munich Agreement
+- Munich massacre
+- Muromachi period
+- Muscovite–Lithuanian Wars
+- Musket Wars
+- Muslim Sicily
+- Muslim conquest of Syria
+- Muslim conquest of Transoxiana
+- Muslim conquest of the Iberian Peninsula
+- Muslim conquest of the Maghreb
+- Mutiny on the Bounty
+- Mutual Defense Pact of the Southeastern Provinces
+- My Lai massacre
+- Myanmar civil war (2021–present)
+- Myanmar conflict
+- Mycenae
+- Mỹ Sơn
+- Nabataean Kingdom
+- Nagorno-Karabakh conflict
+- Nakba
+- Nanban trade
+- Nanda Empire
+- Nanjing Massacre denial
+- Naqada I
+- Naqada II
+- Naqada III
+- Naqada culture
+- Nat Turner's Rebellion
+- Nationalist faction (Spanish Civil War)
+- Natural history
+- Nawabs of Bengal
+- Naxalite–Maoist insurgency
+- Nazi Party
+- Neanderthal extinction
+- Neo-Assyrian Empire
+- Neo-Babylonian Empire
+- Neolithic Europe
+- Nepalese Civil War
+- Nepalese royal massacre
+- Netherlands Antilles
+- Neustria
+- Nevada Test Site
+- New Amsterdam
+- New Economic Policy
+- New France
+- New Hollywood
+- New Left
+- New Order (Indonesia)
+- New Spain
+- New Zealand Company
+- New Zealand Wars
+- Nicaraguan Revolution
+- Nicomedia
+- Nidaros
+- Night of the Long Knives
+- Nine Years' War
+- Non-Aligned Movement
+- Norman conquest of southern Italy
+- Normandy landings
+- Norse settlement of North America
+- North African campaign
+- North Sea Empire
+- North Vietnam
+- North Yemen civil war
+- Northern Alliance
+- Northern Expedition
+- Northern War of 1655–1660
+- Northern Wei
+- Northern Yuan
+- Northumbria
+- November 2015 Paris attacks
+- Nuclear testing at Bikini Atoll
+- Nullification crisis
+- Numidia
+- Numismatics
+- Occupation of Japan
+- Occupation of the Baltic states
+- Occupy Wall Street
+- Occupy movement
+- October 7 attacks
+- October Revolution
+- Oddiyana
+- Oder–Neisse line
+- Ogaden War
+- Oklahoma City bombing
+- Old Prussians
+- Old Swiss Confederacy
+- Olympia, Greece
+- Omani Empire
+- One country, two systems
+- Operation Bagration
+- Operation Barbarossa
+- Operation Car Wash
+- Operation Cyclone
+- Operation Lentil (Caucasus)
+- Operation Linda Nchi
+- Operation Market Garden
+- Operation Paperclip
+- Operation Reinhard
+- Operation Torch
+- Operation Uphold Democracy
+- Operation Weserübung
+- Oprichnina
+- Optimates and populares
+- Oral history
+- Orange Free State
+- Orange Revolution
+- Order of Assassins
+- Oregon Trail
+- Oregon boundary dispute
+- Origins of the American Civil War
+- Oromo expansion
+- Ostia Antica
+- Ostrogothic Kingdom
+- Ostrogoths
+- Ottoman Tripolitania
+- Ottoman dynasty
+- Ottoman–Mamluk War (1516–1517)
+- Ottoman–Persian Wars
+- Ottonian dynasty
+- Oudh State
+- Overthrow of the Hawaiian Kingdom
+- Overthrow of the Roman monarchy
+- PRISM
+- Paekche
+- Pahlavi dynasty
+- Pala Empire
+- Paleoanthropology
+- Pallava dynasty
+- Pan Am Flight 103
+- Pan-Africanism
+- Pan-Slavism
+- Panchala
+- Pandya dynasty
+- Panic of 1819
+- Panic of 1873
+- Panic of 1893
+- Panic of 1907
+- Papua conflict
+- Paramara dynasty
+- Parhae
+- Paris Agreement
+- Partition of Jin
+- Partition of the Ottoman Empire
+- Pataliputra
+- Pathet Lao
+- Patriot Act
+- Pax Britannica
+- Pax Mongolica
+- Pax Romana
+- Pax Sinica
+- Peace and Truce of God
+- Peace of Augsburg
+- Peace of Utrecht
+- Peasants' Revolt
+- Pechenegs
+- Pella
+- Peloponnesian League
+- Peninsular War
+- People Power Revolution
+- People's Democratic Republic of Ethiopia
+- Perestroika
+- Pergamon
+- Periodization
+- Perry Expedition
+- Persecution of Muslims during the Ottoman decline
+- Persecution of Uyghurs in China
+- Peruvian War of Independence
+- Petty kingdoms of Norway
+- Philately
+- Philippi
+- Philippine drug war
+- Philistines
+- Phoenician history
+- Pilgrims (Plymouth Colony)
+- Plague of Justinian
+- Plantations of Ireland
+- Plymouth Colony
+- Polish population transfers in 1944–1946
+- Polish–Russian War (1654–1667)
+- Political history
+- Political history of the world
+- Polynesian navigation
+- Polynesian outlier
+- Pontiac's War
+- Population exchange between Greece and Turkey
+- Porfiriato
+- Port Arthur massacre
+- Port Royal
+- Portuguese Colonial War
+- Portuguese India
+- Portuguese Macau
+- Portuguese colonization of the Americas
+- Post-Soviet states
+- Postal history
+- Postmodernist film
+- Potsdam Conference
+- Pratihara dynasty
+- Pre-Islamic Arabia
+- Pre-Pottery Neolithic
+- Pre-Pottery Neolithic A
+- Pre-Pottery Neolithic B
+- Prehistoric technology
+- Prehistory of Australia
+- Price revolution
+- Primary source
+- Prince-elector
+- Princely state
+- Proclamation of the Republic (Brazil)
+- Progressive Era
+- Prohibition in the United States
+- Protectorate
+- Protests against Nicolás Maduro and Delcy Rodríguez
+- Protests against responses to the COVID-19 pandemic
+- Protests against the Iraq War
+- Protests of 1968
+- Proto-Indo-European homeland
+- Proto-writing
+- Proto–Three Kingdoms period
+- Province of Georgia
+- Province of Maryland
+- Province of Massachusetts Bay
+- Province of New Hampshire
+- Province of New Jersey
+- Province of New York
+- Province of North Carolina
+- Province of Pennsylvania
+- Province of South Carolina
+- Provinces of Japan
+- Pskov Republic
+- Public history
+- Pueblo Revolt
+- Pugachev's Rebellion
+- Pullman Strike
+- Puppet state
+- Purges in Turkey following the 2016 Turkish coup attempt
+- Purépecha Empire
+- Pushyabhuti dynasty
+- Qajar Iran
+- Qajar dynasty
+- Qara Khitai
+- Qarmatians
+- Qatar diplomatic crisis
+- Qi (state)
+- Qin (state)
+- Qin's wars of unification
+- Quasi-War
+- Racial segregation in the United States
+- Rashidun Caliphate
+- Rashtrakuta Empire
+- Rattanakosin Kingdom (1782–1932)
+- Reaganomics
+- Rebellion of the Seven States
+- Rebellions of 1837–1838
+- Recent African origin of modern humans
+- Reconstruction Amendments
+- Reconstruction era
+- Records management
+- Recovered Territories
+- Red Army
+- Red Army Faction
+- Red Terror (Spain)
+- Red Turban Rebellions
+- Redlining
+- Regency of Algiers
+- Reichstag fire
+- Reign of Terror
+- Renaissance of the 12th century
+- Renaissance technology
+- Republic of Ancona
+- Republic of China (1912–1949)
+- Republic of Florence
+- Republic of Pisa
+- Republic of Ragusa
+- Republic of Siena
+- Republic of Texas
+- Republican faction (Spanish Civil War)
+- Rescue of Jews during the Holocaust
+- Resistance during World War II
+- Retreat of the government of the Republic of China to Taiwan
+- Revocation of the special status of Jammu and Kashmir
+- Revolution of 1930
+- Revolutions of 1917–1923
+- Rhodesia
+- Rhodesian Bush War
+- Rif War
+- Rise of nationalism in Europe
+- Roanoke Colony
+- Roaring Twenties
+- Rohingya genocide
+- Roman Britain
+- Roman Egypt
+- Roman Senate
+- Roman conquest of Britain
+- Roman conquest of the Iberian Peninsula
+- Roman expansion in Italy
+- Roman legion
+- Roman magistrate
+- Romani Holocaust
+- Romania in World War I
+- Romanian revolution
+- Romanticism in science
+- Rouran Khaganate
+- Route from the Varangians to the Greeks
+- Royal Proclamation of 1763
+- Royal intermarriage
+- Rural history
+- Rus' people
+- Russian colonization of North America
+- Russian conquest of Central Asia
+- Russian conquest of Siberia
+- Russian famine of 1921–1922
+- Russification of Finland
+- Russo-Georgian War
+- Russo-Kazan Wars
+- Russo-Turkish wars
+- Russo-Ukrainian war
+- Russo-Ukrainian war (2022–present)
+- Ruthenia
+- Rwandan Civil War
+- Rwandan Revolution
+- Ryukyu Kingdom
+- Régence
+- Sack of Constantinople
+- Sack of Rome (410)
+- Safavid Iran
+- Safavid conversion of Iran to Shia Islam
+- Saffarid dynasty
+- Sahelian kingdoms
+- Saint Valentine's Day Massacre
+- Saka
+- Sakoku
+- Salem witch trials
+- Salic law
+- Salt March
+- Salvadoran Civil War
+- Samanid Empire
+- Samhan
+- Samoan Civil War
+- Samorian state
+- Sandy Hook Elementary School shooting
+- Sanxingdui
+- Sao civilisation
+- Saqqara
+- Sarai (city)
+- Satsuma Rebellion
+- Saudeleur dynasty
+- Saur Revolution
+- Sayfo
+- Scandinavian Scotland
+- Schutzstaffel
+- Science in classical antiquity
+- Science in the Enlightenment
+- Science in the ancient world
+- Science in the medieval Islamic world
+- Scopes trial
+- Scythia
+- Sea Peoples
+- Secession of Panama from Colombia
+- Second Anglo-Sikh War
+- Second Balkan War
+- Second Bank of the United States
+- Second Chechen War
+- Second Fitna
+- Second Franco-Dahomean War
+- Second Great Awakening
+- Second Green Revolution
+- Second Hundred Years' War
+- Second Intermediate Period of Egypt
+- Second Intifada
+- Second Ivorian Civil War
+- Second Liberian Civil War
+- Second Mexican Empire
+- Second Nagorno-Karabakh War
+- Second Punic War
+- Second Samoan Civil War
+- Second Sudanese Civil War
+- Second Temple period
+- Second Triumvirate
+- Second Turkic Khaganate
+- Second Vatican Council
+- Second-wave feminism
+- Secondary source
+- Self-Strengthening Movement
+- Seljuk dynasty
+- Sena dynasty
+- Seneca Falls Convention
+- Sengoku period
+- Serbian campaign
+- Seuna (Yadava) dynasty
+- Shale oil extraction
+- Shanhai Pass
+- Sharpeville massacre
+- Shays's Rebellion
+- Sherman's March to the Sea
+- Shiloh (biblical city)
+- Shimabara Rebellion
+- Shinsengumi
+- Shogun
+- Shu Han
+- Sicilian Expedition
+- Sicilian Wars
+- Siege of Acre (1189–1191)
+- Siege of Acre (1291)
+- Siege of Antioch
+- Siege of Baghdad
+- Siege of Belgrade (1456)
+- Siege of Carthage (Third Punic War)
+- Siege of Constantinople (674–678)
+- Siege of Constantinople (717–718)
+- Siege of Delhi (1857)
+- Siege of Jerusalem (1099)
+- Siege of Jerusalem (1187)
+- Siege of Leningrad
+- Siege of Malta (World War II)
+- Siege of Metz (1870)
+- Siege of Orléans (1428–1429)
+- Siege of Paris (1870–1871)
+- Siege of Pavia (773–774)
+- Siege of Sarajevo
+- Siege of Sevastopol (1854–1855)
+- Siege of Turin
+- Siege of Vicksburg
+- Siege of Yorktown
+- Sierra Leone Civil War
+- Sijilmasa
+- Silk Road transmission of Buddhism
+- Silla
+- Sinai and Palestine campaign
+- Sinking of the RMS Lusitania
+- Sino-French War
+- Sino-Indian War
+- Sino-Soviet split
+- Sino-Vietnamese War
+- Sioux Wars
+- Six Dynasties
+- Six-Day War
+- Skara Brae
+- Slavery in the United States
+- Slavic migrations to the Balkans
+- Smashing the Gang of Four
+- Smyrna
+- Snowden disclosures
+- Social Outburst (Chile)
+- Social history
+- Solomonic dynasty
+- Somali Civil War
+- Somali Civil War (2009–present)
+- Somaliland campaign
+- Somapura Mahavihara
+- Song (state)
+- South African Border War
+- South African Republic
+- South American dreadnought race
+- South Seas Mandate
+- South Sudanese Civil War
+- South Vietnam
+- South West Africa campaign
+- Southeast Asia Treaty Organization
+- Southward expansion of the Han dynasty
+- Soviet Central Asia
+- Soviet famine of 1930–1933
+- Soviet famine of 1946–1947
+- Soviet invasion of Manchuria
+- Soviet invasion of Poland
+- Soviet partisans
+- Soviet–Afghan War
+- Soviet–Japanese War
+- Soweto uprising
+- Space Shuttle Challenger disaster
+- Space Shuttle Columbia disaster
+- Spanish Armada
+- Spanish East Indies
+- Spanish Florida
+- Spanish Netherlands
+- Spanish conquest of the Maya
+- Spanish transition to democracy
+- Spice trade
+- Split of Christianity and Judaism
+- Srebrenica massacre
+- St. Bartholomew's Day massacre
+- Stab-in-the-back myth
+- Stamp Act 1765
+- Star and crescent
+- Stato da Màr
+- Stolen Generations
+- Stonewall riots
+- Storming of the Bastille
+- Straits Settlements
+- Strategic bombing during World War II
+- Stuart Restoration
+- Stuart period
+- Sudanese civil war (2023–present)
+- Sudanese revolution
+- Suebi
+- Suez Crisis
+- Suffragette
+- Sukhothai Historical Park
+- Sukhothai Kingdom
+- Sultanate of Agadez
+- Sultanate of Bijapur
+- Sultanate of Brunei (1368–1888)
+- Sultanate of Golconda
+- Sultanate of Gowa
+- Sultanate of Hobyo
+- Sultanate of Mogadishu
+- Sultanate of Ternate
+- Sumerian King List
+- Sunda Kingdom
+- Sunshine Policy
+- Supreme Commander for the Allied Powers
+- Surrender of Japan
+- Sustainable Development Goals
+- Sutton Hoo
+- Suzerainty
+- Swachh Bharat Mission
+- Swahili city-states
+- Swedish Empire
+- Swedish overseas colonies
+- Sybaris
+- Syrian Wars
+- Syrian civil war
+- Syria–Lebanon campaign
+- Taifa
+- Taika Reform
+- Taiwan independence movement
+- Taiwan under Japanese rule
+- Taiwan under Qing rule
+- Tajikistani Civil War
+- Tambralinga
+- Tanzimat
+- Taos Pueblo
+- Tarumanagara
+- Taíno
+- Tea Party movement
+- Teapot Dome scandal
+- Temperance movement
+- Ten Great Campaigns
+- Ten Years' War
+- Tennis Court Oath
+- Territorial disputes in the South China Sea
+- Territory of New Guinea
+- Tertiary source
+- Tet Offensive
+- Texas Revolution
+- Texas annexation
+- The Anarchy
+- The Blitz
+- The Emergency (India)
+- The Protectorate
+- Thebes, Greece
+- Thermidorian Reaction
+- Third Anglo-Maratha War
+- Third Crusade
+- Third Dynasty of Ur
+- Third Indochina War
+- Third Intermediate Period of Egypt
+- Third Punic War
+- Third Servile War
+- Third-wave feminism
+- Thirteen Colonies
+- Thrace
+- Three Departments and Six Ministries
+- Tibetan independence movement
+- Tigray war
+- Time capsule
+- Time of Troubles
+- Timeline of cosmological theories
+- Timeline of meteorology
+- Timeline of microscope technology
+- Timurid conquests and invasions
+- Tiwanaku polity
+- Tlatelolco massacre
+- Togoland campaign
+- Tokyo subway sarin attack
+- Toltec Empire
+- Tomb of Tutankhamun
+- Tonghak Peasant Revolution
+- Tongzhi Restoration
+- Trade route
+- Trail of Tears
+- Transition from Ming to Qing
+- Translatio imperii
+- Transmission of the Greek Classics
+- Travancore
+- Treaty of Brest-Litovsk
+- Treaty of Paris (1783)
+- Treaty of San Francisco
+- Treaty of Trianon
+- Treaty of Waitangi
+- Treaty of Zaragoza
+- Treaty ports
+- Trial of Socrates
+- Triangle Shirtwaist Factory fire
+- Tributary system of China
+- Trident
+- Trinity (nuclear test)
+- Tripartite Struggle
+- Trowulan
+- Truman Doctrine
+- Trust Territory of the Pacific Islands
+- Tudor period
+- Tukulor Empire
+- Tulip mania
+- Tulsa race massacre
+- Tulunids
+- Tunguska event
+- Tunisian campaign
+- Tunisian revolution
+- Turco-Persian tradition
+- Turk Shahis
+- Turkic migration
+- Tuskegee Syphilis Study
+- Tuʻi Tonga Empire
+- U-boat campaign
+- Ubaid period
+- Ukrainian War of Independence
+- Ukrainian national revival
+- Ulm campaign
+- Ulster Volunteer Force
+- Umayyad campaigns in India
+- Underground Railroad
+- Unequal treaties
+- Unification of Saudi Arabia
+- Unified Silla
+- Union (American Civil War)
+- Union Jack
+- Union between Sweden and Norway
+- Union of Lublin
+- Union of South Africa
+- Unit 731
+- United Arab Republic occupation of the Gaza Strip
+- United Kingdom of Great Britain and Ireland
+- United States invasion of Grenada
+- United States invasion of Panama
+- United States occupation of Haiti
+- United States occupation of Nicaragua
+- Upheaval of the Five Barbarians
+- Urban history
+- Uruk period
+- Uxmal
+- Vakataka dynasty
+- Vandal Kingdom
+- Varangian Guard
+- Vassal state
+- Velvet Revolution
+- Venetian–Genoese Wars
+- Venezuelan War of Independence
+- Venezuelan crisis of 1902–1903
+- Venezuelan presidential crisis
+- Vexillology
+- Viceroyalty of New Granada
+- Viceroyalty of Peru
+- Viceroyalty of the Río de la Plata
+- Vichy France
+- Victorian era
+- Video game crash of 1983
+- Viet Cong
+- Vietnam under Chinese rule
+- Vietnamese boat people
+- Vijayanagara
+- Viking activity in the British Isles
+- Vilcabamba, Peru
+- Virginia Tech shooting
+- Visigoths
+- Volcanic winter of 536
+- Volga trade route
+- Voyages of Christopher Columbus
+- Waco siege
+- Wadai War
+- Wannsee Conference
+- War against the Islamic State
+- War flag
+- War in Afghanistan (2001–2021)
+- War in Darfur
+- War in Donbas
+- War of 1812
+- War of Actium
+- War of the Confederation
+- War of the Eight Princes
+- War of the Fifth Coalition
+- War of the Fourth Coalition
+- War of the Sicilian Vespers
+- War of the Sixth Coalition
+- War of the Third Coalition
+- War on drugs
+- Warlord Era
+- Wars of Alexander the Great
+- Wars of Scottish Independence
+- Wars of the Diadochi
+- Wars of the Three Kingdoms
+- Warsaw Ghetto
+- Warsaw Ghetto Uprising
+- Warsaw Pact invasion of Czechoslovakia
+- Warsaw Uprising
+- Watergate scandal
+- Wehrmacht
+- Weimar Republic
+- Wessex
+- West Francia
+- West Germany
+- Western African Ebola epidemic
+- Western Allied invasion of Germany
+- Western Chalukya Empire
+- Western Desert campaign
+- Western Ganga dynasty
+- Western Sahara War
+- Western Schism
+- Western Turkic Khaganate
+- Western Xia
+- Whig Party (United States)
+- Whiskey Rebellion
+- White Rose
+- White Terror (Spain)
+- White Terror (Taiwan)
+- White flag
+- White movement
+- Winter War
+- Wirtschaftswunder
+- Women's War
+- Woo Bum-kon incident
+- World War II casualties
+- World War II in Yugoslavia
+- World history (field)
+- Wounded Knee Massacre
+- Wu (state)
+- XYZ Affair
+- Xhosa Wars
+- Xi'an Incident
+- Xianbei
+- Xinjiang conflict
+- Yamato period
+- Yamnaya culture
+- Yan (state)
+- Year 2000 problem
+- Years of Lead (Italy)
+- Yellow Turban Rebellion
+- Yellow vests protests
+- Yemeni civil war (2014–present)
+- Yemeni crisis
+- Yemeni unification
+- Yinxu
+- Yom Kippur War
+- Young Turk Revolution
+- Young Turks
+- Yue (state)
+- Yuezhi
+- Yugoslav Partisans
+- Yugoslav Wars
+- Yumen Pass
+- Zaire
+- Zanj Rebellion
+- Zanzibar Revolution
+- Zhangzhung
+- Zhongyuan
+- Zimmermann telegram
+- Zirid dynasty
+- Zulu Kingdom
+- École Polytechnique massacre
+- Đại Việt
+
+### Mathematics (+914)
+- 16-cell
+- 24-cell
+- 3-manifold
+- 3-sphere
+- 4-manifold
+- 5-cell
+- A/B testing
+- AKS primality test
+- Abc conjecture
+- Absolute convergence
+- Absolute value
+- Abstract data type
+- Addition principle
+- Additive function
+- Adjacency matrix
+- Adjoint functors
+- Affine geometry
+- Affine space
+- Affine transformation
+- Aleph number
+- Algebra over a field
+- Algebraic combinatorics
+- Algebraic equation
+- Algebraic expression
+- Algebraic function
+- Algebraic number
+- Algebraic structure
+- Aliquot sum
+- Alternating group
+- Analysis of algorithms
+- Analysis of variance
+- Analytic function
+- Antichain
+- Antiderivative
+- Antisymmetric relation
+- Approximation
+- Arc length
+- Arithmetic function
+- Arithmetic mean
+- Arithmetic progression
+- Array (data structure)
+- Arrow's impossibility theorem
+- Assignment problem
+- Associative array
+- Asymptote
+- Asymptotic analysis
+- Atomic formula
+- Attractor
+- Autocorrelation
+- Automata theory
+- Axiom of extensionality
+- Axiom of infinity
+- Axiom of pairing
+- Axiom of power set
+- Axiom of regularity
+- Axiom of union
+- Axiom schema of replacement
+- Axiom schema of specification
+- Axiomatic system
+- B-tree
+- Ball (mathematics)
+- Banach space
+- Banach–Tarski paradox
+- Bar chart
+- Basis (linear algebra)
+- Battle of the sexes (game theory)
+- Bayesian statistics
+- Bell number
+- Bellman–Ford algorithm
+- Bernoulli distribution
+- Bessel function
+- Beta distribution
+- Bifurcation theory
+- Big O notation
+- Bijection
+- Bijection, injection and surjection
+- Binary logarithm
+- Binary relation
+- Binary search
+- Binary search tree
+- Binomial (polynomial)
+- Binomial coefficient
+- Binomial series
+- Binomial theorem
+- Bipartite graph
+- Bisection
+- Bisection method
+- Blossom algorithm
+- Blum axioms
+- Boolean algebra (structure)
+- Boolean satisfiability problem
+- Boundary value problem
+- Bounded function
+- Box plot
+- Brachistochrone curve
+- Branch point
+- Breadth-first search
+- Bridge (graph theory)
+- Brouwer fixed-point theorem
+- Brute-force search
+- Butterfly effect
+- Bézout's identity
+- Cache replacement policies
+- Cage (graph theory)
+- Candlestick chart
+- Cantor set
+- Cantor's diagonal argument
+- Cantor's theorem
+- Cardinal number
+- Cardinality of the continuum
+- Cardioid
+- Cartesian closed category
+- Cartesian product
+- Catalan number
+- Category (mathematics)
+- Catenary
+- Cauchy principal value
+- Cauchy sequence
+- Cauchy's integral theorem
+- Cauchy–Riemann equations
+- Cauchy–Schwarz inequality
+- Cayley graph
+- Cellular automaton
+- Chain rule
+- Chebyshev's inequality
+- Chi-squared distribution
+- Chinese numerals
+- Chinese remainder theorem
+- Chomsky hierarchy
+- Chromatic polynomial
+- Church–Turing thesis
+- Circumference
+- Class (set theory)
+- Classification of finite simple groups
+- Clique (graph theory)
+- Clique problem
+- Closure (mathematics)
+- Coefficient of determination
+- Coincidence
+- Collatz conjecture
+- Combinatorial principles
+- Combinatory logic
+- Common knowledge (logic)
+- Common logarithm
+- Commutative diagram
+- Compactness theorem
+- Complement (set theory)
+- Complete graph
+- Completeness of the real numbers
+- Complex logarithm
+- Complex plane
+- Component (graph theory)
+- Composite number
+- Computable number
+- Computable set
+- Computably enumerable set
+- Computation
+- Concrete category
+- Conditional probability
+- Condorcet paradox
+- Cone
+- Confidence interval
+- Conformal map
+- Congruence (geometry)
+- Conjugacy class
+- Connected relation
+- Connected space
+- Connectivity (graph theory)
+- Conservative vector field
+- Conserved quantity
+- Constant (mathematics)
+- Constant function
+- Constant of integration
+- Constructible function
+- Constructible number
+- Continued fraction
+- Continuous uniform distribution
+- Continuum hypothesis
+- Contour integration
+- Contradiction
+- Contraposition
+- Convergence tests
+- Convergent series
+- Convolution
+- Convolution theorem
+- Conway's Game of Life
+- Coplanarity
+- Coprime integers
+- Coproduct
+- Corollary
+- Correlation coefficient
+- Correlation does not imply causation
+- Counting
+- Coxeter graph
+- Cramer's rule
+- Crank–Nicolson method
+- Credible interval
+- Critical point (mathematics)
+- Crossing number (graph theory)
+- Cube root
+- Cubic function
+- Cumulative distribution function
+- Curl (mathematics)
+- Curvature
+- Cycle (graph theory)
+- Cyclic group
+- Cycloid
+- Cylinder
+- Cylindrical coordinate system
+- Data model
+- De Moivre's formula
+- De Morgan's laws
+- Decagon
+- Decimal separator
+- Decision problem
+- Decision theory
+- Degree (graph theory)
+- Degree matrix
+- Depth-first search
+- Derivative (multivariable calculus)
+- Descriptive statistics
+- Deterministic algorithm
+- Diagonal matrix
+- Differentiable function
+- Differentiable manifold
+- Differential (mathematics)
+- Differential form
+- Differential operator
+- Differentiation of trigonometric functions
+- Differentiation rules
+- Dihedral angle
+- Dijkstra's algorithm
+- Dirac delta function
+- Directed acyclic graph
+- Directed graph
+- Direction (geometry)
+- Directional derivative
+- Dirichlet character
+- Dirichlet problem
+- Dirichlet series
+- Dirichlet's theorem on arithmetic progressions
+- Discrete logarithm
+- Divergence
+- Divergence theorem
+- Divergent series
+- Divide-and-conquer algorithm
+- Divisibility rule
+- Division by zero
+- Divisor
+- Dodecahedron
+- Domain of a function
+- Domain theory
+- Double counting (proof technique)
+- Duality (optimization)
+- Dynamic programming
+- Dynamical system simulation
+- Ecological fallacy
+- Edge contraction
+- Edge cover
+- Edge of chaos
+- Egyptian fraction
+- Egyptian numerals
+- Einstein notation
+- Element of a set
+- Elementary equivalence
+- Elementary function
+- Ellipsoid method
+- Elliptic curve
+- Elliptic function
+- Elliptic geometry
+- Elliptic operator
+- Elliptic partial differential equation
+- Entire function
+- Entropy (information theory)
+- Entscheidungsproblem
+- Enumerative combinatorics
+- Equilateral triangle
+- Equivalence class
+- Error function
+- Estimation
+- Estimator
+- Euclidean space
+- Euler method
+- Euler's constant
+- Euler's totient function
+- Eulerian path
+- Even and odd functions
+- Event (probability theory)
+- Existential quantification
+- Expectation–maximization algorithm
+- Exponential growth
+- Exponential integral
+- Extended Euclidean algorithm
+- Extended real number line
+- Extensive-form game
+- Exterior algebra
+- Extrapolation
+- Extreme value theorem
+- F-distribution
+- FKT algorithm
+- Factorial experiment
+- Factorization
+- Fast Fourier transform
+- Feasible region
+- Feigenbaum constants
+- Fermat number
+- Fermat's little theorem
+- Field extension
+- Field line
+- Fields Medal
+- Filter (mathematics)
+- Finite element method
+- Finite field
+- Finite-state machine
+- Five lemma
+- Fixed point (mathematics)
+- Fixed-point theorem
+- Floor and ceiling functions
+- Flow (mathematics)
+- Flow network
+- Floyd–Warshall algorithm
+- Forcing (mathematics)
+- Ford–Fulkerson algorithm
+- Forgetful functor
+- Foundations of mathematics
+- Four color theorem
+- Four-dimensional space
+- Free object
+- Free variables and bound variables
+- Frequency (statistics)
+- Frequentist inference
+- Fubini's theorem
+- Function of a real variable
+- Function of several real variables
+- Functor
+- Gale–Shapley algorithm
+- Galois group
+- Gamma distribution
+- Gaussian function
+- Gaussian integer
+- Gauss–Seidel method
+- General recursive function
+- Generalized Petersen graph
+- Generating function
+- Geometric distribution
+- Geometric mean
+- Geometric series
+- Gibbard–Satterthwaite theorem
+- Girth (graph theory)
+- Goldbach's conjecture
+- Gradient
+- Gradient descent
+- Gradient theorem
+- Graph (abstract data type)
+- Graph automorphism
+- Graph coloring
+- Graph homomorphism
+- Graph isomorphism
+- Graph isomorphism problem
+- Graph minor
+- Greatest common divisor
+- Greatest element and least element
+- Green's theorem
+- Gödel numbering
+- Gödel's completeness theorem
+- Halting problem
+- Hamiltonian path
+- Hamiltonian path problem
+- Hamming code
+- Handshaking lemma
+- Harmonic function
+- Harmonic mean
+- Harmonic series (mathematics)
+- Hash table
+- Hasse diagram
+- Heap (data structure)
+- Heapsort
+- Heaviside step function
+- Height
+- Held–Karp algorithm
+- Helmholtz decomposition
+- Herschel graph
+- Hexadecimal
+- Hexagon
+- Higher-order logic
+- Highly composite number
+- Hilbert's Nullstellensatz
+- Hilbert's axioms
+- Hilbert's basis theorem
+- Hindu–Arabic numeral system
+- Histogram
+- Hom functor
+- Homeomorphism
+- Homeomorphism (graph theory)
+- Homogeneous differential equation
+- Homogeneous polynomial
+- Homography
+- Homomorphism
+- Horner's method
+- Hosoya index
+- Hungarian algorithm
+- Hyperbolic angle
+- Hyperbolic geometry
+- Hyperbolic partial differential equation
+- Hyperbolic triangle
+- Hypergraph
+- Hölder's inequality
+- Icosahedron
+- Ideal (order theory)
+- Ideal (ring theory)
+- Identity (mathematics)
+- Identity element
+- Identity function
+- Identity matrix
+- If and only if
+- Implicit function
+- Improper integral
+- Inclusion–exclusion principle
+- Independence (probability theory)
+- Indeterminate form
+- Index (statistics)
+- Infimum and supremum
+- Infinitesimal
+- Inflection point
+- Information set (game theory)
+- Initial and terminal objects
+- Initial condition
+- Injective function
+- Inner product space
+- Integer partition
+- Integrating factor
+- Integration by parts
+- Integration by substitution
+- Intermediate value theorem
+- Internal and external angles
+- Interpolation
+- Intersection graph
+- Interval (mathematics)
+- Intuitionistic logic
+- Invariant (mathematics)
+- Inverse element
+- Inverse hyperbolic functions
+- Inverse trigonometric functions
+- Inversive geometry
+- Isometry
+- Isomorphism theorems
+- Isosceles triangle
+- Iterated integral
+- Jacobi method
+- Jacobi symbol
+- Jacobian matrix and determinant
+- Jensen's inequality
+- Join and meet
+- Julia set
+- Karnaugh map
+- Karush–Kuhn–Tucker conditions
+- Kernel (algebra)
+- Koch snowflake
+- Kolmogorov complexity
+- Kriging
+- Kronecker delta
+- Kruskal's algorithm
+- Kuratowski's theorem
+- Kurtosis
+- Kőnig's theorem (graph theory)
+- L'Hôpital's rule
+- LU decomposition
+- Lagrange multiplier
+- Lagrange's theorem (group theory)
+- Lah number
+- Lambda calculus
+- Lambert W function
+- Laplace operator
+- Laplacian matrix
+- Large cardinal
+- Latin square
+- Lattice (group)
+- Lattice (order)
+- Laurent series
+- Law of cosines
+- Law of sines
+- Least common multiple
+- Least squares
+- Lebesgue integral
+- Legendre symbol
+- Lemma (mathematics)
+- Lemniscate
+- Lie algebra
+- Lie group
+- Likelihood function
+- Limit (category theory)
+- Limit cycle
+- Limits of integration
+- Line graph
+- Line integral
+- Linear approximation
+- Linear combination
+- Linear differential equation
+- Linear dynamical system
+- Linear function (calculus)
+- Linear independence
+- Linear map
+- Linear regression
+- Linearization
+- Line–line intersection
+- Linked list
+- Liouville's theorem (complex analysis)
+- Locus (mathematics)
+- Logical connective
+- Logistic regression
+- Long division
+- Loss function
+- Lowest common denominator
+- Lp space
+- Lucky number
+- Lyapunov exponent
+- Löwenheim–Skolem theorem
+- Magic square
+- Magnitude (mathematics)
+- Mandelbrot set
+- Map (mathematics)
+- Margin of error
+- Matching (graph theory)
+- Matching polynomial
+- Material conditional
+- Mathematical model
+- Mathematical notation
+- Mathematical problem
+- Mathematical puzzle
+- Mathematical statistics
+- Mathematical structure
+- Mathematician
+- Matrix multiplication
+- Max-flow min-cut theorem
+- Maximum a posteriori estimation
+- Maximum and minimum
+- Maximum flow problem
+- Maximum likelihood estimation
+- Maximum-cardinality matching
+- Maya numerals
+- Mean value theorem
+- Measure (mathematics)
+- Merge sort
+- Mersenne prime
+- Method of lines
+- Metric tensor
+- Minimax
+- Minimum-cost flow problem
+- Minkowski's theorem
+- Model of computation
+- Model theory
+- Modifiable areal unit problem
+- Modifiable temporal unit problem
+- Modular group
+- Modularity theorem
+- Moduli space
+- Modulo
+- Modus ponens
+- Modus tollens
+- Moment (mathematics)
+- Moment generating function
+- Monoid
+- Monomial
+- Monte Carlo method
+- Monty Hall problem
+- Morphism
+- Motion (geometry)
+- Mu operator
+- Multibody system
+- Multigraph
+- Multiplication table
+- Multiplicative function
+- Multiplicative inverse
+- Multipole expansion
+- Multiset
+- Multivalued function
+- Multivariate normal distribution
+- Music and mathematics
+- Mutually orthogonal Latin squares
+- Möbius function
+- Möbius inversion formula
+- Möbius strip
+- NP (complexity)
+- NP-hardness
+- Nash equilibrium
+- Natural logarithm
+- Natural transformation
+- Negation
+- Neighbourhood (mathematics)
+- New Foundations
+- Newton's method
+- Non-linear least squares
+- Nondeterministic Turing machine
+- Nonlinear system
+- Norm (mathematics)
+- Normal number
+- Normal subgroup
+- Normal-form game
+- Null hypothesis
+- Number line
+- Numeral system
+- Numerical methods for ordinary differential equations
+- Numerical methods for partial differential equations
+- Octagon
+- Octahedron
+- One-dimensional space
+- Operation (mathematics)
+- Operator (mathematics)
+- Operator theory
+- Opposite category
+- Optimal facility location
+- Oracle machine
+- Order theory
+- Ordered pair
+- Ordinal number
+- Orientability
+- Outcome (probability)
+- P (complexity)
+- P-adic number
+- Parabolic partial differential equation
+- Parallel (geometry)
+- Parallel postulate
+- Parallelogram
+- Parameter
+- Partial function
+- Partial permutation
+- Partially ordered set
+- Partition of a set
+- Pascal's triangle
+- Path (graph theory)
+- Peano axioms
+- Pentagon
+- Perfect information
+- Perfect number
+- Perimeter
+- Periodic function
+- Perpendicular
+- Petersen graph
+- Phase space
+- Picard theorem
+- Pie chart
+- Piecewise function
+- Pigeonhole principle
+- Planar graph
+- Platonic solid
+- Poisson point process
+- Poisson's equation
+- Polynomial ring
+- Posterior probability
+- Potential theory
+- Power rule
+- Power series
+- Power set
+- Prenex normal form
+- Preorder
+- Prim's algorithm
+- Primality test
+- Prime-counting function
+- Primitive recursive function
+- Principal component analysis
+- Principle of explosion
+- Prior probability
+- Prism (geometry)
+- Prisoner's dilemma
+- Probability mass function
+- Probability space
+- Product (category theory)
+- Product (mathematics)
+- Product rule
+- Projection (linear algebra)
+- Projective geometry
+- Projective plane
+- Projective space
+- Proof theory
+- Pseudoprime
+- Pushdown automaton
+- Push–relabel maximum flow algorithm
+- Pyramid (geometry)
+- Quadratic form
+- Quadratic formula
+- Quadratic function
+- Quadratic reciprocity
+- Quadratic residue
+- Quantifier (logic)
+- Quantifier elimination
+- Quaternion
+- Queue (abstract data type)
+- Quicksort
+- Quotient rule
+- Radar chart
+- Radius
+- Radius of convergence
+- Ramsey theory
+- Ramsey's theorem
+- Random walk
+- Randomness
+- Range of a function
+- Rank (linear algebra)
+- Rank–nullity theorem
+- Rate (mathematics)
+- Ratio
+- Rational function
+- Real-valued function
+- Recreational mathematics
+- Rectangle
+- Rectangular function
+- Recurrence relation
+- Recursion
+- Reductio ad absurdum
+- Red–black tree
+- Reed–Solomon error correction
+- Reflection (mathematics)
+- Reflexive relation
+- Regula falsi
+- Regular dodecahedron
+- Regular graph
+- Regular icosahedron
+- Regular polygon
+- Regular polyhedron
+- Related rates
+- Repeated game
+- Repeating decimal
+- Residue (complex analysis)
+- Residue theorem
+- Resultant
+- Reuleaux triangle
+- Rhombus
+- Ricci calculus
+- Rice's theorem
+- Riemann integral
+- Riemann sphere
+- Riemann sum
+- Riemann zeta function
+- Right triangle
+- Root of unity
+- Root-finding algorithm
+- Rotation (mathematics)
+- Rotations in 4-dimensional Euclidean space
+- Rule of inference
+- Rule of product
+- Runge–Kutta methods
+- Saddle point
+- Sample mean and covariance
+- Sample size determination
+- Sample space
+- Sampling error
+- Scalar (mathematics)
+- Scalar multiplication
+- Scaling (geometry)
+- Scatter plot
+- Search algorithm
+- Secant method
+- Second derivative
+- Semiprime
+- Separation of variables
+- Sequence space
+- Series expansion
+- Seven Bridges of Königsberg
+- Sexagesimal
+- Shear mapping
+- Sheffer stroke
+- Shooting method
+- Shortest path problem
+- Sierpiński triangle
+- Sieve of Eratosthenes
+- Sign (mathematics)
+- Sign function
+- Signature (logic)
+- Similarity (geometry)
+- Simple group
+- Simplex algorithm
+- Sine and cosine
+- Singularity (mathematics)
+- Size
+- Skew lines
+- Skewness
+- Skolem normal form
+- Skolem's paradox
+- Snake lemma
+- Snark (graph theory)
+- Social choice theory
+- Solenoidal vector field
+- Solid angle
+- Solid geometry
+- Sorting algorithm
+- Space (mathematics)
+- Space complexity
+- Spectral graph theory
+- Spherical coordinate system
+- Spherical geometry
+- Sporadic group
+- Square (algebra)
+- Square root of 2
+- Squaring the circle
+- Squeeze theorem
+- Stability theory
+- Stable matching problem
+- Stable roommates problem
+- Stack (abstract data type)
+- Star polygon
+- Stationary point
+- Statistical inference
+- Statistical significance
+- Stem-and-leaf display
+- Step function
+- Stereographic projection
+- Stirling number
+- Stirling numbers of the first kind
+- Stirling numbers of the second kind
+- Stirling's approximation
+- Stokes' theorem
+- Straightedge and compass construction
+- Strategic dominance
+- Strategy (game theory)
+- String-searching algorithm
+- Structure (mathematical logic)
+- Student's t-distribution
+- Subcategory
+- Successive over-relaxation
+- Summation
+- Surface (mathematics)
+- Surface (topology)
+- Surface area
+- Surface integral
+- Surface of revolution
+- Surjective function
+- Symmetric relation
+- Symmetry (geometry)
+- System of differential equations
+- System of linear equations
+- Systolic geometry
+- Tally marks
+- Tangent
+- Tarski's axioms
+- Tautology (logic)
+- Taylor's theorem
+- Tensor product
+- Tesseract
+- Tetrahedron
+- Theorema Egregium
+- Theory (mathematical logic)
+- Three utilities problem
+- Three-body problem
+- Time complexity
+- Time derivative
+- Time hierarchy theorem
+- Time series
+- Torus
+- Total order
+- Transcendental number
+- Transfinite induction
+- Transfinite number
+- Transformation (function)
+- Transitive relation
+- Translation (geometry)
+- Transportation theory (mathematics)
+- Transpose
+- Trapezoid
+- Travelling salesman problem
+- Tree (abstract data type)
+- Tree (graph theory)
+- Triangle inequality
+- Triangular matrix
+- Trinomial
+- Truth table
+- Tuple
+- Turing degree
+- Turing machine
+- Turing reduction
+- Turing's proof
+- Turán's brick factory problem
+- Twelvefold way
+- Twin prime
+- Two-dimensional space
+- Type (model theory)
+- Type I and type II errors
+- Type theory
+- Ultrafilter
+- Ultraproduct
+- Uniform convergence
+- Unit circle
+- Universal Turing machine
+- Universal property
+- Universal quantification
+- Universe (mathematics)
+- Upper and lower bounds
+- Vector (mathematics and physics)
+- Vector field
+- Vector notation
+- Vector-valued function
+- Vertex cover
+- Violin plot
+- Viterbi algorithm
+- Vizing's theorem
+- Volume integral
+- Von Neumann universe
+- Wavelet
+- Weierstrass function
+- Well-formed formula
+- Well-founded relation
+- Well-order
+- Well-ordering theorem
+- Wiener process
+- Wilson's theorem
+- Winding number
+- Yoneda lemma
+- Young tableau
+- Zermelo–Fraenkel set theory
+- Zero of a function
+- Zero-dimensional space
+- Zero-sum game
+- Zeros and poles
+- Zorn's lemma
+- −1
+
+### People (+12425)
+- "Weird Al" Yankovic
+- 13th Dalai Lama
+- 1st Dalai Lama
+- 2NE1
+- 2nd Dalai Lama
+- 3rd Dalai Lama
+- 50 Cent
+- 5th Dalai Lama
+- 6th Dalai Lama
+- 7th Dalai Lama
+- 8th Dalai Lama
+- A Tribe Called Quest
+- A'ja Wilson
+- A-Mei
+- A-ha
+- A. A. K. Niazi
+- A. A. Milne
+- A. D. Hope
+- A. E. Housman
+- A. E. van Vogt
+- A. J. Ayer
+- A. J. Foyt
+- A. K. Fazlul Huq
+- A. O. Scott
+- A. P. Elkin
+- A. P. J. Abdul Kalam
+- A. Philip Randolph
+- A. R. Rahman
+- A. S. Byatt
+- A. S. Neill
+- AB de Villiers
+- AC/DC
+- AKB48
+- Aage Bohr
+- Aaliyah
+- Aamir Khan
+- Aarathi
+- Aaron Beck
+- Aaron Burr
+- Aaron Klug
+- Aaron Kwok
+- Aaron Paul
+- Aaron Sorkin
+- Aaron Spelling
+- Aaron Swartz
+- Abai Qunanbaiuly
+- Abanindranath Tagore
+- Abaoji
+- Abbas ibn Abd al-Muttalib
+- Abbas ibn Firnas
+- Abbott and Costello
+- Abby Aldrich Rockefeller
+- Abby Lee Miller
+- Abby Wambach
+- Abbé Prévost
+- Abd Allah ibn Mas'ud
+- Abd Allah ibn Umar ibn al-Khattab
+- Abd Allah ibn al-Zubayr
+- Abd El-Razzak El-Sanhuri
+- Abd al-Mu'min
+- Abd al-Rahman al-Majdoub
+- Abd al-Rahman al-Sufi
+- Abd al-Rahman ibn Abd Allah al-Ghafiqi
+- Abd al-Rahman ibn Awf
+- Abd al-Samad
+- Abd el-Krim
+- Abdallah ibn Yasin
+- Abdallah ibn al-Mu'tazz
+- Abdel Fattah al-Burhan
+- Abdel Fattah el-Sisi
+- Abdel Halim Hafez
+- Abdelaziz Bouteflika
+- Abdou Diouf
+- Abdrabbuh Mansour Hadi
+- Abdul Basit 'Abd us-Samad
+- Abdul Ghaffar Khan
+- Abdul Ghani Baradar
+- Abdul Halim of Kedah
+- Abdul Hamid Khan Bhashani
+- Abdul Qadeer Khan
+- Abdul Qadir Gilani
+- Abdul Rahim Khan-i-Khanan
+- Abdul Salam Arif
+- Abdul-Karim Qasim
+- Abdul-Malik al-Houthi
+- Abdulaziz bin Muhammad Al Saud
+- Abdullah Al-Salim Al-Sabah
+- Abdullah Gül
+- Abdullah I of Jordan
+- Abdullah II of Jordan
+- Abdullah Ibrahim
+- Abdullah al-Sallal
+- Abdullah of Saudi Arabia
+- Abdullah Öcalan
+- Abdulrazak Gurnah
+- Abdulsalami Abubakar
+- Abdurrahman Wahid
+- Abdus Salam
+- Abdülmecid I
+- Abe Saperstein
+- Abebe Bikila
+- Abedi Pele
+- Abel Gance
+- Abhijit Banerjee
+- Abhinavagupta
+- Abida Parveen
+- Abigail Adams
+- Abimael Guzmán
+- Abiy Ahmed
+- Abolhassan Banisadr
+- Aboul-Qacem Echebbi
+- Abraham Cowley
+- Abraham Flexner
+- Abraham Gottlob Werner
+- Abraham Isaac Kook
+- Abraham Joshua Heschel
+- Abraham Ortelius
+- Abraham de Moivre
+- Abraham ibn Ezra
+- Abrar-ul-Haq
+- Abu Abdallah al-Shi'i
+- Abu Ayyub al-Ansari
+- Abu Bakr al-Baghdadi
+- Abu Bakr ibn al-Arabi
+- Abu Dharr al-Ghifari
+- Abu Hanifa Dinawari
+- Abu Hurayra
+- Abu Kamil
+- Abu Mansur al-Maturidi
+- Abu Musa al-Ash'ari
+- Abu Musab al-Zarqawi
+- Abu Sufyan ibn Harb
+- Abu Tammam
+- Abu Ubayda ibn al-Jarrah
+- Abu al-Atahiya
+- Abu al-Darda
+- Abu al-Hasan al-Ash'ari
+- Abubakar Tafawa Balewa
+- Abul Fazl
+- Achille Mbembe
+- Achim von Arnim
+- Ada Louise Huxtable
+- Ada Yonath
+- Adad-nirari II
+- Adah Isaacs Menken
+- Adam Ferguson
+- Adam František Kollár
+- Adam Gilchrist
+- Adam Johann von Krusenstern
+- Adam Kuper
+- Adam Lindsay Gordon
+- Adam Ondra
+- Adam Riess
+- Adam Sandler
+- Adam Sedgwick
+- Adam Weishaupt
+- Adam West
+- Adelaide Anne Procter
+- Adelaide Herrmann
+- Adele
+- Adelina Patti
+- Adi Shamir
+- Adi ibn Zayd
+- Aditya Chopra
+- Adnan Khashoggi
+- Adnan Khayr Allah
+- Adnan Menderes
+- Adolf Dassler
+- Adolf Eichmann
+- Adolf Erik Nordenskiöld
+- Adolf Galland
+- Adolf Loos
+- Adolf Wölfli
+- Adolf von Baeyer
+- Adolfo Pérez Esquivel
+- Adolfo Suárez
+- Adolph Green
+- Adolph Menzel
+- Adolph Zukor
+- Adolphe Pégoud
+- Adolphe Sax
+- Adolphe, Grand Duke of Luxembourg
+- Adonis (poet)
+- Adrian Frutiger
+- Adrian Willaert
+- Adriana Caselotti
+- Adriana Lima
+- Adriano Celentano
+- Adrien Brody
+- Advaita Acharya
+- Aerosmith
+- Aesop
+- Afanasy Fet
+- Afonso I of Kongo
+- Afonso III of Portugal
+- Afrika Bambaataa
+- Aga Khan III
+- Agastya
+- Agathodaemon (alchemist)
+- Agha Hashar Kashmiri
+- Agha Mohammad Khan Qajar
+- Aglaonice
+- Agnes Chow
+- Agnes Moorehead
+- Agnes Nixon
+- Agnes Smedley
+- Agnes de Mille
+- Agness Underwood
+- Agnez Mo
+- Agnès Sorel
+- Agostinho Neto
+- Agrippa d'Aubigné
+- Agrippina Vaganova
+- Agustín Gamarra
+- Agustín Pedro Justo
+- Agustín de Iturbide
+- Agüeybaná II
+- Ahilyabai Holkar
+- Ahl al-Bayt
+- Ahlam Mosteghanemi
+- Ahmad Al-Jaber Al-Sabah
+- Ahmad Shah Massoud
+- Ahmad Shah of Pahang
+- Ahmad Sirhindi
+- Ahmad Tajuddin
+- Ahmad Tejan Kabbah
+- Ahmad Zahir
+- Ahmad bin Ali Al Thani
+- Ahmad bin Yahya
+- Ahmad ibn Fadlan
+- Ahmad ibn Tulun
+- Ahmadou Ahidjo
+- Ahmed Abdallah
+- Ahmed Ali (writer)
+- Ahmed Ben Bella
+- Ahmed Fouad Negm
+- Ahmed Hassan al-Bakr
+- Ahmed III
+- Ahmed Mohamed Mohamoud
+- Ahmed Rushdi
+- Ahmed Sékou Touré
+- Ahmed Urabi
+- Ahmed Zaki (actor)
+- Ahmed Zewail
+- Ahmed al-Sharaa
+- Ahmet Ertegun
+- Ahmose I
+- Ahn Chang Ho
+- Ahn Sahng-hong
+- Ahuitzotl
+- Ai Iijima
+- Ai Weiwei
+- Ai-Ai delas Alas
+- Aileen Wuornos
+- Aimee Semple McPherson
+- Aimé Bonpland
+- Aimé Césaire
+- Aishwarya Rai
+- Aitana Bonmatí
+- Ajahn Buddhadasa
+- Ajay Devgn
+- Akaji Maro
+- Akashi Motojiro
+- Akbar Hashemi Rafsanjani
+- Akhtar Hameed Khan
+- Akhtar Mansur
+- Aki Kaurismäki
+- Akihito
+- Akina Nakamori
+- Akio Morita
+- Akira Kamiya
+- Akira Mutō
+- Akira Toriyama
+- Akira Yoshino
+- Akira Yoshizawa
+- Akram Khan (dancer)
+- Akseli Gallen-Kallela
+- Akshay Kumar
+- Al Arbour
+- Al Davis
+- Al Franken
+- Al Goldstein
+- Al Gore
+- Al Green
+- Al Jolson
+- Al Oerter
+- Al Pacino
+- Al Sharpton
+- Al Smith
+- Al Swearengen
+- Al Waleed bin Talal Al Saud
+- Al-Akhtal al-Taghlibi
+- Al-Dhahabi
+- Al-Farazdaq
+- Al-Hajjaj ibn Yusuf
+- Al-Hariri of Basra
+- Al-Jahiz
+- Al-Juwayni
+- Al-Karaji
+- Al-Ma'arri
+- Al-Ma'mun
+- Al-Mansur
+- Al-Masudi
+- Al-Mu'izz li-Din Allah
+- Al-Mu'tadid
+- Al-Mu'tasim
+- Al-Mustansir Billah
+- Al-Mutanabbi
+- Al-Nabigha
+- Al-Qurtubi
+- Al-Qushayri
+- Al-Suyuti
+- Al-Tabari
+- Al-Zamakhshari
+- Al-ʻIjliyyah
+- Alabama (band)
+- Alain Badiou
+- Alain Ducasse
+- Alain Prost
+- Alain Resnais
+- Alain Robbe-Grillet
+- Alain Robert
+- Alan Alda
+- Alan Arkin
+- Alan Ayckbourn
+- Alan Bean
+- Alan Berg
+- Alan Bond
+- Alan Brooke, 1st Viscount Alanbrooke
+- Alan Dershowitz
+- Alan Freed
+- Alan García
+- Alan Greenspan
+- Alan Hollinghurst
+- Alan Kay
+- Alan Lightman
+- Alan Lomax
+- Alan Menken
+- Alan Moore
+- Alan Moorehead
+- Alan Mulally
+- Alan Parsons
+- Alan Paton
+- Alan Rickman
+- Alan Rufus
+- Alan Shearer
+- Alan Shepard
+- Alan Sugar
+- Alan Tam
+- Alan Watts
+- Alan Young
+- Alanis Morissette
+- Alara of Kush
+- Alasdair MacIntyre
+- Alban Berg
+- Albano Carrisi
+- Alberico Gentili
+- Albert Anastasia
+- Albert Ayler
+- Albert Bassermann
+- Albert Cohen (novelist)
+- Albert Facey
+- Albert Fert
+- Albert Finney
+- Albert Fish
+- Albert Frederick, Duke of Prussia
+- Albert Gallatin
+- Albert Günther
+- Albert Hofmann
+- Albert I of Belgium
+- Albert I, Prince of Monaco
+- Albert II of Belgium
+- Albert Luthuli
+- Albert Namatjira
+- Albert O. Hirschman
+- Albert Pierrepoint
+- Albert R. Broccoli
+- Albert Schweitzer
+- Albert Soboul
+- Albert Spalding
+- Albert Speer
+- Albert Szent-Györgyi
+- Albert Uderzo
+- Albert Wendt
+- Albert of Saxony (philosopher)
+- Albert, Duke of Prussia
+- Alberto Ascari
+- Alberto Dines
+- Alberto Fujimori
+- Alberto Lleras Camargo
+- Alberto Moravia
+- Alberto Santos-Dumont
+- Alberto Sordi
+- Alberto de Oliveira
+- Albertus Magnus
+- Albion Woodbury Small
+- Alboin
+- Albrecht von Graefe (ophthalmologist)
+- Albrecht von Haller
+- Albrecht von Roon
+- Albrecht von Wallenstein
+- Alcaeus
+- Alcamenes
+- Alcide De Gasperi
+- Alcman
+- Alcuin
+- Aldo Moro
+- Aldo Nadi
+- Aldo Rossi
+- Aldous Huxley
+- Aldrich Ames
+- Aldus Manutius
+- Alec Baldwin
+- Alec Guinness
+- Alec Jeffreys
+- Alejandro González Iñárritu
+- Alejandro Jodorowsky
+- Alejandro Sanz
+- Aleksander Kwaśniewski
+- Aleksandr Dugin
+- Aleksandr I. Kuprin
+- Aleksandr Lyapunov
+- Aleksandr Medved
+- Aleksandr Popov (physicist)
+- Aleksandr Vasilevsky
+- Aleksei Kruchyonykh
+- Aleksei Leontiev
+- Aleksey Khomyakov
+- Aleksey Konstantinovich Tolstoy
+- Aleksey Nikolayevich Tolstoy
+- Aleksey Pisemsky
+- Aleksey Remizov
+- Aleksey Yermolov
+- Aleksis Kivi
+- Alessandra Ferri
+- Alessandro Algardi
+- Alessandro Cagliostro
+- Alessandro Manzoni
+- Alessandro Striggio the Younger
+- Aletta Jacobs
+- Alex Ferguson
+- Alex Haley
+- Alex Honnold
+- Alex Jones
+- Alex Morgan
+- Alex Rodriguez
+- Alex Ross (music critic)
+- Alex Trebek
+- Alexander Alekhine
+- Alexander Archipenko
+- Alexander Belyaev
+- Alexander Berkman
+- Alexander Blok
+- Alexander Borodin
+- Alexander Bustamante
+- Alexander Calder
+- Alexander Cartwright
+- Alexander Cunningham
+- Alexander Dovzhenko
+- Alexander Fadeyev (writer)
+- Alexander Gettler
+- Alexander Glazunov
+- Alexander Gomelsky
+- Alexander Griboyedov
+- Alexander Grin
+- Alexander Hamilton
+- Alexander Herrmann
+- Alexander Herzen
+- Alexander I of Yugoslavia
+- Alexander III of Russia
+- Alexander Kerensky
+- Alexander Kielland
+- Alexander Kolchak
+- Alexander Litvinenko
+- Alexander Lukashenko
+- Alexander Mack
+- Alexander Mackenzie (explorer)
+- Alexander Mackenzie (politician)
+- Alexander McQueen
+- Alexander Ostrovsky
+- Alexander Ovechkin
+- Alexander Prokhorov
+- Alexander Radishchev
+- Alexander Rodchenko
+- Alexander S. Wiener
+- Alexander Scriabin
+- Alexander Selkirk
+- Alexander Shulgin
+- Alexander Sokurov
+- Alexander Sumarokov
+- Alexander Vertinsky
+- Alexander Vovin
+- Alexander Woollcott
+- Alexander Yegorov (general)
+- Alexander Ypsilantis
+- Alexander Zakharchenko
+- Alexandra Feodorovna (Alix of Hesse)
+- Alexandra Kollontai
+- Alexandre Brongniart
+- Alexandre Cabanel
+- Alexandre Dumas fils
+- Alexandre Lacassagne
+- Alexandre Pétion
+- Alexandre Yersin
+- Alexandros Papagos
+- Alexandru Ioan Cuza
+- Alexei Abrikosov (physicist)
+- Alexei Kosygin
+- Alexei Leonov
+- Alexei Navalny
+- Alexei Nemov
+- Alexei Rykov
+- Alexei Stakhanov
+- Alexei Yagudin
+- Alexey Pajitnov
+- Alexey Shchusev
+- Alexia Putellas
+- Alexios I Komnenos
+- Alexis Carrel
+- Alexis Soyer
+- Alexius, Metropolitan of Kiev
+- Alf Prøysen
+- Alf Ramsey
+- Alfonsina Storni
+- Alfonso Caso
+- Alfonso Cuarón
+- Alfonso II of Aragon
+- Alfonso II of Asturias
+- Alfonso IX of León
+- Alfonso López Pumarejo
+- Alfonso VI of León and Castile
+- Alfonso VII of León and Castile
+- Alfonso X of Castile
+- Alfonso XIII
+- Alfred Adler
+- Alfred Austin
+- Alfred Binet
+- Alfred Brendel
+- Alfred Cortot
+- Alfred Deakin
+- Alfred Dreyfus
+- Alfred Döblin
+- Alfred Eisenstaedt
+- Alfred Harmsworth, 1st Viscount Northcliffe
+- Alfred Jarry
+- Alfred Jodl
+- Alfred Kastler
+- Alfred Kroeber
+- Alfred Lunt
+- Alfred Marshall
+- Alfred Mosher Butts
+- Alfred Noyes
+- Alfred P. Sloan
+- Alfred Peet
+- Alfred Radcliffe-Brown
+- Alfred Rosenberg
+- Alfred Schnittke
+- Alfred Stieglitz
+- Alfred Thayer Mahan
+- Alfred Werner
+- Alfred Worden
+- Alfred de Musset
+- Alfred de Vigny
+- Alfred von Schlieffen
+- Alfred von Tirpitz
+- Alfred, Lord Tennyson
+- Alfredo Baldomir
+- Alfredo Binda
+- Alfredo Cristiani
+- Alfredo Reinado
+- Ali Bongo
+- Ali Daei
+- Ali Farka Touré
+- Ali Hassan Mwinyi
+- Ali Hassan al-Majid
+- Ali Khamenei
+- Ali Mughayat Syah
+- Ali Pasha of Yanina
+- Ali Sayad Shirazi
+- Ali Shariati
+- Ali al-Hadi
+- Ali al-Rida
+- Ali al-Sajjad
+- Ali al-Sistani
+- Ali-Shir Nava'i
+- Alia Bhatt
+- Alice Bailey
+- Alice Cooper
+- Alice Freeman Palmer
+- Alice Guy-Blaché
+- Alice Hamilton
+- Alice Milliat
+- Alice Munro
+- Alice Paul
+- Alice Stewart
+- Alice Walker
+- Alice in Chains
+- Alicia Alonso
+- Alicia Keys
+- Alicia Markova
+- Alicia Vikander
+- Alicia de Larrocha
+- Alija Izetbegović
+- Alija Sirotanović
+- Aliko Dangote
+- Aliquli Jabbadar
+- Alisha Chinai
+- Alison Krauss
+- Alistair Brownlee
+- Alistair MacLean
+- Aliya Mustafina
+- Alizée
+- Alka Yagnik
+- Alki Zei
+- Alla Pugacheva
+- Alla Rakha
+- Allan Border
+- Allan Kaprow
+- Allan Lockheed
+- Allan Nevins
+- Allan Pinkerton
+- Allan Ramsay (poet)
+- Allan Sandage
+- Allauddin Khan
+- Allen Dulles
+- Allen Ginsberg
+- Allen Iverson
+- Allen Klein
+- Allen Lane
+- Allison Janney
+- Allyson Felix
+- Almanzor
+- Almaz Ayana
+- Alois Alzheimer
+- Alonso de Guzmán y Sotomayor, 7th Duke of Medina Sidonia
+- Alonso de Ojeda
+- Alonzo Church
+- Aloysius Bertrand
+- Aloysius Gonzaga
+- Alp Arslan
+- Alpha Blondy
+- Alphonse Bertillon
+- Alphonse Daudet
+- Alphonse Mucha
+- Alphonse de Lamartine
+- Alphonsus Liguori
+- Altan Khan
+- Althea Gibson
+- Aluísio Azevedo
+- Alva Belmont
+- Alvah Curtis Roebuck
+- Alvin Ailey
+- Alvin E. Roth
+- Alvin Hansen
+- Alvin Langdon Coburn
+- Alvin Plantinga
+- Alvin and the Chipmunks
+- Aly Khan
+- Aly Raisman
+- Ama Ata Aidoo
+- Amadeo Giannini
+- Amado Carrillo Fuentes
+- Amadou Hampâté Bâ
+- Amaka Igwe
+- Amakusa Shirō
+- Amalia Fuentes
+- Amancio Ortega
+- Amanda Bynes
+- Amanda Nunes
+- Amanitore
+- Amartya Sen
+- Amasis II
+- Amata Kabua
+- Ambiorix
+- Ambrogio Lorenzetti
+- Ambrogio Spinola
+- Ambroise Paré
+- Ambrose Bierce
+- Amedeo Modigliani
+- Amelia Bence
+- Amelia Dyer
+- Amelia Opie
+- Amenemhat I
+- Amenemhat III
+- Amenhotep I
+- Amenhotep II
+- Amenhotep III
+- Amha Selassie
+- Amin al-Hafiz
+- Amin al-Husseini
+- Amir Hamzah
+- Amir Khan (singer)
+- Amiri Baraka
+- Amon Göth
+- Amos Bronson Alcott
+- Amos Oz
+- Amr Diab
+- Amr ibn Kulthum
+- Amrit Kaur
+- Amrita Pritam
+- Amrita Sher-Gil
+- Amy Adams
+- Amy Beach
+- Amy Grant
+- Amy Johnson
+- Amy Lowell
+- Amy Poehler
+- Amy Schumer
+- Amy Tan
+- Amy Winehouse
+- Amyntas III of Macedon
+- Amyrtaeus
+- Amália Rodrigues
+- Amílcar Cabral
+- An Dương Vương
+- An Jung-geun
+- An Lushan
+- An Wang
+- Ana Mendieta
+- Anacharsis Cloots
+- Anacreon
+- Ananda Mahidol
+- Anania Shirakatsi
+- Anastas Mikoyan
+- Anastasia Davydova
+- Anastasio Somoza Debayle
+- Anastasio Somoza García
+- Anastasius I Dicorus
+- Anatol Rapoport
+- Anatole France
+- Anatoly Fomenko
+- Anatoly Karpov
+- Anatoly Khazanov
+- Anaxagoras
+- Anaximander
+- Anaximenes of Miletus
+- Anaïs Nin
+- Ancel Keys
+- Anders Behring Breivik
+- Anders Celsius
+- Anders Chydenius
+- Anders Jonas Ångström
+- Anderson Cooper
+- Anderson Silva
+- Andraé Crouch
+- Andre Agassi
+- Andre Geim
+- Andrea Bocelli
+- Andrea Doria
+- Andrea Dworkin
+- Andrea M. Ghez
+- Andrea Mantegna
+- Andrea Pisano
+- Andrea del Sarto
+- Andrea del Verrocchio
+- Andrea della Robbia
+- Andreas Baader
+- Andreas Gursky
+- Andreas Palaiologos
+- Andrei Bely
+- Andrei Chikatilo
+- Andrei Gromyko
+- Andrei Mironov (actor)
+- Andrei Platonov
+- Andrei Rublev
+- Andrei Tupolev
+- Andrew Cunanan
+- Andrew Dice Clay
+- Andrew Fisher
+- Andrew Forrest
+- Andrew Grove
+- Andrew Huxley
+- Andrew Irvine (mountaineer)
+- Andrew Johnson
+- Andrew Marvell
+- Andrew Motion
+- Andrew Ng
+- Andrew Sarris
+- Andrew Wakefield
+- Andrew Wiles
+- Andrew Wyeth
+- Andrew Yao
+- Andrew the Apostle
+- Andrey Korotayev
+- Andrey Lavrov
+- Andrey Markov
+- Andrianampoinimerina
+- Andrija Mohorovičić
+- Andriy Shevchenko
+- Andry Rajoelina
+- Andrzej Bogusławski
+- Andrzej Sapkowski
+- Andrzej Wajda
+- András Schiff
+- André Bazin
+- André Breton
+- André Chénier
+- André Citroën
+- André Derain
+- André Gide
+- André Hazes
+- André Kertész
+- André Le Nôtre
+- André Masséna
+- André Previn
+- André Rieu
+- André Rigaud
+- André Weil
+- André the Giant
+- André-Charles Boulle
+- Andrés Avelino Cáceres
+- Andrés Bonifacio
+- Andrés Manuel López Obrador
+- Andrés Pastrana Arango
+- Andrés Rodríguez (politician)
+- Andrés Segovia
+- Andrés de Santa Cruz
+- Andrés de Urdaneta
+- Andy Griffith
+- Andy Hug
+- Andy Kaufman
+- Andy Lau
+- Andy Murray
+- Anerood Jugnauth
+- Aneurin Bevan
+- Angel De Cora
+- Angela Davis
+- Angela James
+- Angela Lansbury
+- Angelica Kauffman
+- Angelina Jolie
+- Angelique Boyer
+- Angelo Dundee
+- Angelo Mariani (chemist)
+- Anggun
+- Angus Deaton
+- Angus MacAskill
+- Angélique Kidjo
+- Ani Lorak
+- Anil Kapoor
+- Anish Kapoor
+- Anita Brookner
+- Anita Bryant
+- Anita Hill
+- Anita Loos
+- Anita Mui
+- Anita Roddick
+- Anita Sarkeesian
+- Anita Włodarczyk
+- Anitta (singer)
+- Anja Andersen
+- Anjali (actress)
+- Anjelica Huston
+- Anjolie Ela Menon
+- Ann Coulter
+- Ann Curry
+- Ann Hui
+- Ann M. Martin
+- Ann Radcliffe
+- Ann Rule
+- Anna Atkins
+- Anna Bunina
+- Anna J. Cooper
+- Anna Jagiellon
+- Anna Johnson Pell Wheeler
+- Anna Karina
+- Anna Komnene
+- Anna Laetitia Barbauld
+- Anna Louise Strong
+- Anna Magnani
+- Anna Maria van Schurman
+- Anna May Wong
+- Anna Netrebko
+- Anna Nicole Smith
+- Anna Paquin
+- Anna Politkovskaya
+- Anna Renzi
+- Anna Sewell
+- Anna Vissi
+- Anna Walentynowicz
+- Anna Wierzbicka
+- Anna Wintour
+- Anna of Russia
+- Anne Bancroft
+- Anne Baxter
+- Anne Boleyn
+- Anne Bonny
+- Anne Bracegirdle
+- Anne Bradstreet
+- Anne Brontë
+- Anne Enright
+- Anne Golon
+- Anne Hathaway
+- Anne Hutchinson
+- Anne Kansiime
+- Anne McCaffrey
+- Anne Perry
+- Anne Rice
+- Anne Robert Jacques Turgot
+- Anne Sexton
+- Anne Sullivan
+- Anne Tyler
+- Anne V. Coates
+- Anne of Austria
+- Anne, Queen of Great Britain
+- Annemarie Moser-Pröll
+- Annette Kellerman
+- Annibale Carracci
+- Annie Besant
+- Annie Fratellini
+- Annie Girardot
+- Annie Jones (bearded woman)
+- Annie Jump Cannon
+- Annie Leibovitz
+- Annie M.G. Schmidt
+- Annie Oakley
+- Annie S. D. Maunder
+- Annika Sörenstam
+- Anonymous (hacker group)
+- Anousheh Ansari
+- Anselm Kiefer
+- Antarah ibn Shaddad
+- Anthemius of Tralles
+- Anthony Albanese
+- Anthony Blunt
+- Anthony Bourdain
+- Anthony Burgess
+- Anthony Cumia
+- Anthony Eden
+- Anthony Fantano
+- Anthony Fauci
+- Anthony Gatto
+- Anthony Giddens
+- Anthony Hopkins
+- Anthony Leggett
+- Anthony Mann
+- Anthony Mundine
+- Anthony Muñoz
+- Anthony Panizzi
+- Anthony Perkins
+- Anthony Powell
+- Anthony Quinn
+- Anthony Trollope
+- Anthony of Padua
+- Anthony the Great
+- Anthony van Diemen
+- Anthony van Dyck
+- Antigonus II Gonatas
+- Antiochus IV Epiphanes
+- Antiochus Kantemir
+- Antipater
+- Antipope Clement VII
+- Antipope John XXIII
+- Antisthenes
+- Antoine Bourdelle
+- Antoine Galland
+- Antoine de Rivarol
+- Antoine de Saint-Exupéry
+- Antoine-Jean Gros
+- Antoinette Brown Blackwell
+- Anton Donchev
+- Anton LaVey
+- Anton Makarenko
+- Anton Mussert
+- Anton Pannekoek
+- Anton Raphael Mengs
+- Anton Webern
+- Antonello da Messina
+- Antonin Scalia
+- Antoninus Pius
+- Antonio Aguilar
+- Antonio Banderas
+- Antonio Canova
+- Antonio Gades
+- Antonio García Gutiérrez
+- Antonio Ghislanzoni
+- Antonio Guzmán Blanco
+- Antonio Imbert Barrera
+- Antonio Inoki
+- Antonio Luna
+- Antonio Machado
+- Antonio Negri
+- Antonio Pigafetta
+- Antonio Salieri
+- Antonio da Correggio
+- Antonio de Nebrija
+- Antony Beevor
+- Antony Flew
+- Antony Hewish
+- Antony Tudor
+- António Egas Moniz
+- António Guterres
+- Anushka Shetty
+- Anwar Ibrahim
+- Apelles
+- Apepi
+- Aphex Twin
+- Aphra Behn
+- Apichatpong Weerasethakul
+- Apollodorus of Damascus
+- Apollonius of Rhodes
+- Apollonius of Tyana
+- Apolo Ohno
+- Apostles in the New Testament
+- Appius Claudius Caecus
+- Apries
+- Apsley Cherry-Garrard
+- Apuleius
+- Aquarium (band)
+- Arabanoo
+- Aram Khachaturian
+- Arantxa Sánchez Vicario
+- Arashi
+- Arata Isozaki
+- Aratus
+- Aratus of Sicyon
+- Aravind Adiga
+- Arcadius
+- Arcangelo Corelli
+- Archduke Charles, Duke of Teschen
+- Archduke Franz Ferdinand of Austria
+- Archibald Geikie
+- Archibald Primrose, 5th Earl of Rosebery
+- Archie Moore
+- Archilochus
+- Archytas
+- Arctic Monkeys
+- Ardashir I
+- Ardeshir Irani
+- Ariana Grande
+- Ariel Durant
+- Ariel Sharon
+- Arik Einstein
+- Ariovistus
+- Aristarchus of Samos
+- Aristide Briand
+- Aristide Maillol
+- Aristides Pereira
+- Aristotle Onassis
+- Aristoxenus
+- Ariwara no Narihira
+- Arjun Appadurai
+- Arkady and Boris Strugatsky
+- Arkan
+- Arlene Raven
+- Armand Duplantis
+- Armand Hammer
+- Armando Iannucci
+- Armen Dzhigarkhanyan
+- Armen Takhtajan
+- Armi Kuusela
+- Armin Hary
+- Armin van Buuren
+- Arnaldo Tamayo Méndez
+- Arnaut Daniel
+- Arne Garborg
+- Arne Jacobsen
+- Arne Tiselius
+- Arno Allan Penzias
+- Arno Breker
+- Arno Peters
+- Arnold Böcklin
+- Arnold Ehret
+- Arnold J. Toynbee
+- Arnold Palmer
+- Arnold Rothstein
+- Arnold Sommerfeld
+- Arnolfo di Cambio
+- Arnulfo Arias
+- Aron Nimzowitsch
+- Arrian
+- Arrigo Boito
+- Arrigo Sacchi
+- Arsaces I of Parthia
+- Arsen Kotsoyev
+- Arsenio Hall
+- Arshile Gorky
+- Arsène Wenger
+- Art Bell
+- Art Blakey
+- Art Carney
+- Art Spiegelman
+- Art Tatum
+- Artaxerxes I
+- Artaxerxes III
+- Artemisia I of Caria
+- Arthur Ashe
+- Arthur Ashkin
+- Arthur B. McDonald
+- Arthur Balfour
+- Arthur Cecil Pigou
+- Arthur Chung
+- Arthur Compton
+- Arthur Danto
+- Arthur Eddington
+- Arthur Evans
+- Arthur F. Burns
+- Arthur Godfrey
+- Arthur Griffith
+- Arthur H. Robinson
+- Arthur Hailey
+- Arthur Harris
+- Arthur Henderson
+- Arthur Honegger
+- Arthur Keith
+- Arthur Koestler
+- Arthur Leonard Schawlow
+- Arthur M. Schlesinger Jr.
+- Arthur M. Schlesinger Sr.
+- Arthur Meighen
+- Arthur Mitchell (dancer)
+- Arthur Moritz Schoenflies
+- Arthur Penn
+- Arthur Percival
+- Arthur Phillip
+- Arthur Saint-Léon
+- Arthur Seyss-Inquart
+- Arthur Sullivan
+- Arthur Tedder, 1st Baron Tedder
+- Arthur de Gobineau
+- Artie Shaw
+- Artur Avila
+- Artur Schnabel
+- Artur da Costa e Silva
+- Arturo Alessandri
+- Arturo Frondizi
+- Arturo Pérez-Reverte
+- Arturo Ripstein
+- Aruna Lama
+- Arundhati Roy
+- Arvo Pärt
+- Arvydas Sabonis
+- Asa Griggs Candler
+- Asanga
+- Asashōryū Akinori
+- Asghar Farhadi
+- Asha Bhosle
+- Asha Parekh
+- Ashikaga Takauji
+- Ashley Montagu
+- Ashok Kumar
+- Ashot I of Armenia
+- Ashraf Ghani
+- Ashton Eaton
+- Ashurnasirpal II
+- Askar Akayev
+- Asparuh of Bulgaria
+- Aspelta
+- Assata Shakur
+- Asta Nielsen
+- Astor family
+- Ateas
+- Athaliah
+- Athanasius Kircher
+- Athol Fugard
+- Atiśa
+- Attalus (general)
+- Attila József
+- Atıf Yılmaz
+- Aubrey de Grey
+- Audie Murphy
+- Audra McDonald
+- Audre Lorde
+- Audrey Munson
+- Audrey Richards
+- August Bournonville
+- August Ferdinand Möbius
+- August Horch
+- August Kekulé
+- August Macke
+- August Schleicher
+- August Weismann
+- August Wilhelm Iffland
+- August Wilson
+- Augusta Savage
+- Auguste Beernaert
+- Auguste Escoffier
+- Auguste Villiers de l'Isle-Adam
+- Augustin Daly
+- Augustin Pyramus de Candolle
+- Augustin Robespierre
+- Augustine of Canterbury
+- Augusto B. Leguía
+- Augusto César Sandino
+- Augusto Tasso Fragoso
+- Augusto dos Anjos
+- Augustus De Morgan
+- Augustus III of Poland
+- Augustus Saint-Gaudens
+- Aurelian
+- Austen Chamberlain
+- Austin Bradford Hill
+- Ava Gardner
+- Avempace
+- Aventura (band)
+- Avery Brundage
+- Avi Shlaim
+- Avicii
+- Avril Lavigne
+- Axel Oxenstierna
+- Axel Paulsen
+- Axel Springer
+- Ay (pharaoh)
+- Aya Hirano
+- Ayaan Hirsi Ali
+- Ayaz Mutallibov
+- Ayinde Barrister
+- Ayman al-Zawahiri
+- Ayn Rand
+- Ayrton Senna
+- Ayub Khan
+- Ayumi Hamasaki
+- Ayyankali
+- Azali Assoumani
+- Azam Khan (singer)
+- Aziz Ansari
+- Aziz Sancar
+- Aśvaghoṣa
+- B'z
+- B. C. Forbes
+- B. H. Liddell Hart
+- B. J. Habibie
+- B. J. Palmer
+- B. K. S. Iyengar
+- B. V. Doshi
+- B. V. Karanth
+- B.J. Penn
+- BTS
+- Ba Jin
+- Baba Amte
+- Baba Farid
+- Babe Paley
+- Babrak Karmal
+- Baby Face Nelson
+- Babymetal
+- Bacchylides
+- Bachir Gemayel
+- Backstreet Boys
+- Bad Bunny
+- Badi' al-Zaman al-Hamadani
+- Bae Yong-joon
+- Baha' al-Din Naqshband
+- Bahram Beyzai
+- Bahram Chobin
+- Bahram V
+- Bai Chongxi
+- Bai Guang
+- Bai Qi
+- Bairam Khan
+- Bajirao I
+- Bakht Khan
+- Balbir Singh Sr.
+- Baldassare Castiglione
+- Baldur von Schirach
+- Baldwin I of Jerusalem
+- Bali Nine
+- Balthasar Gérard
+- Balthasar Neumann
+- Bam Margera
+- Ban Chao
+- Ban Gu
+- Ban Ki-moon
+- Ban Zhao
+- Bankim Chandra Chatterjee
+- Banksy
+- Banū Mūsā brothers
+- Bao Zhao
+- Barbad
+- Barbara Ann Scott
+- Barbara Bain
+- Barbara Cartland
+- Barbara Cook
+- Barbara Eden
+- Barbara Gittings
+- Barbara Guest
+- Barbara H. Partee
+- Barbara Hepworth
+- Barbara Hutton
+- Barbara Kingsolver
+- Barbara Kruger
+- Barbara Liskov
+- Barbara Palmer, 1st Duchess of Cleveland
+- Barbara Stanwyck
+- Barbara Strozzi
+- Barbara W. Tuchman
+- Barbara Walters
+- Barbora Špotáková
+- Barbra Streisand
+- Barghash bin Said of Zanzibar
+- Barnabas
+- Barney Oldfield
+- Barry Barish
+- Barry Bonds
+- Barry Dickins
+- Barry Fitzgerald
+- Barry Goldwater
+- Barry Gray (radio personality)
+- Barry Humphries
+- Barry Levinson
+- Barry Manilow
+- Barry Marshall
+- Barry Sanders
+- Barry Unsworth
+- Barry White
+- Bartholomew Gosnold
+- Bartholomew I of Constantinople
+- Bartholomew Roberts
+- Bartholomew the Apostle
+- Barthélemy Boganda
+- Bartolomeo Colleoni
+- Bartolomeo Cristofori
+- Bartolomeu Dias
+- Bartolomé Esteban Murillo
+- Bartolomé Mitre
+- Barış Manço
+- Bashar al-Assad
+- Basil Bunting
+- Basil I
+- Basil Zaharoff
+- Baudouin of Belgium
+- Bayan of the Baarin
+- Bayard Rustin
+- Bayezid II
+- Bayram al-Tunisi
+- Baz Luhrmann
+- Bear Bryant
+- Bear Grylls
+- Beastie Boys
+- Beate Uhse-Rotermund
+- Beatrice Cenci
+- Beatrice Straight
+- Beatrix Potter
+- Beatrix of the Netherlands
+- Beau Brummell
+- Bedřich Hrozný
+- Bedřich Smetana
+- Bee Gees
+- Begum Rokeya
+- Behrouz Vossoughi
+- Bela Lugosi
+- Belinda Clark
+- Belisario Betancur
+- Belisarius
+- Bell hooks
+- Bella Abzug
+- Bella Hadid
+- Ben Affleck
+- Ben Ainslie
+- Ben Bernanke
+- Ben Carson
+- Ben Chifley
+- Ben Enwonwu
+- Ben Ferencz
+- Ben Hecht
+- Ben Hogan
+- Ben Johnson (actor)
+- Ben Kingsley
+- Ben Roy Mottelson
+- Ben Stiller
+- Benedetto Croce
+- Benedict Anderson
+- Benedict Arnold
+- Benedict Cumberbatch
+- Bengt Holmström
+- Beniamino Gigli
+- Benicio del Toro
+- Benigno Aquino III
+- Benito Pérez Galdós
+- Benjamin Arthur Quarles
+- Benjamin Banneker
+- Benjamin Bloom
+- Benjamin Bonneville
+- Benjamin Constant
+- Benjamin Harrison
+- Benjamin Henry Latrobe
+- Benjamin Holt
+- Benjamin Lee Whorf
+- Benjamin Millepied
+- Benjamin O. Davis Jr.
+- Benjamin Silliman
+- Benjamin Spock
+- Benjamin Zephaniah
+- Benjamin of Tudela
+- Benkei
+- Bennelong
+- Bennet Omalu
+- Bennett Cerf
+- Benny Carter
+- Benny Goodman
+- Benny Hill
+- Benny Morris
+- Benny Moré
+- Benny Wenda
+- Benvenuto Cellini
+- Berengar I of Italy
+- Bernadette Peters
+- Bernal Díaz del Castillo
+- Bernard Arnault
+- Bernard Berenson
+- Bernard Bolzano
+- Bernard Bosanquet (philosopher)
+- Bernard Herrmann
+- Bernard Heuvelmans
+- Bernard Hinault
+- Bernard Hopkins
+- Bernard Kroger
+- Bernard Leach
+- Bernard Lewis
+- Bernard Lonergan
+- Bernard Mandeville
+- Bernard Peyrilhe
+- Bernard Smith (art historian)
+- Bernard Stiegler
+- Bernard Williams
+- Bernard of Clairvaux
+- Bernard-Henri Lévy
+- Bernard-René Jourdan de Launay
+- Bernardine Evaristo
+- Bernardino Caballero
+- Bernardino Ramazzini
+- Bernardino Rivadavia
+- Bernardino de Sahagún
+- Bernardo Bertolucci
+- Bernardo O'Higgins
+- Bernardo Rezende
+- Bernardo de Gálvez
+- Bernhard Schlink
+- Bernhard von Bülow
+- Bernhardus Varenius
+- Bernice Rubens
+- Bernie Ecclestone
+- Bernie Mac
+- Bernie Madoff
+- Bernie Sanders
+- Bernoulli family
+- Berry Gordy
+- Bert Williams
+- Bertel Thorvaldsen
+- Bertha Benz
+- Bertha Lutz
+- Bertha von Suttner
+- Berthe Morisot
+- Bertie Ahern
+- Bertil Ohlin
+- Bertram Brockhouse
+- Bertrand Piccard
+- Bertrand du Guesclin
+- Bess Houdini
+- Bessie Smith
+- Bessus
+- Bette Midler
+- Bettie Page
+- Bettina von Arnim
+- Bettino Craxi
+- Betty Comden
+- Betty Grable
+- Betty Holberton
+- Betty Robinson
+- Betty White
+- Betty Williams
+- Beverly Cleary
+- Beverly Johnson
+- Beyoncé
+- Bhagat Singh
+- Bhartṛhari
+- Bhavabhuti
+- Bhāsa
+- Bhāskara I
+- Bhāskara II
+- Bi Sheng
+- Bibhutibhushan Bandyopadhyay
+- Bibi Andersson
+- Biblical Magi
+- Bidya Devi Bhandari
+- Big Bill Broonzy
+- BigBang (South Korean band)
+- Bilal ibn Rabah
+- Bilhana
+- Bill Ayers
+- Bill Belichick
+- Bill Bowerman
+- Bill Burr
+- Bill Clinton
+- Bill Cullen
+- Bill Evans
+- Bill Finger
+- Bill France Sr.
+- Bill Gold
+- Bill Haley
+- Bill Haywood
+- Bill Hewlett
+- Bill Hicks
+- Bill James
+- Bill Maher
+- Bill Mitchell (automobile designer)
+- Bill Mollison
+- Bill Monroe
+- Bill Moyers
+- Bill Murray
+- Bill Nye
+- Bill O'Reilly (cricketer)
+- Bill O'Reilly (political commentator)
+- Bill Robinson
+- Bill Russell
+- Bill Shoemaker
+- Bill T. Jones
+- Bill Tilden
+- Bill W.
+- Billie Eilish
+- Billie Jean King
+- Billy Bob Thornton
+- Billy Connolly
+- Billy Crystal
+- Billy Hughes
+- Billy Joel
+- Billy Mays
+- Billy Mitchell
+- Billy Preston
+- Billy Strayhorn
+- Billy Wright (loyalist)
+- Billy the Kid
+- Bimal Roy
+- Bina Rai
+- Bindusara
+- Bipin Rawat
+- Birago Diop
+- Birendra of Nepal
+- Birgit Fischer
+- Birgit Nilsson
+- Birgit Prinz
+- Birju Maharaj
+- Biruté Galdikas
+- Bix Beiderbecke
+- Bjarne Stroustrup
+- Bjarni Herjólfsson
+- Björk
+- Björn Borg
+- Bjørn Dæhlie
+- Bjørnstjerne Bjørnson
+- Black Dahlia
+- Black Eyed Peas
+- Black Flag (band)
+- Black Hawk (Sauk leader)
+- Blackpink
+- Blaise Cendrars
+- Blaise Compaoré
+- Blanca Estela Pavón
+- Blaze Starr
+- Blind Lemon Jefferson
+- Blind Willie Johnson
+- Blink-182
+- Blondie (band)
+- Blue Demon
+- Blur (band)
+- Bo Diddley
+- Bo Gu
+- Bo Jackson
+- Bo Xilai
+- BoA
+- Bob Beamon
+- Bob Costas
+- Bob Cousy
+- Bob Denard
+- Bob Fitzsimmons
+- Bob Gibson
+- Bob Guccione
+- Bob Hawke
+- Bob Hope
+- Bob Hoskins
+- Bob Iger
+- Bob Kane
+- Bob Knight
+- Bob Marley and the Wailers
+- Bob Mathias
+- Bob Newhart
+- Bob Paisley
+- Bob Pettit
+- Bob Ross
+- Bob Simpson (cricketer)
+- Bob Wills
+- Bobbejaan Schoepen
+- Bobbi Brown
+- Bobbie Rosenfeld
+- Bobby Charlton
+- Bobby Darin
+- Bobby Hull
+- Bobby Jones (golfer)
+- Bobby Moore
+- Bobby Orr
+- Bobby Sands
+- Bobby Seale
+- Bodawpaya
+- Boethius
+- Bogd Khan
+- Bohumil Hrabal
+- Bohuslav Martinů
+- Bolesław Bierut
+- Bolesław III Wrymouth
+- Bolesław Prus
+- Bon Jovi
+- Boney M.
+- Bong Joon Ho
+- Bonnie Blair
+- Bonnie Raitt
+- Bonnie Tyler
+- Bonnie and Clyde
+- Bono
+- Boogie Down Productions
+- Booker T. & the M.G.'s
+- Booth Tarkington
+- Boris Akunin
+- Boris Babochkin
+- Boris Becker
+- Boris Berezovsky (businessman)
+- Boris Chirkov
+- Boris Godunov
+- Boris Johnson
+- Boris Karloff
+- Boris Nemtsov
+- Boris Savinkov
+- Boris Shakhlin
+- Boroldai
+- Borommatrailokkanat
+- Borzuya
+- Bosley Crowther
+- Boudewijn de Groot
+- Bourvil
+- Boutros Boutros-Ghali
+- Boy Abunda
+- Boyz II Men
+- Božena Němcová
+- Brad Pitt
+- Bradley Cooper
+- Bradley Wiggins
+- Bram Cohen
+- Bram Moolenaar
+- Bram Stoker
+- Branch Rickey
+- Brandon Teena
+- Breanna Stewart
+- Brenda Fassie
+- Brenda Fricker
+- Brenda Lee
+- Brenda Villa
+- Brendan Behan
+- Brendan Eich
+- Brennus (leader of the Senones)
+- Bret Easton Ellis
+- Bret Hart
+- Bret Harte
+- Brett Favre
+- Brett Hull
+- Brewster Kahle
+- Breyten Breytenbach
+- Brian Boru
+- Brian Clough
+- Brian Cox (physicist)
+- Brian De Palma
+- Brian Epstein
+- Brian Ferneyhough
+- Brian Josephson
+- Brian Lara
+- Brian Michael Bendis
+- Brian Mulroney
+- Brian O'Driscoll
+- Brian Schmidt
+- Brian Williams
+- Brian Wilson
+- Bridget Riley
+- Brie Larson
+- Brigham Young
+- Brit Hume
+- Britney Spears
+- Brittany Murphy
+- Broderick Crawford
+- Bronislava Nijinska
+- Bronzino
+- Brook Taylor
+- Brooke Astor
+- Brooks Adams
+- Brooks Atkinson
+- Brownie Wise
+- Bruce Catton
+- Bruce Dawe
+- Bruce Forsyth
+- Bruce McLaren
+- Bruce Onobrakpeya
+- Bruce Springsteen
+- Bruce Willis
+- Bruno Bettelheim
+- Bruno Ganz
+- Bruno Kreisky
+- Bruno Latour
+- Bruno Mars
+- Bruno Rossi
+- Bruno Sammartino
+- Bruno Schulz
+- Bruno Taut
+- Bryan Adams
+- Bryan Cranston
+- Bryan brothers
+- Bryant Gumbel
+- Buchi Emecheta
+- Buck Angel
+- Buck O'Neil
+- Bud Abbott
+- Bud Powell
+- Budai
+- Buddhaghosa
+- Buddy Bolden
+- Buddy Rich
+- Buena Vista Social Club
+- Buenaventura Durruti
+- Buffalo Bill
+- Buffy Sainte-Marie
+- Bugs Moran
+- Bugsy Siegel
+- Buhturi
+- Buju Banton
+- Bulat Okudzhava
+- Bumpy Johnson
+- Bungaree
+- Bunny Yeager
+- Burebista
+- Burl Ives
+- Burna Boy
+- Burning Spear
+- Burns and Allen
+- Burt Bacharach
+- Burt Lancaster
+- Burt Reynolds
+- Burton Richter
+- Butch Cassidy
+- Buvaisar Saitiev
+- Buzz Aldrin
+- Byron Nelson
+- Báb
+- Béla Guttmann
+- Béla Kun
+- Béla Károlyi
+- Béla Tarr
+- Börje Salming
+- Bāṇabhaṭṭa
+- Bảo Đại
+- C. Everett Koop
+- C. F. Powell
+- C. H. D. Buys Ballot
+- C. Joseph Vijay
+- C. L. R. James
+- C. P. Scott
+- C. T. R. Wilson
+- C. Vann Woodward
+- C. Wright Mills
+- Cachao
+- Caecilius Statius
+- Caetano Veloso
+- Cafu
+- Cai Chusheng
+- Cai Yuanpei
+- Caitlyn Jenner
+- Cal Ripken Jr.
+- Calamity Jane
+- Caldwell Esselstyn
+- Cale Yarborough
+- Caleb Bradham
+- Calle 13 (band)
+- Callimachus
+- Callippus
+- Calogero Vizzini
+- Calouste Gulbenkian
+- Calvin Coolidge
+- Calvin Harris
+- Calvin Klein
+- Camadevi
+- Camarón de la Isla
+- Cambyses II
+- Cameron Diaz
+- Cameron Mackintosh
+- Camilla Wedgwood
+- Camille Claudel
+- Camille Desmoulins
+- Camille Jordan
+- Camille Paglia
+- Camille Saint-Saëns
+- Camillo Golgi
+- Camilo Cienfuegos
+- Camilo José Cela
+- Canaan Banana
+- Canaletto
+- Candace Bushnell
+- Candice Bergen
+- Candida Royalle
+- Candy Barr
+- Cantinflas
+- Cao Futian
+- Cao Pi
+- Cao Xueqin
+- Cao Zhi
+- Cap Anson
+- Captain Beefheart
+- Carabao (band)
+- Caracalla
+- Caresse Crosby
+- Carl Akeley
+- Carl Andre
+- Carl Barks
+- Carl Bernstein
+- Carl Blegen
+- Carl Bosch
+- Carl Chun
+- Carl Czerny
+- Carl Dahlhaus
+- Carl David Anderson
+- Carl Diem
+- Carl Gustaf Mosander
+- Carl Hagenbeck
+- Carl Icahn
+- Carl Maria von Weber
+- Carl Menger
+- Carl Michael Bellman
+- Carl Nielsen
+- Carl Nägeli
+- Carl O. Sauer
+- Carl Orff
+- Carl Osburn
+- Carl Perkins
+- Carl Philipp Emanuel Bach
+- Carl Reiner
+- Carl Ritter
+- Carl Sandburg
+- Carl Schmitt
+- Carl Spaatz
+- Carl Spitteler
+- Carl Wagner
+- Carl Wieman
+- Carl Wilhelm Scheele
+- Carl Wilhelm Siemens
+- Carl Woese
+- Carl Zeiss
+- Carl von Ossietzky
+- Carles Puigdemont
+- Carleton Watkins
+- Carli Lloyd
+- Carlo Ancelotti
+- Carlo Blasis
+- Carlo Favetti
+- Carlo Gambino
+- Carlo Gesualdo
+- Carlo Ginzburg
+- Carlo Goldoni
+- Carlo Gozzi
+- Carlo Maderno
+- Carlo Maria Giulini
+- Carlo Rubbia
+- Carlos Alberto Torres
+- Carlos Andrés Pérez
+- Carlos Antonio López
+- Carlos Castaneda
+- Carlos Castillo Armas
+- Carlos Chagas
+- Carlos Drummond de Andrade
+- Carlos Filipe Ximenes Belo
+- Carlos Gardel
+- Carlos I of Portugal
+- Carlos Ibáñez del Campo
+- Carlos Kleiber
+- Carlos Manuel Arana Osorio
+- Carlos Marighella
+- Carlos Menem
+- Carlos Monzón
+- Carlos Prío Socarrás
+- Carlos Ruiz Zafón
+- Carlos Salinas de Gortari
+- Carlos Saura
+- Carlos Vives
+- Carlos do Carmo
+- Carlos the Jackal
+- Carlotta Grisi
+- Carly Fiorina
+- Carly Patterson
+- Carly Simon
+- Carmen Amaya
+- Carmen Aristegui
+- Carmen Maura
+- Carmen Miranda
+- Carmen Rosales
+- Carmen de Lavallade
+- Carneades
+- Carol Ann Duffy
+- Carol Burnett
+- Carol Channing
+- Carol Gilligan
+- Carol I of Romania
+- Carol Reed
+- Carol W. Greider
+- Carole King
+- Carole Landis
+- Carole Lombard
+- Caroline Chisholm
+- Caroline Ouellette
+- Caroline Rose Hunt
+- Caroline Series
+- Carolus Clusius
+- Carolyn Bertozzi
+- Carolyn Jones
+- Carolyn Keene
+- Carrie Chapman Catt
+- Carrie Fisher
+- Carrie Lam
+- Carrie Nation
+- Carrie Underwood
+- Carroll O'Connor
+- Carson McCullers
+- Carter Family
+- Carter G. Woodson
+- Cartola
+- Caryl Churchill
+- Casey Donovan (actor)
+- Casey Kasem
+- Casimir I the Restorer
+- Casimir IV Jagiellon
+- Casimir Pulaski
+- Cassander
+- Cassius Dio
+- Caster Semenya
+- Cat Stevens
+- Cate Blanchett
+- Cathal Brugha
+- Catharine A. MacKinnon
+- Catherine Breillat
+- Catherine Cookson
+- Catherine Deneuve
+- Catherine Destivelle
+- Catherine Flon
+- Catherine Helen Spence
+- Catherine Zeta-Jones
+- Catherine of Aragon
+- Catherine of Siena
+- Catherynne M. Valente
+- Cathleen Synge Morawetz
+- Cathy Freeman
+- Catiline
+- Cato the Younger
+- Ceca (singer)
+- Cecil Beaton
+- Cecil Day-Lewis
+- Cecil Taylor
+- Cecilia Bartoli
+- Cecilia Brækhus
+- Cecilia Colledge
+- Cecilia Payne-Gaposchkin
+- Cecily von Ziegesar
+- Cecília Meireles
+- Cedric Gibbons
+- Celine Dion
+- Celâl Bayar
+- Cem Karaca
+- Cenk Uygur
+- Cesar Chavez
+- Cesare Lombroso
+- Cesare Mori
+- Cesare Sterbini
+- Cesária Évora
+- Cetshwayo
+- Ch'oe Ch'iwŏn
+- Chad Hurley
+- Chai Ling
+- Chaim Herzog
+- Chaim Weizmann
+- Chaim Yosef David Azulai
+- Chairil Anwar
+- Chaka Khan
+- Chaleo Yoovidhya
+- Chalermchai Kositpipat
+- Chan Imix Kʼawiil
+- Chanda Kochhar
+- Chandra Bahadur Dangi
+- Chandra Shekhar Azad
+- Chandrika Kumaratunga
+- Chang Myon
+- Chang Yŏngsil
+- Chang and Eng Bunker
+- Chantal Akerman
+- Charaka
+- Charan Singh
+- Charles Addams
+- Charles Augustin Sainte-Beuve
+- Charles Bally
+- Charles Barkla
+- Charles Barkley
+- Charles Bean
+- Charles Bell
+- Charles Boycott
+- Charles Boyer
+- Charles Bradlaugh
+- Charles Brockden Brown
+- Charles Bronson
+- Charles Bukowski
+- Charles Burney
+- Charles Cornwallis, 1st Marquess Cornwallis
+- Charles Cotton
+- Charles Coughlin
+- Charles Crocker
+- Charles Dana Gibson
+- Charles David Keeling
+- Charles Demuth
+- Charles Duke
+- Charles Edward Stuart
+- Charles Evans Hughes
+- Charles F. Kettering
+- Charles Fillmore (Unity Church)
+- Charles Fourier
+- Charles Fox Parham
+- Charles Frederick Worth
+- Charles G. Dawes
+- Charles Garnier (architect)
+- Charles George Gordon
+- Charles Gounod
+- Charles Grandison Finney
+- Charles Gravier, comte de Vergennes
+- Charles Grey, 2nd Earl Grey
+- Charles H. Taylor (publisher)
+- Charles H. Townes
+- Charles Horton Cooley
+- Charles Howard, 1st Earl of Nottingham
+- Charles I of Hungary
+- Charles II of England
+- Charles II of Navarre
+- Charles II of Spain
+- Charles III
+- Charles III of Navarre
+- Charles III of Spain
+- Charles III, Prince of Monaco
+- Charles IV of France
+- Charles IV of Spain
+- Charles IX of France
+- Charles Ives
+- Charles James Fox
+- Charles Kingsford Smith
+- Charles Krauthammer
+- Charles Laughton
+- Charles Le Brun
+- Charles Lewis Tiffany
+- Charles Louis Auguste Fouquet, duc de Belle-Isle
+- Charles M. Schulz
+- Charles Manson
+- Charles Marie de La Condamine
+- Charles Martinet
+- Charles Maurice de Talleyrand-Périgord
+- Charles Maurras
+- Charles McLean Andrews
+- Charles Messier
+- Charles Mingus
+- Charles Murray (political scientist)
+- Charles Paul de Kock
+- Charles Perkins (Aboriginal activist)
+- Charles Ponzi
+- Charles Pratt
+- Charles Péguy
+- Charles R. Drew
+- Charles Rennie Mackintosh
+- Charles Revson
+- Charles Richter
+- Charles Rolls
+- Charles Saatchi
+- Charles Santley
+- Charles Simonyi
+- Charles Spearman
+- Charles Spurgeon
+- Charles Starkweather
+- Charles Stewart Parnell
+- Charles Sumner
+- Charles Taylor (Liberian politician)
+- Charles Taylor (philosopher)
+- Charles Taze Russell
+- Charles Thomas Jackson
+- Charles Tilly
+- Charles Trenet
+- Charles V of France
+- Charles VI of France
+- Charles VI, Holy Roman Emperor
+- Charles VII of France
+- Charles VII, Holy Roman Emperor
+- Charles VIII of France
+- Charles Weidman
+- Charles Wesley
+- Charles Wheatstone
+- Charles Whitman
+- Charles X of France
+- Charles XI of Sweden
+- Charles and Ray Eames
+- Charles the Bald
+- Charles the Bold
+- Charles-Augustin de Coulomb
+- Charles-Édouard Guillaume
+- Charley Patton
+- Charley Pride
+- Charli D'Amelio
+- Charlie Christian
+- Charlie Kaufman
+- Charlie Rose
+- Charlie Sheen
+- Charlize Theron
+- Charlotte Brontë
+- Charlotte Charke
+- Charlotte Corday
+- Charlotte Dujardin
+- Charlotte Elliott
+- Charlotte Rampling
+- Charlotte Scott
+- Charlotte, Grand Duchess of Luxembourg
+- Charlton Heston
+- Charly García
+- Chart Korbjitti
+- Chatrichalerm Yukol
+- Chaïm Soutine
+- Cheb Hasni
+- Cheddi Jagan
+- Cheech & Chong
+- Cheikh Anta Diop
+- Chelsea Handler
+- Chelsea Manning
+- Chen Duxiu
+- Chen Jiongming
+- Chen Sheng
+- Chen Shui-bian
+- Chen Yi (marshal)
+- Chen Yun
+- Cheng Hao
+- Cheng Yi (philosopher)
+- Chenghua Emperor
+- Cher
+- Cherry Jones
+- Cheryl Burke
+- Cheryl Praeger
+- Cheryl Strayed
+- Cheryl Tiegs
+- Chespirito
+- Chester A. Arthur
+- Chester W. Nimitz
+- Chet Baker
+- Chetan Anand (director)
+- Chevalier de Saint-Georges
+- Chevalière d'Éon
+- Chevy Chase
+- Chiang Ching-kuo
+- Chicago (band)
+- Chicago Seven
+- Chick Corea
+- Chico Anysio
+- Chico Buarque
+- Chico Ejiro
+- Chico Mendes
+- Chief Mkwawa
+- Chieko Asakawa
+- Chien-Shiung Wu
+- Chikamatsu Monzaemon
+- Chimamanda Ngozi Adichie
+- Chin Peng
+- China Machado
+- Ching Ling Foo
+- Chioma Ajunwa
+- Chippendales
+- Chips Rafferty
+- Chiquinha Gonzaga
+- Chiranjeevi
+- Chita Rivera
+- Chiune Sugihara
+- Chiung Yao
+- Chlothar II
+- Cho Ki-chon
+- Cho Yeo-jeong
+- Cho Yong-pil
+- Choe Yong-gon (official)
+- Choi Ji-woo
+- Chongzhen Emperor
+- Chow Yun-fat
+- Chris Anyanwu
+- Chris Benoit
+- Chris Brown
+- Chris Burden
+- Chris Carter (screenwriter)
+- Chris Evert
+- Chris Farley
+- Chris Froome
+- Chris Gayle
+- Chris Hadfield
+- Chris Hani
+- Chris Hardwick
+- Chris Hemsworth
+- Chris Hoy
+- Chris Marker
+- Chris Moneymaker
+- Chris Pratt
+- Chris Rock
+- Christa Ludwig
+- Christa McAuliffe
+- Christiaan Barnard
+- Christiaan de Wet
+- Christian Bale
+- Christian Dior
+- Christian II of Denmark
+- Christian IV of Denmark
+- Christian IX
+- Christian Louboutin
+- Christian Lous Lange
+- Christian X
+- Christiane Amanpour
+- Christiane Nüsslein-Volhard
+- Christie Brinkley
+- Christina Aguilar
+- Christina Aguilera
+- Christina Rossetti
+- Christine Cavanaugh
+- Christine Hakim
+- Christine Jorgensen
+- Christine Keeler
+- Christine Ladd-Franklin
+- Christine Lagarde
+- Christine Sinclair
+- Christo and Jeanne-Claude
+- Christoph Waltz
+- Christoph Willibald Gluck
+- Christopher A. Pissarides
+- Christopher A. Sims
+- Christopher A. Wray
+- Christopher Coke
+- Christopher Columbus Langdell
+- Christopher Fry
+- Christopher Hill (historian)
+- Christopher Hitchens
+- Christopher Isherwood
+- Christopher Lambert
+- Christopher Lee
+- Christopher Okigbo
+- Christopher Plummer
+- Christopher Reeve
+- Christopher Smart
+- Christopher Walken
+- Christy Mathewson
+- Christy Turlington
+- Chrisye
+- Chu Suiliang
+- Chubby Checker
+- Chuck Close
+- Chuck Jones
+- Chuck Lorre
+- Chuck Norris
+- Chuck Palahniuk
+- Chuck Todd
+- Chuck Yeager
+- Chukwuemeka Odumegwu Ojukwu
+- Chun Doo-hwan
+- Chung Il-kwon
+- Chung Mong-koo
+- Chyna
+- Chéri Samba
+- Chögyam Trungpa
+- Chōjun Miyagi
+- Chŏng Sŏn
+- Chūichi Nagumo
+- Cicely Tyson
+- Cicely Williams
+- Cimabue
+- Cimon
+- Cindy Crawford
+- Cindy Sherman
+- Claes Oldenburg
+- Clair Patterson
+- Claire Denis
+- Claire Lee Chennault
+- Claire Trevor
+- Claire Voisin
+- Clara Barton
+- Clara Bow
+- Clara Kimball Young
+- Clara Petacci
+- Clara Zetkin
+- Clare Smyth
+- Clarence 13X
+- Clarence Birdseye
+- Clarence Campbell
+- Clarence Darrow
+- Clarence Hudson White
+- Clarence Seedorf
+- Clarence W. Barron
+- Clarice Lispector
+- Clark L. Hull
+- Clark Wissler
+- Claude Adrien Helvétius
+- Claude Chabrol
+- Claude Cohen-Tannoudji
+- Claude François
+- Claude Lanzmann
+- Claude Lorrain
+- Claude Louis Berthollet
+- Claude McKay
+- Claude Moët
+- Claude Nicolas Ledoux
+- Claude Rains
+- Claude Simon
+- Claude-Louis Navier
+- Claudette Colbert
+- Claudia Cardinale
+- Claudia Cassidy
+- Claudia Pechstein
+- Claudia Schiffer
+- Claudio Abbado
+- Claudio Arrau
+- Claudius
+- Claus Sluter
+- Clayton Kershaw
+- Cleisthenes
+- Clemens Brentano
+- Clement Clarke Moore
+- Clement Greenberg
+- Clements Markham
+- Cleon
+- Cleopatra the Alchemist
+- Cliff Richard
+- Clifford Odets
+- Clifford Possum Tjapaltjarri
+- Clifford Shull
+- Clinton Davisson
+- Clive Barker
+- Clive Cussler
+- Clive Davis
+- Clive Dunn
+- Clive Granger
+- Clive James
+- Clive Palmer
+- Clive Sinclair
+- Cloris Leachman
+- Clotilde
+- Clyde McPhatter
+- Clyde Tombaugh
+- Clément Ader
+- Clément Marot
+- Cléo de Mérode
+- Cochise
+- Coen brothers
+- Cokie Roberts
+- Coldplay
+- Cole Porter
+- Coleman Hawkins
+- Colette
+- Colette Marchand
+- Colin Farrell
+- Colin Firth
+- Colin Kaepernick
+- Colin McRae
+- Colin Meads
+- Colin Powell
+- Colin Renfrew
+- Colleen McCullough
+- Colleen Moore
+- Colley Cibber
+- Collis Potter Huntington
+- Colm Tóibín
+- Coloman, King of Hungary
+- Colonel Sanders
+- Colonel Tom Parker
+- Colson Whitehead
+- Columba
+- Comedian Harmonists
+- Commodus
+- Companions of the Prophet
+- Compton Mackenzie
+- Comte de Lautréamont
+- Conan O'Brien
+- Condé Nast (businessman)
+- Connie Mack
+- Conor McGregor
+- Conrad Black
+- Conrad Gessner
+- Conrad Hilton
+- Conrad II, Holy Roman Emperor
+- Conrad IV of Germany
+- Conrad Veidt
+- Constance Tipper
+- Constans II
+- Constantin Carathéodory
+- Constantine II of Scotland
+- Constantine IX Monomachos
+- Constantine V
+- Constantine VII
+- Constantine VIII
+- Constantine XI Palaiologos
+- Constantius II
+- Cordell Hull
+- Coretta Scott King
+- Cormac McCarthy
+- Cornel West
+- Cornelio Saavedra
+- Cornelis Drebbel
+- Cornelius Jansen
+- Cornelius Ryan
+- Corrado Segre
+- Corín Tellado
+- Cosmas Indicopleustes
+- Cosmas of Maiuma
+- Costa-Gavras
+- Cotton Mather
+- Count Basie
+- Countee Cullen
+- Courteney Cox
+- Crawford Long
+- Crazy Horse
+- Creedence Clearwater Revival
+- Criss Angel
+- Cristina Fernández de Kirchner
+- Cristóbal Balenciaga
+- Croesus
+- Crosby, Stills, Nash & Young
+- Cuauhtémoc
+- Cuauhtémoc Cárdenas
+- Cuba Gooding Jr.
+- Cui Jian
+- Cuitláhuac
+- Cunedda
+- Cunhambebe
+- Cunobeline
+- Curly Lambeau
+- Curtis Mayfield
+- Curtly Ambrose
+- Cut Nyak Dhien
+- Cy Twombly
+- Cy Young
+- Cyd Charisse
+- Cyndi Lauper
+- Cynewulf
+- Cynisca
+- Cyprian Norwid
+- Cyprian, Metropolitan of Kiev
+- Cyrano de Bergerac
+- Cyril Connolly
+- Cyril Ramaphosa
+- Cyril of Jerusalem
+- Cyrus Byington
+- Czesław Miłosz
+- Cædmon
+- Céline Sciamma
+- César Cui
+- César Franck
+- César Gaviria
+- César Pelli
+- César Ritz
+- César Vallejo
+- D'Angelo
+- D'Arcy Wentworth Thompson
+- D. A. Pennebaker
+- D. B. Cooper
+- D. F. Malan
+- D. Ramanaidu
+- D. S. Mirsky
+- D. T. Suzuki
+- DAM (band)
+- DBC Pierre
+- DC Talk
+- DJ Arafat
+- DJ Kool Herc
+- DMX
+- Dadasaheb Phalke
+- Dadasaheb Torne
+- Daddy Yankee
+- Daft Punk
+- Dafydd ap Gwilym
+- Dafydd ap Llywelyn
+- Dai Vernon
+- Dai Zhen
+- Daigaku Horiguchi
+- Daina Taimiņa
+- Daisaku Ikeda
+- Daisuke Ohata
+- Dale Carnegie
+- Dale Earnhardt
+- Dale Steyn
+- Dale T. Mortensen
+- Daler Mehndi
+- Daley Thompson
+- Dalida
+- Dalilah (belly dancer)
+- Dalton Trumbo
+- Dambisa Moyo, Baroness Moyo
+- Dambudzo Marechera
+- Damien Hirst
+- Damon Runyon
+- Dan Aykroyd
+- Dan Bricklin
+- Dan Brown
+- Dan Carter
+- Dan Castellaneta
+- Dan Emmett
+- Dan Gable
+- Dan Gurney
+- Dan Leno
+- Dan Marino
+- Dan Rather
+- Dan Rice
+- Dan Shechtman
+- Dane Cook
+- Dane Rudhyar
+- Danica Patrick
+- Daniel B. Wesson
+- Daniel Barenboim
+- Daniel Bell
+- Daniel Boone
+- Daniel Burnham
+- Daniel C. Tsui
+- Daniel Craig
+- Daniel David Palmer
+- Daniel Day-Lewis
+- Daniel De Leon
+- Daniel Dennett
+- Daniel Dunglas Home
+- Daniel Ek
+- Daniel Ellsberg
+- Daniel Gabriel Fahrenheit
+- Daniel Handler
+- Daniel Inouye
+- Daniel J. Boorstin
+- Daniel K. Daniel
+- Daniel K. Ludwig
+- Daniel Kahneman
+- Daniel Lambert
+- Daniel Libeskind
+- Daniel McFadden
+- Daniel Mendoza
+- Daniel Ortega
+- Daniel Padilla
+- Daniel Pearl
+- Daniel Radcliffe
+- Daniel Schneidermann
+- Daniel Shays
+- Daniel Tosh
+- Daniel Webster
+- Daniel arap Moi
+- Daniela Mercury
+- Danielle Steel
+- Daniil Kharms
+- Danila Kozlovsky
+- Danny Boyle
+- Danny Elfman
+- Dante Gabriel Rossetti
+- Daoguang Emperor
+- Daoud Corm
+- Daphne Caruana Galizia
+- Daphne Marlatt
+- Daphne du Maurier
+- Dar Robinson
+- Dardenne brothers
+- Dario Argento
+- Dario Fo
+- Darius III
+- Darius Milhaud
+- Darrell Pace
+- Darrell Waltrip
+- Darryl F. Zanuck
+- Darya Domracheva
+- Dashiell Hammett
+- Dat So La Lee
+- Dave Brubeck
+- Dave Chappelle
+- David A. Johnston
+- David Adjaye
+- David Alfaro Siqueiros
+- David Ausubel
+- David Baltimore
+- David Beckham
+- David Belasco
+- David Belle
+- David Benioff
+- David Berkowitz
+- David Blaine
+- David Bordwell
+- David Brewster
+- David Brinkley
+- David Cameron
+- David Campese
+- David Carradine
+- David Chase
+- David Copperfield (illusionist)
+- David Cronenberg
+- David Crystal
+- David Dacko
+- David Devant
+- David Duchovny
+- David Dudley Field II
+- David Duke
+- David E. Kelley
+- David Farragut
+- David Fincher
+- David Foster
+- David Foster Wallace
+- David Frost
+- David Gandy
+- David Garrick
+- David Geffen
+- David Goodall (botanist)
+- David Graeber
+- David Gross
+- David Grossman
+- David Guetta
+- David Gulpilil
+- David Harvey
+- David Hasselhoff
+- David Ho
+- David Hockney
+- David I of Scotland
+- David IV
+- David Icke
+- David Irving
+- David J. Peterson
+- David J. Wineland
+- David Janssen
+- David Koresh
+- David Lee (physicist)
+- David Letterman
+- David Lewis (philosopher)
+- David Malouf
+- David Mamet
+- David McClelland
+- David McCullough
+- David Miscavige
+- David Mitchell (author)
+- David Niven
+- David O. Selznick
+- David Ogilvy (businessman)
+- David Oistrakh
+- David Packard
+- David Petraeus
+- David Robinson
+- David Rudisha
+- David Sarnoff
+- David Sassoon (treasurer)
+- David Schwimmer
+- David Scott
+- David Simon
+- David Starkey
+- David Stern
+- David Stirling
+- David Storey
+- David Tennant
+- David Thompson (explorer)
+- David Thouless
+- David Trimble
+- David Unaipon
+- David Vetter
+- David Walliams
+- David Wechsler
+- David Williamson
+- David d'Angers
+- Davidson Black
+- Davy Crockett
+- Davíð Oddsson
+- Dawda Jawara
+- Dawit II
+- Dawn Fraser
+- Dawood Ibrahim
+- Dayan Khan
+- Dayananda Saraswati
+- Daṇḍin
+- De La Soul
+- DeWitt Clinton
+- DeWitt Wallace
+- Dead Kennedys
+- Deadmau5
+- Dean Barrow
+- Dean Koontz
+- Dean Mahomed
+- Dean Martin
+- Dean Smith
+- Death (metal band)
+- Debbie Friedman
+- Debbie Macomber
+- Debbie Reynolds
+- Debbie Watson (water polo)
+- Deborah Kerr
+- Dedan Kimathi
+- Deep Purple
+- Deepika Padukone
+- Def Leppard
+- Deioces
+- Deion Sanders
+- Deke Slayton
+- Delia Derbyshire
+- Dell Hymes
+- Delta Goodrem
+- Demetrios Vikelas
+- Demetrious Johnson
+- Demetrius I Poliorcetes
+- Demi Moore
+- Demis Hassabis
+- Demis Roussos
+- Demyan Bedny
+- Den (pharaoh)
+- Deng Yaping
+- Denis Fonvizin
+- Denis Mukwege
+- Denis Papin
+- Denis Sassou Nguesso
+- Denis of Paris
+- Denis of Portugal
+- Denise Robins
+- Deniz Gezmiş
+- Dennis Banks
+- Dennis Bergkamp
+- Dennis Brain
+- Dennis Gabor
+- Dennis Hopper
+- Dennis Lillee
+- Dennis Rodman
+- Dennis Tito
+- Denzel Washington
+- Deodoro da Fonseca
+- Depeche Mode
+- Derek Bickerton
+- Derek Hough
+- Derek Jacobi
+- Derek Jeter
+- Derek Parfit
+- Derek Walcott
+- Derrick Bell
+- Desi Arnaz
+- Destiny's Child
+- Dev Anand
+- Devanampiya Tissa
+- Devapala of Bengal
+- Devika Rani
+- Dewa 19
+- Dexter Gordon
+- Dezső Gyarmati
+- Dhanin Chearavanont
+- Dhanraj Pillay
+- Dharmasena Pathiraja
+- Dhirubhai Ambani
+- Di Xin
+- Diahann Carroll
+- Diamond Platnumz
+- Dian Fossey
+- Diana Gabaldon
+- Diana Ross
+- Diana Taurasi
+- Diana Vreeland
+- Diana, Princess of Wales
+- Diane Arbus
+- Diane Keaton
+- Diane Sawyer
+- Diane Warren
+- Diane von Fürstenberg
+- Dianne Wiest
+- Diarmait mac Cerbaill
+- Dick Butkus
+- Dick Button
+- Dick Cheney
+- Dick Fosbury
+- Dick Francis
+- Dick Gregory
+- Dick King-Smith
+- Dick Pound
+- Dick Smith (make-up artist)
+- Dick Turpin
+- Dick Van Dyke
+- Dick Wolf
+- Didi (footballer, born 1928)
+- Didi Kempot
+- Didier Deschamps
+- Didier Drogba
+- Didier Queloz
+- Diego Columbus
+- Diego Velázquez de Cuéllar
+- Diego de Almagro
+- Dieterich Buxtehude
+- Dietrich Bonhoeffer
+- Dietrich von Choltitz
+- Dignāga
+- Dilip Kumar
+- Dilma Rousseff
+- Dima Bilan
+- Dimash Qudaibergen
+- Dimitar Dimov
+- Dimitar Talev
+- Dimple Kapadia
+- Dinah Shore
+- Dinah Washington
+- Dino Buzzati
+- Dino De Laurentiis
+- Dino Risi
+- Dino Zoff
+- Dinu Lipatti
+- Diodorus Siculus
+- Diogo Cão
+- Dionisio de Herrera
+- Dionne Warwick
+- Dionysios Solomos
+- Dionysius Exiguus
+- Dionysius I of Syracuse
+- Dioscorides
+- Diosdado Macapagal
+- Dipesh Chakrabarty
+- Dire Straits
+- Dirk Hartog
+- Dirk Nowitzki
+- Dita Von Teese
+- Divine (performer)
+- Dixie Dean
+- Dizzy Gillespie
+- Djedkare Isesi
+- Djibril Diop Mambéty
+- Djoser
+- Djuna Barnes
+- Dmitri Ivanovsky
+- Dmitri Prigov
+- Dmitry Donskoy
+- Dmitry Glukhovsky
+- Dmitry Medvedev
+- Dmitry Merezhkovsky
+- Dmitry Ustinov
+- Dobrodeia of Kiev
+- Doc Holliday
+- Dolley Madison
+- Dolores Huerta
+- Dolores del Río
+- Dom Pérignon (monk)
+- Domenico Fontana
+- Domenico Ghirlandaio
+- Domenico Modugno
+- Domenico Scarlatti
+- Domingo Faustino Sarmiento
+- Dominic de Guzmán
+- Dominik Hašek
+- Dominique Blanc (actress)
+- Dominique-Vincent Ramel-Nogaret
+- Domnall mac Ailpín
+- Don Ameche
+- Don Bluth
+- Don Budge
+- Don DeLillo
+- Don Francisco (television host)
+- Don Hutson
+- Don Imus
+- Don Johnson
+- Don King
+- Don Knotts
+- Don LaFontaine
+- Don Messick
+- Don Pardo
+- Don Rickles
+- Don Rosa
+- Don Walsh
+- Donald Davidson (philosopher)
+- Donald Glover
+- Donald Judd
+- Donald Keene
+- Donald O'Connor
+- Donald O. Hebb
+- Donald Pleasence
+- Donald Rumsfeld
+- Donald Sutherland
+- Donald Tsang
+- Donald Tusk
+- Donald Wills Douglas Sr.
+- Donald Winnicott
+- Donatella Versace
+- Donato Bramante
+- Donduk Kuular
+- Dong Biwu
+- Dong Qichang
+- Dong Zhongshu
+- Dongshan Liangjie
+- Donna Haraway
+- Donna Reed
+- Donna Strickland
+- Donna Summer
+- Donna Tartt
+- Donovan
+- Doreen Simmons
+- Doreen Valiente
+- Dorgon
+- Dorian Leigh
+- Doris Duke
+- Doris Humphrey
+- Doris Lessing
+- Doris Schattschneider
+- Dorothea Dix
+- Dorothea Klumpke
+- Dorothea Lange
+- Dorothea Mackellar
+- Dorothy Arzner
+- Dorothy Dandridge
+- Dorothy Day
+- Dorothy Dietrich
+- Dorothy Draper
+- Dorothy Hamill
+- Dorothy Heyward
+- Dorothy L. Sayers
+- Dorothy Lamour
+- Dorothy Lewis Bernstein
+- Dorothy Parker
+- Dorothy Stratten
+- Dorothy West
+- Dost Mohammad of Bhopal
+- Doug Harvey (ice hockey)
+- Doug Henning
+- Douglas Adams
+- Douglas Fairbanks
+- Douglas Haig, 1st Earl Haig
+- Douglas Hartree
+- Douglas Hofstadter
+- Douglas Kenney
+- Douglas Mawson
+- Douglas Murray (author)
+- Douglas Nicholls
+- Douglas Osheroff
+- Douglas Sirk
+- Douglas Southall Freeman
+- Douglass North
+- Dovima
+- Downtown (comedy duo)
+- Dox (poet)
+- Dr. Dre
+- Dr. Rajkumar
+- Dragotin Kette
+- Drake (musician)
+- Dražen Petrović
+- Drew Gilpin Faust
+- Drogön Chögyal Phagpa
+- Du Mu
+- Du Pont family
+- Du Shi
+- Du Wenxiu
+- DuBose Heyward
+- Duan Qirui
+- Duccio
+- Dugald Stewart
+- Duke Huan of Qi
+- Duke Kahanamoku
+- Duke Mu of Qin
+- Duke Wen of Jin
+- Duke of Zhou
+- Dunama II Dibalemi
+- Duncan Haldane
+- Duran Duran
+- Dustin Hoffman
+- Dusty Springfield
+- Dutch Schultz
+- Dutty Boukman
+- Dwayne Johnson
+- Dwyane Wade
+- Dzhokhar Dudayev
+- Dziga Vertov
+- Dzsenifer Marozsán
+- Dési Bouterse
+- E. B. White
+- E. C. Segar
+- E. E. Cummings
+- E. E. Evans-Pritchard
+- E. F. Schumacher
+- E. Franklin Frazier
+- E. H. Carr
+- E. H. Harriman
+- E. L. James
+- E. M. Forster
+- E. Nesbit
+- E. O. Wilson
+- E. P. Thompson
+- E. Phillips Oppenheim
+- E. T. A. Hoffmann
+- E. W. Scripps (businessman)
+- Eadred
+- Eadwig
+- Eagles (band)
+- Eannatum
+- Earl Bakken
+- Earl Hines
+- Earl Scruggs
+- Earl Warren
+- Earnest Hooton
+- Earth, Wind & Fire
+- Eason Chan
+- Eazy-E
+- Ebenezer Cobb Morley
+- Ebrahim Hussein
+- Ebrahim Raisi
+- Eckhart Tolle
+- Ed Asner
+- Ed Bradley
+- Ed Gein
+- Ed O'Neill
+- Ed Schultz
+- Ed Sheeran
+- Ed Sullivan
+- Ed White (astronaut)
+- Ed Wood
+- Ed and Lorraine Warren
+- Eddie Arcaro
+- Eddie Cantor
+- Eddie Cochran
+- Eddie Eagan
+- Eddie Garcia
+- Eddie Izzard
+- Eddie Mabo
+- Eddie Murphy
+- Eddie Redmayne
+- Eddie Rickenbacker
+- Eddie Romero
+- Edgar Bergen
+- Edgar Cayce
+- Edgar F. Codd
+- Edgar Mitchell
+- Edgar Rice Burroughs
+- Edgar Snow
+- Edgar Wallace
+- Edgar, King of England
+- Edgard Varèse
+- Edie Sedgwick
+- Edith Anne Stoney
+- Edith Cowan
+- Edith Evans
+- Edith González
+- Edith Hamilton
+- Edith Head
+- Edith Sitwell
+- Edith Södergran
+- Edith Wilson
+- Edmond Hoyle
+- Edmond Locard
+- Edmond O'Brien
+- Edmond Rostand
+- Edmond de Coussemaker
+- Edmond de Goncourt
+- Edmonia Lewis
+- Edmund Allenby, 1st Viscount Allenby
+- Edmund Barton
+- Edmund Campion
+- Edmund Gunter
+- Edmund Ho
+- Edmund I
+- Edmund Kean
+- Edmund Phelps
+- Edmund Wilson
+- Edna Ferber
+- Edna O'Brien
+- Edna St. Vincent Millay
+- Edna Woolman Chase
+- Edoardo Mangiarotti
+- Edogawa Ranpo
+- Eduard Fraenkel
+- Eduard Hanslick
+- Eduard Khil
+- Eduard Uspensky
+- Eduardo Chillida
+- Eduardo Frei Montalva
+- Eduardo Frei Ruiz-Tagle
+- Eduardo Galeano
+- Eduardo Mondlane
+- Edurne Pasaban
+- Edvard Beneš
+- Edvard Grieg
+- Edvard Westermarck
+- Edward Albee
+- Edward Alleyn
+- Edward Angle
+- Edward B. Titchener
+- Edward Bok
+- Edward Bulwer-Lytton
+- Edward Burnett Tylor
+- Edward C. Prescott
+- Edward Cave
+- Edward Channing
+- Edward Charles Pickering
+- Edward Coke
+- Edward Faragher
+- Edward FitzGerald (poet)
+- Edward G. Robinson
+- Edward Gierek
+- Edward Heath
+- Edward II
+- Edward IV
+- Edward Lear
+- Edward Mills Purcell
+- Edward Norton Lorenz
+- Edward Parry (Royal Navy officer, born 1790)
+- Edward S. Curtis
+- Edward Sapir
+- Edward Seaga
+- Edward Seymour, 1st Duke of Somerset
+- Edward Smith (sea captain)
+- Edward Smith-Stanley, 14th Earl of Derby
+- Edward Snowden
+- Edward Steichen
+- Edward Tufte
+- Edward VI
+- Edward VII
+- Edward VIII
+- Edward Victor Appleton
+- Edward W. Morley
+- Edward William Lane
+- Edward Witten
+- Edward Yang
+- Edward the Black Prince
+- Edward the Confessor
+- Edward the Elder
+- Edward the Martyr
+- Edwin Booth
+- Edwin Chadwick
+- Edwin E. Salpeter
+- Edwin McMillan
+- Edwin Moses
+- Edwin O. Reischauer
+- Edwin S. Porter
+- Edwin Thumboo
+- Edyta Górniak
+- Eero Saarinen
+- Efraín Ríos Montt
+- Efren Reyes
+- Efua Dorkenoo
+- Egerton Ryerson
+- Egon Friedell
+- Egon Kisch
+- Egon Schiele
+- Egon Wellesz
+- Ehud Barak
+- Eight Deer Jaguar Claw
+- Eiichiro Oda
+- Eiji Aonuma
+- Eiji Toyoda
+- Eiji Tsuburaya
+- Eileen Chang
+- Eileen Gray
+- Eilhard Mitscherlich
+- Eino Leino
+- Eisai
+- Ejnar Hertzsprung
+- El Anatsui
+- El Chapo
+- El Lissitzky
+- El Santo
+- El-Ouali Mustapha Sayed
+- Elagabalus
+- Elaine May
+- Elbazduko Britayev
+- Eldar Ryazanov
+- Eldridge Cleaver
+- Eleanor Alice Burford
+- Eleanor Catton
+- Eleanor Powell
+- Eleazar Wheelock
+- Electric Light Orchestra
+- Eleftherios Venizelos
+- Elem Klimov
+- Elena Ferrante
+- Elena Zamolodchikova
+- Eleonora Duse
+- Elfriede Jelinek
+- Elgin Baylor
+- Eli Cohen
+- Eli Heckscher
+- Eli Lilly
+- Eli Whitney
+- Elias Canetti
+- Elias Howe
+- Elias James Corey
+- Elias Lönnrot
+- Elie Rajaonarison
+- Eliezer Ben-Yehuda
+- Elihu Root
+- Elihu Yale
+- Elijah Muhammad
+- Elijah Wood
+- Elinor Ostrom
+- Eliot Ness
+- Elisabeta Lipă
+- Elisabeth Schwarzkopf
+- Elisha Otis
+- Eliud Kipchoge
+- Elizabeth Ann Seton
+- Elizabeth Arden
+- Elizabeth Barrett Browning
+- Elizabeth Barry
+- Elizabeth Bishop
+- Elizabeth Blackburn
+- Elizabeth Báthory
+- Elizabeth Cary, Viscountess Falkland
+- Elizabeth Eisenstein
+- Elizabeth F. Ellet
+- Elizabeth Fry
+- Elizabeth Gaskell
+- Elizabeth Holmes
+- Elizabeth Kenny
+- Elizabeth Loftus
+- Elizabeth Longford
+- Elizabeth Mallet
+- Elizabeth Montgomery
+- Elizabeth Needham
+- Elizabeth Rona
+- Eliška Junková
+- Elle Macpherson
+- Ellen Burstyn
+- Ellen Churchill Semple
+- Ellen DeGeneres
+- Ellen G. White
+- Ellen MacArthur
+- Ellen Swallow Richards
+- Ellen Terry
+- Ellen Willis
+- Elliot Aronson
+- Elliot Norton
+- Elliott Carter
+- Elliott Smith
+- Ellis Clarke
+- Ellyse Perry
+- Elmer McCollum
+- Elmer Rice
+- Elmore James
+- Elmyr de Hory
+- Eloy Alfaro
+- Elpidio Quirino
+- Elsa Maxwell
+- Elsa Schiaparelli
+- Else Lasker-Schüler
+- Elsie Clews Parsons
+- Elsie de Wolfe
+- Elton John
+- Elvin Jones
+- Elwyn Berlekamp
+- Elza Soares
+- Elías Figueroa
+- Elías Wessin y Wessin
+- Emanuel Lasker
+- Emanuel Schikaneder
+- Emanuel Swedenborg
+- Emeric Pressburger
+- Emil Artin
+- Emil Cioran
+- Emil Fischer
+- Emil Gilels
+- Emil Jannings
+- Emil Kraepelin
+- Emil Krebs
+- Emil Nolde
+- Emil Zátopek
+- Emil du Bois-Reymond
+- Emil von Behring
+- Emilia Clarke
+- Emilio Aguinaldo
+- Emilio Mola
+- Emilio Segrè
+- Emily Brontë
+- Emily Davison
+- Emily Greene Balch
+- Emily Kam Kngwarray
+- Emily Murphy
+- Emir Kusturica
+- Emma Stone
+- Emma Thompson
+- Emma Watson
+- Emmanuel Joseph Sieyès
+- Emmanuel Levinas
+- Emmanuel Lubezki
+- Emmanuel Macron
+- Emmanuelle Arsan
+- Emmanuelle Charpentier
+- Emmanuelle Riva
+- Emmerson Mnangagwa
+- Emmett Kelly
+- Emmett Till
+- Emmitt Smith
+- Emmylou Harris
+- Emomali Rahmon
+- Empedocles
+- Emperor Dezong of Tang
+- Emperor Gaozong of Tang
+- Emperor Go-Daigo
+- Emperor Guangwu of Han
+- Emperor Huizong of Song
+- Emperor Kōmei
+- Emperor Ninkō
+- Emperor Norton
+- Emperor Taishō
+- Emperor Taizu of Jin
+- Emperor Wen of Han
+- Emperor Wu of Jin
+- Emperor Wu of Northern Zhou
+- Emperor Wu of Song
+- Emperor Xianzong of Tang
+- Emperor Xiaowen of Northern Wei
+- Emperor Yang of Sui
+- Emperor Yingzong of Ming
+- Empress Elisabeth of Austria
+- Empress Lü
+- Empress Matilda
+- Empress Myeongseong
+- Emílio Garrastazu Médici
+- Endre Ady
+- Enmerkar
+- Ennio Morricone
+- Ennius
+- Enoch Powell
+- Enrico Dandolo
+- Enrico Rastelli
+- Enrique Gorriarán Merlo
+- Enrique Granados
+- Enrique Iglesias
+- Enrique Peña Nieto
+- Enver Hoxha
+- Enya
+- Epaminondas
+- Ephraim McDowell
+- Ephrem the Syrian
+- Epicharmus of Cos
+- Epictetus
+- Epitácio Pessoa
+- Eraserheads
+- Eric Allin Cornell
+- Eric B. & Rakim
+- Eric Bentley
+- Eric Brown (pilot)
+- Eric Cantona
+- Eric Carle
+- Eric Clapton
+- Eric Foner
+- Eric Gairy
+- Eric Gill
+- Eric Harris and Dylan Klebold
+- Eric Heiden
+- Eric Idle
+- Eric Kandel
+- Eric Khoo
+- Eric Maskin
+- Eric Williams
+- Eric Wolf
+- Erica Jong
+- Erich Fromm
+- Erich Hartmann
+- Erich Maria Remarque
+- Erich Mendelsohn
+- Erich Mielke
+- Erich Raeder
+- Erich Wolfgang Korngold
+- Erich von Däniken
+- Erich von Manstein
+- Erich von Stroheim
+- Erich von dem Bach-Zelewski
+- Erik Acharius
+- Erik Axel Karlfeldt
+- Erik Bruhn
+- Erik Prince
+- Erik Satie
+- Erik of Pomerania
+- Erik the Red
+- Erin Andrews
+- Erin Brockovich
+- Erle Stanley Gardner
+- Ermanaric
+- Ernest Beaux
+- Ernest Borgnine
+- Ernest Burgess
+- Ernest Gellner
+- Ernest J. King
+- Ernest Oppenheimer
+- Ernest Renan
+- Ernest Sachs
+- Ernest Walton
+- Ernesto Alonso
+- Ernesto Cardenal
+- Ernesto Geisel
+- Ernesto Sabato
+- Ernesto Samper
+- Ernesto Teodoro Moneta
+- Ernesto Zedillo
+- Ernie Els
+- Ernie Kovacs
+- Ernie Pyle
+- Ernst Bernheim
+- Ernst Cassirer
+- Ernst Chain
+- Ernst Chladni
+- Ernst Gideon von Laudon
+- Ernst Heinrich Weber
+- Ernst Kaltenbrunner
+- Ernst Kummer
+- Ernst Lubitsch
+- Ernst Ludwig Kirchner
+- Ernst Mayr
+- Ernst Otto Fischer
+- Ernst Ruska
+- Ernst Röhm
+- Ernst Thälmann
+- Ernst Udet
+- Ernst Zermelo
+- Ernő Rubik
+- Eros Ramazzotti
+- Errico Malatesta
+- Errol Barrow
+- Errol Flynn
+- Erskine Caldwell
+- Erskine Childers (author)
+- Erving Goffman
+- Erwin Panofsky
+- Erykah Badu
+- Esteban Echeverría
+- Estelle Parsons
+- Estevanico
+- Esther Duflo
+- Esther Lederberg
+- Esther Mahlangu
+- Esther Razanadrasoa
+- Esther Vergeer
+- Esther Williams
+- Ethan Allen
+- Ethel Barrymore
+- Ethel Merman
+- Ethel Smyth
+- Ethel Turner
+- Ethel Waters
+- Etta James
+- Etta Palm d'Aelders
+- Euclides da Cunha
+- Eudora Welty
+- Eudoxus of Cnidus
+- Eugen Bleuler
+- Eugen Sandow
+- Eugene Fama
+- Eugene O'Neill
+- Eugene Stoner
+- Eugene V. Debs
+- Eugene Wigner
+- Eugenia Charles
+- Eugenio Derbez
+- Eugenio Espejo
+- Eugenio María de Hostos
+- Eugenio Montale
+- Eugenio Monti
+- Eugène Atget
+- Eugène Dubois
+- Eugène Schueller
+- Eugène Scribe
+- Eugène Sue
+- Eugène Terre'Blanche
+- Eugène Viollet-le-Duc
+- Eugène-François Vidocq
+- Eugénie Brazier
+- Eumenes
+- Eunice Newton Foote
+- Euphemia Haynes
+- Eurico Gaspar Dutra
+- Eurydice II of Macedon
+- Eusèbe Jaojoby
+- Eusébio
+- Eva Braun
+- Eva Ekeblad
+- Eva Hesse
+- Eva Longoria
+- Eva Marie Saint
+- Eva Perón
+- Evan Spiegel
+- Evander Holyfield
+- Evangeline Lilly
+- Evangelista Torricelli
+- Eve Arden
+- Eve Ensler
+- Eve V. Clark
+- Evel Knievel
+- Evelyn Glennie
+- Evelyn Hooker
+- Evelyn Nesbit
+- Evelyn Waugh
+- Evert Taube
+- Evgeni Plushenko
+- Evliya Çelebi
+- Evo Morales
+- Evonne Goolagong Cawley
+- Ewa Demarczyk
+- Ewan MacColl
+- Ewan McGregor
+- Exile (Japanese band)
+- Exo
+- Eyal Golan
+- Eyvind Johnson
+- Ezana of Axum
+- Ezekiel Kemboi
+- Ezra Cornell
+- Ezra Klein
+- Ezra Meeker
+- Ezzatolah Entezami
+- Eça de Queiroz
+- F. H. Bradley
+- F. Murray Abraham
+- F. W. Murnau
+- F. W. Taussig
+- F. W. de Klerk
+- Fabian Gottlieb von Bellingshausen
+- Fabio Lanzoni
+- Fabre Geffrard
+- Fabrizio De André
+- Fadil Hoxha
+- Fahd of Saudi Arabia
+- Faina Ranevskaya
+- Faisal I
+- Faisal II
+- Faisal of Saudi Arabia
+- Faith Bacon
+- Faith Hill
+- Faith Ringgold
+- Faker (gamer)
+- Fakhr al-Din al-Razi
+- Falco (musician)
+- Fall Out Boy
+- Fan Bingbing
+- Fan Kuan
+- Fanny Brice
+- Fanny Cochrane Smith
+- Fanny Crosby
+- Fanny Elssler
+- Farah Khan
+- Faramarz Payvar
+- Farida Jalal
+- Farida Khanum
+- Farida Parveen
+- Farinelli
+- Farouk of Egypt
+- Farrah Fawcett
+- Fatema Mernissi
+- Faten Hamama
+- Fath-Ali Shah Qajar
+- Father Damien
+- Fatima bint Musa
+- Fats Domino
+- Fats Waller
+- Faure Gnassingbé
+- Faustin Soulouque
+- Faustina Kowalska
+- Fausto Coppi
+- Faxian
+- Fay Wray
+- Faye Dunaway
+- Faye Wong
+- Fazlur Rahman Khan
+- Federico Tinoco Granados
+- Federico da Montefeltro
+- Fedor Emelianenko
+- Fedor Jeftichew
+- Fedor Tokarev
+- Fedor von Bock
+- Fei Mu
+- Fei Xiaotong
+- Fei-Fei Li
+- Fela Sowande
+- Felice Beato
+- Felicia Day
+- Felipe Calderón
+- Felipe González
+- Felix Adler (professor)
+- Felix Baumgartner
+- Felix Bloch
+- Felix Dzerzhinsky
+- Felix Hausdorff
+- Felix Klein
+- Felix Salten
+- Felix Wankel
+- Feng Guozhang
+- Feng Youlan
+- Feodor Chaliapin
+- Feodor I of Russia
+- Feodor III of Russia
+- Ferdinand Cohn
+- Ferdinand Foch
+- Ferdinand I of León
+- Ferdinand I of the Two Sicilies
+- Ferdinand II, Holy Roman Emperor
+- Ferdinand III, Holy Roman Emperor
+- Ferdinand Lassalle
+- Ferdinand Piëch
+- Ferdinand Porsche
+- Ferdinand Tönnies
+- Ferdinand VI
+- Ferdinand VII
+- Ferdinand Walsin Esterhazy
+- Ferdinand von Wrangel
+- Ferdinand von Zeppelin
+- Ferenc Molnár
+- Ferenc Puskás
+- Ferhat Abbas
+- Fernand Léger
+- Fernandel
+- Fernando Amorsolo
+- Fernando Belaúnde
+- Fernando Botero
+- Fernando Collor de Mello
+- Fernando Fernán Gómez
+- Fernando Henrique Cardoso
+- Fernando Lugo
+- Fernando Poe Jr.
+- Fernando Sor
+- Fernán González of Castile
+- Fernão Mendes Pinto
+- Ferran Adrià
+- Ferruccio Lamborghini
+- Festus Mogae
+- Fethullah Gülen
+- Fidel V. Ramos
+- Filip Filipović (water polo)
+- Filipe Nyusi
+- Filippo Lippi
+- Filippo Taglioni
+- Filippo Tommaso Marinetti
+- Finn E. Kydland
+- Fiorello La Guardia
+- Fischer Black
+- Flann O'Brien
+- Flannery O'Connor
+- Fleetwood Mac
+- Fletcher Henderson
+- Flinders Petrie
+- Florence Chadwick
+- Florence Lawrence
+- Florence R. Sabin
+- Florence Turner
+- Florence Van Leer Earle Coates
+- Florenz Ziegfeld Jr.
+- Florian Znaniecki
+- Floriano Peixoto
+- Floyd Mayweather Jr.
+- Foday Sankoh
+- Fodéba Keïta
+- Folorunso Alakija
+- Foo Fighters
+- Forbes Burnham
+- Ford Madox Ford
+- Forrest J Ackerman
+- Forrest Mars Sr.
+- Forugh Farrokhzad
+- Fouad Chehab
+- Fra Angelico
+- Fra Mauro
+- Franca Sozzani
+- France Gall
+- France Prešeren
+- France-Albert René
+- Frances Arnold
+- Frances Farmer
+- Frances Fox Piven
+- Frances Glessner Lee
+- Frances Hodgson Burnett
+- Frances Marion
+- Frances Mary Richardson Currer
+- Frances McDormand
+- Frances Perkins
+- Frances Sargent Osgood
+- Frances Xavier Cabrini
+- Francesc Eiximenis
+- Francesca Bertini
+- Francesco Algarotti
+- Francesco Bartolomeo Rastrelli
+- Francesco Borromini
+- Francesco Hayez
+- Francesco I Sforza
+- Francesco Landini
+- Francesco Maria Piave
+- Francesco Morosini
+- Francesco Pannofino
+- Francesco Redi
+- Francis Asbury
+- Francis Bacon (artist)
+- Francis Beaufort
+- Francis Beaumont
+- Francis Collins
+- Francis Fukuyama
+- Francis I, Holy Roman Emperor
+- Francis James Gillen
+- Francis Lieber
+- Francis Magalona
+- Francis Marion
+- Francis Parkman
+- Francis Ponge
+- Francis Poulenc
+- Francis William Aston
+- Francis de Sales
+- Francisco Caamaño
+- Francisco Ferrer
+- Francisco I. Madero
+- Francisco Javier Arana
+- Francisco Jiménez de Cisneros
+- Francisco Macías Nguema
+- Francisco Morales Bermúdez
+- Francisco Solano López
+- Francisco Tárrega
+- Francisco Varela
+- Francisco Vázquez de Coronado
+- Francisco Xavier do Amaral
+- Francisco de Almeida
+- Francisco de Miranda
+- Francisco de Orellana
+- Francisco de Paula Santander
+- Francisco de Vitoria
+- Francisco de Zurbarán
+- Franco Baresi
+- Franco Corelli
+- Franco Luambo
+- Franco Modigliani
+- Franco Zeffirelli
+- Franco of Cologne
+- Francois Pienaar
+- Franjo Tuđman
+- Frank Abagnale
+- Frank Borman
+- Frank Calder
+- Frank Costello
+- Frank Fay (comedian)
+- Frank Gotch
+- Frank Harris
+- Frank Herbert
+- Frank Kameny
+- Frank Lentini
+- Frank Lowy
+- Frank Lucas
+- Frank Miller
+- Frank O'Hara
+- Frank Ocean
+- Frank P. Ramsey
+- Frank Pantridge
+- Frank Popper
+- Frank Welker
+- Frank Wilczek
+- Frank Winfield Woolworth
+- Frank Worrell
+- Frank Zamboni
+- Frank Zappa
+- Frankie Knuckles
+- Frankie Muniz
+- Franklin Chang-Díaz
+- Franklin J. Schaffner
+- Franklin Pierce
+- Frans Eemil Sillanpää
+- Frans Hals
+- František Palacký
+- Franz Bopp
+- Franz Brentano
+- Franz Conrad von Hötzendorf
+- Franz Joseph Gall
+- Franz Lehár
+- Franz Reichelt
+- Franz Stangl
+- Franz Werfel
+- François Boucher
+- François Bozizé
+- François Coty
+- François Couperin
+- François Englert
+- François Grimaldi
+- François Guizot
+- François Hanriot
+- François Hollande
+- François Mansart
+- François Mauriac
+- François Quesnay
+- François Ravaillac
+- François Robichon de La Guérinière
+- François Rude
+- François Tombalbaye
+- François Vatel
+- François Victor Alphonse Aulard
+- François Viète
+- François de La Rochefoucauld (writer)
+- François de Malherbe
+- François-André Danican Philidor
+- François-Joseph Fétis
+- François-Joseph Naderman
+- François-Marie Raoult
+- François-Noël Babeuf
+- François-René de Chateaubriand
+- Françoise Barré-Sinoussi
+- Françoise Hardy
+- Françoise Sagan
+- Françoise d'Aubigné, Marquise de Maintenon
+- Fred Haise
+- Fred Hampton
+- Fred Hollows
+- Fred Hoyle
+- Fred Korematsu
+- Fred MacMurray
+- Fred Noonan
+- Fred Perry
+- Fred Shuttlesworth
+- Fred Spofforth
+- Fred Zinnemann
+- Freddie Aguilar
+- Freddie Mercury
+- Freddy Heineken
+- Frederic Bartlett
+- Frederic George Stephens
+- Frederic John Walker
+- Frederic Leighton
+- Frederic Remington
+- Frederic William Maitland
+- Frederick Ashton
+- Frederick Banting
+- Frederick Cook
+- Frederick III, Holy Roman Emperor
+- Frederick Marryat
+- Frederick North, Lord North
+- Frederick Reines
+- Frederick Scott Archer
+- Frederick Soddy
+- Frederick Terman
+- Frederick William III
+- Frederick William IV
+- Frederick William, the Great Elector
+- Frederick Winslow Taylor
+- Frederick Wiseman
+- Fredericka Mandelbaum
+- Fredric Jameson
+- Fredric March
+- Fredric Wertham
+- Freeman Dyson
+- Frei Otto
+- Friedensreich Hundertwasser
+- Friedrich August Wolf
+- Friedrich Ebert
+- Friedrich Engelhorn
+- Friedrich Fröbel
+- Friedrich Gundolf
+- Friedrich Hölderlin
+- Friedrich Kalkbrenner
+- Friedrich Ludwig Jahn
+- Friedrich Mohs
+- Friedrich Ratzel
+- Friedrich Schleiermacher
+- Friedrich Weyerhäuser
+- Friedrich Wilhelm Bessel
+- Friedrich Wilhelm Joseph Schelling
+- Frits Philips
+- Frits Zernike
+- Fritz Hoffmann-La Roche
+- Fritz Kreisler
+- Fritz Perls
+- Fritz Todt
+- Fritz Walter
+- Fritz Wunderlich
+- Fritz Zwicky
+- Fructuoso Rivera
+- Frédéric Auguste Bartholdi
+- Frédéric Bastiat
+- Frédéric Dard
+- Frédéric Mistral
+- Frédéric Passy
+- Fu Jian (337–385)
+- Fugazi
+- Fujiwara no Shunzei
+- Fujiwara no Teika
+- Fukuzawa Yukichi
+- Fulbert Youlou
+- Fulgencio Batista
+- Fulton J. Sheen
+- Fumimaro Konoe
+- Funmilayo Ransome-Kuti
+- Fusako Shigenobu
+- Futabayama Sadaji
+- Fyodor Sologub
+- Fyodor Tyutchev
+- Félix Faure
+- Félix González-Torres
+- Félix Guattari
+- Félix Houphouët-Boigny
+- Félix Resurrección Hidalgo
+- Félix Savón
+- Félix Tshisekedi
+- Félix d'Hérelle
+- G. D. Birla
+- G. E. M. Anscombe
+- G. E. Moore
+- G. Evelyn Hutchinson
+- G. I. Taylor
+- G. K. Chesterton
+- G. M. Trevelyan
+- G. N. Ramachandran
+- G. Stanley Hall
+- Gaafar Nimeiry
+- Gabby Douglas
+- Gabdulkhay Akhatov
+- Gabdulla Tukay
+- Gabe Newell
+- Gabriel Batistuta
+- Gabriel Boric
+- Gabriel García Moreno
+- Gabriel González Videla
+- Gabriel Lippmann
+- Gabriel Marcel
+- Gabriela Mistral
+- Gabriela Silang
+- Gabriele D'Annunzio
+- Gabriele Falloppio
+- Gackt
+- Gaetano Bresci
+- Gaetano Donizetti
+- Gaito Gazdanov
+- Gaius (jurist)
+- Gaius Appuleius Diocles
+- Gaius Cassius Longinus
+- Gaius Gracchus
+- Gaius Maecenas
+- Gaius Marius
+- Galeazzo Ciano
+- Galina Chistyakova
+- Galina Ulanova
+- Gallagher (comedian)
+- Gallienus
+- Galo Plaza
+- Gampopa
+- Gang of Four
+- Gao Ling
+- Gao Ming
+- Gao Xingjian
+- Garab Dorje
+- García López de Cárdenas
+- Gareth Bale
+- Gareth Edwards (rugby union)
+- Garfield Barwick
+- Garfield Sobers
+- Garrett Hardin
+- Garrincha
+- Garrison Keillor
+- Garry Shandling
+- Garth Brooks
+- Gary Becker
+- Gary Bettman
+- Gary Coleman
+- Gary Cooper
+- Gary Gygax
+- Gary Kildall
+- Gary Lineker
+- Gary McKinnon
+- Gary Oldman
+- Gary Player
+- Gary Ridgway
+- Gary Snyder
+- Gary Webb
+- Gaspar Corte-Real
+- Gaspar Noé
+- Gaspar Sanz
+- Gaspard II de Coligny
+- Gaspard-Gustave de Coriolis
+- Gaston Bachelard
+- Gaston Flosse
+- Gaston Leroux
+- Gavrila Derzhavin
+- Gavrilo Princip
+- Gawain Poet
+- Gay Byrne
+- Gay Talese
+- Gayatri Chakravorty Spivak
+- Gaëtan Dugas
+- Gebhard Leberecht von Blücher
+- Gebre Meskel Lalibela
+- Geena Davis
+- Geert Wilders
+- Geeta Dutt
+- Geli Raubal
+- Gelon
+- Gena Rowlands
+- Gene Amdahl
+- Gene Autry
+- Gene Cernan
+- Gene Hackman
+- Gene LeBell
+- Gene Roddenberry
+- Gene Sarazen
+- Gene Siskel
+- Gene Tierney
+- Gene Tunney
+- Gene Vincent
+- Gene Wilder
+- Gene Wolfe
+- General Tom Thumb
+- Genesis (band)
+- Genevieve Nnaji
+- Geneviève Bujold
+- Genie (feral child)
+- Geno Auriemma
+- Gentile Bellini
+- Gentile da Fabriano
+- Genzebe Dibaba
+- Geoffrey Blainey
+- Geoffrey Hinton
+- Geoffrey Lawrence, 1st Baron Oaksey
+- Geoffrey Rush
+- Geoffrey Wilkinson
+- Geoffrey of Monmouth
+- Georg Bednorz
+- Georg Büchner
+- Georg Christoph Lichtenberg
+- Georg Hackl
+- Georg Philipp Telemann
+- Georg Simmel
+- Georg Solti
+- Georg Wilhelm Steller
+- George A. Romero
+- George Akerlof
+- George Alagiah
+- George Albert Boulenger
+- George Antheil
+- George Arliss
+- George Armstrong Custer
+- George B. McClellan
+- George Balabushka
+- George Bancroft
+- George Best
+- George Brown (Canadian politician)
+- George Burns
+- George C. Homans
+- George C. Scott
+- George Cadle Price
+- George Cayley
+- George Chakiris
+- George Chapman
+- George Clinton (funk musician)
+- George Clooney
+- George Crabbe
+- George Cukor
+- George Dantzig
+- George Dewey
+- George E. P. Box
+- George E. Smith
+- George Ellery Hale
+- George Everest
+- George F. Kennan
+- George Fitzhugh
+- George Foreman
+- George Formby
+- George Formby Sr
+- George Fox
+- George Friedman
+- George Gallup
+- George Germain, 1st Viscount Sackville
+- George Grenville
+- George Grey
+- George Grosz
+- George Grove
+- George Gurdjieff
+- George H. W. Bush
+- George Hackenschmidt
+- George Harrison
+- George Headley
+- George Herbert
+- George Herbert Mead
+- George Herriman
+- George I of Great Britain
+- George I of Greece
+- George II of Great Britain
+- George II of Greece
+- George IV
+- George Jones
+- George Jones (publisher)
+- George Lakoff
+- George Lilanga
+- George Lopez
+- George Lyttelton, 1st Baron Lyttelton
+- George M. Cohan
+- George M. McCune
+- George MacDonald
+- George Mallory
+- George Martin
+- George Mason
+- George Meany
+- George Meredith
+- George Michael
+- George Mikan
+- George Miller (filmmaker)
+- George Monck, 1st Duke of Albemarle
+- George Oppen
+- George Paget Thomson
+- George Peabody
+- George Pullman
+- George Pólya
+- George R. Fischer
+- George R. R. Martin
+- George Raft
+- George Robey
+- George Rosenkranz
+- George S. Kaufman
+- George S. Patton
+- George Safford Parker
+- George Saintsbury
+- George Sand
+- George Sanders
+- George Santayana
+- George Saunders
+- George Smith (Assyriologist)
+- George Smoot
+- George Steinbrenner
+- George Stephanopoulos
+- George Stevens
+- George Stigler
+- George Strait
+- George Szell
+- George Takei
+- George Tupou I
+- George V
+- George VI
+- George Vancouver
+- George Vassiliou
+- George Villiers, 1st Duke of Buckingham
+- George Wallace
+- George Washington (inventor)
+- George Washington Dixon
+- George Washington Gale Ferris Jr.
+- George Washington Goethals
+- George Weah
+- George Whitefield
+- George Will
+- George-Étienne Cartier
+- Georges Bataille
+- Georges Bernanos
+- Georges Bizet
+- Georges Braque
+- Georges Canguilhem
+- Georges Charpak
+- Georges Couthon
+- Georges Delerue
+- Georges Duby
+- Georges Dumézil
+- Georges Feydeau
+- Georges Lefebvre
+- Georges Perec
+- Georges Picquart
+- Georges Pompidou
+- Georges Simenon
+- Georges St-Pierre
+- Georges de La Tour
+- Georges-Louis Leclerc, Comte de Buffon
+- Georgette Heyer
+- Georgi Dimitrov
+- Georgi Plekhanov
+- Georgia Douglas Johnson
+- Georgios Tsolakoglou
+- Georgius Agricola
+- Georgiy Daneliya
+- Georgy Malenkov
+- Gerald Ford
+- Gerald Gardner
+- Geraldine Farrar
+- Geraldine Heaney
+- Geraldine Page
+- Geraldo Rivera
+- Gerard 't Hooft
+- Gerard Damiano
+- Gerard Krefft
+- Gerard Kuiper
+- Gerard Manley Hopkins
+- Gerard Reve
+- Gerard Sasso
+- Gerard Sekoto
+- Gerard van Honthorst
+- Gerardo Machado
+- Gerardus Mercator
+- Gerd Binnig
+- Gerd Müller
+- Gerhard Domagk
+- Gerhard Schröder
+- Gerhart Hauptmann
+- Germain Henri Hess
+- Germaine Greer
+- Germaine de Staël
+- Germán Garmendia
+- Germán Valdés
+- Geronimo
+- Gerrit Rietveld
+- Gerry Adams
+- Gerry Mulligan
+- Gertrude B. Elion
+- Gertrude Bell
+- Gertrude Ederle
+- Gertrude Mary Cox
+- Gertrude Stein
+- Gertrude Vanderbilt Whitney
+- Gerty Cori
+- Ghassan Kanafani
+- Ghazi of Iraq
+- Gheorghe Hagi
+- Gheorghe Zamfir
+- Gherman Titov
+- Ghil'ad Zuckermann
+- Ghislaine Maxwell
+- Gia Carangi
+- Gia Long
+- Giacomo Agostini
+- Giacomo Barozzi da Vignola
+- Giacomo Leopardi
+- Giacomo Meyerbeer
+- Giacomo della Porta
+- Giambattista Vico
+- Giambologna
+- Gian Carlo Menotti
+- Gian Maria Volonté
+- Gianluigi Buffon
+- Gianni Agnelli
+- Gianni Morandi
+- Gianni Rodari
+- Gianni Versace
+- Giannis Antetokounmpo
+- Giant Baba
+- Giba
+- Gichin Funakoshi
+- Giffard Martel
+- Gil Scott-Heron
+- Gilbert Hovey Grosvenor
+- Gilbert Ryle
+- Gilbert Seldes
+- Gilbert Stuart
+- Gilberto Gil
+- Gilda Radner
+- Giles Cooper (playwright)
+- Gilgamesh
+- Gilles Binchois
+- Gilles Deleuze
+- Gilles de Rais
+- Gillian Anderson
+- Gillis Grafström
+- Gillo Pontecorvo
+- Gina Lollobrigida
+- Gina Rinehart
+- Gino Bartali
+- Giorgetto Giugiaro
+- Giorgia Meloni
+- Giorgio Agamben
+- Giorgio Armani
+- Giorgio Moroder
+- Giorgio de Chirico
+- Giorgione
+- Giorgos Seferis
+- Gioseffo Zarlino
+- Giosuè Carducci
+- Giovanni Agnelli
+- Giovanni Battista Guadagnini
+- Giovanni Battista Pergolesi
+- Giovanni Battista Rubini
+- Giovanni Battista Tiepolo
+- Giovanni Bellini
+- Giovanni Belzoni
+- Giovanni Bottesini
+- Giovanni Domenico Cassini
+- Giovanni Falcone
+- Giovanni Gabrieli
+- Giovanni Gentile
+- Giovanni Giolitti
+- Giovanni Pisano
+- Giovanni Verga
+- Giovanni da Pian del Carpine
+- Giovanni da Verrazzano
+- Girard Desargues
+- Girls' Generation
+- Girolamo Frescobaldi
+- Girolamo Savonarola
+- Gisele Bündchen
+- Gisèle Halimi
+- Giulia Grisi
+- Giuliano da Sangallo
+- Giulio Andreotti
+- Giuseppe Adami
+- Giuseppe Arcimboldo
+- Giuseppe Gasparo Mezzofanti
+- Giuseppe Giacosa
+- Giuseppe Guarneri
+- Giuseppe Mazzini
+- Giuseppe Meazza
+- Giuseppe Morello
+- Giuseppe Peano
+- Giuseppe Tartini
+- Giuseppe Tomasi di Lampedusa
+- Giuseppe Ungaretti
+- Gladys Knight & the Pips
+- Gladys West
+- Glauber Rocha
+- Glen Campbell
+- Glenda Jackson
+- Glenn Close
+- Glenn Curtiss
+- Glenn Ford
+- Glenn Greenwald
+- Glenn McGrath
+- Glenn Miller
+- Glenn T. Seaborg
+- Gloria Anzaldúa
+- Gloria Estefan
+- Gloria Ford Gilmer
+- Gloria Grahame
+- Gloria Leonard
+- Gloria Macapagal Arroyo
+- Gloria Romero
+- Gloria Steinem
+- Gloria Swanson
+- Gloria Vanderbilt
+- Gnaeus Naevius
+- Gnassingbé Eyadéma
+- Go Nagai
+- Go Seigen
+- Godfrey Gao
+- Godfrey Hounsfield
+- Goh Chok Tong
+- Goh Poh Seng
+- Gojong of Korea
+- Golda Meir
+- Goldie Hawn
+- Gomer Berry, 1st Viscount Kemsley
+- Gong Li
+- Gongsun Long
+- Gonzalo Fernández de Córdoba
+- Gonzalo Pizarro
+- Gonzalo Sánchez de Lozada
+- Gonçalo Mabunda
+- Goodluck Jonathan
+- Googoosh
+- Gorakhnath
+- Goran Bregović
+- Gordon Banks
+- Gordon Brown
+- Gordon Cooper
+- Gordon Lightfoot
+- Gordon Moore
+- Gordon Murray
+- Gordon Parks
+- Gordon Ramsay
+- Gore Vidal
+- Gorgeous George
+- Gorgias
+- Gorgo, Queen of Sparta
+- Gorillaz
+- Gorky Park (band)
+- Gosho Aoyama
+- Gotse Delchev
+- Gottfried Reinhold Treviranus
+- Gottfried Semper
+- Gottfried von Strassburg
+- Gotthold Eisenstein
+- Gottlieb Daimler
+- Gough Whitlam
+- Gouverneur Morris
+- Govinda (actor)
+- Gower Champion
+- Grace Alele-Williams
+- Grace Jones
+- Grace Kelly
+- Gracia Mendes Nasi
+- Graciano López Jaena
+- Gracie Allen
+- Gracie Fields
+- Graciliano Ramos
+- Graeme Pollock
+- Graham Chapman
+- Graham Greene
+- Graham Henry
+- Graham Hill
+- Graham Kennedy
+- Graham Norton
+- Graham Swift
+- Grahame Clark
+- Gram Parsons
+- Grand Duke Nicholas Nikolaevich of Russia (born 1856)
+- Grandma Moses
+- Grandmaster Flash and the Furious Five
+- Grant Hackett
+- Grant Morrison
+- Grant Wood
+- Grantland Rice
+- Granville Sharp
+- Grateful Dead
+- Graydon Carter
+- Grazia Deledda
+- Green Day
+- Greene Vardiman Black
+- Greer Garson
+- Greg LeMond
+- Greg Louganis
+- Greg Maddux
+- Greg Norman
+- Gregg Popovich
+- Gregg Toland
+- Gregor Piatigorsky
+- Gregor Strasser
+- Gregorio Ricci-Curbastro
+- Gregory Bateson
+- Gregory G. Pincus
+- Gregory Hines
+- Gregory Isaacs
+- Gregory of Narek
+- Gregory of Tours
+- Greta Thunberg
+- Gretchen Carlson
+- Grigori Perelman
+- Grigory Potemkin
+- Grigory Sokolov
+- Grigory Zinoviev
+- Griselda Blanco
+- Grock
+- Groucho Marx
+- Grover Cleveland
+- Grover Cleveland Alexander
+- Grunya Sukhareva
+- Grégoire Kayibanda
+- Gu Byeong-mo
+- Gu Kaizhi
+- Guadalupe Victoria
+- Gualberto Villarroel
+- Guan Daosheng
+- Guan Hanqing
+- Guan Yu
+- Guangxu Emperor
+- Guccio Gucci
+- Guido Adler
+- Guido Reni
+- Guido of Arezzo
+- Guido van Rossum
+- Guillaume Apollinaire
+- Guillaume Delisle
+- Guillaume de l'Hôpital
+- Guillermo Endara
+- Guillermo Lasso
+- Guillermo Prieto
+- Guillermo Vilas
+- Guillermo del Toro
+- Guion Bluford
+- Gulab Singh
+- Gulshan Kumar
+- Gulzar
+- Gunnar Ekelöf
+- Gunnar Myrdal
+- Gunpei Yokoi
+- Guns N' Roses
+- Guo Shoujing
+- Guo Xi
+- Guo Ziyi
+- Gurbanguly Berdimuhamedow
+- Guru Arjan
+- Gus Grissom
+- Gus Hall
+- Gus Van Sant
+- Gustaf Dalén
+- Gustav Fechner
+- Gustav Holst
+- Gustav III
+- Gustav Ludwig Hertz
+- Gustav Stresemann
+- Gustav Vasa
+- Gustav Vigeland
+- Gustave Boissonade
+- Gustave Caillebotte
+- Gustave Doré
+- Gustave Le Bon
+- Gustave Le Gray
+- Gustave Moreau
+- Gustavo Adolfo Bécquer
+- Gustavo Díaz Ordaz
+- Gustavo Rojas Pinilla
+- Gutzon Borglum
+- Guy Burgess
+- Guy Debord
+- Guy Fawkes
+- Guy Fieri
+- Guy Lafleur
+- Guy Laliberté
+- Guy Verhofstadt
+- Guy de Chauliac
+- Guy of Lusignan
+- Gwangjong of Goryeo
+- Gwen Verdon
+- Gwendolyn B. Bennett
+- Gwendolyn Brooks
+- Gwyneth Paltrow
+- Gyanendra of Nepal
+- Gypsy Rose Lee
+- György Cziffra
+- György Lukács
+- Gérard Debreu
+- Gérard Depardieu
+- Gérard Mourou
+- Gérard Philipe
+- Gérard de Nerval
+- Gérard de Villiers
+- Géza Gárdonyi
+- Gösta Mittag-Leffler
+- Günter Grass
+- Gārgī Vāchaknavī
+- H. H. Asquith
+- H. H. Holmes
+- H. L. Hunt
+- H. L. Mencken
+- H. R. Giger
+- H.D.
+- H.O.T.
+- Ha-Joon Chang
+- Habib Bourguiba
+- Hadi Saei
+- Hadji Ali
+- Hadji Murad
+- Hafez al-Assad
+- Hafizullah Amin
+- Haing S. Ngor
+- Hajime Tanabe
+- Hakeem Olajuwon
+- Hakuhō Shō
+- Hakuin Ekaku
+- Hal B. Wallis
+- Hal Blaine
+- Hal Holbrook
+- Hal Needham
+- Halfdan Ragnarsson
+- Halford Mackinder
+- Halit Refiğ
+- Hall & Oates
+- Halldór Laxness
+- Halle Berry
+- Hamad bin Isa Al Khalifa
+- Hamad bin Khalifa Al Thani
+- Hamani Diori
+- Hamid Karzai
+- Hamilcar Barca
+- Hamilcar I of Carthage
+- Hamilton Fish
+- Hammer DeRoburt
+- Hamza Namira
+- Hamza ibn Abd al-Muttalib
+- Han Kang
+- Han Shizhong
+- Han Sorya
+- Han Xin
+- Han van Meegeren
+- Hana Hegerová
+- Hanaoka Seishū
+- Hande Yener
+- Hank Aaron
+- Hanna Reitsch
+- Hannah Höch
+- Hannes Alfvén
+- Hans Albers
+- Hans Asperger
+- Hans Eysenck
+- Hans Frank
+- Hans Geiger
+- Hans Georg Dehmelt
+- Hans Gross
+- Hans Günter Winkler
+- Hans Hass
+- Hans Hollein
+- Hans Hotter
+- Hans Kelsen
+- Hans Memling
+- Hans Morgenthau
+- Hans Scholl
+- Hans Zimmer
+- Hans von Bülow
+- Hans von Seeckt
+- Hans-Georg Gadamer
+- Hanshan (poet)
+- Hanya Holm
+- Happy End (band)
+- Har Gobind Khorana
+- Harald Bluetooth
+- Harald Fairhair
+- Harald Hardrada
+- Harald zur Hausen
+- Hariprasad Chaurasia
+- Haris Alexiou
+- Harlan Ellison
+- Harold Abrahams
+- Harold Alexander, 1st Earl Alexander of Tunis
+- Harold Arlen
+- Harold Bloom
+- Harold Edgerton
+- Harold Garfinkel
+- Harold Gillies
+- Harold Godwinson
+- Harold Harefoot
+- Harold Harmsworth, 1st Viscount Rothermere
+- Harold Lloyd
+- Harold Macmillan
+- Harold Pinter
+- Harold Prince
+- Harold Robbins
+- Harold Ross
+- Harold Scott MacDonald Coxeter
+- Harold Shipman
+- Harold Wilson
+- Harpagus
+- Harper Lee
+- Harpo Marx
+- Harriet Beecher Stowe
+- Harriet Jacobs
+- Harriet Martineau
+- Harrison Birtwistle
+- Harrison Ford
+- Harrison Schmitt
+- Harrison White
+- Harry Belafonte
+- Harry Benjamin
+- Harry Blackstone Sr.
+- Harry Browne
+- Harry Chauvel
+- Harry Cohn
+- Harry Greb
+- Harry Harlow
+- Harry Hopman
+- Harry Kellar
+- Harry Markowitz
+- Harry Martinson
+- Harry Mulisch
+- Harry Nyquist
+- Harry Partch
+- Harry Reems
+- Harry Stack Sullivan
+- Harry Triguboff
+- Harry Vardon
+- Harry Winston
+- Hart Crane
+- Harthacnut
+- Harvey Cushing
+- Harvey Korman
+- Harvey Kurtzman
+- Harvey S. Firestone
+- Harvey Weinstein
+- Hasan al-Askari
+- Hasan al-Basri
+- Hasan ibn Ali
+- Hasan-i Sabbah
+- Hasdai Crescas
+- Hasdrubal Barca
+- Hasegawa Tōhaku
+- Hassan Gouled Aptidon
+- Hassan II of Morocco
+- Hassan Nasrallah
+- Hassan Rouhani
+- Hassan al-Banna
+- Hassanal Bolkiah
+- Hattie Jacques
+- Hattie McDaniel
+- Hattori Hanzō
+- Hatuey
+- Havelock Ellis
+- Hayam Wuruk
+- Hayato Ikeda
+- Hayedeh
+- Hayley Wickenheiser
+- He Jiankui
+- He Kexin
+- He Long
+- Heath Ledger
+- Heather McKay
+- Hebe Camargo
+- Hector Guimard
+- Hector Pieterson
+- Hector-Jonathan Crémieux
+- Hedda Hopper
+- Hedwig Gorski
+- Hedy Lamarr
+- Heidi Fleiss
+- Heidi Klum
+- Heike Drechsler
+- Heike Kamerlingh Onnes
+- Heinrich Barth
+- Heinrich Böll
+- Heinrich Friedrich Karl vom und zum Stein
+- Heinrich Harrer
+- Heinrich Ignaz Franz Biber
+- Heinrich Kayser
+- Heinrich Kramer
+- Heinrich Rohrer
+- Heinrich Schenker
+- Heinrich Schütz
+- Heinrich Vollmer
+- Heinrich Wilhelm Matthias Olbers
+- Heinrich von Brühl
+- Heinrich von Treitschke
+- Heinz Guderian
+- Heinz Kohut
+- Heinz Rühmann
+- Heitor Villa-Lobos
+- Helen Clark
+- Helen Fielding
+- Helen Frankenthaler
+- Helen Garner
+- Helen Gibson
+- Helen Hayes
+- Helen Hunt
+- Helen Kim
+- Helen Mirren
+- Helen Rollason
+- Helen Thomas
+- Helen Vendler
+- Helen Wills
+- Helena Rubinstein
+- Helene Fischer
+- Helenio Herrera
+- Helmut Newton
+- Helmut Schmidt
+- Helmuth von Moltke the Younger
+- Heloise
+- Hema Malini
+- Hemiunu
+- Hemu
+- Hendrik Verwoerd
+- Hendrik Wade Bode
+- Hendrik Witbooi (Nama chief)
+- Henri Cartan
+- Henri Charrière
+- Henri Christophe
+- Henri Desgrange
+- Henri Fayol
+- Henri Guisan
+- Henri I, Duke of Guise
+- Henri La Fontaine
+- Henri Lebesgue
+- Henri Meilhac
+- Henri Michaux
+- Henri Moissan
+- Henri Nestlé
+- Henri Pirenne
+- Henri de Baillet-Latour
+- Henri de La Tour d'Auvergne, Viscount of Turenne
+- Henri de Saint-Simon
+- Henri-Georges Clouzot
+- Henrietta Lacks
+- Henrietta Swan Leavitt
+- Henrik Pontoppidan
+- Henry A. Wallace
+- Henry Adams
+- Henry Addington
+- Henry Armstrong
+- Henry Bessemer
+- Henry Briggs (mathematician)
+- Henry Cabot Lodge
+- Henry Campbell-Bannerman
+- Henry Chadwick (writer)
+- Henry Clay
+- Henry Clay Frick
+- Henry Darger
+- Henry Faulds
+- Henry Fielding
+- Henry Flagler
+- Henry Fonda
+- Henry Fox Talbot
+- Henry Geldzahler
+- Henry George
+- Henry H. Arnold
+- Henry Hill
+- Henry Hobson Richardson
+- Henry Howard, Earl of Surrey
+- Henry Hudson
+- Henry Huttleston Rogers
+- Henry I of England
+- Henry I of France
+- Henry II of France
+- Henry II, Holy Roman Emperor
+- Henry III of England
+- Henry III of France
+- Henry III, Holy Roman Emperor
+- Henry IV of England
+- Henry Irving
+- Henry J. Heinz
+- Henry J. Kaiser
+- Henry Jarvis Raymond
+- Henry John Temple, 3rd Viscount Palmerston
+- Henry Kissinger
+- Henry Lawson
+- Henry Lee Lucas
+- Henry Louis Gates Jr.
+- Henry Luce
+- Henry Mancini
+- Henry Mayhew
+- Henry Miller
+- Henry Morgan
+- Henry Morton Stanley
+- Henry Norris Russell
+- Henry Parkes
+- Henry Pelham
+- Henry Royce
+- Henry Steele Commager
+- Henry Sutton (inventor)
+- Henry Taube
+- Henry Tayali
+- Henry Thomas Colebrooke
+- Henry V, Holy Roman Emperor
+- Henry VI of England
+- Henry VI, Holy Roman Emperor
+- Henry VII of England
+- Henry VII, Holy Roman Emperor
+- Henry Vaughan
+- Henry Ward Beecher
+- Henry Way Kendall
+- Henry Wells
+- Henry de Montherlant
+- Henry the Fowler
+- Henry the Lion
+- Henry the Young King
+- Henry van de Velde
+- Henryk Górecki
+- Henryk Wieniawski
+- Herb Alpert
+- Herb Brooks
+- Herbert A. Simon
+- Herbert Chapman
+- Herbert Giles
+- Herbert Grönemeyer
+- Herbert Hoover
+- Herbert Huncke
+- Herbert Kitchener, 1st Earl Kitchener
+- Herbert Kroemer
+- Herbert Macaulay
+- Herbert Marcuse
+- Herbert Morrison (journalist)
+- Herbert Needleman
+- Herbert Sutcliffe
+- Herbie Hancock
+- Herman Brood
+- Herman Hollerith
+- Herman Lamm
+- Herman Wouk
+- Hermann Ebbinghaus
+- Hermann Heinrich Gossen
+- Hermann Joseph Muller
+- Hermann Lotze
+- Hermann Maier
+- Hermann Minkowski
+- Hermann Oberth
+- Hermann Staudinger
+- Hermann von Salza
+- Hermann, Fürst von Pückler-Muskau
+- Hernando Pizarro
+- Hernando Siles
+- Herodian
+- Herostratus
+- Herrad of Landsberg
+- Herta Müller
+- Hervé Villechaize
+- Heshen
+- Heston Blumenthal
+- Hetty Green
+- Heungseon Daewongun
+- Heydar Aliyev
+- Hiawatha
+- Hibari Misora
+- Hibatullah Akhundzada
+- Hicham El Guerrouj
+- Hideaki Anno
+- Hideki Yukawa
+- Hideo Iwakuro
+- Hideo Kojima
+- Hideo Nomo
+- Hidetaka Miyazaki
+- Hidetoshi Nakata
+- Hideyo Noguchi
+- Hiero II of Syracuse
+- Hieronymus Cock
+- Hieronymus Fabricius
+- Hifikepunye Pohamba
+- Higinio Morínigo
+- Hijikata Toshizō
+- Hikaru Utada
+- Hilary Duff
+- Hilary Hahn
+- Hilary Knight
+- Hilary Mantel
+- Hilary Putnam
+- Hilary Swank
+- Hilary of Poitiers
+- Hildegard Knef
+- Hillary Clinton
+- Hillel the Elder
+- Hilma af Klint
+- Himiko
+- Himilco
+- Hina Khan
+- Hippocrates of Chios
+- Hippodamus of Miletus
+- Hippolyte Taine
+- Hipponax
+- Hipólito Yrigoyen
+- Hiram Bingham III
+- Hiram I
+- Hiram Johnson
+- Hiram Maxim
+- Hiram Wesley Evans
+- Hirohiko Araki
+- Hirokazu Kore-eda
+- Hironobu Sakaguchi
+- Hirose Takeo
+- Hiroshi Amano
+- Hiroshi Yamauchi
+- Hiroshi Ōshima
+- Hissène Habré
+- Hitomi Kobayashi
+- Hjalmar Schacht
+- Hoagy Carmichael
+- Hole (band)
+- Holly Holm
+- Holly Hunter
+- Homare Sawa
+- Homi J. Bhabha
+- Hon'ami Kōetsu
+- Hon'inbō Sansa
+- Hon'inbō Shūsaku
+- Honda Tadakatsu
+- Hong Chengchou
+- Hong Sok-jung
+- Hongi Hika
+- Hongzhi Emperor
+- Honoré Daumier
+- Honoré Gabriel Riqueti, comte de Mirabeau
+- Honoré d'Urfé
+- Honus Wagner
+- Hope Solo
+- Horace Bénédict de Saussure
+- Horace Mann
+- Horace Silver
+- Horace Smith (inventor)
+- Horace Walpole
+- Horacio Cartes
+- Horatio Alger
+- Horemheb
+- Horst Ludwig Störmer
+- Hosius of Corduba
+- Hosni Mubarak
+- Hossein Behzad
+- Hossein Rezazadeh
+- Hou Hsiao-hsien
+- Houari Boumédiène
+- Houston Stewart Chamberlain
+- Howard Atwood Kelly
+- Howard Carter
+- Howard Cosell
+- Howard Florey
+- Howard Gardner
+- Howard H. Aiken
+- Howard Jacobson
+- Howard K. Smith
+- Howard Marks
+- Howard Schultz
+- Howard Stern
+- Howard Thurston
+- Howard Webb
+- Howard Zinn
+- Howie Mandel
+- Howlin' Wolf
+- Howqua
+- Hrant Dink
+- Hrishikesh Mukherjee
+- Hristo Stoichkov
+- Hrithik Roshan
+- Hrotsvitha
+- Hu Jintao
+- Hu Shih
+- Hu Shuli
+- Hu Yaobang
+- Hua Guofeng
+- Hua Tuo
+- Huang Xianfan
+- Huang Xing
+- Huayna Capac
+- Hubert Beuve-Méry
+- Hubert Cecil Booth
+- Hubert Dreyfus
+- Hubert Ingraham
+- Hubert Maga
+- Hubert Ogunde
+- Hubert Van Innis
+- Hubert de Givenchy
+- Hubertus Strughold
+- Huda Sha'arawi
+- Huey Long
+- Huey P. Newton
+- Hugh Capet
+- Hugh David Politzer
+- Hugh Despenser the Younger
+- Hugh Everett III
+- Hugh Glass
+- Hugh Grant
+- Hugh Griffith
+- Hugh Hefner
+- Hugh Jackman
+- Hugh Laurie
+- Hugh Lofting
+- Hugh MacDiarmid
+- Hugh Masekela
+- Hugh Owen Thomas
+- Hugh Trenchard, 1st Viscount Trenchard
+- Hugh Trevor-Roper
+- Hugo Banzer
+- Hugo Black
+- Hugo Boss (businessman)
+- Hugo Kołłątaj
+- Hugo Münsterberg
+- Hugo Pratt
+- Hugo Riemann
+- Hugo Schmeisser
+- Hugo Sánchez
+- Hugo Wolf
+- Hugo de Vries
+- Hugo von Hofmannsthal
+- Hui Shi
+- Hulda Garborg
+- Hulk Hogan
+- Humberto Delgado
+- Humberto de Alencar Castelo Branco
+- Hume Cronyn
+- Humphrey Gilbert
+- Hun Sen
+- Hunayn ibn Ishaq
+- Huo Qubing
+- Huseng Sisiw
+- Huseyn Suhrawardy
+- Hussain Muhammad Ershad
+- Hussein of Jordan
+- Hussein, King of Hejaz
+- Huun-Huur-Tu
+- Hyacinth (Bichurin)
+- Hyeokgeose of Silla
+- Hyrum Smith
+- Hâfiz Osman
+- Héctor Lavoe
+- Hélio Gracie
+- Hélène Cixous
+- Hōjō Tokimune
+- Hồ Xuân Hương
+- I. F. Stone
+- IAM (band)
+- IJustine
+- IShowSpeed
+- IU (entertainer)
+- Iaia
+- Iain Banks
+- Iajuddin Ahmed
+- Iamblichus
+- Ian Botham
+- Ian Clunies Ross
+- Ian Fleming
+- Ian Hodder
+- Ian Kershaw
+- Ian McEwan
+- Ian McKellen
+- Ian Paisley
+- Ian Rush
+- Ian Smith
+- Ian Stevenson
+- Ian Thorpe
+- Ian Wilmut
+- Iannis Xenakis
+- Ibn Abbas
+- Ibn Abidin
+- Ibn Babawayh
+- Ibn Hajar al-Asqalani
+- Ibn Hazm
+- Ibn Kathir
+- Ibn Muqla
+- Ibn Qayyim al-Jawziyya
+- Ibn Sahl (mathematician)
+- Ibn Tufayl
+- Ibn Tumart
+- Ibn Yunus
+- Ibn al-Farid
+- Ibn al-Muqaffa'
+- Ibn al-Nafis
+- Ibrahim Babangida
+- Ibrahim II of Ifriqiya
+- Ibrahim Nasir
+- Ibrahim Pasha of Egypt
+- Ibrahim Rugova
+- Ibram X. Kendi
+- Ibycus
+- Ice Cube
+- Ice-T
+- Iceberg Slim
+- Ichiro Suzuki
+- Ichirou Mizuki
+- Ichirō Fujiyama
+- Ichiyō Higuchi
+- Ida B. Wells
+- Ida Noddack
+- Ida Rubinstein
+- Ida Tarbell
+- Idina Menzel
+- Idris Elba
+- Idris of Libya
+- Idriss Déby
+- Idrissa Ouédraogo
+- Ieremia Tabai
+- Ignacio Manuel Altamirano
+- Ignacio Zaragoza
+- Ignacy Jan Paderewski
+- Ignacy Mościcki
+- Ignacy Łukasiewicz
+- Ignatius of Antioch
+- Igor Girkin
+- Igor Plotnitsky
+- Igor Severyanin
+- Igor Sikorsky
+- Igor Tamm
+- Ihara Saikaku
+- Ike Turner
+- Iker Casillas
+- Ikki Kita
+- Ilan Pappé
+- Ileana D'Cruz
+- Ilf and Petrov
+- Ilham Aliyev
+- Ilia Chavchavadze
+- Ilia Kulik
+- Ilona Staller
+- Ilse Aichinger
+- Ilse Koch
+- Iltutmish
+- Ilya Ehrenburg
+- Ilya Frank
+- Ilya Prigogine
+- Iman (model)
+- Imelda Marcos
+- Immanuel Velikovsky
+- Immanuel Wallerstein
+- Imran Khan
+- Imre Kertész
+- Imre Lakatos
+- Imre Nagy
+- Imru' al-Qais
+- Imtiaz Ali Taj
+- Ina Coolbrith
+- Inbee Park
+- Inca Garcilaso de la Vega
+- Indochine (band)
+- Indra Nooyi
+- Inessa Kravets
+- Inge Lehmann
+- Ingemar Stenmark
+- Ingrid Daubechies
+- Ingrid Newkirk
+- Ingrid Thulin
+- Ingvar Kamprad
+- Ingólfr Arnarson
+- Inigo Jones
+- Inna Shevchenko
+- Innocent of Alaska
+- Innokenty Annensky
+- Innokenty Smoktunovsky
+- Ioana Dumitriu
+- Iolo Morganwg
+- Ion Iliescu
+- Ip Man
+- Iqbal Masih
+- Ira Aldridge
+- Ira Gershwin
+- Ira Glass
+- Iraj Mirza
+- Irakli Charkviani
+- Irawati Karve
+- Ireen Wüst
+- Irena Sendler
+- Irena Szewińska
+- Irene Dunne
+- Irene Heim
+- Irene Worth
+- Irene of Athens
+- Irenäus Eibl-Eibesfeldt
+- Irina Rodnina
+- Irina Slutskaya
+- Irineu Evangelista de Sousa, Viscount of Mauá
+- Iris Apfel
+- Iris Murdoch
+- Irma Grese
+- Irna Phillips
+- Iron Maiden
+- Irvine Welsh
+- Irving Fisher
+- Irving Penn
+- Iry-Hor
+- Irène Joliot-Curie
+- Isa bin Salman Al Khalifa
+- Isaac A. Van Amburgh
+- Isaac Abarbanel
+- Isaac Albéniz
+- Isaac Babel
+- Isaac Bashevis Singer
+- Isaac Casaubon
+- Isaac Rosenberg
+- Isaac Stern
+- Isaac Watts
+- Isabel Allende
+- Isabel Briggs Myers
+- Isabel Perón
+- Isabell Werth
+- Isabella Andreini
+- Isabella Beeton
+- Isabella Bird
+- Isabella II
+- Isabella Stewart Gardner
+- Isabelle Adjani
+- Isabelle Eberhardt
+- Isabelle Huppert
+- Isaias Afwerki
+- Isamu Akasaki
+- Isamu Noguchi
+- Isamu Yoshii
+- Isang Yun
+- Isao Takahata
+- Isawa Shūji
+- Ishi
+- Ishirō Honda
+- Ishmael Bernal
+- Ishwar Chandra Vidyasagar
+- Isiah Thomas
+- Isidor Rabi
+- Isidore of Kiev
+- Isidore of Miletus
+- Isidore of Seville
+- Islam Karimov
+- Ismail Haniyeh
+- Ismail Ibn Sharif
+- Ismail Marzuki
+- Ismail Samani
+- Ismail al-Faruqi
+- Ismail al-Jazari
+- Ismaïl Omar Guelleh
+- Isocrates
+- Israel Kamakawiwoʻole
+- Issa Pliyev
+- Itagaki Taisuke
+- Italo Calvino
+- Italo Svevo
+- Itamar Franco
+- Itzhak Perlman
+- Itō Noe
+- Ivan Aivazovsky
+- Ivan Barkov
+- Ivan Cankar
+- Ivan Franko
+- Ivan Goncharov
+- Ivan Illich
+- Ivan Konev
+- Ivan Kozhedub
+- Ivan Krylov
+- Ivan Lendl
+- Ivan Meštrović
+- Ivan Milat
+- Ivan Mosjoukine
+- Ivan Okhlobystin
+- Ivan Pyryev
+- Ivan Shishkin
+- Ivan Sutherland
+- Ivan T. Sanderson
+- Ivan Vazov
+- Ivan Yarygin
+- Ivano Balić
+- Ivar Giaever
+- Ivar Kreuger
+- Ivo Andrić
+- Ivor Novello
+- Ivy Lee
+- Ivy Queen
+- Iván Duque
+- Iziaslav I of Kiev
+- J Balvin
+- J. A. Hobson
+- J. B. M. Hertzog
+- J. B. Priestley
+- J. B. S. Haldane
+- J. Bruce Ismay
+- J. C. R. Licklider
+- J. Craig Venter
+- J. D. Salinger
+- J. E. B. Stuart
+- J. E. Casely Hayford
+- J. F. C. Fuller
+- J. G. Ballard
+- J. G. Farrell
+- J. Hans D. Jensen
+- J. Jayalalithaa
+- J. K. Rowling
+- J. K. Simmons
+- J. L. Austin
+- J. L. Mackie
+- J. M. Barrie
+- J. M. G. Le Clézio
+- J. Marion Sims
+- J. Michael Kosterlitz
+- J. Paul Getty
+- J. Presper Eckert
+- J. R. Jayewardene
+- J. R. McNeill
+- J. Sigfrid Edström
+- J.Y. Park
+- JJ Lin
+- Jaakko Hintikka
+- Jaap Kunst
+- Jaber Al-Ahmad Al-Sabah
+- Jabir ibn Zayd
+- Jacinda Ardern
+- Jacinto Benavente
+- Jack Albertson
+- Jack Benny
+- Jack Black
+- Jack Blackham
+- Jack Brabham
+- Jack Broughton
+- Jack Cole (choreographer)
+- Jack Daniel
+- Jack Dempsey
+- Jack Dorsey
+- Jack Halberstam
+- Jack Higgins
+- Jack Hobbs
+- Jack Johnson
+- Jack Kevorkian
+- Jack Kramer
+- Jack LaLanne
+- Jack Lang (Australian politician)
+- Jack Lemmon
+- Jack Ma
+- Jack Mapanje
+- Jack Palance
+- Jack Parsons
+- Jack Pierce (make-up artist)
+- Jack Sheppard
+- Jack Steinberger
+- Jack Swigert
+- Jack Vance
+- Jack Welch
+- Jackie Appiah
+- Jackie Collins
+- Jackie Coogan
+- Jackie Cooper
+- Jackie Gleason
+- Jackie Stewart
+- Jackie Wilson
+- Jackson Haines
+- Jacky Cheung
+- Jaco Pastorius
+- Jacob Burckhardt
+- Jacob Frank
+- Jacob Grimm
+- Jacob Lawrence
+- Jacob Riis
+- Jacob Roggeveen
+- Jacob Schiff
+- Jacob W. Davis
+- Jacob Zuma
+- Jacob van Ruisdael
+- Jacobo Árbenz
+- Jacopo Peri
+- Jacopo Sansovino
+- Jacopo della Quercia
+- Jacqueline Kennedy Onassis
+- Jacqueline Susann
+- Jacqueline Wilson
+- Jacqueline du Pré
+- Jacques Anquetil
+- Jacques Barzun
+- Jacques Brel
+- Jacques Chirac
+- Jacques Delors
+- Jacques Demy
+- Jacques Goddet
+- Jacques Hébert
+- Jacques Kallis
+- Jacques Lacan
+- Jacques Le Goff
+- Jacques Lecoq
+- Jacques Maritain
+- Jacques Marquette
+- Jacques Mesrine
+- Jacques Monod
+- Jacques Offenbach
+- Jacques Piccard
+- Jacques Pierre Brissot
+- Jacques Plante
+- Jacques Prévert
+- Jacques Pépin
+- Jacques Rabemananjara
+- Jacques Rivette
+- Jacques Rogge
+- Jacques Santer
+- Jacques Tati
+- Jacques Tourneur
+- Jacques de Molay
+- Jacques-Bénigne Bossuet
+- Jacques-Charles Dupont de l'Eure
+- Jacques-Martin Hotteterre
+- Jacques-Nicolas Billaud-Varenne
+- Jadwiga of Poland
+- Jafar Panahi
+- Jagadish Chandra Bose
+- Jagjit Singh
+- Jagjit Singh Aurora
+- Jahangir
+- Jahangir Khan
+- Jahm bin Safwan
+- Jaime Escalante
+- Jaime Lusinchi
+- Jaime Roldós Aguilera
+- Jaimini
+- Jair Bolsonaro
+- Jake Gyllenhaal
+- Jakob Ammann
+- Jakob Böhme
+- Jakob Michael Reinhold Lenz
+- Jalal Al-e-Ahmad
+- Jalal Talabani
+- Jalal al-Din Mangburni
+- Jalal-ud-Din Khalji
+- Jalil Mammadguluzadeh
+- Jamal Khashoggi
+- Jamal al-Din al-Afghani
+- Jamel Debbouze
+- James A. Michener
+- James Agee
+- James Anderson (cricketer)
+- James Anthony Bailey
+- James Anthony Froude
+- James Arness
+- James Augustus Hicky
+- James B. Conant
+- James Baldwin
+- James Beard
+- James Beattie (poet)
+- James Boswell
+- James Bowie
+- James Braid (surgeon)
+- James Bryce, 1st Viscount Bryce
+- James Buchanan
+- James Buchanan Duke
+- James Burrows
+- James Busby
+- James C. Scott
+- James Caan
+- James Cagney
+- James Callaghan
+- James Clark Ross
+- James Coburn
+- James Connolly
+- James Corden
+- James Cronin
+- James Curtis Hepburn
+- James Dean
+- James Deen
+- James Dewar
+- James Dobson
+- James Earl Jones
+- James Earl Ray
+- James Ellroy
+- James Ensor
+- James Fenimore Cooper
+- James Fisk (financier)
+- James FitzJames, 1st Duke of Berwick
+- James Franck
+- James G. Blaine
+- James G. March
+- James Gall
+- James Gamble (industrialist)
+- James Gandolfini
+- James Garner
+- James George Frazer
+- James Goldsmith
+- James Gordon Bennett Jr.
+- James Gordon Bennett Sr.
+- James Gosling
+- James Graham, 1st Marquess of Montrose
+- James Gregory (mathematician)
+- James H. Billington
+- James H. Clark
+- James Hansen
+- James Hargreaves
+- James Harvey Robinson
+- James Heckman
+- James Henry Breasted
+- James Hogg
+- James Hong
+- James Horner
+- James Hunt
+- James I of Aragon
+- James I of Scotland
+- James II of Aragon
+- James II of England
+- James II of Scotland
+- James III of Scotland
+- James IV
+- James Irwin
+- James J. Corbett
+- James J. Hill
+- James Jamerson
+- James Jones (author)
+- James Joseph Sylvester
+- James K. Polk
+- James L. Brooks
+- James L. Kraft
+- James Lind
+- James Longstreet
+- James Lovelock
+- James M. Buchanan
+- James M. Cain
+- James Madison
+- James Mancham
+- James Matheson
+- James McKeen Cattell
+- James Meade
+- James Mill
+- James Mirrlees
+- James Monroe
+- James Montgomery Flagg
+- James Naismith
+- James P. Johnson
+- James Patterson
+- James Rainwater
+- James Randi
+- James Reese Europe
+- James Russell Lowell
+- James S. White
+- James Samuel Coleman
+- James Schuyler
+- James Spader
+- James Stanhope, 1st Earl Stanhope
+- James Stirling (Royal Navy officer)
+- James Stirling (architect)
+- James Suckling
+- James T. Sutherland
+- James Taylor
+- James Thomson (poet, born 1700)
+- James Thomson (poet, born 1834)
+- James Thurber
+- James Tobin
+- James Turrell
+- James Tyler Kent
+- James V
+- James W. Marshall
+- James Wan
+- James Weldon Johnson
+- James Whale
+- James Whitcomb Riley
+- James Wolfe
+- James the Great
+- James, brother of Jesus
+- James, son of Alphaeus
+- Jamie Dimon
+- Jamie Dwyer
+- Jamie Foxx
+- Jamie Lee Curtis
+- Jamie Oliver
+- Jamie Uys
+- Jamshid Mashayekhi
+- Jamshid al-Kashi
+- Jan Baptist van Helmont
+- Jan Brueghel the Elder
+- Jan Evangelista Purkyně
+- Jan Karol Chodkiewicz
+- Jan Matejko
+- Jan Morris
+- Jan Neruda
+- Jan Oort
+- Jan Palach
+- Jan Smuts
+- Jan Steen
+- Jan Swammerdam
+- Jan Tinbergen
+- Jan Tschichold
+- Jan van Riebeeck
+- Jan Železný
+- Jan-Ove Waldner
+- Jane Campion
+- Jane Elliott
+- Jane Fonda
+- Jane Luu
+- Jane Russell
+- Jane Wyman
+- Janet Dailey
+- Janet Frame
+- Janet Gaynor
+- Janet Jackson
+- Janet Leigh
+- Janet Yellen
+- Jang Song-thaek
+- Jangsu of Goguryeo
+- Janice Dickinson
+- Jann Wenner
+- Janus Djurhuus
+- Janusz Korczak
+- Jared Diamond
+- Jared Sparks
+- Jarir ibn Atiyah
+- Jarmila Kratochvílová
+- Jarnail Singh Bhindranwale
+- Jaromír Jágr
+- Jaroslav Hašek
+- Jaroslav Heyrovský
+- Jaroslav Seifert
+- Jascha Heifetz
+- Jason Robards
+- Jasper Johns
+- Jassim bin Mohammed Al Thani
+- Jatavarman Sundara Pandyan I
+- Jatin–Lalit
+- Javed Akhtar
+- Javier Bardem
+- Javier Milei
+- Javier Pérez de Cuéllar
+- Javier Solís
+- Javier Sotomayor
+- Jawed Karim
+- Jay Chou
+- Jay Cooke
+- Jay Gould
+- Jay Leno
+- Jay Wright Forrester
+- Jay-Jay Okocha
+- Jay-Z
+- Jaya Bachchan
+- Jayadeva
+- Jayasudha
+- Jayavarman II
+- Jayna Hefford
+- Jayne Mansfield
+- Je Tsongkhapa
+- Jean Anouilh
+- Jean Arp
+- Jean Bartik
+- Jean Baudrillard
+- Jean Berko Gleason
+- Jean Bodin
+- Jean Buridan
+- Jean Béliveau
+- Jean Chrétien
+- Jean Dieudonné
+- Jean Dubuffet
+- Jean Dujardin
+- Jean Eustache
+- Jean Fouquet
+- Jean Gabin
+- Jean Genet
+- Jean Giraud
+- Jean Giraudoux
+- Jean Harlow
+- Jean III de Grailly
+- Jean Jaurès
+- Jean Léonard Marie Poiseuille
+- Jean Marais
+- Jean Monnet
+- Jean Nouvel
+- Jean Parisot de Valette
+- Jean Perrin
+- Jean Rhys
+- Jean Ribault
+- Jean Ricardou
+- Jean Seberg
+- Jean Shrimpton
+- Jean Siméon Chardin
+- Jean Taylor
+- Jean Tirole
+- Jean Vigo
+- Jean de La Bruyère
+- Jean de La Fontaine
+- Jean de Meun
+- Jean, Grand Duke of Luxembourg
+- Jean-Antoine Houdon
+- Jean-Baptiste Biot
+- Jean-Baptiste Colbert
+- Jean-Baptiste Donatien de Vimeur, comte de Rochambeau
+- Jean-Baptiste Lully
+- Jean-Baptiste Say
+- Jean-Baptiste de Boyer, Marquis d'Argens
+- Jean-Baptiste de La Salle
+- Jean-Baptiste-Camille Corot
+- Jean-Bertrand Aristide
+- Jean-Bédel Bokassa
+- Jean-Claude Duvalier
+- Jean-Claude Juncker
+- Jean-Claude Killy
+- Jean-Claude Van Damme
+- Jean-Eugène Robert-Houdin
+- Jean-François Champollion
+- Jean-François Lyotard
+- Jean-François Millet
+- Jean-François Regnard
+- Jean-François de Galaup, comte de Lapérouse
+- Jean-Gaspard Deburau
+- Jean-Georges Noverre
+- Jean-Honoré Fragonard
+- Jean-Jacques Dessalines
+- Jean-Jacques Muyembe-Tamfum
+- Jean-Joseph Rabearivelo
+- Jean-Lambert Tallien
+- Jean-Louis Barrault
+- Jean-Louis Trintignant
+- Jean-Luc Nancy
+- Jean-Léon Gérôme
+- Jean-Marie Collot d'Herbois
+- Jean-Marie Le Pen
+- Jean-Marie Lehn
+- Jean-Martin Charcot
+- Jean-Michel Basquiat
+- Jean-Michel Jarre
+- Jean-Paul Belmondo
+- Jean-Philippe Rameau
+- Jean-Pierre Blanchard
+- Jean-Pierre Boyer
+- Jean-Pierre Melville
+- Jean-Pierre Rampal
+- Jean-de-Dieu Soult
+- Jean-Étienne Championnet
+- Jean-Étienne Guettard
+- Jeane Dixon
+- Jeanne Baret
+- Jeanne Calment
+- Jeannette Rankin
+- Jebe
+- Jeff Beck
+- Jeff Bezos
+- Jeff Bridges
+- Jeff Buckley
+- Jeff Foxworthy
+- Jeff Gordon
+- Jeff Koons
+- Jefferson Airplane
+- Jefferson Davis
+- Jeffery Amherst, 1st Baron Amherst
+- Jeffrey Archer
+- Jeffrey Dahmer
+- Jeffrey Epstein
+- Jeffrey Eugenides
+- Jeffrey Sachs
+- Jelly Roll Morton
+- Jenna Jameson
+- Jennie Finch
+- Jennifer Aniston
+- Jennifer Connelly
+- Jennifer Doudna
+- Jennifer Hale
+- Jennifer Hudson
+- Jennifer Jones
+- Jennifer Lawrence
+- Jennifer Lopez
+- Jenny Holzer
+- Jenny Lind
+- Jenny McCarthy
+- Jenny Saville
+- Jenny Thompson
+- Jens Bergensten
+- Jens Stoltenberg
+- Jensen Huang
+- Jeremy Clarkson
+- Jeremy Irons
+- Jeremy McGrath
+- Jeremy Paxman
+- Jeremy Soule
+- Jeremy Waldron
+- Jernej Kopitar
+- Jerome Bruner
+- Jerome Isaac Friedman
+- Jerome K. Jerome
+- Jerome Kern
+- Jerome Robbins
+- Jerrie Mock
+- Jerry Falwell
+- Jerry Fodor
+- Jerry Goldsmith
+- Jerry Herman
+- Jerry L. Ross
+- Jerry Lee Lewis
+- Jerry Leiber and Mike Stoller
+- Jerry Lewis
+- Jerry Rawlings
+- Jerry Rice
+- Jerry Saltz
+- Jerry Seinfeld
+- Jerry Siegel
+- Jerry Springer
+- Jerry Thomas (bartender)
+- Jerry West
+- Jerry Yang
+- Jerzy Andrzejewski
+- Jerzy Grotowski
+- Jesmyn Ward
+- Jesse Jackson
+- Jesse James
+- Jesse Livermore
+- Jessica Alba
+- Jessica Ennis-Hill
+- Jessica Lange
+- Jessica Lee Rose
+- Jessica Savitch
+- Jessica Tandy
+- Jessie R. Fauset
+- Jet Li
+- Jethro Tull (agriculturist)
+- Jhulan Goswami
+- Jia Xian
+- Jia Yi
+- Jia Zhangke
+- Jiang Ziya
+- Jiaqing Emperor
+- Jiddu Krishnamurti
+- Jigme Dorji Wangchuck
+- Jigme Khesar Namgyel Wangchuck
+- Jigme Singye Wangchuck
+- Jigme Wangchuck
+- Jihadi John
+- Jim Bakker
+- Jim Bridger
+- Jim Broadbent
+- Jim Brown
+- Jim Carrey
+- Jim Clark
+- Jim Corbett
+- Jim Cummings
+- Jim Dale
+- Jim Davis (cartoonist)
+- Jim Jarmusch
+- Jim Jones
+- Jim Lehrer
+- Jim Lovell
+- Jim Morrison
+- Jim Nabors
+- Jim Peebles
+- Jim Ross
+- Jimmie Foxx
+- Jimmie Johnson
+- Jimmie Rodgers
+- Jimmy Carter
+- Jimmy Cliff
+- Jimmy Connors
+- Jimmy Dorsey
+- Jimmy Fallon
+- Jimmy Hoffa
+- Jimmy Kimmel
+- Jimmy Lai
+- Jimmy Page
+- Jimmy Savile
+- Jimmy Smith (musician)
+- Jimmy Wales
+- Jin Jong-oh
+- Jing Ke
+- Jingtai Emperor
+- Jinheung of Silla
+- Jintara Poonlarp
+- Jinul
+- Jiro Ono
+- Jo Van Fleet
+- Joachim Murat
+- Joachim du Bellay
+- Joachim von Ribbentrop
+- Joan Acocella
+- Joan Baez
+- Joan Beauchamp Procter
+- Joan Birman
+- Joan Collins
+- Joan Crawford
+- Joan Didion
+- Joan Fontaine
+- Joan Ganz Cooney
+- Joan Jett
+- Joan Mitchell
+- Joan Rivers
+- Joan Robinson
+- Joan Weston
+- Joanna of Castile
+- Joanne Gair
+- Joanne Woodward
+- Joaquim Chissano
+- Joaquin Murrieta
+- Joaquin Phoenix
+- Joaquín Balaguer
+- Joaquín Cortés
+- Jocelyn Bell Burnell
+- Jodie Foster
+- Jodocus Hondius
+- Jody Williams
+- Joe Biden
+- Joe Davis
+- Joe DiMaggio
+- Joe Frazier
+- Joe Greene
+- Joe Hisaishi
+- Joe Masseria
+- Joe Medicine Crow
+- Joe Montana
+- Joe Odagiri
+- Joe Orton
+- Joe Paterno
+- Joe Pesci
+- Joe Rogan
+- Joe Sakic
+- Joe Shuster
+- Joe Simon
+- Joe Slovo
+- Joe Weider
+- Joel Garner
+- Joel Grey
+- Joel Osteen
+- Joel Quenneville
+- Joel Teitelbaum
+- Joey Dunlop
+- Joh Bjelke-Petersen
+- Johan Christian Fabricius
+- Johan Ferrier
+- Johan Huizinga
+- Johan Ludvig Runeberg
+- Johan de Witt
+- Johan van Oldenbarnevelt
+- Johann Bernhard Fischer von Erlach
+- Johann Carolus
+- Johann Eck
+- Johann Friedrich Blumenbach
+- Johann Friedrich Herbart
+- Johann Gottfried Galle
+- Johann Gottfried Herder
+- Johann Gustav Droysen
+- Johann Heinrich Lambert
+- Johann Heinrich Pestalozzi
+- Johann II, Prince of Liechtenstein
+- Johann Jakob Froberger
+- Johann Jakob Heckel
+- Johann Joachim Winckelmann
+- Johann Lukas von Hildebrandt
+- Johann Martin Schleyer
+- Johann Most
+- Johann Nepomuk Hummel
+- Johann Nikolaus Forkel
+- Johann Pachelbel
+- Johann Peter Hebel
+- Johann Reuchlin
+- Johann Stamitz
+- Johann Strauss I
+- Johann Tetzel
+- Johann Wilhelm Ritter
+- Johanna Nichols
+- Johanna Spyri
+- Johannes Hevelius
+- Johannes Magnus
+- Johannes Messenius
+- Johannes Ockeghem
+- Johannes Pfefferkorn
+- Johannes Stark
+- Johannes Tinctoris
+- Johannes V. Jensen
+- John Adams
+- John Adams (composer)
+- John Addington Symonds
+- John Amery
+- John Amos Comenius
+- John Arbuthnot
+- John Archibald Wheeler
+- John Ashbery
+- John Astin
+- John Aubrey
+- John B. Goodenough
+- John Banville
+- John Barry (composer)
+- John Barry (naval officer)
+- John Barrymore
+- John Beazley
+- John Belushi
+- John Berger
+- John Berryman
+- John Betjeman
+- John Bidwell
+- John Boorman
+- John Bowlby
+- John Bowring
+- John Brown (abolitionist)
+- John Browning
+- John Bunyan
+- John C. Bogle
+- John C. Breckinridge
+- John C. Calhoun
+- John C. Frémont
+- John C. Mather
+- John Cabot
+- John Cadbury
+- John Candy
+- John Canemaker
+- John Carmack
+- John Carpenter
+- John Carroll (archbishop of Baltimore)
+- John Cassavetes
+- John Cena
+- John Chandos
+- John Charles
+- John Cheever
+- John Clare
+- John Cleese
+- John Cockcroft
+- John Compton
+- John Creasey
+- John Curtin
+- John D. Rockefeller Jr.
+- John Dalberg-Acton, 1st Baron Acton
+- John Davis (explorer)
+- John DeLorean
+- John Dee
+- John Deere (inventor)
+- John Denver
+- John Dickson Carr
+- John Diefenbaker
+- John Dillinger
+- John Dos Passos
+- John Dowland
+- John Draper
+- John Dudley, 1st Duke of Northumberland
+- John Dunstaple
+- John Dyer
+- John Edensor Littlewood
+- John Edward Taylor
+- John Eliot Gardiner
+- John Elway
+- John Everett Millais
+- John Fairfax
+- John Fiske (philosopher)
+- John Flamsteed
+- John Fletcher (playwright)
+- John Flynn (minister)
+- John Forbes Nash Jr.
+- John Ford (dramatist)
+- John Foster Dulles
+- John Franklin
+- John G. Avildsen
+- John G. Lake
+- John Galsworthy
+- John Garfield
+- John Gay
+- John Gilbert (actor)
+- John Glenn
+- John Gotti
+- John Gower
+- John Graves Simcoe
+- John Green
+- John Greenleaf Whittier
+- John Grinder
+- John Grisham
+- John Hancock
+- John Hancock (ornithologist)
+- John Hanning Speke
+- John Harrison
+- John Harsanyi
+- John Harvard
+- John Harvey Kellogg
+- John Hasbrouck Van Vleck
+- John Havlicek
+- John Hawkins (naval commander)
+- John Hawkwood
+- John Henry Anderson
+- John Henry Newman
+- John Herschel
+- John Hick
+- John Hicks
+- John Holmes (actor)
+- John Hope Franklin
+- John Horton Conway
+- John Houseman
+- John Howard
+- John Howard, 1st Duke of Norfolk
+- John Hughes
+- John Hume
+- John Hunter (surgeon)
+- John Hurt
+- John Huston
+- John II Casimir Vasa
+- John II Komnenos
+- John II of France
+- John II of Portugal
+- John III of Portugal
+- John IV of Portugal
+- John Irving
+- John J. Loud
+- John Jay
+- John Jellicoe, 1st Earl Jellicoe
+- John Joseph Montgomery
+- John Koukouzeles
+- John Kundla
+- John L. Hall
+- John L. Lewis
+- John L. Sullivan
+- John Lasseter
+- John Le Mesurier
+- John Lee Hooker
+- John Leonard (critic)
+- John Lewis
+- John Lloyd Stephens
+- John Lothrop Motley
+- John Lydgate
+- John Macarthur (colonial officer)
+- John Macleod (physiologist)
+- John Madden
+- John Major
+- John Marshall
+- John Marshall (archaeologist)
+- John Marshall Harlan
+- John Marston (playwright)
+- John Masefield
+- John McAfee
+- John McCain
+- John McCarthy (computer scientist)
+- John McCrae
+- John McDowell
+- John McEnroe
+- John McTiernan
+- John Millington Synge
+- John Mills
+- John Monash
+- John Money
+- John Mott
+- John Naka
+- John Nance Garner
+- John Napier
+- John Nevil Maskelyne
+- John Newbery
+- John Newcombe
+- John Newton
+- John O'Hara
+- John Oliver
+- John Osborne
+- John Owen (epigrammatist)
+- John Paul Jones
+- John Peel
+- John Peter Zenger
+- John Philip Holland
+- John Philip Sousa
+- John Philoponus
+- John Pilger
+- John Polanyi
+- John Prine
+- John Quincy Adams
+- John R. Ross
+- John Rackham
+- John Ray
+- John Reed (journalist)
+- John Robert Schrieffer
+- John Romero
+- John Roselli
+- John Ruskin
+- John Russell, 1st Earl Russell
+- John Schlesinger
+- John Scott Haldane
+- John Scotus Eriugena
+- John Searle
+- John Sherman
+- John Sinclair (poet)
+- John Singleton Copley
+- John Smeaton
+- John Smith (explorer)
+- John Smyth (English theologian)
+- John Speed
+- John Stith Pemberton
+- John Stockton
+- John Stott
+- John Sutter
+- John T. Thompson
+- John Tenniel
+- John Theophilus Desaguliers
+- John Thomson (photographer)
+- John Travolta
+- John Tuzo Wilson
+- John Tyndall
+- John Updike
+- John VI of Portugal
+- John Vincent Atanasoff
+- John W. Campbell
+- John Wallis
+- John Walter (publisher)
+- John Warnock
+- John Waters
+- John Wayne Gacy
+- John Webster
+- John Wilkes Booth
+- John Wilkinson (industrialist)
+- John William Polidori
+- John William Strutt, 3rd Baron Rayleigh
+- John William Waterhouse
+- John Wilmot, 2nd Earl of Rochester
+- John Winthrop
+- John Wojtowicz
+- John Woo
+- John Wooden
+- John Young (astronaut)
+- John Yudkin
+- John le Carré
+- John of Austria
+- John of Ephesus
+- John of Gaunt
+- John of Ávila
+- Johnnie Cochran
+- Johnnie Ray
+- Johnny Appleseed
+- Johnny Depp
+- Johnny Hallyday
+- Johnny Kitagawa
+- Johnny Knoxville
+- Johnny Mathis
+- Johnny Mercer
+- Johnny Sins
+- Johnny Torrio
+- Johnny Unitas
+- Johnny Walker (actor)
+- Johns Hopkins
+- Johnson Aguiyi-Ironsi
+- Joke Silva
+- Joko Anwar
+- Joko Widodo
+- Jolin Tsai
+- Jon Brower Minnoch
+- Jon Jones
+- Jon Stewart
+- Jon Voight
+- Jonas Kaufmann
+- Jonas Lie (writer)
+- Jonas Mekas
+- Jonas Savimbi
+- Jonas Åkerlund
+- Jonathan Demme
+- Jonathan Edwards (triple jumper)
+- Jonathan Franzen
+- Jonathan Gold
+- Jonathan Haidt
+- Jonathan Larson
+- Jonathan Lethem
+- Jonathan Pryce
+- Jonathan Ross
+- Jonathan Winters
+- Jonny Wilkinson
+- Jony Ive
+- Joop den Uyl
+- Joost van den Vondel
+- Jordan Belfort
+- Jordan Peterson
+- Jorge Paulo Lemann
+- Jorge Rafael Videla
+- Jorge Ubico
+- Jose Maria Sison
+- Josef Albers
+- Josef Bican
+- Josef Hoffmann
+- Josef Kramer
+- Josef Mengele
+- Josef Szombathy
+- Josef von Sternberg
+- Joseph Addison
+- Joseph Barbera
+- Joseph Bazalgette
+- Joseph Beuys
+- Joseph Black
+- Joseph Bonanno
+- Joseph Bonaparte
+- Joseph Brant
+- Joseph Campbell
+- Joseph Chamberlain
+- Joseph D. Pistone
+- Joseph Dunninger
+- Joseph Déjacque
+- Joseph Fouché
+- Joseph Franklin Rutherford
+- Joseph Freiherr von Eichendorff
+- Joseph Furphy
+- Joseph Gallieni
+- Joseph Greenberg
+- Joseph Grimaldi
+- Joseph Heller
+- Joseph Henry
+- Joseph Hooton Taylor Jr.
+- Joseph I, Holy Roman Emperor
+- Joseph Jastrow
+- Joseph Jenkins Roberts
+- Joseph Justus Scaliger
+- Joseph Kabila
+- Joseph Karo
+- Joseph Kasa-Vubu
+- Joseph Kony
+- Joseph Kosuth
+- Joseph L. Mankiewicz
+- Joseph Liouville
+- Joseph Lyons
+- Joseph Marie Jacquard
+- Joseph Massino
+- Joseph McCarthy
+- Joseph Merrick
+- Joseph Moses Levy
+- Joseph Pinetti
+- Joseph Radetzky von Radetz
+- Joseph Roth
+- Joseph Saidu Momoh
+- Joseph Schumpeter
+- Joseph Seligman
+- Joseph Stiglitz
+- Joseph Stilwell
+- Joseph de Maistre
+- Joseph the Hymnographer
+- Joseph von Fraunhofer
+- Josephine Cochrane
+- Josephine Hull
+- Josh Gibson
+- Joshua Reynolds
+- Joshua Slocum
+- Joshua Wong
+- Josiah Royce
+- Joss Whedon
+- Jost Bürgi
+- José Afonso
+- José Alfredo Jiménez
+- José Antonio Primo de Rivera
+- José Antonio Páez
+- José Balta
+- José Batlle y Ordóñez
+- José Carreras
+- José Clemente Orozco
+- José Echegaray
+- José Eduardo dos Santos
+- José Enrique Rodó
+- José Ferrer
+- José Figueres Ferrer
+- José Félix Uriburu
+- José Gaspar Rodríguez de Francia
+- José Gervasio Artigas
+- José Gutiérrez Guerra
+- José Hernández (writer)
+- José José
+- José Leandro Andrade
+- José Lins do Rego
+- José Luis Chilavert
+- José Luis Rodríguez Zapatero
+- José Manuel Balmaceda
+- José Manuel Moreno
+- José María Aznar
+- José María Moncada
+- José María Morelos
+- José María Orellana
+- José María Velasco Ibarra
+- José Matías Delgado
+- José Miguel Carrera
+- José Miguel Gómez
+- José Mourinho
+- José Mujica
+- José Mármol
+- José Napoleón Duarte
+- José Nepomuceno
+- José Ortega y Gasset
+- José Ramos-Horta
+- José Raúl Capablanca
+- José Santos Zelaya
+- José Sarney
+- José Trinidad Cabañas
+- José Vasconcelos
+- José Víctor Zavala
+- José de Alencar
+- José de la Riva Agüero
+- Joséphine de Beauharnais
+- Journey (band)
+- Joy Division
+- Joy Reid
+- Joyce Banda
+- Joyce Carol Oates
+- Jozef Tiso
+- João Bernardo Vieira
+- João Fernandes Lavrador
+- João Figueiredo
+- João Gilberto
+- João Goulart
+- João Guimarães Rosa
+- João Havelange
+- João Lourenço
+- João Ubaldo Ribeiro
+- Joël Robuchon
+- Jože Plečnik
+- Jua Cali
+- Juan Alberto Schiaffino
+- Juan Antonio Ríos
+- Juan Antonio Samaranch
+- Juan Belmonte
+- Juan Carlos Onganía
+- Juan Crisóstomo Falcón
+- Juan Gabriel
+- Juan Gris
+- Juan Guaidó
+- Juan José Arévalo
+- Juan José Flores
+- Juan José Valle
+- Juan Luis Guerra
+- Juan Luna
+- Juan Manuel Santos
+- Juan Manuel de Rosas
+- Juan María Bordaberry
+- Juan Mora Fernández
+- Juan Pérez de Montalbán
+- Juan Ramón Jiménez
+- Juan Rodríguez Cabrillo
+- Juan Rulfo
+- Juan Santamaría
+- Juan Sebastián Elcano
+- Juan Trippe
+- Juan Velasco Alvarado
+- Juan Vicente Gómez
+- Juan Vucetich
+- Juana Inés de la Cruz
+- Judah Leon Abravanel
+- Judah ha-Nasi
+- Judas Maccabeus
+- Judas Priest
+- Jude Thaddeus the Apostle
+- Judi Dench
+- Judit Polgár
+- Judith Anderson
+- Judith Butler
+- Judith Jamison
+- Judith Jarvis Thomson
+- Judith Krantz
+- Judith Leyster
+- Judith Resnik
+- Judith Wright
+- Judy Blume
+- Judy Chicago
+- Judy Holliday
+- Judy Sheindlin
+- Jugurtha
+- Juhi Chawla
+- Jules Dumont d'Urville
+- Jules Ferry
+- Jules Hardouin-Mansart
+- Jules Léotard
+- Jules Massenet
+- Jules Michelet
+- Jules Perrot
+- Jules Rimet
+- Jules Supervielle
+- Jules de Goncourt
+- Julia Balbilla
+- Julia Child
+- Julia Domna
+- Julia Gillard
+- Julia Kristeva
+- Julia Louis-Dreyfus
+- Julia Margaret Cameron
+- Julia Phillips
+- Julia Roberts
+- Julia Robinson
+- Julia de Burgos
+- Julian Assange
+- Julian Barnes
+- Julian Bream
+- Julian Schwinger
+- Julian of Norwich
+- Juliana of the Netherlands
+- Julianne Moore
+- Julie Christie
+- Julie Harris
+- Julien Gracq
+- Julien Offray de La Mettrie
+- Juliette Binoche
+- Juliette Gordon Low
+- Julio Argentino Roca
+- Julio Cortázar
+- Julio César Chávez
+- Julio María Sanguinetti
+- Julius Erving
+- Julius Evola
+- Julius Maada Bio
+- Julius Malema
+- Julius Martov
+- Julius Nepos
+- Julius Streicher
+- Julius Wellhausen
+- Julius and Ethel Rosenberg
+- Juliusz Słowacki
+- Jun Maeda
+- Jun'ichirō Tanizaki
+- Junayd of Baghdad
+- June Almeida
+- June Foray
+- June Mathis
+- Junichiro Koizumi
+- Junji Ito
+- Junji Kinoshita
+- Junko Tabei
+- Junoon (band)
+- Junot Díaz
+- Junpei Gomikawa
+- Junípero Serra
+- Juraj Jánošík
+- Juri Lotman
+- Juscelino Kubitschek
+- Jusepe de Ribera
+- Jussi Björling
+- Just Fontaine
+- Justin Bieber
+- Justin Timberlake
+- Justin Trudeau
+- Justin Welby
+- Justine Henin
+- Justus Esiri
+- Juvénal Habyarimana
+- János Bolyai
+- János Kádár
+- Jérôme Lejeune
+- Józef Gosławski (sculptor)
+- Józef Ignacy Kraszewski
+- Jô Soares
+- Jørn Utzon
+- Jürgen Schult
+- Jīvaka
+- K. Alex Müller
+- K. Balachander
+- K. Ferdinand Braun
+- K. L. Saigal
+- K. P. H. Notoprojo
+- K. Pattabhi Jois
+- K. R. Narayanan
+- K. Raghavendra Rao
+- K. S. Sethumadhavan
+- K. Viswanath
+- KSI
+- Kaga no Chiyo
+- Kahina
+- Kai Siegbahn
+- Kaija Saariaho
+- Kailash Satyarthi
+- Kajol
+- Kakinomoto no Hitomaro
+- Kakuei Tanaka
+- Kalākaua
+- Kamal Haasan
+- Kamal Hossain
+- Kamal-ol-molk
+- Kamala Harris
+- Kamehameha II
+- Kamehameha III
+- Kamehameha IV
+- Kamehameha V
+- Kamel Daoud
+- Kamini Kaushal
+- Kamisese Mara
+- Kamose
+- Kamāl ud-Dīn Behzād
+- Kan'ami
+- Kanayo O. Kanayo
+- Kang Kek Iew
+- Kang Sheng
+- Kang Youwei
+- Kanhoji Angre
+- Kanye West
+- Kanō Eitoku
+- Kanō Masanobu
+- Kaori Icho
+- Kapil Dev
+- Kapil Sharma
+- Kara Mustafa Pasha
+- Kara Walker
+- Karan Johar
+- Karan Mehra
+- Karch Kiraly
+- Kardashian family
+- Kareena Kapoor
+- Karel Gott
+- Karel Čapek
+- Karen Horney
+- Karen Silkwood
+- Karen Uhlenbeck
+- Karikala
+- Karim Khan Zand
+- Karisma Kapoor
+- Karl Adolph Gjellerup
+- Karl Albrecht
+- Karl Barry Sharpless
+- Karl Bryullov
+- Karl Böhm
+- Karl Drais
+- Karl Dönitz
+- Karl Ernst von Baer
+- Karl Friedrich Schinkel
+- Karl Guthe Jansky
+- Karl Heinrich Ulrichs
+- Karl Jaspers
+- Karl Kautsky
+- Karl Kraus (writer)
+- Karl Lachmann
+- Karl Lagerfeld
+- Karl Lamprecht
+- Karl Landsteiner
+- Karl Liebknecht
+- Karl Löwith
+- Karl Malden
+- Karl Malone
+- Karl Mannheim
+- Karl May
+- Karl Polanyi
+- Karl Rapp
+- Karl Renner
+- Karl Rove
+- Karl Schwarzschild
+- Karl Schäfer (figure skater)
+- Karl Stefanovic
+- Karl Wallenda
+- Karl von Frisch
+- Karl von Hegel
+- Karl-Otto Koch
+- Karol G
+- Karol Lipiński
+- Karol Szymanowski
+- Karrie Webb
+- Kartini
+- Kartir
+- Kary Mullis
+- Kashta
+- Kashyapa
+- Kaspar Hauser
+- Kassia
+- Kassym-Jomart Tokayev
+- Katalin Karikó
+- Katarina Witt
+- Kate Adie
+- Kate Bush
+- Kate Chopin
+- Kate Douglas Wiggin
+- Kate Millett
+- Kate Moss
+- Kate Ritchie
+- Kate Sheppard
+- Kate Spade
+- Kate Winslet
+- Kate del Castillo
+- Kateb Yacine
+- Katharine Cook Briggs
+- Katharine Cornell
+- Katharine Graham
+- Katharine Hayhoe
+- Katherine Dunham
+- Katherine Helmond
+- Katherine Johnson
+- Katherine Mansfield
+- Katherine Paterson
+- Katherine Philips
+- Kathleen Antonelli
+- Kathleen Kenyon
+- Kathleen Lonsdale
+- Kathleen Turner
+- Kathleen Winsor
+- Kathrine Switzer
+- Kathryn Bernardo
+- Kathryn Bigelow
+- Kathy Baker
+- Kathy Bates
+- Kathy Griffin
+- Kathy Reichs
+- Kathy Whitworth
+- Katia and Maurice Krafft
+- Katie Couric
+- Katie Ledecky
+- Katina Paxinou
+- Katrina Kaif
+- Katsu Kaishū
+- Katsura Tarō
+- Katy Perry
+- Kawanabe Kyōsai
+- Kay Francis
+- Kaysone Phomvihane
+- Kazi Nazrul Islam
+- Kazimierz Dąbrowski
+- Kazuo Ohno
+- Kazuo Taoka
+- Kazuyo Sejima
+- Kaʻahumanu
+- Keanu Reeves
+- Kehinde Wiley
+- Keiko Abe
+- Keiko Matsuzaka
+- Keir Starmer
+- Keira Knightley
+- Keisuke Kinoshita
+- Keith Haring
+- Keith Holyoake
+- Keith Jarrett
+- Keith Miller
+- Keith Raniere
+- Keith Richards
+- Kelly Clarkson
+- Kelly Ripa
+- Kelly Slater
+- Kelsey Grammer
+- Kemal Reis
+- Kemi Adetiba
+- Ken Aston
+- Ken Burns
+- Ken Follett
+- Ken Griffey Jr.
+- Ken Jennings
+- Ken Kesey
+- Ken Kutaragi
+- Ken Loach
+- Ken Mattingly
+- Ken Rosewall
+- Ken Shimura
+- Ken Starr
+- Ken Takakura
+- Ken Thompson
+- Kendall Jenner
+- Kendrick Lamar
+- Kenenisa Bekele
+- Kenesaw Mountain Landis
+- Keng Vannsak
+- Kenji Doihara
+- Kenji Mizoguchi
+- Kenjiro Takayanagi
+- Kennedy Simmonds
+- Kenneth Arrow
+- Kenneth Branagh
+- Kenneth Clark
+- Kenneth Dover
+- Kenneth G. Wilson
+- Kenneth Grahame
+- Kenneth L. Hale
+- Kenneth MacAlpin
+- Kenneth Slessor
+- Kenneth Thomson, 2nd Baron Thomson of Fleet
+- Kenneth Tynan
+- Kenneth and Mamie Clark
+- Kenny Dalglish
+- Kenny G
+- Kenny Rogers
+- Kenzō Tange
+- Keorapetse Kgositsile
+- Keri Hulme
+- Kermit Gosnell
+- Kerri Walsh Jennings
+- Kerry Packer
+- Kertanagara
+- Kevin Bacon
+- Kevin Brownlow
+- Kevin Costner
+- Kevin De Bruyne
+- Kevin Durant
+- Kevin Feige
+- Kevin Garnett
+- Kevin Hart
+- Kevin Keegan
+- Kevin Kline
+- Kevin Kuske
+- Kevin MacLeod
+- Kevin Martin (curler)
+- Kevin Mitnick
+- Kevin Roche
+- Kevin Rudd
+- Kevin Spacey
+- Kevin Young (hurdler)
+- Keōpūolani
+- Kgalema Motlanthe
+- Khabib Nurmagomedov
+- Khachatur Abovian
+- Khadija Ismayilova
+- Khafre
+- Khaled (musician)
+- Khaled Hosseini
+- Khaleda Zia
+- Khalid Sheikh Mohammed
+- Khalid of Saudi Arabia
+- Khalifa Haftar
+- Khalifa bin Zayed Al Nahyan
+- Khamsing Srinawk
+- Khasekhemwy
+- Khema
+- Khertek Anchimaa-Toka
+- Khoo Teck Puat
+- Khorloogiin Choibalsan
+- Khosrow II
+- Khufu
+- Khun Sa
+- Khwaja Ahmad Abbas
+- Khwaja Nazimuddin
+- Ki no Tsurayuki
+- Kido Takayoshi
+- Kiefer Sutherland
+- Kiichiro Toyoda
+- Kikkuli
+- Kilij Arslan I
+- Kim Basinger
+- Kim Chŏnghŭi
+- Kim Clijsters
+- Kim Dae-jung
+- Kim Dong-in
+- Kim Gun-mo
+- Kim Hongdo
+- Kim Jae-gyu
+- Kim Jong Il
+- Kim Jong Un
+- Kim Kardashian
+- Kim Ku
+- Kim Kwang-seok
+- Kim Larsen
+- Kim Novak
+- Kim Peek
+- Kim Philby
+- Kim Rhode
+- Kim Soo-hyun
+- Kim Soo-nyung
+- Kim Yo Jong
+- Kim Young-ha
+- Kim Young-sam
+- Kimberlé Crenshaw
+- Kimpa Vita
+- King Baggot
+- King C. Gillette
+- King Crimson
+- King Hu
+- King Oliver
+- King Sunny Adé
+- King Tubby
+- King Vidor
+- King Wu of Zhou
+- King Zhaoxiang of Qin
+- Kingsley Amis
+- Kini Kapahu Wilson
+- Kinji Fukasaku
+- Kinjikitile Ngwale
+- Kino (band)
+- Kip Thorne
+- Kipchoge Keino
+- Kiran Desai
+- Kiri Te Kanawa
+- Kirk Douglas
+- Kirk Kerkorian
+- Kirsten Flagstad
+- Kirsty Coventry
+- Kishore Kumar
+- Kiss (band)
+- Kit Carson
+- Kitarō
+- Kitarō Nishida
+- Kitasato Shibasaburō
+- Kittur Chennamma
+- Kitty Clive
+- Klaas Bruinsma (drug lord)
+- Klaus Barbie
+- Klaus Dibiasi
+- Klaus Kinski
+- Klaus von Klitzing
+- Kliment Voroshilov
+- Knute Rockne
+- Ko Un
+- Kobayashi Issa
+- Kobe Bryant
+- Koch family
+- Koes Plus
+- Kofi Awoonor
+- Koichi Yamadera
+- Koji Kondo
+- Kojo Laing
+- Komitas
+- Kon Ichikawa
+- Konstantin Balmont
+- Konstantin Chernenko
+- Konstantin Khabensky
+- Konstantin Novoselov
+- Konstantin Rokossovsky
+- Konstantin Stanislavski
+- Konstantin Tsiolkovsky
+- Konstantin Ushinsky
+- Konstantinos Kanaris
+- Konstantinos Karamanlis
+- Koos de la Rey
+- Korn
+- Korney Chukovsky
+- Kosta Khetagurov
+- Koxinga
+- Kray twins
+- Kris Aquino
+- Kris Kristofferson
+- Kristen Nygaard
+- Kristen Stewart
+- Kristi Yamaguchi
+- Kristjan Palusalu
+- Krisztina Egerszegi
+- Krystian Zimerman
+- Krzysztof Kieślowski
+- Krzysztof Penderecki
+- Ksenia Sobchak
+- Kujula Kadphises
+- Kulap Saipradit
+- Kumar Sangakkara
+- Kumaragupta I
+- Kundakunda
+- Kunihiko Kodaira
+- Kunimitsu Takahashi
+- Kunle Afolayan
+- Kurmanbek Bakiyev
+- Kurt Angle
+- Kurt Cobain
+- Kurt Georg Kiesinger
+- Kurt Koffka
+- Kurt Schwitters
+- Kurt Student
+- Kurt Waldheim
+- Kurt Weill
+- Kurtis Blow
+- Kwame Anthony Appiah
+- Kwasi Wiredu
+- Kwŏn Yul (general)
+- Kyle MacLachlan
+- Kylian Mbappé
+- Kylie Minogue
+- Kyu Sakamoto
+- Käthe Kollwitz
+- Kōbō Abe
+- Kōhei Uchimura
+- Kōnosuke Matsushita
+- Kōtoku Shūsui
+- Kʼinich Janaabʼ Pakal
+- L'Arc-en-Ciel
+- L. E. J. Brouwer
+- L. Frank Baum
+- L. L. Zamenhof
+- L. Ron Hubbard
+- LL Cool J
+- La Argentinita
+- La Belle Otero
+- La Goulue
+- La Monte Young
+- La Niña de los Peines
+- LaMarcus Adna Thompson
+- Labid
+- Lachlan Macquarie
+- Ladi Kwali
+- Lady Gaga
+- Lady Godiva
+- Lady Mary Wortley Montagu
+- Lady Pink
+- Lady Triệu
+- Ladysmith Black Mambazo
+- Lafcadio Hearn
+- Lai Man-Wai
+- Laila Ali
+- Lajos Kossuth
+- Lakandula
+- Lakshmi (actress)
+- Lakshmi Mittal
+- Lal Bahadur Shastri
+- Lala Deen Dayal
+- Lalo Schifrin
+- Lalon
+- Lamar Hunt
+- Lana Del Rey
+- Lana Turner
+- Lance Armstrong
+- Landon Donovan
+- Lanford Wilson
+- Lanfranc
+- Lang Lang
+- Lang Ping
+- Lansana Conté
+- Lapulapu
+- Lara Fabian
+- Larisa Shepitko
+- Larry Bird
+- Larry David
+- Larry Ellison
+- Larry Flynt
+- Larry Hagman
+- Larry Harvey
+- Larry King
+- Larry Kramer
+- Larry Norman
+- Larry O'Brien
+- Larry Page
+- Larry Sanger
+- Larry Summers
+- Lars Johan Hierta
+- Lars Onsager
+- Lars Peter Hansen
+- Lars von Trier
+- Laskarina Bouboulina
+- Lasse Virén
+- Laura Bassi
+- Laura Chinchilla
+- Laura Dekker
+- Laura Dern
+- Laura Ingalls Wilder
+- Laura Kenny
+- Laura Mulvey
+- Laura Pausini
+- Laura Perls
+- Laura Schlessinger
+- Laurel Aitken
+- Lauren Bacall
+- Lauren Jackson
+- Laurence Eusden
+- Laurence Sterne
+- Laurent Gbagbo
+- Laurent-Désiré Kabila
+- Laurie Anderson
+- Laurie Metcalf
+- Lauritz Melchior
+- Lauryn Hill
+- Lautaro
+- Lav Diaz
+- Lavinia Fontana
+- Lavrentiy Beria
+- Lawrence Alma-Tadema
+- Lawrence Bragg
+- Lawrence Hargrave
+- Lawrence Klein
+- Lawrence Krauss
+- Lawrence Lessig
+- Lawrence Spivak
+- Lawrence Stone
+- Lawrence Taylor
+- Lazare Carnot
+- Lazarus of Bethany
+- Lazzaro Spallanzani
+- Le Pétomane
+- LeVar Burton
+- Lea Salonga
+- Lead Belly
+- Learned Hand
+- Lech Kaczyński
+- Leconte de Lisle
+- Lee "Scratch" Perry
+- Lee Byung-chul
+- Lee Chang-ho
+- Lee Chong Wei
+- Lee Grant
+- Lee Harvey Oswald
+- Lee Hsien Loong
+- Lee Iacocca
+- Lee Jung-jae
+- Lee Krasner
+- Lee Kun-hee
+- Lee Marvin
+- Lee Miller
+- Lee Myung-bak
+- Lee Sedol
+- Lee Soo-man
+- Lee Strasberg
+- Lee Teng-hui
+- Lee Trevino
+- Lei Feng
+- Leila Djansi
+- Leila Khaled
+- Lela Tsurtsumia
+- Leland H. Hartwell
+- Len Deighton
+- Len Hutton
+- Lena Horne
+- Lenny Bruce
+- Lenny Kravitz
+- Lenrie Peters
+- Lenín Moreno
+- Leo Burnett
+- Leo Esaki
+- Leo Fender
+- Leo Frank
+- Leo I (emperor)
+- Leo Kanner
+- Leo McCarey
+- Leo Strauss
+- Leo Szilard
+- Leochares
+- Leon Cooper
+- Leon Lai
+- Leon M. Lederman
+- Leon Uris
+- Leonard Bloomfield
+- Leonard Bosack
+- Leonard Cohen
+- Leonard Feather
+- Leonard Howell
+- Leonard Kleinrock
+- Leonard Maltin
+- Leonard Nimoy
+- Leonard Peikoff
+- Leonard Wood
+- Leonardo DiCaprio
+- Leonhard Graf von Blumenthal
+- Leonid Andreyev
+- Leonid Gaidai
+- Leonid Hurwicz
+- Leonid Kantorovich
+- Leonid Kravchuk
+- Leonid Kuchma
+- Leonid Utesov
+- Leonidas of Rhodes
+- Leonora Carrington
+- Leontien van Moorsel
+- Leontyne Price
+- Leopold II, Holy Roman Emperor
+- Leopold III of Belgium
+- Leopold Kronecker
+- Leopold Mozart
+- Leopold Stokowski
+- Leopold and Loeb
+- Leopold von Sacher-Masoch
+- Leopoldo Alas
+- Leopoldo Lugones
+- Leoš Janáček
+- Lepidus
+- Lepke Buchalter
+- Les Murray (poet)
+- Les Paul
+- Leslie Caron
+- Leslie Cheung
+- Leslie Goonewardene
+- Leslie Groves
+- Leslie Howard
+- Leslie Lamport
+- Leslie Nielsen
+- Leslie White
+- Lester B. Pearson
+- Lester Frank Ward
+- Lester James Peries
+- Lester Piggott
+- Lester Young
+- Lesya Ukrainka
+- Letsie III
+- Leung Chun-ying
+- Lev Ivanov
+- Lev Kamenev
+- Lev Landau
+- Lev Shestov
+- Lev Yashin
+- Levi Strauss
+- Levon Ter-Petrosyan
+- Lew Wasserman
+- Lewis Binford
+- Lewis Cass
+- Lewis H. Morgan
+- Lewis Hamilton
+- Lewis Hine
+- Lewis Milestone
+- Lewis Mumford
+- Lewis Namier
+- Lewis Pugh
+- Lewis Terman
+- Leymah Gbowee
+- León Febres Cordero
+- Li Dazhao
+- Li He
+- Li Hongzhang
+- Li Hongzhi
+- Li Ji (archaeologist)
+- Li Jing (Tang dynasty)
+- Li Jinhui
+- Li Keqiang
+- Li Lili
+- Li Mu
+- Li Na
+- Li Ning
+- Li Peng
+- Li Qiang
+- Li Qingzhao
+- Li Shangyin
+- Li Shizhen
+- Li Tang (painter)
+- Li Wenliang
+- Li Xiannian
+- Li Zhensheng (photojournalist)
+- Li Zicheng
+- Li Zongren
+- Liam Lynch (Irish republican)
+- Liam Neeson
+- Lian Po
+- Liang Qichao
+- Liaquat Ali Khan
+- Liberace
+- Libertad Lamarque
+- Lidia Ruslanova
+- Lij Iyasu
+- Lil Dagover
+- Lil Jon
+- Lil Wayne
+- Lil' Kim
+- Lila Abu-Lughod
+- Lila Kedrova
+- Lili Elbe
+- Lili Ivanova
+- Lili St. Cyr
+- Lilia Podkopayeva
+- Liliane Bettencourt
+- Liliʻuokalani
+- Lillian Hellman
+- Lillian Leitzel
+- Lily Tomlin
+- Lima Barreto
+- Lin Biao
+- Lin Dan
+- Lin Sen
+- Lin Zexu
+- Lin-Manuel Miranda
+- Lina Bo Bardi
+- Lina Medina
+- Lincoln Kirstein
+- Linda B. Buck
+- Linda Evangelista
+- Linda Hunt
+- Linda Lovelace
+- Linda Nochlin
+- Linda Ronstadt
+- Lindsay Lohan
+- Lindsey Vonn
+- Linkin Park
+- Lino Brocka
+- Lino Ventura
+- Lionel Barrymore
+- Lionel Hampton
+- Lionel Richie
+- Lionel Tertis
+- Lionel Trilling
+- Lisa Fernandez
+- Lisa Fonssagrives
+- Lisa Kudrow
+- Lisa Leslie
+- Lisa Nowak
+- Lisa Su
+- Lisa Wilkinson
+- Little Rock Nine
+- Little Tich
+- Liu Bei
+- Liu Bocheng
+- Liu Cixin
+- Liu Hui
+- Liu Shaoqi
+- Liu Tianhua
+- Liu Xiang (hurdler)
+- Liu Xiaobo
+- Liu Zongyuan
+- Liutprand, King of the Lombards
+- Liv Ullmann
+- Livius Andronicus
+- Livy
+- Liza Minnelli
+- Lizzie Borden
+- Lizzie Magie
+- Lloyd Morrisett
+- Lloyd Shapley
+- Lluís Domènech i Montaner
+- Llywelyn ab Iorwerth
+- Llywelyn ap Gruffudd
+- Lobengula
+- Logan Paul
+- Loie Fuller
+- Lois Lowry
+- Lois Weber
+- Lola Flores
+- Lola Montez
+- Lon Chaney
+- Lon Nol
+- Longchenpa
+- Lonnie Donegan
+- Lope de Aguirre
+- Lord Dunsany
+- Lord Kitchener (calypsonian)
+- Lord Mountbatten
+- Lorde
+- Lorena Ochoa
+- Lorenz Oken
+- Lorenzo Da Ponte
+- Lorenzo Ghiberti
+- Loretta Lynn
+- Loretta Young
+- Lorine Niedecker
+- Loriot
+- Lorne Michaels
+- Lorraine Hansberry
+- Loránd Eötvös
+- Loso
+- Lotfi A. Zadeh
+- Lothair I
+- Lothair III, Holy Roman Emperor
+- Lothar Matthäus
+- Lothar von Arnauld de la Perière
+- Lothar von Trotha
+- Lotta Crabtree
+- Lotte Reiniger
+- Lottie Lyell
+- Lou Costello
+- Lou Ferrigno
+- Lou Gehrig
+- Lou Gerstner
+- Lou Reed
+- Lou Thesz
+- Louella Parsons
+- Louis Althusser
+- Louis Antoine de Bougainville
+- Louis Antoine de Saint-Just
+- Louis Aragon
+- Louis Botha
+- Louis Brandeis
+- Louis C.K.
+- Louis Chevrolet
+- Louis Comfort Tiffany
+- Louis Cyr
+- Louis Désiré Blanquart-Evrard
+- Louis Farrakhan
+- Louis Feuillade
+- Louis Gossett Jr.
+- Louis Harold Gray
+- Louis Hjelmslev
+- Louis II of Italy
+- Louis IV, Holy Roman Emperor
+- Louis Jolliet
+- Louis Jordan
+- Louis L'Amour
+- Louis Le Prince
+- Louis Le Vau
+- Louis Leakey
+- Louis Leroy
+- Louis MacNeice
+- Louis Malle
+- Louis Néel
+- Louis St. Laurent
+- Louis Theroux
+- Louis VI of France
+- Louis VII of France
+- Louis VIII of France
+- Louis Vuitton (designer)
+- Louis Wirth
+- Louis X of France
+- Louis XII
+- Louis XIII
+- Louis XVIII
+- Louis, Grand Condé
+- Louis-Eugène Cavaignac
+- Louis-Ferdinand Céline
+- Louis-Jules Trochu
+- Louis-Nicolas Davout
+- Louisa Lawson
+- Louisa May Alcott
+- Louise Bourgeois
+- Louise Boursier
+- Louise Brooks
+- Louise Bryant
+- Louise Erdrich
+- Louise Fletcher
+- Louise Glück
+- Louise Hay
+- Louise Labé
+- Louise Michel
+- Louise Nevelson
+- Louise Rennison
+- Lourdes Van-Dúnem
+- Lowell Mason
+- Lu Jiuyuan
+- Lu You
+- Luc Besson
+- Luc Montagnier
+- Luca Pacioli
+- Luca Signorelli
+- Luca della Robbia
+- Lucas Cranach the Elder
+- Lucas Vázquez de Ayllón
+- Lucas van Leyden
+- Luce Irigaray
+- Luchino Visconti
+- Lucian Freud
+- Luciana Aymar
+- Luciano Berio
+- Luciano Leggio
+- Lucien Carr
+- Lucien Febvre
+- Lucien Petit-Breton
+- Lucile Grahn
+- Lucius Accius
+- Lucius Cincius Alimentus
+- Lucius Junius Brutus
+- Lucius Quinctius Cincinnatus
+- Lucius Tarquinius Superbus
+- Lucky Luciano
+- Lucrecia Martel
+- Lucretia
+- Lucretia Mott
+- Lucy Liu
+- Lucy Mack Smith
+- Lucy Maud Montgomery
+- Lucy Parsons
+- Lucy, Lady Duff-Gordon
+- Ludmilla Tourischeva
+- Ludovic Halévy
+- Ludovico Ariosto
+- Ludovico Einaudi
+- Ludwig Beck
+- Ludwig Bemelmans
+- Ludwig Büchner
+- Ludwig Erhard
+- Ludwig Feuerbach
+- Ludwig II of Bavaria
+- Ludwig Prandtl
+- Ludwig von Mises
+- Lugal-zage-si
+- Luigi Boccherini
+- Luigi Cherubini
+- Luigi Comencini
+- Luigi Galleani
+- Luigi Illica
+- Luigi Tenco
+- Luis Alberto Spinetta
+- Luis Barragán
+- Luis Carlos Galán
+- Luis Echeverría
+- Luis Federico Leloir
+- Luis Garavito
+- Luis García Berlanga
+- Luis Herrera Campins
+- Luis Miguel
+- Luis Miguel Sánchez Cerro
+- Luis Muñoz Marín
+- Luis Suárez (footballer, born 1935)
+- Luis Walter Alvarez
+- Luise Rainer
+- Luiz Gonzaga
+- Luiz Inácio Lula da Silva
+- Lujo Brentano
+- Luka Modrić
+- Luke Perry
+- Luke the Evangelist
+- LulzSec
+- Luo Guanzhong
+- Luo Ronghuan
+- Lupe Vélez
+- Lupita Nyong'o
+- Lushan Huiyuan
+- Luther Burbank
+- Luther Vandross
+- Luís Alves de Lima e Silva, Duke of Caxias
+- Luís Cabral
+- Luís Carlos Prestes
+- Luís Figo
+- Luís Gama
+- Luís Vaz de Torres
+- Lydia Davis
+- Lygia Clark
+- Lygia Fagundes Telles
+- Lyle Campbell
+- Lyman Spitzer
+- Lynden Pindling
+- Lyndon LaRouche
+- Lynn Conway
+- Lynn Fontanne
+- Lynn Hill
+- Lynn Margulis
+- Lynyrd Skynyrd
+- Lysander Spooner
+- Lysimachus
+- Lysippos
+- Lytton Strachey
+- Lyubov Orlova
+- Lyudmila Pavlichenko
+- Lyudmila Petrushevskaya
+- Lyudmila Ulitskaya
+- László Bíró
+- László Krasznahorkai
+- László Moholy-Nagy
+- László Papp
+- Lázaro Cárdenas
+- Léo Delibes
+- Léon Blum
+- Léon Damas
+- Léon Degrelle
+- Léon Jouhaux
+- Léon M'ba
+- Léon Walras
+- Léonin
+- Léonora Miano
+- Lê Duẩn
+- Lê Quý Đôn
+- Lê Thánh Tông
+- Lê Đức Thọ
+- Lêdo Ivo
+- Lúcio Costa
+- M. A. G. Osmani
+- M. F. Husain
+- M. F. K. Fisher
+- M. G. Ramachandran
+- M. H. de Young
+- M. Stanley Whittingham
+- M.I.A. (rapper)
+- MC Hammer
+- MC Lyte
+- MF Doom
+- MS Dhoni
+- Ma Barker
+- Ma Hualong
+- Ma Jun (mechanical engineer)
+- Ma Lin (table tennis)
+- Ma Long
+- Ma Rainey
+- Ma Ying-jeou
+- Ma Yuan (Han dynasty)
+- Ma Yuan (painter)
+- Ma Zhiyuan
+- Maaouya Ould Sid'Ahmed Taya
+- Maarten Tromp
+- Maaya Sakamoto
+- Mabel Normand
+- Macarius, Metropolitan of Moscow
+- Macbeth, King of Scotland
+- Macfarlane Burnet
+- Machine Gun Kelly (gangster)
+- Machito
+- Mack Sennett
+- Macky Sall
+- Macrinus
+- Madam C. J. Walker
+- Madame Claude
+- Madame Roland
+- Madame d'Aulnoy
+- Madame de La Fayette
+- Madame de Montespan
+- Madame de Pompadour
+- Madame du Barry
+- Madeleine Albright
+- Madeleine Vionnet
+- Madge Syers
+- Madhava of Sangamagrama
+- Madhavrao I
+- Madhuri Dixit
+- Mae Jemison
+- Magda Szabó
+- Maggie Cheung
+- Maggie Smith
+- Magic Johnson
+- Magnus Carlsen
+- Magnus Hirschfeld
+- Mahalia Jackson
+- Maharishi Mahesh Yogi
+- Mahendra of Nepal
+- Mahershala Ali
+- Mahesh Bhatt
+- Mahir Çayan
+- Mahmoud Abbas
+- Mahmoud Ahmadinejad
+- Mahmoud Darwish
+- Mahotella Queens
+- Mahāprajāpatī Gautamī
+- Mahāvīra (mathematician)
+- Mairead Maguire
+- Maitreyi
+- Majid Michel
+- Majrooh Sultanpuri
+- Makarios III
+- Makoto Kobayashi
+- Malala Yousafzai
+- Malalai of Maiwand
+- Malcolm Fraser
+- Malcolm Gladwell
+- Malcolm III of Scotland
+- Malcolm Lockheed
+- Malcolm Lowry
+- Malcolm Marshall
+- Malcolm McDowell
+- Malcolm McLaren
+- Malick Sidibé
+- Malietoa Tanumafili II
+- Mamady Keïta
+- Mammootty
+- Mamoru Miyano
+- Mamoru Oshii
+- Manami Toyota
+- Manco Cápac
+- Manetho
+- Manfred von Richthofen
+- Mangal Pandey
+- Mango (singer)
+- Mani (prophet)
+- Mani Madhava Chakyar
+- Mani Ratnam
+- Manisha Koirala
+- Manitas de Plata
+- Manju Warrier
+- Manmohan Desai
+- Manne Siegbahn
+- Manning Clark
+- Manning Marable
+- Manny Pacquiao
+- Manoel de Oliveira
+- Manoj Kumar
+- Manolete
+- Manos Hatzidakis
+- Manto Mavrogenous
+- Mantovani
+- Manu Chao
+- Manu Dibango
+- Manu Ginóbili
+- Manuel Amador Guerrero
+- Manuel Azaña
+- Manuel Baquedano
+- Manuel Belgrano
+- Manuel Blanco Encalada
+- Manuel Castells
+- Manuel Estiarte
+- Manuel Estrada Cabrera
+- Manuel Ferrara
+- Manuel Gamio
+- Manuel I of Portugal
+- Manuel L. Quezon
+- Manuel Lozada
+- Manuel Luís Osório, Marquis of Erval
+- Manuel Marulanda
+- Manuel Montt
+- Manuel Noriega
+- Manuel Ortiz Guerrero
+- Manuel Pinto da Costa
+- Manuel Roxas
+- Manuel Zelaya
+- Manuel de Falla
+- Manuel dos Reis Machado
+- Manuel Álvarez Bravo
+- Manuela Sáenz
+- Mao Dun
+- Marc Andreessen
+- Marc Anthony
+- Marc Bloch
+- Marc Connelly
+- Marc Jacobs
+- Marc Maron
+- Marc Okrand
+- Marc Rich
+- Marcel Bezençon
+- Marcel Breuer
+- Marcel Carné
+- Marcel Dassault
+- Marcello Malpighi
+- Marcelo H. del Pilar
+- Marcelo Tinelli
+- Marcia Gay Harden
+- Marcia Langton
+- Marcion of Sinope
+- Marco Pierre White
+- Marco van Basten
+- Marcos Pérez Jiménez
+- Marcus Clarke
+- Marcus Claudius Marcellus
+- Marcus Goldman
+- Marcus Junius Brutus
+- Marcus Samuel, 1st Viscount Bearsted
+- Marcus Schenkenberg
+- Marcus Vipsanius Agrippa
+- Mardonius (nephew of Darius I)
+- Margaret Bourke-White
+- Margaret Burbidge
+- Margaret Cho
+- Margaret E. Knight
+- Margaret Floy Washburn
+- Margaret Fuller
+- Margaret Gorman
+- Margaret H. Wright
+- Margaret Hamilton (software engineer)
+- Margaret Laurence
+- Margaret Lindsay Huggins
+- Margaret Mahy
+- Margaret Mitchell
+- Margaret Murray
+- Margaret Rutherford
+- Margaret Walker
+- Margarita Simonyan
+- Marge Champion
+- Margery Kempe
+- Margery Sharp
+- Margery Williams
+- Margot Fonteyn
+- Margot Honecker
+- Margot Kidder
+- Margot Robbie
+- Marguerite Davis
+- Marguerite Perey
+- Marguerite Yourcenar
+- Mari Mori
+- Maria Bueno
+- Maria Cunitz
+- Maria De Filippi
+- Maria Gaetana Agnesi
+- Maria Goeppert Mayer
+- Maria Gripe
+- Maria I of Portugal
+- Maria II of Portugal
+- Maria Konopnicka
+- Maria Malibran
+- Maria Margaretha Kirch
+- Maria Martinez
+- Maria Mitchell
+- Maria Ouspenskaya
+- Maria Ressa
+- Maria Sharapova
+- Maria Sibylla Merian
+- Maria Tallchief
+- Maria Tănase
+- Mariah Carey
+- Marian Anderson
+- Marianne Mithun
+- Marianne Moore
+- Mariano Melgarejo
+- Mariano Ospina Rodríguez
+- Mariano Rajoy
+- Mariano Rivera
+- Mariano Rivera Paz
+- Marie Dressler
+- Marie Duplessis
+- Marie Laveau
+- Marie Lloyd
+- Marie Louise, Duchess of Parma
+- Marie Marvingt
+- Marie Prevost
+- Marie Rambert
+- Marie Sallé
+- Marie Taglioni
+- Marie Tussaud
+- Marie de France
+- Marie-Adélaïde, Grand Duchess of Luxembourg
+- Marie-Antoine Carême
+- Marie-Françoise Roy
+- Marie-José Pérec
+- Marie-Louise von Franz
+- Marie-Madeleine Guimard
+- Marie-Philip Poulin
+- Marija Gimbutas
+- Marijane Meaker
+- Marika Rökk
+- Marilyn Chambers
+- Marilyn Manson (band)
+- Marilyn Strathern
+- Marina Abramović
+- Marina Ladynina
+- Marina Tsvetaeva
+- Marine Le Pen
+- Marinus van der Lubbe
+- Mario Andretti
+- Mario Benedetti
+- Mario Bunge
+- Mario García Menocal
+- Mario Lanza
+- Mario Lemieux
+- Mario Molina
+- Mario Monicelli
+- Mario Puzo
+- Mario Savio
+- Mario Tronti
+- Marion Cotillard
+- Marion Davies
+- Marion Harris
+- Marion Jones
+- Marion Zimmer Bradley
+- Marisa Tomei
+- Marisol Escobar
+- Marissa Mayer
+- Marit Bjørgen
+- Mariya Takeuchi
+- Marjane Satrapi
+- Marjorie Rice
+- Marjory Stoneman Douglas
+- Mark "Chopper" Read
+- Mark Aldanov
+- Mark Burnett
+- Mark Felt
+- Mark Fisher
+- Mark Hamill
+- Mark Hanna
+- Mark Kermode
+- Mark McGwire
+- Mark Messier
+- Mark Millar
+- Mark Monmonier
+- Mark Oliphant
+- Mark R. Hughes
+- Mark Rothko
+- Mark Rutte
+- Mark Rylance
+- Mark Spitz
+- Mark Todd (equestrian)
+- Mark Wahlberg
+- Mark Zuckerberg
+- Mark the Evangelist
+- Markiplier
+- Markus Persson
+- Markus Wolf
+- Marlee Matlin
+- Marlon James (novelist)
+- Maroon 5
+- Marpa Lotsawa
+- Marquis de Condorcet
+- Marquis de Lafayette
+- Marsha Hunt (actress, born 1917)
+- Marsha M. Linehan
+- Marsha P. Johnson
+- Marshall Applewhite
+- Marshall Field
+- Marshall Sahlins
+- Marsilio Ficino
+- Marsilius of Inghen
+- Martha
+- Martha Argerich
+- Martha Mansfield
+- Martha Nussbaum
+- Martha Rountree
+- Martha Stewart
+- Martha Washington
+- Marthanda Varma
+- Martial
+- Martin Agronsky
+- Martin Amis
+- Martin Baron
+- Martin Bashir
+- Martin Behaim
+- Martin Block
+- Martin Bormann
+- Martin Brodeur
+- Martin Buber
+- Martin Bucer
+- Martin Frobisher
+- Martin Gardner
+- Martin Heinrich Klaproth
+- Martin Johnson (rugby union)
+- Martin Landau
+- Martin Lewis Perl
+- Martin Litchfield West
+- Martin McDonagh
+- Martin McGuinness
+- Martin Niemöller
+- Martin Ryle
+- Martin Schrettinger
+- Martin Seligman
+- Martin Sheen
+- Martin Shkreli
+- Martin Short
+- Martin Van Buren
+- Martin Waldseemüller
+- Martin and Lewis
+- Martin of Tours
+- Martina Hingis
+- Martinus Beijerinck
+- Martinus J. G. Veltman
+- Martita Hunt
+- Martti Ahtisaari
+- Martyna Majok
+- Martín Alonso Pinzón
+- Martín Vizcarra
+- Marvelous Marvin Hagler
+- Marvin Hamlisch
+- Marvin Harris
+- Marvin Minsky
+- Mary Ainsworth
+- Mary Anning
+- Mary Astell
+- Mary Astor
+- Mary Barra
+- Mary Beard
+- Mary Berenson
+- Mary Blair
+- Mary Cartwright
+- Mary Cassatt
+- Mary Daly
+- Mary Decker
+- Mary Douglas
+- Mary Ellen Rudin
+- Mary Garrard
+- Mary Gilmore
+- Mary Haas
+- Mary Higgins Clark
+- Mary II
+- Mary J. Blige
+- Mary Jepkosgei Keitany
+- Mary Karr
+- Mary Kay Ash
+- Mary Kingsley
+- Mary Leakey
+- Mary Lou Retton
+- Mary Lou Williams
+- Mary Louisa Armitt
+- Mary MacKillop
+- Mary Mallon
+- Mary Mapes Dodge
+- Mary Martin
+- Mary McAleese
+- Mary McCarthy (author)
+- Mary McLeod Bethune
+- Mary Midgley
+- Mary Millington
+- Mary Oliver
+- Mary Quant
+- Mary Renault
+- Mary Rowlandson
+- Mary Seacole
+- Mary Somerville
+- Mary Steenburgen
+- Mary Tyler Moore
+- Mary Watson Whitney
+- Mary Whiton Calkins
+- Mary Wigman
+- Mary the Jewess
+- Mary, Queen of Hungary
+- Maryam Mirzakhani
+- Maryna Viazovska
+- Maryse Condé
+- María Félix
+- María Rojo
+- Mas Oyama
+- Masahiko Kimura
+- Masahiro Sakurai
+- Masaki Kobayashi
+- Masanobu Fukuoka
+- Masaoka Shiki
+- Masaru Ibuka
+- Masashi Kishimoto
+- Masatoshi Koshiba
+- Masayoshi Son
+- Masinissa
+- Maslama ibn Abd al-Malik
+- Massimo Moratti
+- Massimo Troisi
+- Massimo Vignelli
+- Massive Attack
+- Master Juba
+- Mata Hari
+- Mateiu Caragiale
+- Mathabarsingh Thapa
+- Mathew Brady
+- Mathieu Kérékou
+- Mathieu Orfila
+- Mathilde Kschessinska
+- Mathilde Marchesi
+- Matija Čop
+- Matilda of Boulogne
+- Matrakçı Nasuh
+- Mats Wilander
+- Matsutarō Shōriki
+- Matt Busby
+- Matt Damon
+- Matt Groening
+- Matt Lucas
+- Matt Stone
+- Matteo Maria Boiardo
+- Matteo Messina Denaro
+- Matteo Ricci
+- Matthew Arnold
+- Matthew Boulton
+- Matthew Bourne
+- Matthew C. Perry
+- Matthew Flinders
+- Matthew Fontaine Maury
+- Matthew Fox
+- Matthew Henson
+- Matthew Hopkins
+- Matthew McConaughey
+- Matthew Perry
+- Matthew Prior
+- Matthew Ridgway
+- Matthew Shepard
+- Matthew Webb
+- Matthew the Apostle
+- Matthias Grünewald
+- Matthias Ringmann
+- Matthias the Apostle
+- Matthias, Holy Roman Emperor
+- Matti Nykänen
+- Maud Menten
+- Maude Adams
+- Maumoon Abdul Gayoom
+- Maureen Connolly
+- Maureen O'Hara
+- Maureen Stapleton
+- Maurice Allais
+- Maurice Barrymore
+- Maurice Bishop
+- Maurice Blanchot
+- Maurice Béjart
+- Maurice Chevalier
+- Maurice Ewing
+- Maurice Garin
+- Maurice Hilleman
+- Maurice Leblanc
+- Maurice Maeterlinck
+- Maurice Merleau-Ponty
+- Maurice Pialat
+- Maurice Richard
+- Maurice Saatchi, Baron Saatchi
+- Maurice Scève
+- Maurice Sendak
+- Maurice Wilkes
+- Maurice Wilkins
+- Maurice Yaméogo
+- Maurice de Saxe
+- Maurice, Prince of Orange
+- Mauricio Funes
+- Mauricio Macri
+- Mauricio de Sousa
+- Max Aitken, 1st Baron Beaverbrook
+- Max Beckmann
+- Max Factor Sr.
+- Max Horkheimer
+- Max Linder
+- Max Martin
+- Max Miller (comedian)
+- Max Müller
+- Max Ophüls
+- Max Reinhardt
+- Max Roach
+- Max Scheler
+- Max Schmeling
+- Max Steiner
+- Max Stirner
+- Max Theiler
+- Max von Laue
+- Max von Sydow
+- Maximilian Harden
+- Maximilian I of Mexico
+- Maximilian II, Holy Roman Emperor
+- Maximilian Kolbe
+- Maximilian Schell
+- Maximilian Voloshin
+- Maximiliano Hernández Martínez
+- Maximinus Thrax
+- Maxwell Anderson
+- May-Britt Moser
+- Maya Deren
+- Maya Plisetskaya
+- Mayer Amschel Rothschild
+- Mayhem (band)
+- Maṇḍana Miśra
+- Mbongeni Ngema
+- Meadowlark Lemon
+- Meat Loaf
+- Medgar Evers
+- Meena Kumari
+- Meera Jasmine
+- Megadeth
+- Megan Rapinoe
+- Megasthenes
+- Megawati Sukarnoputri
+- Meghnad Saha
+- Megumi Hayashibara
+- Megyn Kelly
+- Mehboob Khan
+- Mehdi Hassan
+- Meher Baba
+- Mei Lanfang
+- Mei-Po Kwan
+- Meir Kahane
+- Meister Eckhart
+- Mel Blanc
+- Mel Brooks
+- Mel Gibson
+- Melanie Griffith
+- Melanie Klein
+- Melanie Wood
+- Meles Zenawi
+- Melford Spiro
+- Melinda French Gates
+- Melissa Leo
+- Melvil Dewey
+- Melvin Calvin
+- Melvin Schwartz
+- Melvyn Douglas
+- Menachem Begin
+- Menachem Mendel Schneerson
+- Menaechmus
+- Menander
+- Mendele Mocher Sforim
+- Menen Asfaw
+- Menes
+- Mengistu Haile Mariam
+- Menno Simons
+- Menotti Del Picchia
+- Mentewab
+- Mentuhotep II
+- Meralda Warren
+- Merce Cunningham
+- Mercedes McCambridge
+- Mercedes Ruehl
+- Mercedes Sosa
+- Meredith Vieira
+- Meriwether Lewis
+- Merle Haggard
+- Merlene Ottey
+- Merlin Olsen
+- Merneith
+- Merton Miller
+- Merv Griffin
+- Mervyn Peake
+- Merzbow
+- Mesrop Mashtots
+- Meyer Guggenheim
+- Meyer Lansky
+- Mia Farrow
+- Mia Hamm
+- Mia Martini
+- Mia Mottley
+- Michael Andretti
+- Michael Arlen
+- Michael Atiyah
+- Michael Baden
+- Michael Bay
+- Michael Bloomberg
+- Michael Buffer
+- Michael C. Hall
+- Michael Caine
+- Michael Chabon
+- Michael Chekhov
+- Michael Cimino
+- Michael Collins (astronaut)
+- Michael Crawford
+- Michael Crichton
+- Michael Curtiz
+- Michael DeBakey
+- Michael Dell
+- Michael Douglas
+- Michael E. Brown
+- Michael E. Mann
+- Michael Eisner
+- Michael Ende
+- Michael Fassbender
+- Michael Flatley
+- Michael Gambon
+- Michael Halliday
+- Michael Haneke
+- Michael Hastings (journalist)
+- Michael Holding
+- Michael Hordern
+- Michael Howard (historian)
+- Michael I Cerularius
+- Michael J. Fox
+- Michael Jackson (writer)
+- Michael Johnson (sprinter)
+- Michael Joseph Savage
+- Michael Kelly (tenor)
+- Michael Kovats de Fabriczy
+- Michael Kremer
+- Michael Landon
+- Michael Laudrup
+- Michael Manley
+- Michael Mann
+- Michael Milken
+- Michael Moorcock
+- Michael Moore
+- Michael Morris, 3rd Baron Killanin
+- Michael Ondaatje
+- Michael Parkinson
+- Michael Polanyi
+- Michael Porter
+- Michael Powell
+- Michael Psellos
+- Michael Redgrave
+- Michael Sendivogius
+- Michael Servetus
+- Michael Shermer
+- Michael Silverstein
+- Michael Snow
+- Michael Somare
+- Michael Spence
+- Michael Thonet
+- Michael VIII Palaiologos
+- Michael Ventris
+- Michael W. Smith
+- Michael Wittmann
+- Michael Wolff (journalist)
+- Michael of Russia
+- Michael the Brave
+- Michal Martikán
+- Michał Kalecki
+- Michał Korybut Wiśniowiecki
+- Michel Aflaq
+- Michel Butor
+- Michel Fokine
+- Michel Hazanavicius
+- Michel Houellebecq
+- Michel Martelly
+- Michel Mayor
+- Michel Micombero
+- Michel Ney
+- Michel Onfray
+- Michel Piccoli
+- Michel Platini
+- Michel Serrault
+- Michel Simon
+- Michel Temer
+- Michel Thomas
+- Michele Ferrero
+- Michelle Akers
+- Michelle Bachelet
+- Michelle Kwan
+- Michelle McNamara
+- Michelle Obama
+- Michelle Yeoh
+- Michelozzo
+- Michio Kaku
+- Michio Kushi
+- Michio Miyagi
+- Michiya Mihashi
+- Michèle Morgan
+- Mick Jagger
+- Mickey Mantle
+- Mickey Rooney
+- Mickey Rourke
+- Mickey Spillane
+- Mickey Wright
+- Miguel Díaz-Canel
+- Miguel Induráin
+- Miguel López de Legazpi
+- Miguel Primo de Rivera
+- Miguel de Unamuno
+- Miguel de la Madrid
+- Miguel Ángel Asturias
+- Miguel Ángel Félix Gallardo
+- Mihaly Csikszentmihalyi
+- Mihira Bhoja
+- Mika Brzezinski
+- Mika Waltari
+- Mikael Agricola
+- Mikael of Wollo
+- Mikaël Kingsbury
+- Mike Bossy
+- Mike Davis (scholar)
+- Mike Farrell
+- Mike Jackson (British Army officer)
+- Mike Judge
+- Mike Krzyzewski
+- Mike Leigh
+- Mike Myers
+- Mike Nichols
+- Mike Powell (long jumper)
+- Mike Tyson
+- Mike Wallace
+- Mikhael Gromov (mathematician)
+- Mikhail Bakhtin
+- Mikhail Botvinnik
+- Mikhail Budyko
+- Mikhail Fradkov
+- Mikhail Fridman
+- Mikhail Frunze
+- Mikhail Glinka
+- Mikhail Kalashnikov
+- Mikhail Kalatozov
+- Mikhail Kalinin
+- Mikhail Khodorkovsky
+- Mikhail Kutuzov
+- Mikhail Kuzmin
+- Mikhail Mishustin
+- Mikhail Prokhorov
+- Mikhail Saltykov-Shchedrin
+- Mikhail Shishkin (writer)
+- Mikhail Skobelev
+- Mikhail Suslov
+- Mikhail Tal
+- Mikhail Tukhachevsky
+- Mikhail Zharov
+- Mikheil Saakashvili
+- Mikio Naruse
+- Mikis Theodorakis
+- Miklós Horthy
+- Miklós Rózsa
+- Milan Kundera
+- Milarepa
+- Mildred Burke
+- Miles Franklin
+- Miley Cyrus
+- Millard Fillmore
+- Milo of Croton
+- Milo Đukanović
+- Miloš Forman
+- Miltiades
+- Milton Babbitt
+- Milton Berle
+- Milton Bradley
+- Milton Cato
+- Milton Glaser
+- Milton H. Erickson
+- Milton Obote
+- Milton S. Hershey
+- Milutin Milanković
+- Mily Balakirev
+- Mimei Ogawa
+- Min Aung Hlaing
+- Mina (Italian singer)
+- Mina Loy
+- Mina Rees
+- Minamoto no Yoritomo
+- Minamoto no Yoshitsune
+- Mindaugas
+- Mindon Min
+- Mineko Iwasaki
+- Minor Threat
+- Minoru Yamasaki
+- Mir Damad
+- Mir Emad Hassani
+- Mir Osman Ali Khan
+- Mir Sayyid Ali
+- Mir-Hossein Mousavi
+- Mira Sorvino
+- Miranda Kerr
+- Mircea Eliade
+- Mircea Lucescu
+- Mircea the Elder
+- Mireille Mathieu
+- Mireya Moscoso
+- Mirsaid Sultan-Galiev
+- Mirtha Legrand
+- Mirwais Hotak
+- Mirza Fatali Akhundov
+- Mirza Ghulam Ahmad
+- Mischa Elman
+- Misfits (band)
+- Mississippi John Hurt
+- Missy Elliott
+- Mistinguett
+- Misty Copeland
+- Misty May-Treanor
+- Mitch Hedberg
+- Mitford family
+- Mithali Raj
+- Mithridates I of Parthia
+- Mithridates II of Parthia
+- Mitr Chaibancha
+- Mitsuharu Misawa
+- Mitsuko Uchida
+- Mitsuo Fuchida
+- Mitsuru Adachi
+- Mitt Romney
+- Mitzi Gaynor
+- Miuccia Prada
+- Miyoshi Umeki
+- Miyuki Sawashiro
+- Mo Farah
+- Mo Yan
+- Mo'Nique
+- Moacyr Scliar
+- Moana Pozzi
+- Moby
+- Mochizuki Chiyome
+- Modern Talking
+- Modibo Adama
+- Modibo Keïta
+- Mohamed Abdelaziz (Sahrawi politician)
+- Mohamed Al-Fayed
+- Mohamed Atta
+- Mohamed Bouazizi
+- Mohamed Boudiaf
+- Mohamed Choukri
+- Mohamed ElBaradei
+- Mohamed Farrah Aidid
+- Mohamed Lahouaiej-Bouhlel
+- Mohamed Morsi
+- Mohamed Naguib
+- Mohamed Ould Abdel Aziz
+- Mohamed Salah
+- Mohamed bin Zayed Al Nahyan
+- Mohammad Ali Bogra
+- Mohammad Ali Fardin
+- Mohammad Ali Jafari
+- Mohammad Ayub Khan (Afghanistan)
+- Mohammad Daoud Khan
+- Mohammad Hatta
+- Mohammad Khatami
+- Mohammad Najibullah
+- Mohammad-Ali Rajai
+- Mohammad-Baqer Majlesi
+- Mohammad-Reza Lotfi
+- Mohammad-Taqi Bahar
+- Mohammed Abdel Wahab
+- Mohammed Rafi
+- Mohammed V of Morocco
+- Mohammed VI of Morocco
+- Mohammed al-Shaykh
+- Mohammed bin Salman
+- Mohammed bin Thani
+- Mohanlal
+- Mohsen Rezaee
+- Moktar Ould Daddah
+- Momoe Yamaguchi
+- Momoiro Clover Z
+- Moms Mabley
+- Mongane Wally Serote
+- Mongkut
+- Monica Seles
+- Monica Vitti
+- Monique Wittig
+- Monk Eastman
+- Monster of Florence
+- Monta Mino
+- Monte Melkonian
+- Monteiro Lobato
+- Montgomery Clift
+- Montserrat Caballé
+- Monty Hall
+- Moon Jae-in
+- Moranbong Band
+- Morarji Desai
+- Mordecai Kaplan
+- Mordechai Vanunu
+- Morecambe and Wise
+- Morgan Freeman
+- Mori Ōgai
+- Moria Casán
+- Morihei Ueshiba
+- Moritz Schlick
+- Morning Musume
+- Morrie Ryskind
+- Morris (cartoonist)
+- Morris Chang
+- Morris Halle
+- Morris Swadesh
+- Mortimer Wheeler
+- Morton Feldman
+- Morya Gosavi
+- Moses Malone
+- Moshe Dayan
+- Moshe Katsav
+- Moshe Sharett
+- Moshoeshoe II of Lesotho
+- Mother Jones
+- Motoo Kimura
+- Motoori Norinaga
+- Motörhead
+- Mou Zongsan
+- Moussa Traoré
+- Mozi
+- Mr. Children
+- Mr. T
+- MrBeast
+- Mrinal Sen
+- Mswati III
+- Muddy Waters
+- Muhammad Abduh
+- Muhammad Fareed Didi
+- Muhammad II of Khwarazm
+- Muhammad Najib ar-Ruba'i
+- Muhammad Shah of Brunei
+- Muhammad Yunus
+- Muhammad al-Baqir
+- Muhammad al-Idrisi
+- Muhammad al-Jawad
+- Muhammad al-Mahdi
+- Muhammad bin Saud Al Muqrin
+- Muhammad bin Tughluq
+- Muhammad ibn Ali al-Sanusi
+- Muhammad ibn Tughj al-Ikhshid
+- Muhammadu Buhari
+- Muhammed Said Abdulla
+- Mukesh (singer)
+- Mukesh Ambani
+- Mukhtar al-Thaqafi
+- Mulk Raj Anand
+- Mullah Omar
+- Multatuli
+- Mumia Abu-Jamal
+- Mumtaz (Indian actress)
+- Mumtaz Mahal
+- Mungo Park (explorer)
+- Muntadhar al-Zaidi
+- Muqali
+- Muqtada al-Sadr
+- Murad I
+- Murad III
+- Murad IV
+- Murat Reis the Elder
+- Muriel Spark
+- Murray Bookchin
+- Murray Perahia
+- Murray Rothbard
+- Murray Walker
+- Murray the K
+- Mursili I
+- Murtala Muhammed
+- Musa al-Kazim
+- Musa ibn Nusayr
+- Musa of Parthia
+- Muslim Magomayev (musician)
+- Mustafa III
+- Mutesa II of Buganda
+- Muttiah Muralitharan
+- Muzafer Sherif
+- Muzio Clementi
+- Muḥammad ibn 'Abdallāh Hassan
+- My Bloody Valentine (band)
+- My Chemical Romance
+- Mykhailo Hrushevsky
+- Mylène Farmer
+- Myrna Loy
+- Myron
+- Myron Scholes
+- Myrtle Corbin
+- Mzilikazi
+- Mário Soares
+- Mário Zagallo
+- Mário de Andrade
+- Márta Károlyi
+- Mátyás Rákosi
+- Máximo Jerez
+- Mór Jókai
+- Möngke Khan
+- Mötley Crüe
+- Müzeyyen Senar
+- Mōri Motonari
+- N. K. Jemisin
+- N. R. Narayana Murthy
+- N.R.M.
+- N.W.A
+- NSYNC
+- Na Hyesŏk
+- Na Un'gyu
+- Nabonassar
+- Nabonidus
+- Nabopolassar
+- Nachmanides
+- Nadar
+- Nadezhda Krupskaya
+- Nadezhda Mandelstam
+- Nadine Labaki
+- Nagisa Ōshima
+- Naim Süleymanoğlu
+- Naima Akef
+- Najib Razak
+- Nakkaş Osman
+- Nam June Paik
+- Namdev
+- Namie Amuro
+- Namkhai Norbu
+- Nan Goldin
+- Nana Mizuki
+- Nana Mouskouri
+- Nancy Ajram
+- Nancy Astor, Viscountess Astor
+- Nancy Cartwright
+- Nancy Mitford
+- Nancy Pelosi
+- Nancy Roman
+- Nancy Scheper-Hughes
+- Nandalal Bose
+- Nanny of the Maroons
+- Naoko Takeuchi
+- Naomi Campbell
+- Naomi Klein
+- Naomi Mitchison
+- Napoleon Chagnon
+- Narai
+- Naram-Sin of Akkad
+- Narasingha Deva I
+- Narayan Gopal
+- Naresuan
+- Nargis
+- Naropa
+- Naruhito
+- Nas
+- Naseeruddin Shah
+- Naser Orić
+- Naser al-Din Shah Qajar
+- Nasir Hussain
+- Nastasen
+- Nastassja Kinski
+- Nastia Liukin
+- Nat King Cole
+- Nat Love
+- Natalia Goncharova
+- Natalia Lafourcade
+- Natalia Makarova
+- Natalia Molchanova
+- Natalie Coughlin
+- Natalie Portman
+- Natalie Wood
+- Natascha Kampusch
+- Nathan Bedford Forrest
+- Nathan Chen
+- Nathan Hale
+- Nathan Milstein
+- Nathanael Greene
+- Nathanael West
+- Nathaniel Hawthorne
+- Nathaniel Parker Willis
+- Nathuram Godse
+- Natwarlal
+- Naum Gabo
+- Naushad
+- Navin Ramgoolam
+- Nawal El Saadawi
+- Nawaz Sharif
+- Nayib Bukele
+- Neal E. Miller
+- Necho II
+- Nectanebo I
+- Nectanebo II
+- Ned Kelly
+- Neelam Sanjiva Reddy
+- Neferhotep I
+- Negasso Gidada
+- Nehru–Gandhi family
+- Neil Diamond
+- Neil Gaiman
+- Neil Patrick Harris
+- Neil Postman
+- Neil Sedaka
+- Neil Simon
+- Neil Young
+- Neil deGrasse Tyson
+- Neithhotep
+- Nella Larsen
+- Nellie McClung
+- Nellie Melba
+- Nelly Sachs
+- Nelson A. Miles
+- Nelson Algren
+- Nelson Rockefeller
+- Nelson W. Aldrich
+- Nena
+- Nerva
+- Nestor Makhno
+- Nestorius
+- Nettie Stevens
+- Nevil Shute
+- Nevill Mott
+- Neville Chamberlain
+- New Kids on the Block
+- New Order (band)
+- New York Dolls
+- Newt Gingrich
+- Neymar
+- Nezahualcoyotl (tlatoani)
+- Ngapoi Ngawang Jigme
+- Ngawang Namgyal
+- Ngo Dinh Diem
+- Nguyễn Du
+- Nguyễn Khánh
+- Nguyễn Phú Trọng
+- Nguyễn Trãi
+- Nguyễn Văn Thiệu
+- Ngô Bảo Châu
+- Ngô Quyền
+- Ni Kuang
+- Nial O'Glacan
+- Niall Ferguson
+- Niall of the Nine Hostages
+- Nichelle Nichols
+- Nichiren
+- Nicholas Bourbon (the elder)
+- Nicholas Brothers
+- Nicholas Christakis
+- Nicholas Georgescu-Roegen
+- Nicholas I of Montenegro
+- Nicholas Miklouho-Maclay
+- Nicholas Murray Butler
+- Nicholas Ray
+- Nicholas Roerich
+- Nicholas Rowe (writer)
+- Nicholas Sparks
+- Nicholas Winton
+- Nicholas of Cusa
+- Nick Bollettieri
+- Nick Bostrom
+- Nick Cave and the Bad Seeds
+- Nick Drake
+- Nick Enright
+- Nick Faldo
+- Nick Land
+- Nick Park
+- Nick Saban
+- Nicki Minaj
+- Nicklas Lidström
+- Nicky Barnes
+- Nicol David
+- Nicola Amati
+- Nicola Pisano
+- Nicolaas Bloembergen
+- Nicolas Appert
+- Nicolas Boileau-Despréaux
+- Nicolas Bourbaki
+- Nicolas Cage
+- Nicolas Chédeville
+- Nicolas Desmarest
+- Nicolas Hayek
+- Nicolas Malebranche
+- Nicolas Restif de la Bretonne
+- Nicolas Roeg
+- Nicolas Sarkozy
+- Nicolas Slonimsky
+- Nicolas Steno
+- Nicolas Winding Refn
+- Nicolau Lobato
+- Nicole Kidman
+- Nicole Oresme
+- Nicolás Guillén
+- Nicolás Maduro
+- Nie Rongzhen
+- Nigel Farage
+- Nigella Lawson
+- Nightwish
+- Nik Wallenda
+- Nike Ardilla
+- Nikephoros II Phokas
+- Nikhil Banerjee
+- Niki Lauda
+- Nikita Mikhalkov
+- Niklas Luhmann
+- Niklaus Wirth
+- Niko Pirosmani
+- Nikola Jokić
+- Nikola Karabatić
+- Nikola Pašić
+- Nikolaas Tinbergen
+- Nikolai Andrianov
+- Nikolai Bukharin
+- Nikolai Fyodorov (philosopher)
+- Nikolai Gumilev
+- Nikolai Kryuchkov
+- Nikolai Leskov
+- Nikolai Ogarkov
+- Nikolai Ostrovsky
+- Nikolai Podgorny
+- Nikolai Trubetzkoy
+- Nikolai Vavilov
+- Nikolaus Harnoncourt
+- Nikolay Basov
+- Nikolay Cherkasov
+- Nikolay Chernyshevsky
+- Nikolay Makarov (firearms designer)
+- Nikolay Nekrasov
+- Nikolay Novikov
+- Nikolay Pirogov
+- Nikolay Przhevalsky
+- Nikolay Zhukovsky (scientist)
+- Nikos Kazantzakis
+- Nima Yooshij
+- Nimr al-Nimr
+- Nina Simone
+- Nine Inch Nails
+- Ninette de Valois
+- Ninety One (group)
+- Ninja (gamer)
+- Ninoy Aquino
+- Nirupa Roy
+- Nitesh Tiwari
+- Nizam-ul-Mulk, Asaf Jah I
+- Nizar Nayyouf
+- Noah (band)
+- Nobuo Uematsu
+- Nobusuke Kishi
+- Nobutsuna Sasaki
+- Nobuyoshi Araki
+- Nogai Khan
+- Nogi Maresuke
+- Noir Désir
+- Nolan Bushnell
+- Nolan Ryan
+- Noor Jehan
+- Nora Aunor
+- Nora Ephron
+- Nora Roberts
+- Norbert Elias
+- Norbert Leo Butz
+- Norbert Wiener
+- Norm Macdonald
+- Norma Shearer
+- Norma Talmadge
+- Norman Bel Geddes
+- Norman Bridwell
+- Norman Finkelstein
+- Norman Foster
+- Norman Granz
+- Norman Lear
+- Norman Lindsay
+- Norman Mailer
+- Norman Manley
+- Norman McLaren
+- Norman Ramsey Jr.
+- Norman Schwarzkopf Jr.
+- Norman Wisdom
+- Norodom Sihamoni
+- Norodom Sihanouk
+- Northrop Frye
+- Nouri al-Maliki
+- Nouriel Roubini
+- Novalis
+- Noël Coward
+- Numa Denis Fustel de Coulanges
+- Nuon Chea
+- Nur Ahmed Aman
+- Nur Jahan
+- Nur Muhammad Taraki
+- Nuri Bilge Ceylan
+- Nuri al-Said
+- Nursultan Nazarbayev
+- Nuruddin Farah
+- Nutan
+- Ny Avana Ramanantoanina
+- Nyi Pu
+- Nyjah Huston
+- Nyuserre Ini
+- Nâzım Hikmet
+- Néstor Kirchner
+- O-Zone
+- O. G. S. Crawford
+- O. Henry
+- O. J. Simpson
+- O. P. Nayyar
+- OC Ukeje
+- Oasis (band)
+- Octave Chanute
+- Octave Mirbeau
+- Octavia E. Butler
+- Octavia Spencer
+- Octavio Paz
+- Odetta
+- Odilo Globocnik
+- Odilon Redon
+- Odoacer
+- Odysseas Elytis
+- Offa of Mercia
+- Ofra Haza
+- Ogata Kenzan
+- Ogata Kōrin
+- Ogden Nash
+- Oguri Kozukenosuke
+- Olaf Haraldsson
+- Olaf Scholz
+- Olaf Stapledon
+- Olafur Eliasson
+- Olaudah Equiano
+- Olavo Bilac
+- Old Tom Morris
+- Ole Einar Bjørndalen
+- Ole Kirk Christiansen
+- Ole Worm
+- Oleg Blokhin
+- Oleg Penkovsky
+- Oleg Popov
+- Oleg Yankovsky
+- Oleg the Wise
+- Oleksandr Usyk
+- Olga Berggolts
+- Olga Chekhova
+- Olga Korbut
+- Olga Spessivtseva
+- Olga Tokarczuk
+- Olga of Kiev
+- Olive Thomas
+- Oliver E. Williamson
+- Oliver Goldsmith
+- Oliver Hardy
+- Oliver Hart (economist)
+- Oliver Hazard Perry
+- Oliver Heaviside
+- Oliver Lodge
+- Oliver Mtukudzi
+- Oliver North
+- Oliver Sacks
+- Oliver Stone
+- Oliver Wendell Holmes Jr.
+- Oliver Wendell Holmes Sr.
+- Oliver Winchester
+- Olivia Colman
+- Olivia Newton-John
+- Olivia de Havilland
+- Olivier Blanchard
+- Olivier Messiaen
+- Olof Palme
+- Olympe de Gouges
+- Olympia Dukakis
+- Olympias
+- Omar Ali Saifuddien III
+- Omar Bongo
+- Omar Bradley
+- Omar Saidou Tall
+- Omar Sharif
+- Omar Sy
+- Omar Torrijos
+- Omar al-Bashir
+- Omotola Jalade Ekeinde
+- One Direction
+- Onjo of Paekche
+- Ono no Komachi
+- Oodgeroo Noonuccal
+- Oral Roberts
+- Ordoño II of León
+- Oriana Fallaci
+- Original Dixieland Jass Band
+- Orlando Gibbons
+- Orlando di Lasso
+- Ornette Coleman
+- Oronce Fine
+- Orry-Kelly
+- Orson Scott Card
+- Orville Gibson
+- Osbert Sitwell
+- Osborne Reynolds
+- Oscar Browning
+- Oscar De La Hoya
+- Oscar Peterson
+- Oscar Pistorius
+- Oscar Robertson
+- Oscar Schmidt
+- Oscar de la Renta
+- Osei Kofi Tutu I
+- Osiel Cárdenas Guillén
+- Osip Mandelstam
+- Oskar Dirlewanger
+- Oskar Kokoschka
+- Oskar Schindler
+- Osman Waqialla
+- Osorkon I
+- Ossie Davis
+- Ossip Zadkine
+- Oswald Mosley
+- Oswald Spengler
+- Oswald Veblen
+- Oswald de Andrade
+- Oswald of Northumbria
+- Oswaldo López Arellano
+- Ota Benga
+- Otelo Saraiva de Carvalho
+- Othniel Charles Marsh
+- Otis Redding
+- Oton Župančič
+- Ottavio Rinuccini
+- Otto Carius
+- Otto Dix
+- Otto Graham
+- Otto Heinrich Warburg
+- Otto II, Holy Roman Emperor
+- Otto III, Holy Roman Emperor
+- Otto IV, Holy Roman Emperor
+- Otto Jespersen
+- Otto Klemperer
+- Otto Lilienthal
+- Otto Neurath
+- Otto Ohlendorf
+- Otto Preminger
+- Otto Rank
+- Otto Skorzeny
+- Otto Stern
+- Otto Wagner
+- Otto von Guericke
+- Ottokar II of Bohemia
+- Ottomar Anschütz
+- Ottorino Respighi
+- Oumarou Ganda
+- Oumou Sangaré
+- Our Lady of Guadalupe
+- Outkast
+- Ouyang Xun
+- Ovadia Yosef
+- Ovonramwen
+- Owain Glyndŵr
+- Owen Arthur
+- Owen Chamberlain
+- Owen D. Young
+- Owen Richardson
+- Ozaki Kōyō
+- Ozzy Osbourne
+- P. D. James
+- P. G. T. Beauregard
+- P. G. Wodehouse
+- P. J. Patterson
+- P. L. Travers
+- P. Ramlee
+- P. T. Barnum
+- P. T. Selbit
+- P. V. Narasimha Rao
+- P. W. Botha
+- PJ Harvey
+- Paavo Haavikko
+- Pablo de Sarasate
+- Pacita Abad
+- Pacuvius
+- Paddy Chayefsky
+- Padmini Kolhapure
+- Padre Pio
+- Pafnuty Chebyshev
+- Paik Sun-yup
+- Pak Kyongni
+- Pak Se-ri
+- Paloma Picasso
+- Pamela Anderson
+- Pamphile of Epidaurus
+- Pan Hong
+- Pancho Gonzales
+- Pancho Vladigerov
+- Pandrosion
+- Pandukabhaya
+- Pantera
+- Paolo Bonolis
+- Paolo Borsellino
+- Paolo Maldini
+- Paolo Rossi
+- Paolo Uccello
+- Paolo Veronese
+- Papa Wemba
+- Papias of Hierapolis
+- Papinian
+- Pappus of Alexandria
+- Parameswara of Malacca
+- Paramore
+- Parikshit
+- Paris Hilton
+- Park Bo-gum
+- Park Chan-wook
+- Park Dietz
+- Park Geun-hye
+- Park Sung-hyun (archer)
+- Park Wan-suh
+- Parliament-Funkadelic
+- Parmenides
+- Parmenion
+- Parmigianino
+- Parvin E'tesami
+- Pascual Jordan
+- Pasquale Paoli
+- Pat Barker
+- Pat Garrett
+- Pat Metheny
+- Pat Riley
+- Pat Robertson
+- Pat Summitt
+- Patriarch Alexy I of Moscow
+- Patriarch Filaret of Moscow
+- Patriarch Hermogenes of Moscow
+- Patriarch Job of Moscow
+- Patriarch Pimen I of Moscow
+- Patriarch Tikhon of Moscow
+- Patricia Arquette
+- Patricia Churchland
+- Patricia Cornwell
+- Patricia Heaton
+- Patricia Highsmith
+- Patricia Hill Collins
+- Patricia Neal
+- Patricio Aylwin
+- Patricio Guzmán
+- Patrick Blackett
+- Patrick Chamoiseau
+- Patrick Geddes
+- Patrick Henry
+- Patrick Mahomes
+- Patrick Modiano
+- Patrick Moore
+- Patrick Pearse
+- Patrick Roy
+- Patrick Stewart
+- Patrick Swayze
+- Patrick Süskind
+- Patrisse Cullors
+- Patsy Cline
+- Patti LuPone
+- Patti Page
+- Patti Smith
+- Patty Berg
+- Patty Duke
+- Patty Hearst
+- Patty Sheehan
+- Pau Gasol
+- Paul Allen
+- Paul Anastas
+- Paul Anka
+- Paul Baran
+- Paul Berg
+- Paul Bocuse
+- Paul Brown
+- Paul Bénichou
+- Paul Castellano
+- Paul Claudel
+- Paul Cohen
+- Paul Cornu
+- Paul Dacre
+- Paul Ehrenfest
+- Paul Ehrlich
+- Paul Ekman
+- Paul Elvstrøm
+- Paul Erdős
+- Paul Farmer
+- Paul Feyerabend
+- Paul Flory
+- Paul Fort
+- Paul Goodman
+- Paul Grice
+- Paul Hamm
+- Paul Harvey
+- Paul Heyse
+- Paul Hindemith
+- Paul Hogan
+- Paul Keating
+- Paul Kruger
+- Paul Krugman
+- Paul Landowski
+- Paul Laurence Dunbar
+- Paul Lazarsfeld
+- Paul Lomami-Tshibamba
+- Paul Lynde
+- Paul Mantz
+- Paul McCartney
+- Paul Morphy
+- Paul Muni
+- Paul Newman
+- Paul Nurse
+- Paul Otlet
+- Paul Pimsleur
+- Paul R. Ehrlich
+- Paul Radmilovic
+- Paul Raymond (publisher)
+- Paul Reubens
+- Paul Reuter
+- Paul Revere
+- Paul Ricœur
+- Paul Robeson
+- Paul Romer
+- Paul Scarron
+- Paul Scofield
+- Paul Scoon
+- Paul Scott (novelist)
+- Paul Signac
+- Paul Simon
+- Paul Strand
+- Paul Taffanel
+- Paul Taylor (choreographer)
+- Paul Thomas Anderson
+- Paul Tillich
+- Paul Valéry
+- Paul Verhoeven
+- Paul Verlaine
+- Paul Vidal de La Blache
+- Paul Warburg
+- Paul Whiteman
+- Paul de Man
+- Paul von Lettow-Vorbeck
+- Paul Éluard
+- Paula Modersohn-Becker
+- Paula Radcliffe
+- Paulette Nardal
+- Pauline Kael
+- Paulino Alcántara
+- Paulo Coelho
+- Paulo Freire
+- Pausanias (geographer)
+- Pausanias of Orestis
+- Pavel Alexandrov
+- Pavel Cherenkov
+- Pavel Florensky
+- Pavel Kolobkov
+- Pavel Nakhimov
+- Pavel Schilling
+- Pavel Tretyakov
+- Pavel Tsitsianov
+- Paweł Strzelecki
+- Payne Stewart
+- Pearl Bailey
+- Pearl Jam
+- Pearl Rivers
+- Pearl S. Buck
+- Pearl White
+- Pedro Almodóvar
+- Pedro Armendáriz
+- Pedro Eugenio Aramburu
+- Pedro Fernandes de Queirós
+- Pedro Infante
+- Pedro López (serial killer)
+- Pedro Martínez
+- Pedro Pablo Kuczynski
+- Pedro Rodrigues Filho
+- Pedro Romero
+- Pedro Santana
+- Pedro Sánchez
+- Pedro de Alvarado
+- Peggy Ashcroft
+- Peggy Fleming
+- Peggy Guggenheim
+- Peggy Hopkins Joyce
+- Peggy Whitson
+- Pemulwuy
+- Pendleton Dudley
+- Penelope Eckert
+- Penelope Fitzgerald
+- Penelope Lively
+- Peng Dehuai
+- Penn & Teller
+- Penny Jordan
+- Penny Marshall
+- Penélope Cruz
+- Pep Guardiola
+- Pepi II Neferkare
+- Pepin of Herstal
+- Pepin the Short
+- Per Teodor Cleve
+- Percy Faith
+- Percy Fawcett
+- Percy Lavon Julian
+- Percy Pilcher
+- Percy Williams Bridgman
+- Perfume (Japanese band)
+- Periyar
+- Pero Vaz de Caminha
+- Perry Como
+- Pervez Musharraf
+- Pet Shop Boys
+- Petchara Chaowarat
+- Pete Conrad
+- Pete Maravich
+- Pete Rose
+- Pete Rozelle
+- Pete Sampras
+- Pete Seeger
+- Pete Townshend
+- Peter Artedi
+- Peter Behrens
+- Peter Blau
+- Peter Bogdanovich
+- Peter Brook
+- Peter Canisius
+- Peter Carey (novelist)
+- Peter Carl Fabergé
+- Peter Chrysologus
+- Peter Cook
+- Peter Damian
+- Peter Diamond
+- Peter Dickinson
+- Peter Dinklage
+- Peter Faber
+- Peter Falk
+- Peter Finch
+- Peter Force
+- Peter Fraser
+- Peter Freuchen
+- Peter Gabriel
+- Peter Greenaway
+- Peter Grünberg
+- Peter Handke
+- Peter Higgs
+- Peter III of Aragon
+- Peter IV of Aragon
+- Peter Jackson
+- Peter Jennings
+- Peter Kenilorea
+- Peter Ladefoged
+- Peter Matthiessen
+- Peter Maxwell Davies
+- Peter Medawar
+- Peter O'Neill
+- Peter Parler
+- Peter Piot
+- Peter Porter (poet)
+- Peter Safar
+- Peter Schmeichel
+- Peter Sculthorpe
+- Peter Sellers
+- Peter Simon Pallas
+- Peter Singer
+- Peter Sutcliffe
+- Peter Thiel
+- Peter Travers
+- Peter Ustinov
+- Peter Weir
+- Peter Zumthor
+- Peter the Hermit
+- Peter, Paul and Mary
+- Petra Kelly
+- Petro Konashevych-Sahaidachny
+- Petro Poroshenko
+- Petula Clark
+- PewDiePie
+- Peyo
+- Peyton Manning
+- Phan Bội Châu
+- Phan Đình Phùng
+- Pharrell Williams
+- Pheidippides
+- Phil Collins
+- Phil Hartman
+- Phil Hellmuth
+- Phil Ivey
+- Phil Jackson
+- Phil Keoghan
+- Phil Knight
+- Phil Mickelson
+- Phil Ochs
+- Phil Silvers
+- Phil Spector
+- Phil Taylor (darts player)
+- Philaret Drozdov
+- Philibert Tsiranana
+- Philip Astley
+- Philip Danforth Armour
+- Philip Henry Gosse
+- Philip I of France
+- Philip II, Metropolitan of Moscow
+- Philip III of France
+- Philip III of Spain
+- Philip IV of Spain
+- Philip K. Dick
+- Philip Kotler
+- Philip Larkin
+- Philip Pullman
+- Philip Roth
+- Philip Seymour Hoffman
+- Philip Sheridan
+- Philip Sidney
+- Philip Stanhope, 4th Earl of Chesterfield
+- Philip V of France
+- Philip VI of France
+- Philip W. Anderson
+- Philip Zimbardo
+- Philip the Apostle
+- Philip the Arab
+- Philip the Good
+- Philipp Kirkorov
+- Philipp Lenard
+- Philipp Spener
+- Philippa Fawcett
+- Philippa Langley
+- Philippe Ariès
+- Philippe Leclerc de Hauteclocque
+- Philippe Noiret
+- Philippe Petit
+- Philippe Pétain
+- Philippe-François-Joseph Le Bas
+- Phillis Wheatley
+- Philo
+- Philopoemen
+- Phineas Gage
+- Phineas Parkhurst Quimby
+- Phoebe Palmer
+- Phormio
+- Phryne
+- Phyllis Diller
+- Phyllis Schlafly
+- Phyllis Spira
+- Phạm Tuân
+- Pier Gerlofs Donia
+- Pier Paolo Pasolini
+- Pierce Brosnan
+- Pierina Legnani
+- Pierluigi Collina
+- Piero Manzoni
+- Piero Sraffa
+- Piero della Francesca
+- Pierre Balmain
+- Pierre Bayle
+- Pierre Bonnard
+- Pierre Cardin
+- Pierre Choderlos de Laclos
+- Pierre Corneille
+- Pierre Daunou
+- Pierre Duhem
+- Pierre Fauchard
+- Pierre Guillaume Frédéric le Play
+- Pierre Laval
+- Pierre Louis Maupertuis
+- Pierre Louÿs
+- Pierre Monteux
+- Pierre Nkurunziza
+- Pierre Omidyar
+- Pierre Restany
+- Pierre Richard
+- Pierre Rosenberg
+- Pierre Salinger
+- Pierre Savorgnan de Brazza
+- Pierre Schaeffer
+- Pierre Teilhard de Chardin
+- Pierre Terrail, seigneur de Bayard
+- Pierre de Marivaux
+- Pierre de Ronsard
+- Pierre-Augustin Hulin
+- Pierre-Augustin de Beaumarchais
+- Pierre-Gilles de Gennes
+- Pierre-Jean De Smet
+- Pierre-Joseph Cambon
+- Piers Morgan
+- Pieter Cort van der Linden
+- Pieter Geyl
+- Pieter Zeeman
+- Pietro Metastasio
+- Pietro Perugino
+- Pina Bausch
+- Pindar
+- Pingala
+- Pink (singer)
+- Pink Lady (duo)
+- Pir Roshan
+- Piri Reis
+- Pisith Pilika
+- Pitirim Sorokin
+- Pixies (band)
+- Pixinguinha
+- Piye
+- Plaek Phibunsongkhram
+- Plautilla Nelli
+- Pliny the Younger
+- Plutarco Elías Calles
+- Po'pay
+- Pocahontas
+- Pokimane
+- Pola Negri
+- Polly Adler
+- Polybius
+- Polycarp
+- Polygnotus
+- Polykarp Kusch
+- Polykleitos
+- Pomponius Mela
+- Pontiac (Odawa leader)
+- Pontius Pilate
+- Pontormo
+- Pontus de Tyard
+- Pony Ma
+- Pope Adrian IV
+- Pope Alexander I
+- Pope Alexander III
+- Pope Benedict XIV
+- Pope Benedict XV
+- Pope Benedict XVI
+- Pope Clement VIII
+- Pope Clement XI
+- Pope Damasus I
+- Pope Eugene III
+- Pope Francis
+- Pope Gregory II
+- Pope Gregory IX
+- Pope Gregory XIII
+- Pope Honorius I
+- Pope Innocent IV
+- Pope John X
+- Pope John XXII
+- Pope Leo III
+- Pope Leo IX
+- Pope Leo X
+- Pope Leo XIII
+- Pope Linus
+- Pope Martin V
+- Pope Paschal II
+- Pope Paul VI
+- Pope Pius VI
+- Pope Pius VII
+- Pope Pius X
+- Pope Pius XII
+- Pope Sixtus IV
+- Pope Sylvester I
+- Pope Sylvester II
+- Pope Urban VI
+- Pope Urban VIII
+- Pope Zephyrinus
+- Porfirio Rubirosa
+- Porntip Rojanasunan
+- Porphyry of Tyre
+- Portishead (band)
+- Porus
+- Posidonius
+- Potter Stewart
+- Poul Schlüter
+- Powhatan (Native American leader)
+- Prabhas
+- Prabhat Ranjan Sarkar
+- Prabhu Deva
+- Prabhākara
+- Prabowo Subianto
+- Prajadhipok
+- Pramoedya Ananta Toer
+- Pran (actor)
+- Pranab Mukherjee
+- Prasanna Vithanage
+- Pratibha Patil
+- Pratinas
+- Praxiteles
+- Prayut Chan-o-cha
+- Preity Zinta
+- Prem Tinsulanonda
+- Preston Sturges
+- Primo Levi
+- Prince Albert of Saxe-Coburg and Gotha
+- Prince Johnson
+- Prince Randian
+- Prince Rupert of the Rhine
+- Prince Shōtoku
+- Prince William, Duke of Cumberland
+- Princes in the Tower
+- Priyanka Chopra
+- Proclus
+- Procopius
+- Prokop the Great
+- Prosper Mérimée
+- Protagoras
+- Prudente de Morais
+- Psamtik II
+- Pseudo-Democritus
+- Psy
+- Ptolemy II Philadelphus
+- Ptolemy III Euergetes
+- Ptolemy XII Auletes
+- Public Enemy
+- Pulakeshin II
+- Pumpuang Duangjan
+- Punsalmaagiin Ochirbat
+- Purandara Dasa
+- Pushpa Kamal Dahal
+- Pushyamitra Shunga
+- Pussy Riot
+- Puttanna Kanagal
+- Pyotr Bagration
+- Pyotr Chaadayev
+- Pyotr Kapitsa
+- Pyotr Krasnov
+- Pyotr Stolypin
+- Pyotr Wrangel
+- Pyrrho
+- Pyrros Dimas
+- Pytheas
+- Pánfilo de Narváez
+- Pär Lagerkvist
+- Pérez Prado
+- Pérotin
+- Pārśvanātha
+- Pōmare I
+- Pōmare II
+- Pōmare IV
+- Pōmare V
+- Qaboos bin Said
+- Qasem Soleimani
+- Qi Baishi
+- Qian Xuesen
+- Qian Zhongshu
+- Qin Jiushao
+- Qiu Jin
+- Qiu Ying
+- Qiu Zhu
+- Quamrul Hassan
+- Queen Latifah
+- Queen Seondeok of Silla
+- Quentin Crisp
+- Quentin Matsys
+- Quentin Skinner
+- Quincy Jones
+- Quintus Curtius Rufus
+- Quintus Fabius Maximus Verrucosus
+- Quintus Fabius Pictor
+- Quintus Roscius Gallus
+- Quintus Sertorius
+- Qul Ghali
+- R. B. Bennett
+- R. C. Gorman
+- R. C. Sherriff
+- R. D. Laing
+- R. G. Collingwood
+- R. H. Tawney
+- R. K. Narayan
+- R. Kelly
+- R. L. Stine
+- R. M. Hare
+- R. Nataraja Mudaliar
+- R.E.M.
+- Rabi Lamichhane
+- Rabia Basri
+- Rabih az-Zubayr
+- Rachel Félix
+- Rachel Maddow
+- Rachel McAdams
+- Rachel Ruysch
+- Rachel Weisz
+- Rachel de Queiroz
+- Rachid Taha
+- Raden Saleh
+- Raden Wijaya
+- Radhabinod Pal
+- Radhanath Sikdar
+- Radhika Pandit
+- Radiohead
+- Radomir Putnik
+- Radovan Karadžić
+- Radu Lupu
+- Rae Armantrout
+- Rafael Caldera
+- Rafael Carrera
+- Rafael Correa
+- Rafael Nadal
+- Rafael Núñez
+- Rafael Urdaneta
+- Rafer Johnson
+- Raffaella Carrà
+- Rafic Hariri
+- Rage Against the Machine
+- Raghuram Rajan
+- Ragnar Frisch
+- Rahul Dravid
+- Raichand Boral
+- Raihan
+- Raimondo Montecuccoli
+- Raimundo Correia
+- Rain (entertainer)
+- Rainer Weiss
+- Rainer Werner Fassbinder
+- Rainier III, Prince of Monaco
+- Rainilaiarivony
+- Raja Ram Mohan Roy
+- Raja Rao
+- Raja Ravi Varma
+- Rajah Sulayman
+- Rajendra I
+- Rajendra Prasad
+- Rajesh Khanna
+- Rajiv Gandhi
+- Rajkumar Hirani
+- Rajkumar Santoshi
+- Rajneesh
+- Rakesh Roshan
+- Rakhee Gulzar
+- Rakhshān Banietemad
+- Ralf Dahrendorf
+- Ralf Schumann
+- Ralph Abernathy
+- Ralph Bakshi
+- Ralph Bunche
+- Ralph Ellison
+- Ralph H. Baer
+- Ralph J. Gleason
+- Ralph Lauren
+- Ralph Linton
+- Ralph Nader
+- Ralph Richardson
+- Ram Baran Yadav
+- Ram Gopal (dancer)
+- Rama II
+- Rama III
+- Ramesses VI
+- Ramiro II of León
+- Ramkinkar Baij
+- Rammstein
+- Ramon Berenguer IV, Count of Barcelona
+- Ramon Llull
+- Ramon Magsaysay
+- Ramon Novarro
+- Ramones
+- Ramprasad Sen
+- Ramsay MacDonald
+- Ramsey Nouah
+- Ramzan Kadyrov
+- Ramón Castilla
+- Ramón Freire
+- Ramón Grau
+- Ramón Mercader
+- Ramón Valdés
+- Ramón Villeda Morales
+- Ranbir Kapoor
+- Randolph L. Braham
+- Randolph Scott
+- Randy Barnes
+- Randy Couture
+- Randy Johnson
+- Randy Savage
+- Rani Mukerji
+- Ranjit Singh
+- Ranjitsinhji
+- Rano Karno
+- Ranulph Fiennes
+- Ranveer Singh
+- Raoni Metuktire
+- Raoul Coutard
+- Raoul Salan
+- Raoul Wallenberg
+- Raoul Walsh
+- Raphael (singer)
+- Raphael Lemkin
+- Raquel Welch
+- Rashid Karami
+- Rashid ad-Din Sinan
+- Rashid al-Din Hamadani
+- Rashidun
+- Rasmus Rask
+- Rasul Gamzatov
+- Ratan Tata
+- Ratko Mladić
+- Ratko Rudić
+- Rauf Denktaş
+- Raul Julia
+- Raul Pompeia
+- Rav Ashi
+- Ravachol
+- Ray Bourque
+- Ray Jackendoff
+- Ray Kroc
+- Ray Kurzweil
+- Ray Lewis
+- Ray Meagher
+- Ray Milland
+- Ray Tomlinson
+- Ray William Johnson
+- Raymond A. Spruance
+- Raymond Aron
+- Raymond Burr
+- Raymond Carver
+- Raymond Cattell
+- Raymond Ceulemans
+- Raymond Davis Jr.
+- Raymond Poincaré
+- Raymond Queneau
+- Raymond Washington
+- Raymond Williams
+- Raël
+- Raúl Alfonsín
+- Raúl Castro
+- Raúl Leoni
+- Rebecca Goldstein
+- Rebecca Walker
+- Rebecca West
+- Rebekah Brooks
+- Rebiya Kadeer
+- Rechelle Hawkes
+- Red Adair
+- Red Auerbach
+- Red Cloud
+- Red Grange
+- Red Hot Chili Peppers
+- Red Skelton
+- Red Velvet (group)
+- Redd Foxx
+- Reed Hastings
+- Reese Witherspoon
+- Reggie White
+- Regina King
+- Reginald Fessenden
+- Regine Velasquez
+- Regis Philbin
+- Regla Torres
+- Reiner Klimke
+- Reinhard Genzel
+- Reinhard Heydrich
+- Reinhard Selten
+- Reinhold Messner
+- Rekha
+- Rem Koolhaas
+- Ren Zhengfei
+- Renata Tebaldi
+- Renato Simoni
+- Rentarō Mikuni
+- Renzo Piano
+- René Antoine Ferchault de Réaumur
+- René Barrientos
+- René Belbenoît
+- René Caillié
+- René Cassin
+- René Char
+- René Clair
+- René Coty
+- René Girard
+- René Goscinny
+- René Lacoste
+- René Laennec
+- René Lévesque
+- René-Robert Cavelier, Sieur de La Salle
+- Renée Fleming
+- Renée Richards
+- Renée Zellweger
+- Revathi
+- Rex Harrison
+- Rex Stout
+- Reza Abbasi
+- Reza Shah
+- Rhoma Irama
+- Ri Ki-yong
+- Riad Al Solh
+- Ric Flair
+- Ricardo Arjona
+- Ricardo Güiraldes
+- Ricardo Jiménez Oreamuno
+- Ricardo Lagos
+- Ricardo Montalbán
+- Riccardo Giacconi
+- Richard Aldington
+- Richard Allen (bishop)
+- Richard Arkwright
+- Richard Attenborough
+- Richard Avedon
+- Richard Bandler
+- Richard Barthelmess
+- Richard Bellman
+- Richard Bentley
+- Richard Borshay Lee
+- Richard Branson
+- Richard Burbage
+- Richard Burton
+- Richard Cantillon
+- Richard Chamberlain
+- Richard Crashaw
+- Richard Dawkins
+- Richard Doll
+- Richard Dreyfuss
+- Richard E. Byrd
+- Richard E. Taylor
+- Richard F. Gordon Jr.
+- Richard F. Outcault
+- Richard Fitzalan, 3rd Earl of Arundel
+- Richard Flanagan
+- Richard Francis Burton
+- Richard Garfield
+- Richard Genée
+- Richard Griffiths
+- Richard Hadlee
+- Richard Harris
+- Richard Hawkins
+- Richard Hofstadter
+- Richard II of England
+- Richard III of England
+- Richard J. Evans
+- Richard Jordan Gatling
+- Richard K. Guy
+- Richard Kuklinski
+- Richard Leakey
+- Richard Linklater
+- Richard M. Karp
+- Richard Meier
+- Richard Mulcahy
+- Richard Neutra
+- Richard Neville, 16th Earl of Warwick
+- Richard Owen
+- Richard Petty
+- Richard Porson
+- Richard Posner
+- Richard Prince
+- Richard Ramirez
+- Richard Rodgers
+- Richard Roeper
+- Richard Rogers
+- Richard Rorty
+- Richard Scarry
+- Richard Seddon
+- Richard Serra
+- Richard Simmons
+- Richard Sorge
+- Richard Stallman
+- Richard Steele
+- Richard Stone
+- Richard Tarlton
+- Richard Thaler
+- Richard Trevithick
+- Richard Warren Sears
+- Richard Wolin
+- Richard Wright (author)
+- Richard Yates (novelist)
+- Richard and Maurice McDonald
+- Richard von Coudenhove-Kalergi
+- Richard von Krafft-Ebing
+- Richie Benaud
+- Richie McCaw
+- Rick Astley
+- Rick Baker
+- Rick James
+- Rick Riordan
+- Rick Rubin
+- Rickey Henderson
+- Ricky Carmichael
+- Ricky Gervais
+- Ricky Jay
+- Ricky Lee
+- Ricky Martin
+- Ricky Nelson
+- Ricky Ponting
+- Ridley Scott
+- Rigas Feraios
+- Rigoberta Menchú
+- Rihanna
+- Rikidōzan
+- Ringling brothers
+- Ringo Starr
+- Rinus Michels
+- Rita Hayworth
+- Rita Levi-Montalcini
+- Rita Moreno
+- Ritchie Valens
+- Rithy Panh
+- Ritwik Ghatak
+- Rob Liefeld
+- Rob Paulsen
+- Rob Reiner
+- Robbie Williams
+- Robert A. Kehoe
+- Robert Adam
+- Robert Aldrich
+- Robert Altman
+- Robert Atkins (physician)
+- Robert Aumann
+- Robert B. Laughlin
+- Robert Ballard
+- Robert Bellarmine
+- Robert Blake (admiral)
+- Robert Borden
+- Robert Bosch
+- Robert Bridges
+- Robert Brown (botanist, born 1773)
+- Robert Browning
+- Robert Bunsen
+- Robert C. Merton
+- Robert Campin
+- Robert Capa
+- Robert Caro
+- Robert Cecil, Viscount Cecil of Chelwood
+- Robert Christgau
+- Robert Cialdini
+- Robert Coleman Richardson
+- Robert Conquest
+- Robert Crumb
+- Robert D. Putnam
+- Robert Delaunay
+- Robert Desnos
+- Robert Doisneau
+- Robert Donat
+- Robert Downey Jr.
+- Robert Dudley, 1st Earl of Leicester
+- Robert Duncan (poet)
+- Robert Duvall
+- Robert E. Howard
+- Robert E. Lee
+- Robert E. Park
+- Robert E. Sherwood
+- Robert Edwards (physiologist)
+- Robert Englund
+- Robert Esnault-Pelterie
+- Robert Ettinger
+- Robert Evans
+- Robert F. Engle
+- Robert F. Kennedy
+- Robert Fergusson
+- Robert Fico
+- Robert Fisk
+- Robert FitzRoy
+- Robert Fogel
+- Robert Frank
+- Robert Gallo
+- Robert Gascoyne-Cecil, 3rd Marquess of Salisbury
+- Robert Graves
+- Robert Gray (sea captain)
+- Robert Grosseteste
+- Robert Guillaume
+- Robert Guérin
+- Robert Hanssen
+- Robert Henryson
+- Robert Herrick (poet)
+- Robert Hofstadter
+- Robert Hughes (critic)
+- Robert II of France
+- Robert J. Flaherty
+- Robert J. Shiller
+- Robert Jenkinson, 2nd Earl of Liverpool
+- Robert Joffrey
+- Robert K. Merton
+- Robert Kahn (computer scientist)
+- Robert Knox (surgeon)
+- Robert Kocharyan
+- Robert Korzeniowski
+- Robert Langlands
+- Robert Lewandowski
+- Robert Lopez
+- Robert Lowell
+- Robert Lowie
+- Robert Lucas Jr.
+- Robert Ludlum
+- Robert M. Gagné
+- Robert M. La Follette
+- Robert M. Pirsig
+- Robert M. W. Dixon
+- Robert Mapplethorpe
+- Robert McNamara
+- Robert Menzies
+- Robert Metcalfe
+- Robert Mitchum
+- Robert Mondavi
+- Robert Moog
+- Robert Morris (financier)
+- Robert Mueller
+- Robert Muldoon
+- Robert Mundell
+- Robert Musil
+- Robert Nozick
+- Robert O'Hara Burke
+- Robert Owen
+- Robert Parker (wine critic)
+- Robert Pattinson
+- Robert Paxton
+- Robert Peary
+- Robert Penn Warren
+- Robert Pinget
+- Robert Plant
+- Robert Plomin
+- Robert R. Livingston
+- Robert Rauschenberg
+- Robert Rayford
+- Robert Redford
+- Robert Ripley
+- Robert Ritter von Greim
+- Robert S. Mulliken
+- Robert Schuman
+- Robert Shaw
+- Robert Solow
+- Robert Southey
+- Robert Southwell (priest)
+- Robert Sternberg
+- Robert Tappan Morris
+- Robert Trivers
+- Robert Venturi
+- Robert Wadlow
+- Robert Wagner
+- Robert Whittaker (ecologist)
+- Robert Wise
+- Robert Woodrow Wilson
+- Robert Young (actor)
+- Robert Zemeckis
+- Robert, 1st Earl of Gloucester
+- Roberta Bondar
+- Roberta Williams
+- Roberto Baggio
+- Roberto Benigni
+- Roberto Bolaño
+- Roberto Carlos
+- Roberto Carlos (singer)
+- Roberto Clemente
+- Roberto Durán
+- Roberto Longhi
+- Roberto Noble
+- Roberto Rossellini
+- Robin Cousins
+- Robin Knox-Johnston
+- Robin Morgan
+- Robin Padilla
+- Robin Wall Kimmerer
+- Robin Williams
+- Rocco Siffredi
+- Rock Hudson
+- Rockefeller family
+- Rocky Marciano
+- Rocío Jurado
+- Rod Serling
+- Rod Steiger
+- Rod Stewart
+- Roddy Doyle
+- Roddy McDowall
+- Roddy Piper
+- Roderick Murchison
+- Rodney Dangerfield
+- Rodney King
+- Rodney Mullen
+- Rodolphe Salis
+- Rodolphe Töpffer
+- Rodrigo (musician)
+- Rodrigo Borja Cevallos
+- Rodrigo Duterte
+- Rodrigues Alves
+- Roger Ailes
+- Roger B. Taney
+- Roger Bacon
+- Roger Bannister
+- Roger Béteille
+- Roger Casement
+- Roger Clemens
+- Roger Corman
+- Roger Deakins
+- Roger Ebert
+- Roger Fry
+- Roger Hargreaves
+- Roger Joseph Boscovich
+- Roger L. Stevens
+- Roger Martin du Gard
+- Roger Milla
+- Roger Moore
+- Roger Myerson
+- Roger Penrose
+- Roger Scruton
+- Roger Vadim
+- Roger Waters
+- Roger Williams
+- Roger de Flor
+- Roger of Lauria
+- Rogers Hornsby
+- Rogier van der Weyden
+- Roh Moo-hyun
+- Roi Mata
+- Roland
+- Roland Barthes
+- Roland Freisler
+- Roland Garros (aviator)
+- Roland Matthes
+- Roland Petit
+- Rolf Maximilian Sievert
+- Rollo
+- Rollo May
+- Romain Rolland
+- Roman Abramovich
+- Roman Jakobson
+- Romanos the Melodist
+- Romulus
+- Romulus Augustulus
+- Romy Schneider
+- Romário
+- Ron Chernow
+- Ron Howard
+- Ron Jeremy
+- Ronald Coase
+- Ronald Colman
+- Ronald Dworkin
+- Ronald Evans (astronaut)
+- Ronald Golias
+- Ronald Ross
+- Ronald Syme
+- Ronaldinho
+- Ronaldo (Brazilian footballer)
+- Ronan Farrow
+- Ronda Rousey
+- Ronnie Barker
+- Ronnie Biggs
+- Ronnie Coleman
+- Ronnie Corbett
+- Ronnie James Dio
+- Ronnie Lott
+- Ronnie O'Sullivan
+- Roohangiz Saminejad
+- Roque Sáenz Peña
+- Rory McIlroy
+- Ros Serey Sothea
+- Rosa Bonheur
+- Rosa Ponselle
+- Rosalba Carriera
+- Rosalind Russell
+- Rosalyn Sussman Yalow
+- Roscoe Arbuckle
+- Rose Bertin
+- Rose McGowan
+- Roseanne Barr
+- Rosie O'Donnell
+- Ross Brawn
+- Ross Macdonald
+- Ross Perot
+- Rossa (singer)
+- Rossa Matilda Richter
+- Rowan Atkinson
+- Rowan Williams
+- Rowland Hill
+- Roxane Gay
+- Roy Acuff
+- Roy Emerson
+- Roy J. Glauber
+- Roy Keane
+- Roy Lichtenstein
+- Roy O. Disney
+- Roy Orbison
+- Roy Raymond
+- Roy Rogers
+- Royce Gracie
+- RuPaul
+- Ruaidrí Ua Conchobair
+- Ruan Lingyu
+- Ruby Bridges
+- Ruby Dee
+- Rubén Blades
+- Rubén Darío
+- Rudi Dutschke
+- Rudolf Augstein
+- Rudolf Carnap
+- Rudolf Christoph Eucken
+- Rudolf Clausius
+- Rudolf Hess
+- Rudolf Höss
+- Rudolf I of Germany
+- Rudolf II, Holy Roman Emperor
+- Rudolf Kjellén
+- Rudolf Leuckart
+- Rudolf Mössbauer
+- Rudolf Serkin
+- Rudolf Steiner
+- Rudolf von Gneist
+- Rudolf von Laban
+- Rudy Hartono
+- Rufus Wilmot Griswold
+- Ruggero Leoncavallo
+- Rumiko Takahashi
+- Rupa Goswami
+- Rupert Brooke
+- Rupi Kaur
+- Rurik
+- Rush (band)
+- Rush Limbaugh
+- Russ Meyer
+- Russell Alan Hulse
+- Russell Crowe
+- Russell Means
+- Russell Peters
+- Russell Sage
+- Russell Simmons
+- Russo brothers
+- Rutger Hauer
+- Ruth Bader Ginsburg
+- Ruth Benedict
+- Ruth Gordon
+- Ruth Handler
+- Ruth Park
+- Ruth Prawer Jhabvala
+- Ruth St. Denis
+- Ruth Williams Khama
+- Rutherford B. Hayes
+- Ruud Gullit
+- Ruud Lubbers
+- Ryan Giggs
+- Ryan Gosling
+- Ryan Higa
+- Ryan Lochte
+- Ryan Murphy (producer)
+- Ryan Reynolds
+- Ryan Seacrest
+- Ryan White
+- Ryoko Tani
+- Ryszard Kapuściński
+- Ryōtarō Shiba
+- Régine Crespin
+- Rómulo Betancourt
+- S. E. Hinton
+- S. R. Ranganathan
+- S. T. Joshi
+- S.E.S. (group)
+- S.H.E
+- SMAP
+- Sa'd ibn Abi Waqqas
+- Sa'id ibn Zayd
+- Saadia Gaon
+- Sabbatai Zevi
+- Sabiha Gökçen
+- Sabri Brothers
+- Sacagawea
+- Sacco and Vanzetti
+- Sacha Baron Cohen
+- Sacha Guitry
+- Sacheverell Sitwell
+- Sada Abe
+- Sadaharu Oh
+- Sade (band)
+- Sadegh Hedayat
+- Sai Baba of Shirdi
+- Sai On
+- Said bin Sultan
+- Said bin Taimur
+- Saif Ali Khan
+- Saif Saaeed Shaheen
+- Saif bin Sultan
+- Saigyō
+- Saigō Takamori
+- Sailor Jerry
+- Saina Nehwal
+- Saint Christopher
+- Saint Joseph
+- Saint Marinus
+- Saint Patrick
+- Saint Stephen
+- Saint Timothy
+- Saint-John Perse
+- Saionji Kinmochi
+- Sakamoto Ryōma
+- Sakichi Toyoda
+- Salah Ahmed Ibrahim
+- Salah Jahin
+- Salah Zulfikar
+- Salah al-Din al-Bitar
+- Sali Berisha
+- Salif Keita
+- Salim Khan
+- Sallust
+- Sally Field
+- Sally Mann
+- Sally Morgan (artist)
+- Sally Pearson
+- Sally Rand
+- Sally Ride
+- Sally Rooney
+- Salma Hayek
+- Salman Khan
+- Salman of Saudi Arabia
+- Salman the Persian
+- Saloma
+- Salt-N-Pepa
+- Salva Kiir
+- Salvador Sánchez Cerén
+- Salvadore Cammarano
+- Salvatore Adamo
+- Salvatore Quasimodo
+- Salvatore Riina
+- Sam Cooke
+- Sam Giancana
+- Sam Harris
+- Sam Houston
+- Sam Hui
+- Sam Kinison
+- Sam Manekshaw
+- Sam Mendes
+- Sam Nujoma
+- Sam Peckinpah
+- Sam Phillips
+- Sam Rayburn
+- Sam Rockwell
+- Sam Shepard
+- Sam Snead
+- Sam Warner
+- Samantha Cristoforetti
+- Samantha Lewthwaite
+- Samantha Smith
+- Samart Payakaroon
+- Sami Yusuf
+- Samia Suluhu Hassan
+- Sammy Baugh
+- Sammy Davis Jr.
+- Sammy Gravano
+- Samora Machel
+- Samori Ture
+- Samson Raphael Hirsch
+- Samuel Adams
+- Samuel Baker
+- Samuel Barber
+- Samuel Brannan
+- Samuel Butler (poet)
+- Samuel C. C. Ting
+- Samuel Coleridge-Taylor
+- Samuel Colt
+- Samuel Conway
+- Samuel Doe
+- Samuel Eilenberg
+- Samuel Eliot Morison
+- Samuel Eto'o
+- Samuel Flagg Bemis
+- Samuel Fuller
+- Samuel Gompers
+- Samuel Hahnemann
+- Samuel Insull
+- Samuel L. Jackson
+- Samuel Langley
+- Samuel Little
+- Samuel Maharero
+- Samuel P. Huntington
+- Samuel Pepys
+- Samuel Rawson Gardiner
+- Samuel Richardson
+- Samuel Sachs
+- Samuel Samuel
+- Samuel Slater
+- Samuel Wallis
+- Samuel Wanjiru
+- Samuel de Champlain
+- Samuel of Bulgaria
+- Sanada Yukimura
+- Sancho III of Pamplona
+- Sancho VI of Navarre
+- Sancho VII of Navarre
+- Sandra Bullock
+- Sandra Day O'Connor
+- Sandra Elkasević
+- Sandra Faber
+- Sandra Schmirler
+- Sandro de América
+- Sandy Dennis
+- Sandy Gall
+- Sandy Koufax
+- Sanford B. Dole
+- Sang Nila Utama
+- Sani Abacha
+- Sanjay Leela Bhansali
+- Sanjeev Kumar
+- Sanmao (writer)
+- Santana (band)
+- Santiago Calatrava
+- Santō Kyōden
+- Saori Yoshida
+- Saparmurat Niyazov
+- Sara Montiel
+- Sara Teasdale
+- Sarah Baartman
+- Sarah Brightman
+- Sarah Churchill, Duchess of Marlborough
+- Sarah Geronimo
+- Sarah Jessica Parker
+- Sarah Josepha Hale
+- Sarah Kane
+- Sarah Koenig
+- Sarah Michelle Gellar
+- Sarah Siddons
+- Sarah Silverman
+- Sarah Vaughan
+- Sarah Winnemucca
+- Saraha
+- Sargon II
+- Sarit Thanarat
+- Saritha
+- Saroj Khan
+- Sarvepalli Radhakrishnan
+- Sasha Chorny
+- Sasha Grey
+- Saskia Sassen
+- Sassoon family
+- Satchel Paige
+- Sathya Sai Baba
+- Satoru Iwata
+- Satoshi Kon
+- Satoshi Nakamoto
+- Satoshi Tajiri
+- Saud of Saudi Arabia
+- Saul Alinsky
+- Saul Bass
+- Saul Kripke
+- Saul Perlmutter
+- Saunders Mac Lane
+- Savion Glover
+- Sawao Katō
+- Sayed Darwish
+- Scarlett Johansson
+- Schlitzie
+- Scipio Aemilianus
+- Scopas
+- Scorpions (band)
+- Scott Carpenter
+- Scott Hamilton (figure skater)
+- Scott Kelly (astronaut)
+- Scott McCloud
+- Scott Moir
+- Scott Morrison
+- Scott Rudin
+- Scottsboro Boys
+- Scotty Bowman
+- Scylax of Caryanda
+- Seamus Heaney
+- Sean Combs
+- Sean Hannity
+- Sean Parker
+- Sean Paul
+- Sean Penn
+- Sebastian Cabot (explorer)
+- Sebastian Coe
+- Sebastian Faulks
+- Sebastian Vettel
+- Sebastiano Serlio
+- Sebastián Piñera
+- Sebastião Salgado
+- Seewoosagur Ramgoolam
+- Sei Shōnagon
+- Seiichi Morimura
+- Seijun Suzuki
+- Seiu Ito
+- Seki Takakazu
+- Seku Amadu
+- Selena
+- Selena Gomez
+- Selman Waksman
+- Semion Mogilevich
+- Semonides of Amorgos
+- Semyon Budyonny
+- Semyon Dezhnev
+- Semyon Timoshenko
+- Senenmut
+- Sennacherib
+- Senusret I
+- Senusret II
+- Senusret III
+- Seo Taiji and Boys
+- Sepp Blatter
+- Sepp Dietrich
+- Septimius Severus
+- Sepultura
+- Serdar Berdimuhamedow
+- Seretse Khama
+- Serge Blanco
+- Serge Haroche
+- Serge Koussevitzky
+- Serge Lang
+- Sergei Belov
+- Sergei Bodrov Jr.
+- Sergei Bondarchuk
+- Sergei Diaghilev
+- Sergei Kirov
+- Sergei Lemeshev
+- Sergei Lukyanenko
+- Sergei Makarov (ice hockey)
+- Sergei Mozyakin
+- Sergei Nechaev
+- Sergei Parajanov
+- Sergei Polunin
+- Sergei Starostin
+- Sergei Witte
+- Sergei Yesenin
+- Sergey Brin
+- Sergey Bubka
+- Sergey Lavrov
+- Sergey Mikhalkov
+- Sergey Solovyov (historian)
+- Sergio Leone
+- Sergio Moro
+- Sergiu Celibidache
+- Seru Epenisa Cakobau
+- Serzh Sargsyan
+- Sessue Hayakawa
+- Seth MacFarlane
+- Seth Rogen
+- Seti I
+- Setthathirath
+- Seve Ballesteros
+- Severina (singer)
+- Severus Alexander
+- Sex Pistols
+- Sextus Pompey
+- Seymour Cray
+- Seymour Hersh
+- Seymour Martin Lipset
+- Sezen Aksu
+- Seán MacBride
+- Seán O'Casey
+- Shaaban bin Robert
+- Shabana Azmi
+- Shadi Abdel Salam
+- Shadia
+- Shaggy (musician)
+- Shah Rukh Khan
+- Shahram Nazeri
+- Shahu I
+- Shahzoda
+- Shakib Al Hasan
+- Shamshi-Adad I
+- Shane Warne
+- Shania Twain
+- Shankar–Ehsaan–Loy
+- Shannon Miller
+- Shapur I
+- Shapur II
+- Shaquille O'Neal
+- Sharaku
+- Sharmila Tagore
+- Sharon Olds
+- Sharon Stone
+- Sharon Tate
+- Shashanka
+- Shaun White
+- Shavkat Mirziyoyev
+- Shawn Michaels
+- Shaykh Tusi
+- Shehu Shagari
+- Sheikh Hamdullah
+- Sheikh Hasina
+- Sheila Nevins
+- Shekhar Kapur
+- Shel Silverstein
+- Sheldon Adelson
+- Sheldon Glashow
+- Shelley Berman
+- Shelley Winters
+- Shelly-Ann Fraser-Pryce
+- Shen Buhai
+- Shen Congwen
+- Shen Dao
+- Shen Yue
+- Shen Zhou
+- Shepard Fairey
+- Sher Bahadur Deuba
+- Shereen Bhan
+- Sheridan Le Fanu
+- Sherry Ortner
+- Sherwood Anderson
+- Sherwood Washburn
+- Sheryl Sandberg
+- Sheryl Swoopes
+- Sheshi
+- Shi Lang
+- Shi Nai'an
+- Shibata Zeshin
+- Shibusawa Eiichi
+- Shigefumi Mori
+- Shigeru Ban
+- Shigeru Yoshida
+- Shih Ming-teh
+- Shiing-Shen Chern
+- Shilpa Shetty
+- Shimon Peres
+- Shin Joong-hyun
+- Shin Kyung-sook
+- Shin Sang-ok
+- Shin'ichirō Tomonaga
+- Shinee
+- Shing-Tung Yau
+- Shingo Kunieda
+- Shinsui Itō
+- Shintaro Ishihara
+- Shintaro Katsu
+- Shinya Yamanaka
+- Shireen Abu Akleh
+- Shirin Ebadi
+- Shirley Bassey
+- Shirley Booth
+- Shirley Chisholm
+- Shirley Jackson
+- Shirley Jones
+- Shirley MacLaine
+- Shirley Strickland
+- Shirō Ishii
+- Shivaji Satam
+- Shizuka Arakawa
+- Shlomo Carlebach
+- Shmuel Yosef Agnon
+- Shneur Zalman of Liadi
+- Shoghi Effendi
+- Shohei Ohtani
+- Shoko Asahara
+- Sholem Aleichem
+- Shonda Rhimes
+- Shong Lue Yang
+- Shoqan Walikhanov
+- Shoshenq I
+- Shota Rustaveli
+- Shreya Ghoshal
+- Shudraka
+- Shuji Nakamura
+- Shukri al-Quwatli
+- Shulamith Firestone
+- Shunryū Suzuki
+- Shunzhi Emperor
+- Shutruk-Nakhunte
+- Shyama Prasad Mukherjee
+- Shō Hashi
+- Shō Nei
+- Shō Tai
+- Shōhei Imamura
+- Shōji Hamada
+- Shūsaku Endō
+- Siad Barre
+- Siaka Stevens
+- Sid Caesar
+- Sid Meier
+- Sidharth Shukla
+- Sidney Bechet
+- Sidney Crosby
+- Sidney Holland
+- Sidney Lumet
+- Sidney Mintz
+- Sidney Nolan
+- Sidney Reilly
+- Sidney Rigdon
+- Sidney Sheldon
+- Siegfried & Roy
+- Siegfried Sassoon
+- Sigismund I the Old
+- Sigismund II Augustus
+- Sigmund Jähn
+- Sigourney Weaver
+- Sigrid Undset
+- Sigur Rós
+- Silas
+- Silvana Armenulić
+- Silvana Mangano
+- Silvia Neid
+- Silvio Berlusconi
+- Silvio Santos
+- Sima Guang
+- Sima Xiangru
+- Sima Yi
+- Simeon I of Bulgaria
+- Simin Daneshvar
+- Simo Häyhä
+- Simon & Garfunkel
+- Simon Baron-Cohen
+- Simon Blackburn
+- Simon Cowell
+- Simon Fuller
+- Simon Kuznets
+- Simon Leys
+- Simon Magus
+- Simon Newcomb
+- Simon Rattle
+- Simon Schama
+- Simon Wiesenthal
+- Simon bar Kokhba
+- Simon de Montfort, 5th Earl of Leicester
+- Simon de Montfort, 6th Earl of Leicester
+- Simon the Zealot
+- Simon van der Meer
+- Simone Martini
+- Simone Niggli-Luder
+- Simone Signoret
+- Simone Veil
+- Simone Weil
+- Simonetta Vespucci
+- Simonides of Ceos
+- Sin Yunbok
+- Sinclair Lewis
+- Sinn Sisamouth
+- Siouxsie and the Banshees
+- Sir George Stokes, 1st Baronet
+- Sirhan Sirhan
+- Sirimavo Bandaranaike
+- Sirusho
+- Sisavang Vatthana
+- Sisavang Vong
+- Sissy Spacek
+- Sister Rosetta Tharpe
+- Sitara Devi
+- Siti Nurhaliza
+- Siti binti Saad
+- Sitiveni Rabuka
+- Sixto Durán Ballén
+- Sjón
+- Skepta
+- Skrillex
+- Slamet Rahardjo
+- Slavoj Žižek
+- Slayer
+- Slick Rick
+- Slim Dusty
+- Slobodan Praljak
+- Sly and the Family Stone
+- Smedley Butler
+- Smita Patil
+- Smokey Robinson
+- Smosh
+- Sneferu
+- Snoop Dogg
+- Soad Hosny
+- Sobekneferu
+- Sobhuza II
+- Socrates of Constantinople
+- Soda Stereo
+- Sofia Coppola
+- Sofia Rotaru
+- Sofonisba Anguissola
+- Soghomon Tehlirian
+- Sohrab Sepehri
+- Soichiro Honda
+- Sokei-an
+- Sol LeWitt
+- Solomon Asch
+- Solomon Linda
+- Solomon Mamaloni
+- Solomon R. Guggenheim
+- Sombat Metanee
+- Somdet To Brahmaramsi
+- Son Ye-jin
+- Song Ci
+- Song Kang-ho
+- Song Yu
+- Songtsen Gampo
+- Sonia Delaunay
+- Sonia Gandhi
+- Sonic Youth
+- Sonja Barend
+- Sonni Ali
+- Sonny Barger
+- Sonny Rollins
+- Sono Osato
+- Sonu Nigam
+- Sony Lab'ou Tansi
+- Soong Mei-ling
+- Sophia Alekseyevna of Russia
+- Sophia Perovskaya
+- Sophia of Hanover
+- Sophie Blanchard
+- Sophie Germain
+- Sophie Scholl
+- Sophie Wilson
+- Sophus Lie
+- Sorley MacLean
+- Souleymane Cissé (film director)
+- Soumitra Chatterjee
+- Soundarya
+- Souphanouvong
+- Southern All Stars
+- Sozomen
+- Spede Pasanen
+- Spencer Perceval
+- Spencer Tracy
+- Spice Girls
+- Spike Lee
+- Spike Milligan
+- Spyros Kyprianou
+- Squanto
+- Srečko Kosovel
+- Sridevi
+- Stamford Raffles
+- Stan Brakhage
+- Stan Getz
+- Stan Laurel
+- Stan Musial
+- Stanislas-Marie Maillard
+- Stanislav Petrov
+- Stanisław August Poniatowski
+- Stanisław Koniecpolski
+- Stanisław Lem
+- Stanisław Leszczyński
+- Stanisław Ulam
+- Stanley Baldwin
+- Stanley Bruce
+- Stanley Cohen (sociologist)
+- Stanley Donen
+- Stanley Ho
+- Stanley Holloway
+- Stanley Kramer
+- Stanley Matthews
+- Stanley Milgram
+- Stanley Rous
+- Stanley Schachter
+- Stanley Williams
+- Stanton T. Friedman
+- Steely Dan
+- Stefan Edberg
+- Stefan Nemanja
+- Stefan Raab
+- Stefan Yavorsky
+- Stefan Zweig
+- Stefan the First-Crowned
+- Stefanie Petermichl
+- Stefanie Sun
+- Stefka Kostadinova
+- Stefán Karl Stefánsson
+- Stella Adler
+- Stenka Razin
+- Stepan Bandera
+- Stephanie Kwolek
+- Stephanie Okereke Linus
+- Stephanie St. Clair
+- Stephen A. Douglas
+- Stephen Chow
+- Stephen Colbert
+- Stephen Cook
+- Stephen Crane
+- Stephen Curry
+- Stephen Decatur
+- Stephen E. Ambrose
+- Stephen Foster
+- Stephen Fry
+- Stephen Girard
+- Stephen Gray (scientist)
+- Stephen Hales
+- Stephen Harper
+- Stephen Hendry
+- Stephen Hillenburg
+- Stephen Schwartz
+- Stephen Sondheim
+- Stephen Spender
+- Stephen Van Rensselaer
+- Stephen, King of England
+- Stephenie Meyer
+- Stesichorus
+- Steve Allen
+- Steve Ballmer
+- Steve Bannon
+- Steve Brodie (bridge jumper)
+- Steve Carell
+- Steve Chen
+- Steve Ditko
+- Steve Fossett
+- Steve Harvey
+- Steve Irwin
+- Steve Martin
+- Steve McQueen
+- Steve Nash
+- Steve Redgrave
+- Steve Reeves
+- Steve Reich
+- Steve Ritchie (pinball designer)
+- Steve Shirley
+- Steve Smith (cricketer)
+- Steve Waugh
+- Steve Wynn
+- Steve Yzerman
+- Steven Bradbury
+- Steven Chu
+- Steven Frayne
+- Steven Kanumba
+- Steven Pinker
+- Steven Seagal
+- Steven Soderbergh
+- Steven Weinberg
+- Steven Wright
+- Stevie Nicks
+- Stevie Ray Vaughan
+- Stewart Brand
+- Stieg Larsson
+- Stilicho
+- Stiller and Meara
+- Stilson Hutchins
+- Sting (musician)
+- Stirling Moss
+- Stobaeus
+- Stokely Carmichael
+- Stone Cold Steve Austin
+- Stonewall Jackson
+- Story Musgrave
+- Strabo
+- Straub–Huillet
+- Stroganov family
+- Strom Thurmond
+- Stromae
+- Stu Hart
+- Stuart Hall (cultural theorist)
+- Stuart Macintyre
+- Stuart Roosa
+- Stuart Scott
+- Studs Terkel
+- Stéphane Grappelli
+- Su Dingfang
+- Su Qin
+- Su Yu
+- Subcomandante Marcos
+- Subh-i-Azal
+- Subrahmanyan Chandrasekhar
+- Subrata Mitra
+- Sudas
+- Sudirman
+- Sudirman (singer)
+- Sue Bird
+- Sue Grafton
+- Suetonius
+- Sugar Ray Leonard
+- Suge Knight
+- Suger
+- Suhasini Maniratnam
+- Sujatha (actress)
+- Sully Prudhomme
+- Sulpicia (satirist)
+- Sultan bin Muhammad Al-Qasimi
+- Sultan bin Salman Al Saud
+- Sun Bin
+- Sun Li-jen
+- Sun Myung Moon
+- Sun Quan
+- Sun Ra
+- Sun Wen (footballer)
+- Sundance Kid
+- Sundiata Keita
+- Sunil Dutt
+- Sunil Gavaskar
+- Sunny Deol
+- Sunny Leone
+- Sunthorn Phu
+- Super Junior
+- Supriya Pathak
+- Suraiya
+- Suraphol Sombatcharoen
+- Surdas
+- Surena
+- Surendranath Dasgupta
+- Susan Blackmore
+- Susan Brownmiller
+- Susan Hayward
+- Susan Lucci
+- Susan Sarandon
+- Susan Sontag
+- Susan Stryker
+- Susan Wojcicki
+- Susana Giménez
+- Susanna Centlivre
+- Susenyos I
+- Sushruta
+- Susilo Bambang Yudhoyono
+- Suzanne Farrell
+- Suzanne Lenglen
+- Suzanne Valadon
+- Suzy Parker
+- Suzzanna
+- Svante Pääbo
+- Sveinn Björnsson
+- Sven Hedin
+- Sven Kramer
+- Sven Nykvist
+- Svetlana Savitskaya
+- Svetlana Sorokina
+- Svetozar Boroević
+- Sviatopolk II of Kiev
+- Swaminarayan
+- Swathi Thirunal Rama Varma
+- Swein Forkbeard
+- Syagrius
+- Sydney Barnes
+- Sydney Brenner
+- Sydney Pollack
+- Sydney Possuelo
+- Syed Ahmad Khan
+- Syl Cheney-Coker
+- Sylvanus Olympio
+- Sylvester Graham
+- Sylvester H. Roper
+- Sylvester Stallone
+- Sylvia Browne
+- Sylvia Chang
+- Sylvia Earle
+- Sylvia Pankhurst
+- Sylvia Robinson
+- Sylvie Guillem
+- Sylvie Vartan
+- Symon Petliura
+- Sándor Kőrösi Csoma
+- Sébastien Chabal
+- Sébastien Le Prestre, Marquis of Vauban
+- Sébastien Loeb
+- Sônia Braga
+- Süleyman Demirel
+- Sālote Tupou III
+- Sławomir Mrożek
+- Sơn Tùng M-TP
+- T. Allston Brown
+- T. Berry Brazelton
+- T. Boone Pickens
+- T. E. Hulme
+- T. H. Green
+- T. H. White
+- T. Nelson Downs
+- T.A.T.u.
+- TLC (group)
+- TVXQ
+- Tabaré Vázquez
+- Tabu (actress)
+- Tabu Ley Rochereau
+- Tachibana Shūta
+- Tadamichi Kuribayashi
+- Tadao Ando
+- Tadashi Yanai
+- Tade Ogidan
+- Tadej Pogačar
+- Tadeusz Kościuszko
+- Tadeusz Mazowiecki
+- Taejo of Goguryeo
+- Tage Erlander
+- Taha Hussein
+- Taihō Kōki
+- Taika Waititi
+- Taikichiro Mori
+- Taira no Kiyomori
+- Tajuddin Ahmad
+- Takaaki Kajita
+- Takahashi Korekiyo
+- Takashi Miike
+- Takashi Murakami
+- Takashi Ono (gymnast)
+- Take That
+- Takeda Shingen
+- Takeo Arishima
+- Takeshi Kitano
+- Takiji Kobayashi
+- Takizawa Bakin
+- Taksin
+- Talal of Jordan
+- Talha ibn Ubayd Allah
+- Talking Heads
+- Tallulah Bankhead
+- Tamara Bunke
+- Tamara Geva
+- Tamara Karsavina
+- Tamara de Lempicka
+- Tamika Catchings
+- Tammy Wynette
+- Tan Malaka
+- Tanaka Hisashige
+- Tang Chun-i
+- Tang Xianzu
+- Tang Yin
+- Tangerine Dream
+- Tanikaze Kajinosuke
+- Tank Man
+- Tanni Grey-Thompson
+- Tansen
+- Tansu Çiller
+- Tanuma Okitsugu
+- Tapio Rautavaara
+- Tapputi
+- Taqi ad-Din Muhammad ibn Ma'ruf
+- Tara Lipinski
+- Tara Strong
+- Tarana Burke
+- Tariq Ramadan
+- Tariq ibn Ziyad
+- Tarkan (singer)
+- Tarsila do Amaral
+- Taslima Nasrin
+- Tatsumi Hijikata
+- Tatsuro Yamashita
+- Tatsuya Nakadai
+- Tatum O'Neal
+- Tawakkol Karman
+- Tawaraya Sōtatsu
+- Taxiles
+- Tayeb Salih
+- Te Kooti
+- Te Rauparaha
+- Tecun Uman
+- Ted Bundy
+- Ted Danson
+- Ted Hughes
+- Ted Kaczynski
+- Ted Kennedy
+- Ted Koppel
+- Ted Shawn
+- Ted Williams
+- Teguh Karya
+- Tekkan Yosano
+- Tekle Giyorgis I
+- Telly Savalas
+- Temistocle Solera
+- Tempest Storm
+- Temple Grandin
+- Temür Khan
+- Tennessee Ernie Ford
+- Teodoro Obiang Nguema Mbasogo
+- Terence Davies
+- Terence Tao
+- Teresa Stolz
+- Teriitaria II
+- Terje Håkonsen
+- Terrence Malick
+- Terrence McNally
+- Terry Bradshaw
+- Terry Eagleton
+- Terry Fox
+- Terry Gilliam
+- Terry Gou
+- Terry Pratchett
+- Terry Riley
+- Terry Sawchuk
+- Terry Wogan
+- Terry-Thomas
+- Tessa Virtue
+- Tetsuji Takechi
+- Tetsuya Yamagami
+- Teun de Nooijer
+- Tex Avery
+- Teófilo Cubillas
+- Teófilo Stevenson
+- Thabo Mbeki
+- Thaddeus Stevens
+- Thakin Kodaw Hmaing
+- Thaksin Shinawatra
+- Thalía
+- Than Shwe
+- Thang Tong Gyalpo
+- Thanh Lam
+- Thawan Duchanee
+- The Andrews Sisters
+- The Boswell Sisters
+- The Carpenters
+- The Chicks
+- The Chieftains
+- The Clash
+- The Cure
+- The Dubliners
+- The Everly Brothers
+- The Fabulous Moolah
+- The Famous Five (Canada)
+- The Flying Wallendas
+- The Jackson 5
+- The Killers
+- The Kinks
+- The Lonely Island
+- The Mamas & the Papas
+- The Miracles
+- The Monkees
+- The Notorious B.I.G.
+- The Police
+- The Prodigy
+- The Shirelles
+- The Sitwells
+- The Smashing Pumpkins
+- The Smiths
+- The Specials
+- The Stooges
+- The Strokes
+- The Sugarhill Gang
+- The Temptations
+- The Teng Chun
+- The Three Stooges
+- The Undertaker
+- The Velvet Underground
+- The Wachowskis
+- The Weeknd
+- The White Stripes
+- The Who
+- The Wiggles
+- The ten to whom Paradise was promised
+- Thea Astley
+- Theda Bara
+- Thelma Ritter
+- Thelonious Monk
+- Theo Albrecht
+- Theo Angelopoulos
+- Theo van Doesburg
+- Theobald von Bethmann Hollweg
+- Theocritus
+- Theodor Fontane
+- Theodor Schwann
+- Theodor W. Hänsch
+- Theodore Dreiser
+- Theodore Dwight Weld
+- Theodore Roethke
+- Theodore Schultz
+- Theodore Ward
+- Theodore von Kármán
+- Theodoret
+- Theodoros Kolokotronis
+- Theodosius Dobzhansky
+- Theon of Alexandria
+- Theophanu
+- Theophrastus
+- Thespis
+- Thierry Henry
+- Thierry Omeyer
+- Thit Jensen
+- Thomas A. Dorsey
+- Thomas Andrews
+- Thomas Babington Macaulay
+- Thomas Bach
+- Thomas Bayes
+- Thomas Becket
+- Thomas Beecham
+- Thomas Blake Glover
+- Thomas Blamey
+- Thomas Browne
+- Thomas Cajetan
+- Thomas Campbell (poet)
+- Thomas Carlyle
+- Thomas Cavalier-Smith
+- Thomas Cavendish
+- Thomas Chatterton
+- Thomas Chippendale
+- Thomas Chrowder Chamberlin
+- Thomas Cole
+- Thomas Cromwell
+- Thomas D. Rice
+- Thomas De Quincey
+- Thomas Dekker (writer)
+- Thomas E. Dewey
+- Thomas Eakins
+- Thomas Fairfax
+- Thomas Francis Wade
+- Thomas Gainsborough
+- Thomas Gray
+- Thomas H. Ince
+- Thomas Hart Benton (painter)
+- Thomas Hart Benton (politician)
+- Thomas Hearns
+- Thomas Holley Chivers
+- Thomas Hopkins Gallaudet
+- Thomas Hunt Morgan
+- Thomas J. Sargent
+- Thomas J. Watson
+- Thomas Johann Seebeck
+- Thomas Keller
+- Thomas Keneally
+- Thomas Kinkade
+- Thomas Kuhn
+- Thomas Lipton
+- Thomas Love Peacock
+- Thomas Malory
+- Thomas Mapfumo
+- Thomas Merton
+- Thomas Midgley Jr.
+- Thomas Mitchell (actor)
+- Thomas Moore
+- Thomas Nagel
+- Thomas Nashe
+- Thomas Nast
+- Thomas Newcomen
+- Thomas Noguchi
+- Thomas P. Stafford
+- Thomas Pelham-Holles, 1st Duke of Newcastle
+- Thomas Peters (revolutionary)
+- Thomas Piketty
+- Thomas Playford IV
+- Thomas Pynchon
+- Thomas Reid
+- Thomas Remengesau Jr.
+- Thomas Schelling
+- Thomas Shadwell
+- Thomas Sowell
+- Thomas Starzl
+- Thomas Sydenham
+- Thomas Szasz
+- Thomas Tallis
+- Thomas Telford
+- Thomas Tompion
+- Thomas Traherne
+- Thomas Wakley
+- Thomas Warton
+- Thomas Wolfe
+- Thomas Wolsey
+- Thomas Wyatt (poet)
+- Thomas Wyatt the Younger
+- Thomas the Apostle
+- Thomas the Slav
+- Thomas à Kempis
+- Thomas-Alexandre Dumas
+- Thongchai McIntyre
+- Thor Heyerdahl
+- Thornton Wilder
+- Thorstein Veblen
+- Thorvald Stauning
+- Thug Behram
+- Thurgood Marshall
+- Thutmose I
+- Théodore Géricault
+- Théodore Simon
+- Théodore de Banville
+- Théoneste Bagosora
+- Théophile Gautier
+- Théophile de Viau
+- Thérèse of Lisieux
+- Thích Nhất Hạnh
+- Thích Quảng Đức
+- Tiberius Gracchus
+- Tiburcio Carías Andino
+- Tig Notaro
+- Tiglath-Pileser I
+- Tiglath-Pileser III
+- Tigran Petrosian
+- Tikka Khan
+- Tikkavarapu Pattabhirama Reddy
+- Tilahun Gessesse
+- Tilda Swinton
+- Tilopa
+- Tim Allen
+- Tim Burton
+- Tim Conway
+- Tim Cook
+- Tim Duncan
+- Tim Horton
+- Tim Hunt
+- Tim Minchin
+- Tim Rice
+- Tim Robbins
+- Tim Russert
+- Tim Schafer
+- Tim Winton
+- Timbaland
+- Timnit Gebru
+- Timoleón Jiménez
+- Timothy Dalton
+- Timothy Leary
+- Timothy McVeigh
+- Timothy Snyder
+- Timothy Thomas Fortune
+- Tina Fey
+- Tina Modotti
+- Tina Turner
+- Tinariwen
+- Tintoretto
+- Tio Pakusadewo
+- Tippi Hedren
+- Tippu Tip
+- Tiradentes
+- Tiridates III of Armenia
+- Tirso de Molina
+- Tirumalai Krishnamacharya
+- Tirunesh Dibaba
+- Tisquesusa
+- Tite Kubo
+- Titiek Puspa
+- Tito Gobbi
+- Tito Puente
+- Titta Ruffo
+- Titus
+- Titus Larcius
+- Titus Oates
+- Tiësto
+- Tjalling Koopmans
+- Tobias Asser
+- Tod Browning
+- Todor Zhivkov
+- Toe Blake
+- Toghon Temür
+- Tokugawa Iemochi
+- Tokugawa Yoshinobu
+- Tollund Man
+- Tolui
+- Tom Anderson
+- Tom Brokaw
+- Tom Clancy
+- Tom Clarke (Irish republican)
+- Tom Cruise
+- Tom Denning, Baron Denning
+- Tom Ford
+- Tom Hardy
+- Tom Hooper
+- Tom Jones (singer)
+- Tom Kenny
+- Tom Landry
+- Tom Mix
+- Tom Petty
+- Tom Raworth
+- Tom Seaver
+- Tom Selleck
+- Tom Stoppard
+- Tom Waits
+- Tom Watson (golfer)
+- Tom Wills
+- Tom Wolfe
+- Tom of Finland
+- Tomas Tranströmer
+- Tomaso Albinoni
+- Tomi Adeyemi
+- Tomi Ungerer
+- Tomiichi Murayama
+- Tommaso Buscetta
+- Tommaso Campanella
+- Tommy Cooper
+- Tommy Dorsey
+- Tommy Douglas
+- Tommy Flowers
+- Tommy Lee Jones
+- Tommy Lucchese
+- Tommy Robinson
+- Tomoyuki Yamashita
+- Tomyris
+- Tomás Cipriano de Mosquera
+- Tomás Estrada Palma
+- Tomás Luis de Victoria
+- Tomás Regalado (Salvadoran politician)
+- Tomáš Masaryk
+- Tongzhi Emperor
+- Toni Braxton
+- Tony Allen (musician)
+- Tony Benn
+- Tony Bennett
+- Tony Blair
+- Tony Curtis
+- Tony Hawk
+- Tony Hoare
+- Tony Jaa
+- Tony Kushner
+- Tony Leung Chiu-wai
+- Tony Richardson
+- Tony Slydini
+- Tool (band)
+- Toots Thielemans
+- Toots and the Maytals
+- Torquato Tasso
+- Torsten Hägerstrand
+- Toshihide Maskawa
+- Totila
+- Toto Cutugno
+- Totò
+- Tove Jansson
+- Toyo Ito
+- Toyohara Chikanobu
+- Toše Proeski
+- Tracey Emin
+- Traci Lords
+- Tracy Chapman
+- Tran Anh Hung
+- Travis Pastrana
+- Trayvon Martin
+- Trevor Horn
+- Trevor Noah
+- Trey Parker
+- Tribhuwana Wijayatunggadewi
+- Tribonian
+- Trip Hawkins
+- Trisha Krishnan
+- Trisong Detsen
+- Tristan Corbière
+- Tristão da Cunha
+- Trofim Lysenko
+- Trota of Salerno
+- Truganini
+- Truman Capote
+- Trygve Haavelmo
+- Trygve Lie
+- Trần Thánh Tông
+- Trần Trọng Kim
+- Trịnh Công Sơn
+- Tsai Ing-wen
+- Tsai Ming-liang
+- Tsui Hark
+- Tsuneko Okazaki
+- Tu Youyou
+- Tucker Carlson
+- Tuilaʻepa Saʻilele Malielegaoi
+- Tullio Levi-Civita
+- Tunde Kelani
+- Tunde King
+- Tung Chee-hwa
+- Tunku Abdul Rahman
+- Tunnels (comedy duo)
+- Turgut Özal
+- Turlough O'Carolan
+- Tushratta
+- Twice
+- Twiggy
+- Twyla Tharp
+- Ty Cobb
+- Tyeb Mehta
+- Tyler Perry
+- Tyne Daly
+- Tyra Banks
+- Tyrone Power
+- Tyson Beckford
+- Téléphone
+- Tô Ngọc Vân
+- Tôn Đức Thắng
+- Töregene Khatun
+- Tāufaʻāhau Tupou IV
+- Tōgō Heihachirō
+- Tōru Iwatani
+- Tōru Takemitsu
+- U Thant
+- U2
+- Ub Iwerks
+- Ubayy ibn Ka'b
+- Uche Jombo
+- Uche Okeke
+- Uday Shankar
+- Udayana
+- Uddālaka Āruṇi
+- Udo Jürgens
+- Udo Lattek
+- Ueda Akinari
+- Uehara Yūsaku
+- Uemura Shōen
+- Uesugi Kenshin
+- Ugo Foscolo
+- Ugyen Wangchuck
+- Uljana Semjonova
+- Ulric Neisser
+- Ulrich Beck
+- Ulrich Salchow
+- Ulrich von Wilamowitz-Moellendorff
+- Ulrike Meinhof
+- Uma Thurman
+- Umar ibn Abi Rabi'ah
+- Umaru Musa Yar'Adua
+- Umberto Boccioni
+- Umberto I of Italy
+- Umberto II of Italy
+- Umberto Nobile
+- Unity Mitford
+- Unsuk Chin
+- Uppalavanna
+- Ur-Nammu
+- Urbain Le Verrier
+- Urho Kekkonen
+- Uri Avnery
+- Uri Geller
+- Ursula von der Leyen
+- Urukagina
+- Usher (musician)
+- Usman dan Fodio
+- Ustad Ahmad Lahori
+- Uta Hagen
+- Utagawa Kuniyoshi
+- Utagawa Toyokuni
+- Utamaro
+- Uwe Johnson
+- V. C. Andrews
+- V. Gordon Childe
+- Vachel Lindsay
+- Vagit Alekperov
+- Vahakn Dadrian
+- Vajiralongkorn
+- Vajiravudh
+- Val Logsdon Fitch
+- Valentin Haüy
+- Valentin Rasputin
+- Valentin Serov
+- Valentina Vezzali
+- Valentinian I
+- Valentino (fashion designer)
+- Valentino Rossi
+- Valentín Gómez Farías
+- Valeri Kharlamov
+- Valeri Polyakov
+- Valerie Adams
+- Valerie Solanas
+- Valerii Zaluzhnyi
+- Valeriy Lobanovskyi
+- Valery Bryusov
+- Valery Chkalov
+- Valery Gerasimov
+- Valery Leontiev
+- Vallabha
+- Valéry Giscard d'Estaing
+- Van Cliburn
+- Van Halen
+- Van Morrison
+- Vandana Shiva
+- Vanderbilt family
+- Vanessa Nakate
+- Vanessa Paradis
+- Vanessa Redgrave
+- Vanessa del Rio
+- Vangelis
+- Vanisri
+- Vann Nath
+- Vanna White
+- Vannevar Bush
+- Vannozza dei Cattanei
+- Varlam Shalamov
+- Varun Dhawan
+- Vasco Núñez de Balboa
+- Vasil Bykaŭ
+- Vasili III of Russia
+- Vasily Aksyonov
+- Vasily Alekseyev
+- Vasily Arkhipov
+- Vasily Bartold
+- Vasily Blyukher
+- Vasily Chuikov
+- Vasily I of Moscow
+- Vasily II of Moscow
+- Vasily Margelov
+- Vasily Trediakovsky
+- Vasily Vereshchagin
+- Vasily Zhukovsky
+- Vasishtha
+- Vassilis Tsitsanis
+- Vasyl Avramenko
+- Vazgen Sargsyan
+- Veerappan
+- Velimir Khlebnikov
+- Velupillai Prabhakaran
+- Venki Ramakrishnan
+- Venus Williams
+- Venustiano Carranza
+- Vera Kholodnaya
+- Vera Lynn
+- Vera Mukhina
+- Vera Rubin
+- Vera Zorina
+- Vere Bird
+- Verghese Kurien
+- Verne Gagne
+- Verner Panton
+- Verner von Heidenstam
+- Vernon L. Smith
+- Vernon Louis Parrington
+- Vernon Watkins
+- Vernon and Irene Castle
+- Veronica Guerin
+- Veronica Lake
+- Veronica Taylor
+- Veruschka
+- Vespasian
+- Vesto Slipher
+- Viacheslav Fetisov
+- Vic Mignogna
+- Vice Ganda
+- Vicente Aleixandre
+- Vicente Fernández
+- Vicente Fox
+- Vicente Guerrero
+- Vicente Rocafuerte
+- Vicente Yáñez Pinzón
+- Vicente del Bosque
+- Victor A. McKusick
+- Victor Borge
+- Victor Chang
+- Victor Cousin
+- Victor Emmanuel I
+- Victor Emmanuel II
+- Victor Emmanuel III
+- Victor Fleming
+- Victor Goldschmidt
+- Victor Grignard
+- Victor Hess
+- Victor Horta
+- Victor Lustig
+- Victor McLaglen
+- Victor Pelevin
+- Victor Schœlcher
+- Victor Silvester
+- Victor Sjöström
+- Victor Vasarely
+- Victor-Joseph Étienne de Jouy
+- Victoria Woodhull
+- Victoria de los Ángeles
+- Victorien Sardou
+- Vida Goldstein
+- Vidal Sassoon
+- Vidkun Quisling
+- Vidya Balan
+- Vigdís Finnbogadóttir
+- Vigen (entertainer)
+- Vijay Mallya
+- Vijaya Shanthi
+- Vijayalaya Chola
+- Vikingarna (band)
+- Viktor Ambartsumian
+- Viktor Bout
+- Viktor Chernomyrdin
+- Viktor Frankl
+- Viktor Orbán
+- Viktor Saneyev
+- Viktor Shklovsky
+- Viktor Tsoi
+- Viktor Vasnetsov
+- Viktor Yanukovych
+- Viktor Yushchenko
+- Vilhelm Bjerknes
+- Village People
+- Villas-Bôas brothers
+- Vilma Bánky
+- Vilma Santos
+- Vilmos Zsigmond
+- Vilém Flusser
+- Vin Scully
+- Vinayak Damodar Savarkar
+- Vince Gilligan
+- Vince Lombardi
+- Vince McMahon
+- Vincent Auriol
+- Vincent Gigante
+- Vincent Lingiari
+- Vincent Price
+- Vincente Minnelli
+- Vincenzo Bellini
+- Vincenzo Galilei
+- Vincenzo Peruggia
+- Vincenzo Scamozzi
+- Vinicius de Moraes
+- Vint Cerf
+- Viola Davis
+- Violeta Chamorro
+- Violeta Parra
+- Virat Kohli
+- Virgil Thomson
+- Virgilio Barco Vargas
+- Virginia E. Johnson
+- Virji Vora
+- Vishvamitra
+- Vissarion Belinsky
+- Viswanathan Anand
+- Vital Signs (band)
+- Vitali Klitschko
+- Vitalik Buterin
+- Vitaly Ginzburg
+- Vitaly Scherbo
+- Vitas
+- Vito Acconci
+- Vito Genovese
+- Vito Russo
+- Vito Volterra
+- Vittorio Alfieri
+- Vittorio Emanuele Orlando
+- Vittorio Gassman
+- Vittorio Pozzo
+- Vittorio Storaro
+- Viv Richards
+- Vivian Fuchs
+- Vivienne Westwood
+- Vladimir Ashkenazy
+- Vladimir Bogoyavlensky
+- Vladimir Dal
+- Vladimir Grigoryevich Fyodorov
+- Vladimir Gusinsky
+- Vladimir K. Zworykin
+- Vladimir Komarov
+- Vladimir Kramnik
+- Vladimir Mashkov
+- Vladimir Propp
+- Vladimir Shukhov
+- Vladimir Solovyov (philosopher)
+- Vladimir Sorokin
+- Vladimir Tatlin
+- Vladimir Vasiliev (dancer)
+- Vladimir Vernadsky
+- Vladislav Ardzinba
+- Vladislav Listyev
+- Vladislav Tretiak
+- Volodymyr Zelenskyy
+- Voltairine de Cleyre
+- Vsevolod Meyerhold
+- Vsevolod Pudovkin
+- Vsevolod the Big Nest
+- Vuk Karadžić
+- Vyacheslav Molotov
+- Vyacheslav Tikhonov
+- Vyjayanthimala
+- Väinö Linna
+- Víctor Erice
+- Víctor Jara
+- Vāchaspati Misra
+- Vātsyāyana
+- Věra Čáslavská
+- Vũ Trọng Phụng
+- W. Arthur Lewis
+- W. C. Fields
+- W. C. Handy
+- W. Eugene Smith
+- W. G. Sebald
+- W. H. Auden
+- W. H. R. Rivers
+- W. J. M. Rankine
+- W. S. Gilbert
+- W. Somerset Maugham
+- W. T. Stead
+- Wacław Sierpiński
+- Waheed Murad
+- Waheeda Rehman
+- Waisale Serevi
+- Waldo R. Tobler
+- Wale Adenuga
+- Walker Evans
+- Walker Percy
+- Wallace Beery
+- Wallace Carothers
+- Wallace Fard Muhammad
+- Wallace Stevens
+- Wallace Thurman
+- Wally Hammond
+- Wally Schirra
+- Walter A. Brown
+- Walter Baade
+- Walter Baldwin Spencer
+- Walter Benjamin
+- Walter Bonatti
+- Walter Brattain
+- Walter Brennan
+- Walter Burkert
+- Walter Burley Griffin
+- Walter Camp
+- Walter Christaller
+- Walter Chrysler
+- Walter Hagen
+- Walter Huston
+- Walter Isaacson
+- Walter Johnson
+- Walter Kennedy (poet)
+- Walter Lini
+- Walter Matthau
+- Walter McCrone
+- Walter Mischel
+- Walter Model
+- Walter Murch
+- Walter Payton
+- Walter Raleigh
+- Walter Reuther
+- Walter Savage Landor
+- Walter Ulbricht
+- Walter White (activist)
+- Walter William Skeat
+- Walter Winchell
+- Walter von Reichenau
+- Walther Bothe
+- Walther Nernst
+- Walther Rathenau
+- Walther von der Vogelweide
+- Wan Laiming
+- Wanda Jackson
+- Wanda Landowska
+- Wanda Sykes
+- Wang Anshi
+- Wang Bo (poet)
+- Wang Dan (dissident)
+- Wang Danfeng
+- Wang Dayuan
+- Wang Huning
+- Wang Jian (Qin)
+- Wang Jianlin
+- Wang Jingwei
+- Wang Mang
+- Wang Ming
+- Wang Nan (table tennis)
+- Wang Shifu
+- Wang Shu
+- Wang Zhen (inventor)
+- Wangarĩ Maathai
+- Ward Cunningham
+- Warner Baxter
+- Warren Beatty
+- Warren E. Burger
+- Warren Ellis
+- Warren G. Harding
+- Warren Hastings
+- Warren Spahn
+- Washington Irving
+- Washington Luís
+- Wasim Akram
+- Wassily Leontief
+- Wat Tyler
+- Watkin Tench
+- Wayde van Niekerk
+- Waylon Jennings
+- Wayne Rooney
+- Wayne Shorter
+- Weegee
+- Weezer
+- Wei Jingsheng
+- Wei Qing
+- Welser family
+- Wen Jiabao
+- Wen Tingyun
+- Wen Zhengming
+- Wenceslaus I, Duke of Bohemia
+- Wenceslaus II of Bohemia
+- Wendy Carlos
+- Wendy Hiller
+- Wendy Wasserstein
+- Wentworth Miller
+- Werner Krauss
+- Werner Mölders
+- Werner Sombart
+- Werner von Siemens
+- Wes Anderson
+- Wes Craven
+- Wes Montgomery
+- Wesley A. Clark
+- Wesley Clair Mitchell
+- Whang-od
+- Whitey Bulger
+- Whitney Houston
+- Whitney Smith
+- Whitney Wolfe Herd
+- Whoopi Goldberg
+- Wilbert Awdry
+- Wilbur Smith
+- Wild Bill Hickok
+- Wiley (musician)
+- Wilfred Owen
+- Wilfrid Laurier
+- Wilfrid Scawen Blunt
+- Wilhelm Backhaus
+- Wilhelm Busch
+- Wilhelm Dilthey
+- Wilhelm Eduard Weber
+- Wilhelm Furtwängler
+- Wilhelm Grimm
+- Wilhelm Hofmeister
+- Wilhelm Keitel
+- Wilhelm Kempff
+- Wilhelm Maybach
+- Wilhelm Ostwald
+- Wilhelm Reich
+- Wilhelm Ritter von Leeb
+- Wilhelm Steinitz
+- Wilhelm Wien
+- Wilhelm von Humboldt
+- Wilhelmina of the Netherlands
+- Wilkie Collins
+- Will Durant
+- Will Ferrell
+- Will Keith Kellogg
+- Will Rogers
+- Will Smith
+- Will Wright (game designer)
+- Willa Cather
+- Willard Boyle
+- Willard Libby
+- Willard Van Orman Quine
+- Willem Drees
+- Willem Frederik Hermans
+- Willem Janszoon
+- Willem de Kooning
+- Willem-Alexander of the Netherlands
+- Willi Ninja
+- William A. Smalley
+- William Adams (samurai)
+- William Alfred Fowler
+- William Alston
+- William Anders
+- William B. Travis
+- William Banting
+- William Bateson
+- William Beresford, 1st Viscount Beresford
+- William Bernbach
+- William Beveridge
+- William Billings
+- William Bingham
+- William Birdwood
+- William Booth
+- William Bradford (governor)
+- William Byrd
+- William C. Durant
+- William Carlos Williams
+- William Caslon
+- William Castle
+- William Cavendish-Bentinck, 3rd Duke of Portland
+- William Caxton
+- William Clark
+- William Congreve
+- William Cooper (Aboriginal Australian)
+- William Cowper
+- William Crookes
+- William D. Leahy
+- William Dalrymple
+- William Dampier
+- William Daniel Phillips
+- William Dean Howells
+- William E. Boeing
+- William Eggleston
+- William Ellery Channing
+- William Etty
+- William F. Buckley Jr.
+- William F. Sharpe
+- William Fargo
+- William Farrer
+- William Fox (producer)
+- William Friedkin
+- William G. Morgan
+- William Gaddis
+- William Gaines
+- William Gibson
+- William Gilmore Simms
+- William Godwin
+- William Goldman
+- William Gopallawa
+- William Graham Sumner
+- William Grenville, 1st Baron Grenville
+- William H. McNeill
+- William H. Prescott
+- William H. Seward
+- William H. Webster
+- William H. Welch
+- William Halsey Jr.
+- William Hanna
+- William Harrison Ainsworth
+- William Hazlitt
+- William Henry Vanderbilt
+- William Holden
+- William Holman Hunt
+- William Howard Taft
+- William Howe, 5th Viscount Howe
+- William Huggins
+- William Huntington Russell
+- William Hurt
+- William Hyde Wollaston
+- William I of the Netherlands
+- William II of England
+- William II of the Netherlands
+- William II, Prince of Orange
+- William III of the Netherlands
+- William IV
+- William IV, Prince of Orange
+- William IX, Duke of Aquitaine
+- William Inge
+- William J. Brennan Jr.
+- William J. Donovan
+- William J. Seymour
+- William James Sidis
+- William Jennings Bryan
+- William Jones (mathematician)
+- William Jones (philologist)
+- William Joyce
+- William Kempe
+- William Kennedy Dickson
+- William Kidd
+- William Kirby (entomologist)
+- William Knox D'Arcy
+- William Kunstler
+- William L. Shirer
+- William Labov
+- William Lamb, 2nd Viscount Melbourne
+- William Langland
+- William Le Baron Jenney
+- William Lever, 1st Viscount Leverhulme
+- William Levitt
+- William Lilly
+- William Lloyd Garrison
+- William Lyon Mackenzie
+- William Lyon Mackenzie King
+- William M. Bass
+- William M. Branham
+- William Maclure
+- William Makepeace Thackeray
+- William Massey
+- William Masters
+- William McKinley
+- William Michael Rossetti
+- William Miller (preacher)
+- William Morris
+- William Morris Davis
+- William Moulton Marston
+- William Neill (poet)
+- William Nordhaus
+- William O. Douglas
+- William Osler
+- William Oughtred
+- William Penn
+- William Petty
+- William Pitt, 1st Earl of Chatham
+- William Playfair
+- William Powell
+- William Primrose
+- William Procter (industrialist)
+- William R. Wilkerson
+- William Ramsay
+- William Rees-Mogg
+- William Rehnquist
+- William Renshaw
+- William Roache
+- William S. Burroughs
+- William S. Hart
+- William S. Knudsen
+- William S. Paley
+- William Shatner
+- William Slim, 1st Viscount Slim
+- William Smith (geologist)
+- William Stanley Jevons
+- William Steig
+- William Stewart Halsted
+- William Stoughton (judge)
+- William Stukeley
+- William Styron
+- William T. G. Morton
+- William Tecumseh Sherman
+- William Thornton
+- William Tolbert
+- William Tubman
+- William Tyndale
+- William Unek
+- William V, Prince of Orange
+- William Vickrey
+- William Walker (filibuster)
+- William Wallace
+- William Walton
+- William Webb Ellis
+- William Wentworth
+- William Westmoreland
+- William Whewell
+- William Whitehead (poet)
+- William Wilson (aquatics)
+- William Wycherley
+- William de Warenne, 1st Earl of Surrey
+- William of Rubruck
+- William-Adolphe Bouguereau
+- Williamina Fleming
+- Willie Dixon
+- Willie Mays
+- Willie Nelson
+- Willie O'Ree
+- Willie Pep
+- Willis Carrier
+- Willis H. O'Brien
+- Willis Lamb
+- Willy Messerschmitt
+- Wilma Mankiller
+- Wilt Chamberlain
+- Wim Wenders
+- Winfield Scott
+- Winnie Mandela
+- Winona Ryder
+- Winslow Homer
+- Wiranto
+- Wisława Szymborska
+- Witold Lutosławski
+- Wives of Muhammad
+- Wizkid
+- Wladimir Klitschko
+- Wladimir Köppen
+- Wojciech Jaruzelski
+- Wolf Blitzer
+- Wolfe Tone
+- Wolfgang Ketterle
+- Wolfgang Paul
+- Wolfgang Puck
+- Wolfman Jack
+- Wolfram von Eschenbach
+- Wonder Girls
+- Wong Fei-hung
+- Wonhyo
+- Woody Harrelson
+- Wu Cheng'en
+- Wu Daozi
+- Wu Ding
+- Wu Han (historian)
+- Wu Lien-teh
+- Wu Minxia
+- Wu Sangui
+- Wu Zixu
+- Wu Zuguang
+- Wu-Tang Clan
+- Wyatt Earp
+- Wyclef Jean
+- Wyndham Lewis
+- Wynton Marsalis
+- Wyomia Tyus
+- Władysław Gomułka
+- Władysław I Herman
+- Władysław I Łokietek
+- Władysław IV Vasa
+- Władysław Reymont
+- Władysław Sikorski
+- X Japan
+- Xaviera Hollander
+- Xenophanes
+- Xianfeng Emperor
+- Xiang Yu
+- Xiao Hong
+- Xie Jin
+- Xie Lingyun
+- Xiong Shili
+- Xu Fu
+- Xu Jinglei
+- Xu Shen
+- Xu Shichang
+- Xu Xiangqian
+- Xu Zhonglin (novelist)
+- Xuande Emperor
+- Xue Ji
+- Xuxa
+- Ya'qub ibn al-Layth al-Saffar
+- Yaa Asantewaa
+- Yagan
+- Yahya Jammeh
+- Yahya Khan
+- Yahya Muhammad Hamid ed-Din
+- Yakub Beg of Yettishar
+- Yakubu Gowon
+- Yamagata Aritomo
+- Yamato Takeru
+- Yan Fu
+- Yan Zhenqing
+- Yana Churikova
+- Yang Guifei
+- Yang Hui
+- Yang Hyun-suk
+- Yang Liwei
+- Yang Shangkun
+- Yang Zhu
+- Yanis Varoufakis
+- Yanka Dyagileva
+- Yann Martel
+- Yanni
+- Yao Ming
+- Yaqub Sanu
+- Yaqut al-Hamawi
+- Yash (actor)
+- Yash Chopra
+- Yasuhiro Nakasone
+- Yasushi Akimoto
+- Yasushi Inoue
+- Yax Ehb Xook
+- Yax Nuun Ahiin I
+- Yayoi Kusama
+- Yazdegerd III
+- Yazid I
+- Yaşar Kemal
+- Ye Jianying
+- Ye Shengtao
+- Yehudi Menuhin
+- Yekuno Amlak
+- Yelena Isinbayeva
+- Yelena Shushunova
+- Yellow Magic Orchestra
+- Yelü Dashi
+- Yemi Alade
+- Yeongjo of Joseon
+- Yermak Timofeyevich
+- Yes (band)
+- Yevgeni Bauer
+- Yevgeny Baratynsky
+- Yevgeny Kiselyov
+- Yevgeny Mravinsky
+- Yevgeny Zamyatin
+- Yi Cheong-jun
+- Yi Wanyong
+- Yi Xing
+- Yi-Fu Tuan
+- Yigal Amir
+- Yingluck Shinawatra
+- Yip Harburg
+- Yitzhak HaLevi Herzog
+- Yitzhak Rabin
+- Yitzhak Shamir
+- Yma Sumac
+- Yo Yo Honey Singh
+- Yo-Yo Ma
+- Yogi Berra
+- Yohanan ben Zakkai
+- Yohji Yamamoto
+- Yoichiro Nambu
+- Yoko Kanno
+- Yoko Ono
+- Yongzheng Emperor
+- Yoon Jeong-hee
+- Yoon Suk Yeol
+- Yosa Buson
+- Yosano Akiko
+- Yoshiharu Habu
+- Yoshiko Yamaguchi
+- Yossele Rosenblatt
+- Young Tom Morris
+- Younis Khan
+- Youssef Chahine
+- Youssou N'Dour
+- Yousuf Karsh
+- Yoweri Museveni
+- Yu Gwan-sun
+- Yu Hyun-mok
+- Yu Shinan
+- Yu Ying-shih
+- Yuan Chonghuan
+- Yuan Shikai
+- Yuan Zhen
+- Yue Fei
+- Yuen Ren Chao
+- Yuji Naka
+- Yukihiro Matsumoto
+- Yul Brynner
+- Yulia Tymoshenko
+- Yumjaagiin Tsedenbal
+- Yuna Kim
+- Yundi
+- Yunmen Wenyan
+- Yuri Andropov
+- Yuri Komuro
+- Yuri Levada
+- Yuri Nikulin
+- Yuriy Sedykh
+- Yusuf al-Khal
+- Yusuf ibn Tashfin
+- Yuval Noah Harari
+- Yves Klein
+- Yves Montand
+- Yvonne De Carlo
+- Yvonne Okoro
+- Yılmaz Güney
+- Zacarias Moussaoui
+- Zachris Topelius
+- Zadie Smith
+- Zahi Hawass
+- Zainul Abedin
+- Zakir Husain
+- Zakir Hussain (musician)
+- Zalman Schachter-Shalomi
+- Zamenga Batukezanga
+- Zane Grey
+- Zayd ibn Ali
+- Zayd ibn Haritha al-Kalbi
+- Zayd ibn Thabit
+- Zayed bin Sultan Al Nahyan
+- Zaynab bint Ali
+- Zbigniew Brzezinski
+- Ze'ev Jabotinsky
+- Zeami Motokiyo
+- Zebulon Pike
+- Zeki Müren
+- Zeki Velidi Togan
+- Zellig Harris
+- Zeng Guofan
+- Zeno (emperor)
+- Zeno of Citium
+- Zeno of Elea
+- Zera Yacob (philosopher)
+- Zero Mostel
+- Zeuxis (painter)
+- Zewditu
+- Zhang Hu (poet)
+- Zhang Jue
+- Zhang Juzheng
+- Zhang Leping
+- Zhang Liang (Western Han)
+- Zhang Wentian
+- Zhang Xianzhong
+- Zhang Yiming
+- Zhang Yimou
+- Zhang Yuzhe
+- Zhang Zai
+- Zhang Zhongjing
+- Zhang Ziyi
+- Zhang Zuolin
+- Zhao Mengfu
+- Zhao Tuo
+- Zhao Wei
+- Zhao Ziyang
+- Zheng Junli
+- Zheng Yi Sao
+- Zheng Zhenduo
+- Zhengde Emperor
+- Zhores Alferov
+- Zhou Bangyan
+- Zhou Dunyi
+- Zhou Xuan
+- Zhou Xun
+- Zhou Youguang
+- Zhou Yu
+- Zhu De
+- Zhu Rongji
+- Zhu Shijie
+- Zhu Wen
+- Zhu Yunming
+- Zhuang Zhou
+- Zia-ul-Haq
+- Ziaur Rahman
+- Zico (footballer)
+- Zinaida Gippius
+- Zine El Abidine Ben Ali
+- Ziya Gökalp
+- Zizi Jeanmaire
+- Zlatan Ibrahimović
+- Zodiac Killer
+- Zoe Caldwell
+- Zoe Porphyrogenita
+- Zog I
+- Zohar Argov
+- Zora Neale Hurston
+- Zorawar Chand Bakhshi
+- Zosimos of Panopolis
+- Zou Yan
+- Zoya Akhtar
+- Zsa Zsa Gabor
+- Zu Chongzhi
+- Zubayr ibn al-Awwam
+- Zucchero Fornaciari
+- Zuhayr bin Abi Sulma
+- Zulfikar Ali Bhutto
+- Zumbi
+- Zuo Qiuming
+- Zygmunt Bauman
+- Àngel Guimerà
+- Álvar Núñez Cabeza de Vaca
+- Álvaro Arzú
+- Álvaro Obregón
+- Álvaro Siza Vieira
+- Álvaro Uribe
+- Álvaro de Bazán, Marquis of Santa Cruz
+- Álvaro de Mendaña de Neira
+- Árpád
+- Æthelred the Unready
+- Édouard Glissant
+- Édouard-Alfred Martel
+- Édouard-Léon Scott de Martinville
+- Éleuthère Irénée du Pont
+- Élie Cartan
+- Élie Lescot
+- Élie Metchnikoff
+- Élisabeth Vigée Le Brun
+- Émile Augier
+- Émile Borel
+- Émile Cohl
+- Émile Coué
+- Émile Jaques-Dalcroze
+- Émile Verhaeren
+- Émilie du Châtelet
+- Éric Rohmer
+- Étienne Decroux
+- Étienne Geoffroy Saint-Hilaire
+- Étienne Lenoir
+- Étienne Macdonald
+- Étienne Oehmichen
+- Étienne-Jules Marey
+- Óscar Arias
+- Óscar R. Benavides
+- Óscar Romero
+- Ötzi
+- İbrahim Kaypakkaya
+- İsmet İnönü
+- Ľudovít Štúr
+- Ōkubo Toshimichi
+- Ōshikōchi no Mitsune
+- Ōtomo no Yakamochi
+- Ōyama Iwao
+- Śuddhodana
+- Śāntarakṣita
+- Šuppiluliuma I
+- Ŭlchi Mundŏk
+- ʻAbdu'l-Bahá
+
+### Philosophy and religion (+1082)
+- 1 Maccabees
+- 2 Maccabees
+- Aaron
+- Abbey
+- Abhidharma
+- Abrahamic religions
+- Absurdism
+- Act utilitarianism
+- Acts of the Apostles
+- Ad hominem
+- Adam
+- Adam Kadmon
+- Adat
+- Adhan
+- Adoration
+- African Methodist Episcopal Church
+- Agamemnon
+- Agape
+- Agni
+- Ahimsa
+- Ahkam
+- Ahriman
+- Ahura Mazda
+- Akhirah
+- Alevism
+- Allegory of the cave
+- Alpha and Omega
+- Amen
+- American philosophy
+- Amish
+- Amitābha
+- Amos (prophet)
+- Amulet
+- Anabaptism
+- Anattā
+- Ancient Egyptian afterlife beliefs
+- Ancient Mesopotamian underworld
+- Ancient Semitic religion
+- Andromeda (mythology)
+- Animal sacrifice
+- Anointing of the sick
+- Anshar
+- Anthropocentrism
+- Anthroposophy
+- Antichrist
+- Antinatalism
+- Antitheism
+- Anu
+- Apocalyptic literature
+- Apophis
+- Apostles' Creed
+- Applied ethics
+- Aqidah
+- Aranyaka
+- Arash
+- Arba'in pilgrimage
+- Archangel
+- Archbishop of Canterbury
+- Ares
+- Argonauts
+- Arhat
+- Arianism
+- Ariosophy
+- Aristotelian ethics
+- Aristotelianism
+- Ark of the Covenant
+- Armageddon
+- Armenian Apostolic Church
+- Asceticism
+- Asgard
+- Ash'arism
+- Asherah
+- Asiya
+- Association of Shinto Shrines
+- Astral projection
+- Astrological sign
+- Atalanta
+- Aten
+- Atharism
+- Atharvaveda
+- Atlas (mythology)
+- Atomism
+- Atum
+- Autonomy
+- Avatar
+- Axis mundi
+- Ayyavazhi
+- Aztec mythology
+- Baal
+- Bahubali
+- Bake-danuki
+- Balarama
+- Baldr
+- Banshee
+- Bardo
+- Bardo Thodol
+- Baron Samedi
+- Basilica
+- Basilisk
+- Bastet
+- Behemoth
+- Bektashism
+- Benedictines
+- Bhagavata Purana
+- Bhajan
+- Bhakti yoga
+- Bhikkhu
+- Bhikkhunī
+- Biblical apocrypha
+- Biblical canon
+- Biblical hermeneutics
+- Bigfoot
+- Biocentrism (ethics)
+- Bioethics
+- Bishop
+- Black Hebrew Israelites
+- Black church
+- Black magic
+- Blasphemy
+- Blessing
+- Bodhicitta
+- Bodhisattva
+- Bogeyman
+- Bon
+- Book of Baruch
+- Book of Daniel
+- Book of Deuteronomy
+- Book of Esther
+- Book of Exodus
+- Book of Ezekiel
+- Book of Ezra
+- Book of Genesis
+- Book of Isaiah
+- Book of Jeremiah
+- Book of Job
+- Book of Joshua
+- Book of Judges
+- Book of Judith
+- Book of Lamentations
+- Book of Leviticus
+- Book of Mormon
+- Book of Nehemiah
+- Book of Numbers
+- Book of Proverbs
+- Book of Revelation
+- Book of Ruth
+- Book of Sirach
+- Book of Tobit
+- Book of Wisdom
+- Books of Chronicles
+- Books of Kings
+- Books of Samuel
+- Born again
+- Brahmana
+- Brahmavihara
+- Brahmo Samaj
+- Brigid
+- Brit milah
+- Brunhild
+- Buddha-nature
+- Buddhahood
+- Buddhism in the West
+- Buddhist canons
+- Buddhist meditation
+- Buddhist monasticism
+- Bunyip
+- Butsudan
+- Camelot
+- Canaanite religion
+- Candomblé
+- Caodaism
+- Cardinal virtues
+- Cargo cult
+- Castor and Pollux
+- Categorical imperative
+- Catharism
+- Cathedral
+- Catholic social teaching
+- Causality
+- Celtic Christianity
+- Cerberus
+- Chaac
+- Chakra
+- Chan Buddhism
+- Chandra
+- Chang'e
+- Changeling
+- Chaos (cosmogony)
+- Chapel
+- Charismatic Christianity
+- Charity (Christian virtue)
+- Charon
+- Charvaka
+- Cherub
+- Chi Rho
+- Chimera (mythology)
+- Chinese Buddhism
+- Chinese dragon
+- Chinese zodiac
+- Chiron
+- Chishti Order
+- Chiyou
+- Choice
+- Christendom
+- Christian Science
+- Christian cross
+- Christian culture
+- Christian deism
+- Christian denomination
+- Christian eschatology
+- Christian ethics
+- Christian fundamentalism
+- Christian liturgy
+- Christian mission
+- Christian monasticism
+- Christian mysticism
+- Christian mythology
+- Christian pacifism
+- Christian prayer
+- Christian symbolism
+- Christian theology
+- Christians
+- Chronology of Jesus
+- Chupacabra
+- Church music
+- Church of England
+- Church of the East
+- Church service
+- Cogito, ergo sum
+- College of Cardinals
+- Conceptions of God
+- Confession (religion)
+- Confirmation
+- Congregationalism
+- Continental Reformed Protestantism
+- Continental philosophy
+- Contingency (philosophy)
+- Contrition
+- Cosmic egg
+- Cosmological argument
+- Cosmos
+- Covenant (biblical)
+- Creationism
+- Creator deity
+- Criticism
+- Criticism of Christianity
+- Criticism of Islam
+- Criticism of religion
+- Crucifix
+- Crucifixion of Jesus
+- Cryptozoology
+- Cult (religious practice)
+- Cyclopes
+- Cú Chulainn
+- Daedalus
+- Daeva
+- Dakini
+- Dalai Lama
+- Damage
+- Daozang
+- Dark retreat
+- De (Chinese)
+- Deconstruction
+- Deductive-nomological model
+- Delilah
+- Demarcation problem
+- Demeter
+- Demigod
+- Demiurge
+- Demographics of atheism
+- Destiny
+- Deuterocanonical books
+- Dharmakāya
+- Dialectical materialism
+- Dido
+- Digambara
+- Diocese
+- Dionysus
+- Divine command theory
+- Divinity
+- Doctrine
+- Dominican Order
+- Doppelgänger
+- Dream yoga
+- Druid
+- Druidry (modern)
+- Drukpa Kagyu
+- Dumuzid
+- Duty
+- Duḥkha
+- Dwarf (folklore)
+- Dzogchen
+- Eastern Orthodoxy
+- Ecclesiastes
+- Ecotheology
+- Ecumenical Patriarch of Constantinople
+- Egoism
+- Ein Sof
+- El (deity)
+- Electra
+- Eleusinian Mysteries
+- Elf
+- Elisha
+- Elohim
+- Ema (Shinto)
+- Emergence
+- Emperor Jimmu
+- Energy (esotericism)
+- Enkidu
+- Enlightenment in Buddhism
+- Environmental ethics
+- Environmental philosophy
+- Epic-Puranic chronology
+- Epimenides paradox
+- Epistle of James
+- Epistle of Jude
+- Epistle to Philemon
+- Epistle to Titus
+- Epistle to the Colossians
+- Epistle to the Ephesians
+- Epistle to the Galatians
+- Epistle to the Hebrews
+- Epistle to the Philippians
+- Epistle to the Romans
+- Erlang Shen
+- Erlik
+- Eros
+- Esau
+- Essenes
+- Essentially contested concept
+- Esther
+- Ethnic religion
+- Euhemerism
+- Europa (consort of Zeus)
+- European dragon
+- Evangelism
+- Eve
+- Everything
+- Evidence
+- Evil
+- Evolutionary origin of religion
+- Excalibur
+- Exegesis
+- Existence of God
+- Explanation
+- Extrasensory perception
+- Ezekiel
+- Faith and rationality
+- Faith healing
+- Fall of man
+- Fallen angel
+- Fallibilism
+- False prophet
+- Falsifiability
+- Falun Gong
+- Fasting in Islam
+- Fatalism
+- Fatwa
+- Feminist theology
+- Feng shui
+- Fenrir
+- Fertility rite
+- First Epistle of John
+- First Epistle of Peter
+- First Epistle to Timothy
+- First Epistle to the Corinthians
+- First Epistle to the Thessalonians
+- Five solae
+- Flood myth
+- Flying Dutchman
+- Formal fallacy
+- Fortune-telling
+- Fountain of Youth
+- Four Horsemen of the Apocalypse
+- Franciscans
+- Free Will Baptist
+- French philosophy
+- Freyr
+- Frigg
+- Fuxi
+- Gabriel
+- Gaia
+- Ganachakra
+- Ganapatya
+- Garden of Eden
+- Garuda
+- Gayatri Mantra
+- Geb
+- Gelug
+- Gematria
+- Genesis creation narrative
+- German idealism
+- German philosophy
+- Ghost Dance
+- Ghoul
+- Ginza Rabba
+- Gnome
+- Goblin
+- God the Father
+- God the Son
+- Golem
+- Goliath
+- Good
+- Good works
+- Gorgons
+- Gospel of John
+- Gospel of Luke
+- Gospel of Mark
+- Gospel of Matthew
+- Gothic paganism
+- Great Commandment
+- Great Commission
+- Great Tribulation
+- Greek Orthodox Church
+- Greek hero cult
+- Greek primordial deities
+- Greek underworld
+- Grey alien
+- Griffin
+- Grim Reaper
+- Ground (Dzogchen)
+- Guanyin
+- Guarani mythology
+- Guardian angel
+- Gurdwara
+- Guru
+- Hafiz (Quran)
+- Hagar
+- Hanafi school
+- Hanbali school
+- Hanuman
+- Harae
+- Haredi Judaism
+- Harm
+- Hasidic Judaism
+- Havdalah
+- Hayyi Rabbi
+- Heart Sutra
+- Heathenry (new religious movement)
+- Hel (mythological being)
+- Helen of Troy
+- Hell in Christianity
+- Hephaestus
+- Hermeneutics
+- Hermeticism
+- Hermit
+- Hestia
+- Hesychasm
+- Hierarchy of the Catholic Church
+- Hinayana
+- Hindu mythology
+- Hindu philosophy
+- Hindu temple
+- Hindus
+- Historical Vedic religion
+- Holism
+- Holy Lance
+- Holy Land
+- Holy Spirit in Christianity
+- Holy orders
+- Huehueteotl
+- Human sacrifice
+- Hutterites
+- Huītzilōpōchtli
+- I'jaz
+- Ibadah
+- Ibadism
+- Iblis
+- Icarus
+- Ichthys
+- Idea
+- Ifá
+- Ignatian spirituality
+- Ijma
+- Illuminati
+- Iman (Islam)
+- Immortality
+- Imperial Regalia of Japan
+- Impermanence
+- Inari Ōkami
+- Inca mythology
+- Incantation
+- Incubus
+- Indian religions
+- Individual
+- Indra
+- Inductivism
+- Indulgence
+- Ineffability
+- Informal fallacy
+- Informal logic
+- Inquiry
+- Intelligent design
+- International Society for Krishna Consciousness
+- Inti
+- Iram of the Pillars
+- Irish mythology
+- Irreligion
+- Ishvara
+- Islamic eschatology
+- Islamic holy books
+- Islamic mythology
+- Islamic studies
+- Islamic world
+- Ismailism
+- Istihsan
+- Izanagi
+- Ja'fari school
+- Jackalope
+- Jahannam
+- Jannah
+- Japamala
+- Jason
+- Jataka tales
+- Jehovah
+- Jeremiah
+- Jesuits
+- Jesus Prayer
+- Jethro (biblical figure)
+- Jewish holidays
+- Jewish mythology
+- Jewish philosophy
+- Jewish religious movements
+- Jewish symbolism
+- Jihad
+- Job (biblical figure)
+- Jonah
+- Joshua
+- Juno (mythology)
+- Justification (theology)
+- Juz'
+- Jörmungandr
+- Jötunn
+- Kabbalah
+- Kachina
+- Kadam (Tibetan Buddhism)
+- Kagura
+- Kagyu
+- Kali Yuga
+- Kalki
+- Kami
+- Kantian ethics
+- Kappa (folklore)
+- Karma Kagyu
+- Kartikeya
+- Karuṇā
+- Kelpie
+- Kharijites
+- Kingdom of God (Christianity)
+- Kitsune
+- Kokopelli
+- Korean shamanism
+- Kraken
+- Krasue
+- Kukulkan
+- Kuntilanak
+- Kutub al-Sittah
+- LaVeyan Satanism
+- Labyrinth
+- Lakshmana
+- Lamrim
+- Language game (philosophy)
+- Last Judgment
+- Last Supper
+- Lectio Divina
+- Lernaean Hydra
+- Leviathan
+- Liberation theology
+- Life of Jesus
+- Life stance
+- Liminality
+- Lingam
+- Liturgical year
+- Loch Ness Monster
+- Logical consequence
+- Logical positivism
+- Lojong
+- Longchen Nyingthig
+- Lot (biblical person)
+- Lotus Sutra
+- Lotus position
+- Lucifer
+- Luck
+- Lugh
+- Lwa
+- Macroethics and microethics
+- Madhhab
+- Mahamudra
+- Mahdi
+- Mainline Protestant
+- Maitreya
+- Maitrī
+- Maliki school
+- Manannán mac Lir
+- Mandaean Book of John
+- Mandaeism
+- Mandala
+- Manitou
+- Manticore
+- Marduk
+- Martyr
+- Masonic lodge
+- Mass in the Catholic Church
+- Maturidism
+- Maya mythology
+- Mazu
+- Meaning of life
+- Medea
+- Medusa
+- Melchizedek
+- Mennonites
+- Metaethics
+- Metaphysical naturalism
+- Methuselah
+- Mevlevi Order
+- Michael (archangel)
+- Midas
+- Middle Way
+- Midrash
+- Mihrab
+- Millennialism
+- Mimesis
+- Minaret
+- Minbar
+- Mind–body problem
+- Minerva
+- Minister (Christianity)
+- Ministry of Jesus
+- Minyan
+- Misogi
+- Missionary
+- Mithra
+- Mithraism
+- Mitzvah
+- Mixcoatl
+- Mjölnir
+- Modal logic
+- Modernization theory
+- Mohism
+- Mokele-mbembe
+- Moksha
+- Moloch
+- Monk
+- Mononoke
+- Moral relativism
+- Moral responsibility
+- Morality and religion
+- Moravian Church
+- Mortal sin
+- Mother goddess
+- Mothman
+- Mount Meru
+- Mu'tazilism
+- Mudita
+- Muezzin
+- Mujahideen
+- Muses
+- Muslims
+- Māui
+- Mūlamadhyamakakārikā
+- Names of God in Islam
+- Names of God in Judaism
+- Narcissus (mythology)
+- Nation of Islam
+- National church
+- National myth
+- Native American religions
+- Nativity of Jesus
+- Natural law
+- Navadurga
+- Necromancy
+- Negative and positive atheism
+- Nehemiah
+- Neo-Confucianism
+- Nephilim
+- Nephthys
+- New Atheism
+- New Earth (Christianity)
+- New Testament apocrypha
+- New Thought
+- Ngöndro
+- Nicene Creed
+- Ninhursag
+- Nirmāṇakāya
+- Noble Eightfold Path
+- Nondualism
+- Nontheism
+- Nontheistic religion
+- Norm (philosophy)
+- Normative ethics
+- Nothing
+- Nun
+- Nut (goddess)
+- Nyingma
+- Nymph
+- Nüwa
+- Nāga
+- Objectivism
+- Occult
+- Odinani
+- Oedipus
+- Ogre
+- Old Believers
+- Old Catholic Church
+- Oni
+- Ontological argument
+- Onuris
+- Ora et labora
+- Oracle
+- Oral Torah
+- Order of Saint Augustine
+- Order of Saint John (Bailiwick of Brandenburg)
+- Original sin
+- Orion (mythology)
+- Orisha
+- Orpheus
+- Oshun
+- Other (philosophy)
+- Pachamama
+- Paleolithic religion
+- Pandeism
+- Pandora's box
+- Pangu
+- Parable of the Good Samaritan
+- Parable of the Prodigal Son
+- Parables of Jesus
+- Paranormal
+- Parashah
+- Parody religion
+- Parsis
+- Pascal's wager
+- Pattern
+- Pazuzu
+- Pele (deity)
+- Penance in the Catholic Church
+- Perennial philosophy
+- Perfection
+- Person
+- Pharisees
+- Phenomenon
+- Philosopher's stone
+- Philosophical logic
+- Philosophy of history
+- Phowa
+- Physicalism
+- Picturesque
+- Pietism
+- Place of worship
+- Pluto (mythology)
+- Poltergeist
+- Polynesian mythology
+- Polytheistic reconstructionism
+- Post-structuralism
+- Posthumanism
+- Prajnaparamita
+- Pratītyasamutpāda
+- Pre-Socratic philosophy
+- Predestination in Islam
+- Prediction
+- Preference
+- Premise
+- Principle
+- Principles of Islamic jurisprudence
+- Problem of evil
+- Problem of induction
+- Problem of universals
+- Prometheus
+- Prophet
+- Prophets and messengers in Islam
+- Proposition
+- Proselytism
+- Proto-Indo-European mythology
+- Psalms
+- Ptah
+- Puja (Hinduism)
+- Puranas
+- Pure Land
+- Pure Land Buddhism
+- Pythagoreanism
+- Pāramitā
+- Qibla
+- Qiyas
+- Qualia
+- Quality (philosophy)
+- Queen of Sheba
+- Qulasta
+- Rabbinic Judaism
+- Rachel
+- Radha
+- Ragnar Lodbrok
+- Ragnarök
+- Raijin
+- Rainbow Serpent
+- Rainbow body
+- Rakshasa
+- Raphael (archangel)
+- Rapture
+- Rationality
+- Ravana
+- Rebecca (biblical figure)
+- Rebirth (Buddhism)
+- Refuge in Buddhism
+- Relationship between science and religion
+- Religious denomination
+- Religious ecstasy
+- Religious persecution
+- Religious philosophy
+- Religious studies
+- Religious text
+- Religious violence
+- Religious violence in India
+- Repentance
+- Restorationism
+- Resurrection of Jesus
+- Retreat (spiritual)
+- Revelation
+- Rigpa
+- Rigveda
+- Rinzai school
+- Rishabhanatha
+- Rite of passage
+- Roman Curia
+- Roman festivals
+- Romulus and Remus
+- Rosary
+- Rosicrucianism
+- Rule of Saint Benedict
+- Rule utilitarianism
+- Russell's teapot
+- Ruth (biblical figure)
+- Rūpa
+- Sacrament
+- Sacred tradition
+- Sadhu
+- Sakya
+- Salafi movement
+- Salah
+- Samatha-vipassanā
+- Samaveda
+- Samson
+- Samuel
+- Sanctity of life
+- Sangha
+- Santería
+- Sarah
+- Satyr
+- Saul
+- Saṃbhogakāya
+- Saṃjñā
+- Saṃsāra
+- Saṅkhāra
+- Scholasticism
+- Schwarzenau Brethren
+- Scientific skepticism
+- Scientology
+- Scottish Enlightenment
+- Sea serpent
+- Second Epistle of John
+- Second Epistle of Peter
+- Second Epistle to Timothy
+- Second Epistle to the Corinthians
+- Second Epistle to the Thessalonians
+- Secular education
+- Secular ethics
+- Secular humanism
+- Secular morality
+- Secularism in France
+- Secularity
+- Secularization
+- Sedevacantism
+- Sefirot
+- Sekhmet
+- Self
+- Self-reference
+- Semde
+- Separation of church and state
+- Seraph
+- Sermon
+- Sermon on the Mount
+- Set (deity)
+- Seth
+- Seven Cities of Gold
+- Seven deadly sins
+- Seventeen tantras
+- Shadhili
+- Shafi'i school
+- Shahada
+- Shakers
+- Shamash
+- Shango
+- Shangri-La
+- Shennong
+- Shinto shrine
+- Shrine
+- Shriners
+- Sigurd
+- Sikh gurus
+- Simulation hypothesis
+- Sinner's prayer
+- Sisyphus
+- Sita
+- Six Dharmas of Naropa
+- Skandha
+- Skeleton (undead)
+- Skin-walker
+- Sky deity
+- Sleipnir
+- Smarta tradition
+- Sobek
+- Social philosophy
+- Socinianism
+- Sodom and Gomorrah
+- Soka Gakkai
+- Solar deity
+- Song of Songs
+- Sources of Sharia
+- Southern Baptist Convention
+- Speaking in tongues
+- Spirit (animating force)
+- Spiritual gift
+- Spiritual practice
+- Sprite (folklore)
+- Star of David
+- Stewardship (theology)
+- Straw man
+- Structuralism
+- Sublime (philosophy)
+- Succubus
+- Suhrawardiyya
+- Sunnah
+- Surah
+- Surya
+- Susanoo-no-Mikoto
+- Sutra
+- Sutta Piṭaka
+- Svabhava
+- Svasaṃvedana
+- Syllogism
+- Séance
+- Sīrah
+- Sōtō
+- Tafsir
+- Tajwid
+- Tall tale
+- Tallit
+- Tan'gun
+- Taoist diet
+- Taoist philosophy
+- Taqlid
+- Tara (Buddhism)
+- Targum
+- Tariqa
+- Tathātā
+- Tattvartha Sutra
+- Tawhid
+- Tefillin
+- Tefnut
+- Teleological argument
+- Telepathy
+- Televangelism
+- Temple menorah
+- Tengrism
+- Tengu
+- Tenrikyo
+- Terma (religion)
+- Tertön
+- Tezcatlipoca
+- Thaumaturgy
+- The Beast (Revelation)
+- The Church of Jesus Christ of Latter-day Saints
+- The Dreaming
+- The Exodus
+- The Morrígan
+- The Void (philosophy)
+- The gospel
+- Theodicy
+- Theophany
+- Theoretical philosophy
+- Theories about religion
+- Theory of mind
+- Theosophy
+- Theurgy
+- Third Epistle of John
+- Three Treasures (Taoism)
+- Three marks of existence
+- Thunderbird (mythology)
+- Tibetan Buddhism
+- Tijaniyyah
+- Tirthankara
+- Tithe
+- Tláloc
+- Tonglen
+- Tower of Babel
+- Traditionalist Catholicism
+- Trance
+- Transcendentalism
+- Transhumanism
+- Tree of life
+- Tree of life (Kabbalah)
+- Tree of the knowledge of good and evil
+- Trikaya
+- Trimurti
+- Trojan Horse
+- Troll
+- Trul khor
+- Truth value
+- Tuatha Dé Danann
+- Tudigong
+- Tummo
+- Twelve Imams
+- Twelve Minor Prophets
+- Twelve Olympians
+- Twelver Shi'ism
+- Tzedakah
+- Týr
+- UFO religion
+- Ulama
+- Umay
+- Ummah
+- Uncanny valley
+- Uncertainty
+- Undead
+- Underworld
+- Unidentified flying object
+- Unification Church
+- Unitarian Universalism
+- United Methodist Church
+- Upekṣā
+- Urban legend
+- Vaishno Devi
+- Valhalla
+- Valkyrie
+- Value theory
+- Vanir
+- Vedanā
+- Vedic chant
+- Vegetation deity
+- Veneration
+- Venial sin
+- Vice
+- Vienna Circle
+- Vijñāna
+- Vinaya
+- Vinaya Piṭaka
+- Viracocha
+- Virtue ethics
+- Vision (spirituality)
+- Vulcan (mythology)
+- Wadjet
+- Wahhabism
+- Wand
+- Wendigo
+- West African Vodún
+- White Lady
+- Wild Hunt
+- Wild man
+- World tree
+- Wu wei
+- Wudu
+- Wyvern
+- Yab-Yum
+- Yajna
+- Yajurveda
+- Yana (Buddhism)
+- Yeti
+- Yggdrasil
+- Yidam
+- Ymir
+- Yomi
+- Yowie
+- Yulanpen Sutra
+- Zakat
+- Zaydism
+- Zazen
+- Zeno's paradoxes
+- Ziran
+- Æsir
+- Ātman (Hinduism)
+- Āyah
+- Śramaṇa
+- Śvetāmbara
+- Śūnyatā
+
+### Physical sciences (+3649)
+- 1,2-rearrangement
+- 1,4-Dioxane
+- 1-Propanol
+- 10 Hygiea
+- 1I/ʻOumuamua
+- 2 Pallas
+- 2060 Chiron
+- 243 Ida
+- 2I/Borisov
+- 2MASS
+- 3 Juno
+- 4 Vesta
+- 433 Eros
+- 47 Tucanae
+- 486958 Arrokoth
+- 51 Pegasi b
+- 55 Cancri Ae
+- A value
+- AC power
+- Abrasion (geology)
+- Absolute configuration
+- Absolute dating
+- Absolute electrode potential
+- Absolute magnitude
+- Absolute space and time
+- Absorption (chemistry)
+- Absorption (electromagnetic radiation)
+- Absorption band
+- Abyssal zone
+- Academic discipline
+- Acasta Gneiss
+- Accelerating expansion of the universe
+- Accretion (astrophysics)
+- Accretion disk
+- Accretionary wedge
+- Acetaldehyde
+- Acetate
+- Acetylene
+- Achernar
+- Acid anhydride
+- Acid dissociation constant
+- Acid salt
+- Acid strength
+- Acidity function
+- Acoustic resonance
+- Acre-foot
+- Acrux
+- Action (physics)
+- Action at a distance
+- Activated carbon
+- Activated complex
+- Activation energy
+- Activity coefficient
+- Acyl group
+- AdS/CFT correspondence
+- Adamantane
+- Addition reaction
+- Adiabatic process
+- Adobe RGB color space
+- Adsorption
+- Aeon
+- African plate
+- Afternoon
+- Aftershock
+- Agate
+- Age of Earth
+- Age of the universe
+- Aggradation
+- Air mass (astronomy)
+- Air quality index
+- Air separation
+- Airglow
+- Albite
+- Alcohol by volume
+- Aldebaran
+- Aldol condensation
+- Algol
+- Algoman orogeny
+- Alicyclic compound
+- Aliphatic compound
+- Alkali
+- Alkali salt
+- Allanite
+- Allicin
+- Allotropes of carbon
+- Allotropes of oxygen
+- Allotropes of phosphorus
+- Allotropes of sulfur
+- Alloy steel
+- Alluvial river
+- Alluvium
+- Allyl isothiocyanate
+- Allylic rearrangement
+- Alpha decay
+- Alpher–Bethe–Gamow paper
+- Alpine climate
+- Alpine lake
+- Alpine tundra
+- Altair
+- Altocumulus cloud
+- Altostratus cloud
+- Altostratus undulatus cloud
+- Aluminium carbide
+- Aluminium chloride
+- Aluminium oxide
+- Aluminium sulfate
+- Aluminium triacetate
+- Aluminosilicate
+- Alunite
+- Alvarez hypothesis
+- Amateur astronomy
+- Amber (color)
+- Amethyst
+- Ammonia solution
+- Ammonium
+- Ammonium acetate
+- Ammonium bicarbonate
+- Ammonium carbonate
+- Ammonium chloride
+- Ammonium dihydrogen phosphate
+- Ammonium ferric citrate
+- Ammonium metavanadate
+- Ammonium nitrite
+- Ammonium perchlorate
+- Ampere-hour
+- Amphibole
+- Amphibolite
+- Amphiphile
+- Amphoterism
+- Ampère's circuital law
+- Ampère's force law
+- Amur plate
+- Analysis
+- Analytical mechanics
+- Anatase
+- Andalusite
+- Andean orogeny
+- Andesite
+- Andromeda (constellation)
+- Andromeda–Milky Way collision
+- Anechoic chamber
+- Angle of incidence (optics)
+- Angle of repose
+- Angstrom
+- Angular acceleration
+- Angular diameter
+- Angular displacement
+- Angular frequency
+- Angular momentum operator
+- Angular resolution
+- Angular velocity
+- Anhydrite
+- Animal testing
+- Annihilation
+- Anode
+- Anorthite
+- Antarctic plate
+- Antares
+- Antennae Galaxies
+- Anthocyanidin
+- Anthocyanin
+- Anthoxanthin
+- Anthropic principle
+- Anthropocene
+- Antiaromaticity
+- Anticline
+- Antiferromagnetism
+- Antihydrogen
+- Antineutron
+- Antiproton
+- Antlia
+- Antozonite
+- Apatite
+- Aperture
+- Aphotic zone
+- Apothecaries' system
+- Apparent magnitude
+- Approximate measures
+- Apsis
+- Apus
+- Aqua regia
+- Aquamarine (gem)
+- Aquarius (constellation)
+- Aquatic ecosystem
+- Aqueous solution
+- Aquifer
+- Aquila (constellation)
+- Ara (constellation)
+- Arabian plate
+- Aragonite
+- Archean
+- Archimedes' principle
+- Arctic methane emissions
+- Arctic sea ice decline
+- Arene substitution pattern
+- Argo Navis
+- Argon compounds
+- Argon fluorohydride
+- Argon–argon dating
+- Ariel (moon)
+- Aries (constellation)
+- Aromaticity
+- Arp 220
+- Arrhenius equation
+- Arrow of time
+- Arrow pushing
+- Arroyo (watercourse)
+- Arsenate mineral
+- Arsenide mineral
+- Arsenopyrite
+- Arsine
+- Artesian well
+- Ash
+- Asterism (astronomy)
+- Asteroid family
+- Asteroseismology
+- Asthenosphere
+- Astrobiology
+- Astrochemistry
+- Astronomer
+- Astronomical radio source
+- Astronomical seeing
+- Astronomical spectroscopy
+- Astronomical system of units
+- Astronomical transit
+- Astrophotography
+- Astrophysical X-ray source
+- Astrophysical jet
+- Astrophysical maser
+- Astrophysics Data System
+- Asymptotic giant branch
+- Atlantic hurricane
+- Atlantic hurricane season
+- Atmosphere of Jupiter
+- Atmosphere of Mars
+- Atmosphere of Mercury
+- Atmosphere of Pluto
+- Atmosphere of Uranus
+- Atmosphere of Venus
+- Atmospheric electricity
+- Atmospheric escape
+- Atmospheric physics
+- Atomic absorption spectroscopy
+- Atomic emission spectroscopy
+- Atomic packing factor
+- Atomic radius
+- Atomic spectroscopy
+- Atomic units
+- Atropisomer
+- Augite
+- Auriga
+- Avogadro constant
+- Avoirdupois
+- Avulsion (river)
+- Axial precession
+- Axial tilt
+- Axion
+- Azeotrope
+- Azeotropic distillation
+- Azide
+- Azimuthal quantum number
+- Azure (color)
+- Azurite
+- B(e) star
+- BET theory
+- BKS theory
+- BL Lacertae
+- BL Lacertae object
+- BOSS Great Wall
+- Back-arc basin
+- Background radiation
+- Badlands
+- Bakelite
+- Baking powder
+- Ball lightning
+- Ball-and-stick model
+- Baltica
+- Band gap
+- Banded iron formation
+- Bar (river morphology)
+- Bar (unit)
+- Barium peroxide
+- Barn (unit)
+- Barnard's Star
+- Barrel (unit)
+- Barrier island
+- Baryogenesis
+- Baryon acoustic oscillations
+- Baryon asymmetry
+- Baryon number
+- Baryte
+- Basal sliding
+- Base anhydride
+- Base metal
+- Basement (geology)
+- Basic lead phosphite
+- Basic research
+- Bastnäsite
+- Batch reactor
+- Batholith
+- Bathypelagic zone
+- Baud
+- Bay mud
+- Be star
+- Beaker (laboratory equipment)
+- Beat (acoustics)
+- Beaufort scale
+- Bed (geology)
+- Bed load
+- Bedform
+- Bedrock
+- Bedrock river
+- Beehive Cluster
+- Beer–Lambert law
+- Beige
+- Bell test
+- Bell's theorem
+- Belt of Venus
+- Bent molecular geometry
+- Benthic zone
+- Benzalkonium chloride
+- Benzoic acid
+- Beryl
+- Beta Centauri
+- Beta Pictoris
+- Beta decay
+- Bi-elliptic transfer
+- Biblical and Talmudic units of measurement
+- Biblical mile
+- Bicarbonate
+- Big Bang nucleosynthesis
+- Big Crunch
+- Big Dipper
+- Big Rip
+- Binary pulsar
+- Biogeochemical cycle
+- Biogeochemistry
+- Biophoton
+- Biophysics
+- Biostratigraphy
+- Biotite
+- Bioturbation
+- Biot–Savart law
+- Biozone
+- Birefringence
+- Black body
+- Black dwarf
+- Blacklight
+- Blinded experiment
+- Bloch's theorem
+- Block (periodic table)
+- Blue giant
+- Blue hour
+- Blue straggler
+- Blue supergiant
+- Blueschist
+- Bohr magneton
+- Bohr radius
+- Bohrium
+- Boiling point
+- Boiling-point elevation
+- Bok globule
+- Bolide
+- Boltzmann constant
+- Boltzmann distribution
+- Boltzmann equation
+- Boltzmann's entropy formula
+- Bonding in solids
+- Boninite
+- Boracite
+- Boranes
+- Borate
+- Borate mineral
+- Borax
+- Born rule
+- Bornite
+- Borohydride
+- Boron group
+- Boron nitride
+- Boron trifluoride
+- Bortle scale
+- Bose gas
+- Bose–Einstein statistics
+- Bottom quark
+- Boudinage
+- Boulder
+- Bouncing ball
+- Bound state
+- Boundary layer
+- Bowen's reaction series
+- Boötes
+- Boötes Void
+- Brackish water
+- Bragg's law
+- Braided river
+- Branches of science
+- Brane
+- Bravais lattice
+- Brayton cycle
+- Bra–ket notation
+- Brightest cluster galaxy
+- Brightness
+- Brightness temperature
+- Brillouin zone
+- Brine
+- British thermal unit
+- Brittleness
+- Brittle–ductile transition zone
+- Bromide
+- Bronze (color)
+- Brookite
+- Brownian motion
+- Brucite
+- Brønsted–Lowry acid–base theory
+- Bubble chamber
+- Buckingham pi theorem
+- Buckminsterfullerene
+- Buffer solution
+- Bulk modulus
+- Bullet Cluster
+- Bunsen burner
+- Burgundy (color)
+- Bushel
+- Butte
+- Byerlee's law
+- CIE 1931 color space
+- CIELAB color space
+- CIELUV
+- CMB cold spot
+- CNO cycle
+- CP violation
+- CPT symmetry
+- CW Leonis
+- Cadaverine
+- Cadmium sulfide
+- Caelum
+- Caesium standard
+- Caesium-137
+- Cahn–Ingold–Prelog priority rules
+- Calamine (mineral)
+- Calcite
+- Calcium acetate
+- Calcium carbide
+- Calcium citrate
+- Calcium cycle
+- Calcium fluoride
+- Calcium hydroxide
+- Calcium oxide
+- Calcium sulfate
+- Calcium sulfide
+- Caldera
+- Calorimeter (particle physics)
+- Calorimetry
+- Camelopardalis
+- Camphor
+- Cancer (constellation)
+- Candareen
+- Candlepower
+- Canes Venatici
+- Canis Minor
+- Canonical coordinates
+- Canonical ensemble
+- Cape (geography)
+- Capricornus
+- Capsaicin
+- Caramelization
+- Carat (mass)
+- Carbide
+- Carbon budget
+- Carbon cycle
+- Carbon disulfide
+- Carbon group
+- Carbon planet
+- Carbon sequestration
+- Carbon star
+- Carbon steel
+- Carbon tetrachloride
+- Carbon tetrafluoride
+- Carbon-12
+- Carbon-14
+- Carbon-burning process
+- Carbonate mineral
+- Carbonate rock
+- Carbonic acid
+- Carboniferous
+- Carbonyl group
+- Carborane
+- Carborane acid
+- Caribbean plate
+- Carina (constellation)
+- Carnallite
+- Carnelian
+- Carnot cycle
+- Carnot heat engine
+- Cartwheel Galaxy
+- Carvone
+- Caryophyllene
+- Case study
+- Cash (mass)
+- Casimir effect
+- Cassiopeia A
+- Cassiterite
+- Castor (star)
+- Cat's Eye Nebula
+- Cataclasite
+- Cataclysmic variable star
+- Catechin
+- Cathode
+- Cauchy stress tensor
+- Caustic (optics)
+- Cavendish experiment
+- Celestial cartography
+- Celestial equator
+- Cementation (geology)
+- Cementite
+- Cenote
+- Centaur (small Solar System body)
+- Centaurus A/M83 Group
+- Center of mass
+- Centimetre–gram–second system of units
+- Central Asian Orogenic Belt
+- Central force
+- Centrifugal force
+- Century
+- Cepheus (constellation)
+- Cerulean
+- Cetus (constellation)
+- Cetyl alcohol
+- Chain (unit)
+- Chain reaction
+- Chain transfer
+- Chain-growth polymerization
+- Chalcedony
+- Chalcogen
+- Chalcopyrite
+- Chalk
+- Chamaeleon
+- Chandrasekhar limit
+- Chaparral
+- Charge conservation
+- Charge density
+- Charm quark
+- Charon (moon)
+- Chartreuse (color)
+- Chasles' theorem (kinematics)
+- Chelation
+- Chemical composition
+- Chemical decomposition
+- Chemical engineer
+- Chemical law
+- Chemical nomenclature
+- Chemical physics
+- Chemical polarity
+- Chemical potential
+- Chemical process
+- Chemical reactor
+- Chemical safety
+- Chemical test
+- Chemical thermodynamics
+- Chemically peculiar star
+- Cheminformatics
+- Chemisorption
+- Chemist
+- Cherenkov radiation
+- Chert
+- Chi (unit)
+- Chinese units of measurement
+- Chirality (chemistry)
+- Chirality (physics)
+- Chlorate
+- Chlorine dioxide
+- Chlorite
+- Chlorite group
+- Chlorofluorocarbon
+- Chloroform
+- Chloromethane
+- Chromate and dichromate
+- Chromatic aberration
+- Chromaticity
+- Chrome yellow
+- Chromite
+- Chromium(II) acetate
+- Chromosphere
+- Chronometry
+- Chronostratigraphy
+- Chrysoberyl
+- Chthonian planet
+- Cinder cone
+- Cinnabar
+- Cinnamaldehyde
+- Circinus
+- Circular motion
+- Circular polarization
+- Circulation (physics)
+- Circumstellar disc
+- Cirque
+- Cirrocumulus cloud
+- Cirrostratus cloud
+- Cirrostratus nebulosus
+- Cis–trans isomerism
+- Citral
+- Citronellal
+- Classical Cepheid variable
+- Classical electromagnetism
+- Classical field theory
+- Classical limit
+- Classical physics
+- Classical unified field theories
+- Classification
+- Clastic rock
+- Clathrate compound
+- Clay mineral
+- Cleanroom
+- Clearing the neighbourhood
+- Cleavage (geology)
+- Cliffed coast
+- Climate change denial
+- Climate change feedbacks
+- Climate change in Africa
+- Climate change in Antarctica
+- Climate change in Australia
+- Climate change in Brazil
+- Climate change in Canada
+- Climate change in Europe
+- Climate change in India
+- Climate change in Indonesia
+- Climate change in Japan
+- Climate change in the Middle East and North Africa
+- Climate change mitigation
+- Climate change vulnerability
+- Climate model
+- Climate of Antarctica
+- Climate of the Arctic
+- Climate sensitivity
+- Climate system
+- Clinical trial
+- Closed system
+- Closure temperature
+- Cloudburst
+- Co-orbital configuration
+- Coal tar
+- Coalsack Nebula
+- Coastal geography
+- Coastal management
+- Coastal plain
+- Cobalt-60
+- Cobaltite
+- Cobble (geology)
+- Cocos plate
+- Coherence (physics)
+- Coherence (units of measurement)
+- Cold
+- Cold fusion
+- Cold wave
+- Colemanite
+- Collider
+- Colligative properties
+- Collision
+- Collision frequency
+- Collision theory
+- Color charge
+- Color model
+- Color space
+- Colored gold
+- Colorfulness
+- Coltan
+- Columba (constellation)
+- Columbia River Basalt Group
+- Column chromatography
+- Coma Berenices
+- Coma Cluster
+- Combustion analysis
+- Comet Hale–Bopp
+- Comet Hyakutake
+- Comet Shoemaker–Levy 9
+- Common envelope
+- Communicating vessels
+- Comoving and proper distances
+- Compact object
+- Comparison of the imperial and US customary measurement systems
+- Complex system
+- Complex volcano
+- Complexometric indicator
+- Compressibility
+- Compressible flow
+- Compression (physics)
+- Compton scattering
+- Compton wavelength
+- Computational astrophysics
+- Computational chemistry
+- Computational fluid dynamics
+- Computational physics
+- Computational science
+- Concentration
+- Concretion
+- Condenser (laboratory)
+- Conflict minerals law
+- Confluence
+- Conformal field theory
+- Congener (chemistry)
+- Conjugate (acid-base theory)
+- Conservation law
+- Conservative force
+- Constant of motion
+- Constantan
+- Contact (geology)
+- Contact mechanics
+- Continental climate
+- Continental crust
+- Continental drift
+- Continental fragment
+- Continental margin
+- Continental rise
+- Continuous distillation
+- Continuous stirred-tank reactor
+- Contrast (vision)
+- Convection (heat transfer)
+- Convection zone
+- Convergent boundary
+- Convergent synthesis
+- Conversion (chemistry)
+- Conversion of units
+- Cooking weights and measures
+- Cooper pair
+- Coordination complex
+- Coordination geometry
+- Coordination number
+- Coordination sphere
+- Copenhagen interpretation
+- Copernicium
+- Copper(II) acetate
+- Copper(II) chloride
+- Copper(II) oxide
+- Copper(II) sulfate
+- Coral island
+- Core sample
+- Core–mantle boundary
+- Corona Australis
+- Corona Borealis
+- Coronal mass ejection
+- Correspondence principle
+- Corundum
+- Corvus (constellation)
+- Cosmic dust
+- Cosmic neutrino background
+- Cosmochemistry
+- Cosmological horizon
+- Cosmology
+- Coulometry
+- Coumarin
+- Cowan–Reines neutrino experiment
+- Crab Pulsar
+- Cracking (chemistry)
+- Crater (constellation)
+- Craton
+- Cratonic sequence
+- Crenulation
+- Creosote
+- Cretaceous–Paleogene boundary
+- Crevasse
+- Crimson
+- Critical mass
+- Crocoite
+- Cross section (physics)
+- Cross-bedding
+- Cross-flow filtration
+- Cryolite
+- Crystal engineering
+- Crystal field theory
+- Crystal growth
+- Crystal optics
+- Crystal polymorphism
+- Crystal structure
+- Crystal system
+- Crystal twinning
+- Crystal violet
+- Crystallite
+- Crystallographic defect
+- Cubic crystal system
+- Cubic metre
+- Cubic metre per second
+- Cummingtonite
+- Cumulus congestus cloud
+- Cumulus humilis cloud
+- Cumulus mediocris cloud
+- Cun (unit)
+- Cup (unit)
+- Cuprite
+- Cupronickel
+- Curie (unit)
+- Curie temperature
+- Current density
+- Curved mirror
+- Curved spacetime
+- Cut bank
+- Cyan
+- Cyanogen
+- Cyclic compound
+- Cyclic model
+- Cyclic voltammetry
+- Cycloaddition
+- Cycloalkane
+- Cyclobutane
+- Cyclohexane
+- Cyclohexane conformation
+- Cyclonic separation
+- Cyclopentane
+- Cyclopropane
+- Cyclotron radiation
+- Cygnus (constellation)
+- Cygnus A
+- Cygnus Loop
+- D'Alembert's principle
+- D-brane
+- DEET
+- Dacite
+- Damping
+- Dangerous goods
+- Dark flow
+- Dark galaxy
+- Dark matter halo
+- Darkness
+- Darmstadtium
+- Data analysis
+- Data science
+- Data sharing
+- Davisson–Germer experiment
+- Dawn
+- Daylight
+- Daytime
+- De Broglie–Bohm theory
+- Dean–Stark apparatus
+- Debris disk
+- Debye length
+- Decade
+- Decay energy
+- Decay product
+- Deccan Traps
+- Declination
+- Deep-focus earthquake
+- Deep-sea community
+- Definition of planet
+- Deforestation and climate change
+- Deforestation of the Amazon rainforest
+- Deformation (physics)
+- Degenerate energy levels
+- Degradation (geology)
+- Degree of unsaturation
+- Degrees of freedom (mechanics)
+- Deimos (moon)
+- Delphinus
+- Delta potential
+- Dendrochronology
+- Deneb
+- Density functional theory
+- Density of states
+- Density wave theory
+- Depletion region
+- Deposition (geology)
+- Deposition (phase transition)
+- Depression (geology)
+- Deprotonation
+- Descriptor (chemistry)
+- Desert climate
+- Desertification
+- Deserts and xeric shrublands
+- Desiccant
+- Dessert spoon
+- Destructive distillation
+- Detachment fault
+- Detailed balance
+- Detrital zircon geochronology
+- Detritus
+- Deuterium
+- Devonian
+- Diagenesis
+- Dialysis (chemistry)
+- Diamagnetism
+- Diammonium phosphate
+- Diamond dust
+- Diapir
+- Diastereomer
+- Diatomic molecule
+- Diborane
+- Dichlorodifluoromethane
+- Dichloromethane
+- Dichroism
+- Dielectric spectroscopy
+- Diels–Alder reaction
+- Diesel cycle
+- Diethyl ether
+- Diffraction-limited system
+- Diffuse sky radiation
+- Diffusion equation
+- Dike (geology)
+- Dimensional analysis
+- Dimethyl ether
+- Dimethyl sulfoxide
+- Dimethylformamide
+- Diol
+- Dione (moon)
+- Diopside
+- Diorite
+- Diphosphane
+- Dipole repeller
+- Dirac equation
+- Direct process
+- Disaster response
+- Discharge (hydrology)
+- Discovery of cosmic microwave background radiation
+- Discovery of the neutron
+- Dislocation
+- Disodium citrate
+- Disodium helide
+- Dispersion (optics)
+- Dispersion (water waves)
+- Displacement (geometry)
+- Displacement current density
+- Disproportionation
+- Dissociation (chemistry)
+- Dissociation constant
+- Dissolved load
+- Distributary
+- Distribution function (physics)
+- Divergent boundary
+- Divergent synthesis
+- Dodecanol
+- Dolomite (mineral)
+- Dolomite (rock)
+- Dorado
+- Dots per inch
+- Double Cluster
+- Double bond
+- Double star
+- Double-slit experiment
+- Down quark
+- Draco (constellation)
+- Drake equation
+- Drizzle
+- Dry measure
+- Drying
+- Drylands
+- Dubnium
+- Ductility
+- Ductility (Earth science)
+- Dumbbell Nebula
+- Duralumin
+- Dusk
+- Dust
+- Dust devil
+- Dvorak technique
+- Dwarf elliptical galaxy
+- Dysnomia (moon)
+- Décollement
+- E1cB-elimination reaction
+- Early Earth
+- Earth analog
+- Earth ellipsoid
+- Earth mass
+- Earth pigment
+- Earth's energy budget
+- Earth's internal heat budget
+- Earth's orbit
+- Earth's rotation
+- Earth's shadow
+- Earthlight
+- Earthquake early warning system
+- Earthquake forecasting
+- Earthquake prediction
+- Earthquake preparedness
+- East Asian monsoon
+- Echo
+- Eclipse cycle
+- Eclipsed conformation
+- Economic analysis of climate change
+- Edaphology
+- Eddington luminosity
+- Ediacaran
+- Effective temperature
+- Effects of climate change
+- Effects of climate change on agriculture
+- Effects of climate change on human health
+- Effects of climate change on oceans
+- Effects of climate change on small island countries
+- Effusion
+- Egyptian blue
+- Ehrenfest theorem
+- Ei mechanism
+- Eightfold way (physics)
+- Einstein coefficients
+- Einstein field equations
+- Einstein solid
+- Einsteinium
+- Einstein–Podolsky–Rosen paradox
+- Ekman transport
+- Elastic collision
+- Elastic scattering
+- Elastic-rebound theory
+- Electric dipole moment
+- Electric displacement field
+- Electric flux
+- Electric potential energy
+- Electric power
+- Electric susceptibility
+- Electric-field screening
+- Electrical conductor
+- Electrical reactance
+- Electrical resistivity and conductivity
+- Electride
+- Electroanalytical methods
+- Electrochemical cell
+- Electrode
+- Electrolyte
+- Electrolytic cell
+- Electromagnetic four-potential
+- Electromagnetic wave equation
+- Electron affinity
+- Electron counting
+- Electron diffraction
+- Electron hole
+- Electron magnetic moment
+- Electron mass
+- Electron neutrino
+- Electron paramagnetic resonance
+- Electronegativity
+- Electronic band structure
+- Electron–positron annihilation
+- Electrophile
+- Electrophilic addition
+- Electrophilic substitution
+- Electrophoresis
+- Electrostatic induction
+- Electrosynthesis
+- Electroweak epoch
+- Electroweak interaction
+- Electrum
+- Elemental analysis
+- Elementary charge
+- Elementary particle
+- Elementary reaction
+- Elimination reaction
+- Emission nebula
+- Emission spectrum
+- Empirical formula
+- Emulsion polymerization
+- Enantiomer
+- Enantioselective synthesis
+- Endohedral fullerene
+- Endorheic basin
+- Endothermic process
+- Energy conversion efficiency
+- Energy density
+- Energy–momentum relation
+- English units of measurement
+- Enol
+- Ensemble (mathematical physics)
+- Enstatite
+- Enthalpy of vaporization
+- Entropy (classical thermodynamics)
+- Entropy (energy dispersal)
+- Entropy (order and disorder)
+- Entropy (statistical thermodynamics)
+- Entropy as an arrow of time
+- Entropy of activation
+- Entropy of mixing
+- Environmental conflict
+- Environmental degradation
+- Environmental issues
+- Environmental justice
+- Environmental policy
+- Environmental protection
+- Environmental resource management
+- Environmental science
+- Environmental studies
+- Enzyme unit
+- Eoarchean
+- Eocene
+- Epicenter
+- Epidote
+- Epoch
+- Epoch (astronomy)
+- Epoxide
+- Epoxy
+- Epsilon Canis Majoris
+- Epsilon Eridani
+- Equation of state
+- Equations for a falling body
+- Equatorial bulge
+- Equilibrium constant
+- Equilibrium thermodynamics
+- Equinox (celestial coordinates)
+- Equipartition theorem
+- Equipotential
+- Equuleus
+- Era
+- Erg
+- Ericsson cycle
+- Eridanus (constellation)
+- Error
+- Erythrite
+- Erythritol
+- Escarpment
+- Esker
+- Eta Carinae
+- Eternity
+- Ethyl acetate
+- Ethylene glycol
+- Ethylenediamine
+- Ethylenediaminetetraacetic acid
+- Eucalyptol
+- Eugenol
+- Euler equations (fluid dynamics)
+- Euler–Lagrange equation
+- Eurasian plate
+- Eutectic system
+- Eutrophication
+- Evanescent field
+- Evaporite
+- Evening
+- Excited state
+- Exomoon
+- Exosphere
+- Exothermic process
+- Exothermic reaction
+- Exotic atom
+- Exotic matter
+- Exotic star
+- Expansion of the universe
+- Expectation value (quantum mechanics)
+- Experimental physics
+- Extended periodic table
+- Extraction (chemistry)
+- Extragalactic astronomy
+- Extraterrestrial intelligence
+- Extraterrestrial vortex
+- Extreme weather
+- Extrusive rock
+- Eye (cyclone)
+- E–Z notation
+- Faber–Jackson relation
+- Fabric (geology)
+- Facies
+- Far side of the Moon
+- Faraday effect
+- Faraday's law of induction
+- Farallon plate
+- Fast radio burst
+- Faster-than-light
+- Fata Morgana (mirage)
+- Fathom
+- Fatty alcohol
+- Fault block
+- Fayalite
+- Feedback
+- Feldspathoid
+- Fen
+- Fermat's principle
+- Fermi energy
+- Fermi gas
+- Fermi level
+- Fermi paradox
+- Fermi surface
+- Fermi's golden rule
+- Fermium
+- Fermi–Dirac statistics
+- Ferricyanide
+- Ferrimagnetism
+- Ferrite (magnet)
+- Ferrocene
+- Ferrocerium
+- Ferrocyanide
+- Feynman diagram
+- Fictitious force
+- Field galaxy
+- Fieldnotes
+- Fifth force
+- Figure of the Earth
+- Fine structure
+- Fine-structure constant
+- Finite potential well
+- Finite strain theory
+- Fire whirl
+- First law of thermodynamics
+- First observation of gravitational waves
+- Flame
+- Flame test
+- Flare star
+- Flash evaporation
+- Flash flood
+- Flat Earth
+- Flat coast
+- Flatness problem
+- Flavonoid
+- Flavour (particle physics)
+- Flerovium
+- Flint
+- Flocculation
+- Flocculent spiral galaxy
+- Flood basalt
+- Flooded grasslands and savannas
+- Flory–Huggins solution theory
+- Flow measurement
+- Flow velocity
+- Flow visualization
+- Fluctuation theorem
+- Fluctuation–dissipation theorem
+- Fluid
+- Fluid ounce
+- Fluorapatite
+- Fluorescence correlation spectroscopy
+- Fluoride
+- Fluorite
+- Fluoroantimonic acid
+- Fluorocarbon
+- Fluorosulfuric acid
+- Focal mechanism
+- Foehn wind
+- Fold mountains
+- Folding (chemistry)
+- Foliation (geology)
+- Fomalhaut
+- Food chemistry
+- Foot-pound (energy)
+- Foot–pound–second system of units
+- Forbidden mechanism
+- Force carrier
+- Force field (physics)
+- Forearc
+- Forecasting
+- Foreland basin
+- Forensic geophysics
+- Foreshock
+- Formal science
+- Formic acid
+- Fornax
+- Fornax Cluster
+- Forsterite
+- Foucault pendulum
+- Foucault's measurements of the speed of light
+- Four-momentum
+- Four-vector
+- Fourier optics
+- Fourier-transform infrared spectroscopy
+- Fractional crystallization (chemistry)
+- Fractional distillation
+- Fractional freezing
+- Fractionating column
+- Fracture (geology)
+- Fracture toughness
+- Fractus cloud
+- Fragrance compound
+- Franck–Hertz experiment
+- Fraunhofer diffraction
+- Fraunhofer lines
+- Free body diagram
+- Free electron model
+- Free fall
+- Free neutron decay
+- Free particle
+- Free surface effect
+- Free-radical addition
+- Freeze drying
+- Freezing rain
+- Freezing-point depression
+- Fresh water
+- Freshwater ecosystem
+- Fresnel equations
+- Freundlich equation
+- Fringe science
+- Frozen orbit
+- Fuchsia (color)
+- Full moon
+- Fullerene
+- Fumarole
+- Fume hood
+- Functional group
+- Fundamental thermodynamic relation
+- Funding of science
+- Funnel cloud
+- Furlong
+- Future of Earth
+- Fynbos
+- G-Cloud
+- G-factor (physics)
+- GHS hazard pictograms
+- GW170817
+- Gabbro
+- Gaia hypothesis
+- Galactic astronomy
+- Galactic bulge
+- Galactic coordinate system
+- Galactic habitable zone
+- Galactic halo
+- Galactic plane
+- Galactic tide
+- Galaxy cluster
+- Galaxy filament
+- Galaxy group
+- Galaxy merger
+- Galaxy rotation curve
+- Galena
+- Galilean invariance
+- Galilean moons
+- Galilean transformation
+- Galinstan
+- Gallium nitride
+- Galvanic cell
+- Galvanic series
+- Gamma Cassiopeiae
+- Gamma-ray astronomy
+- Gamma-ray burst emission mechanisms
+- Gamma-ray burst progenitors
+- Gamut
+- Garnet
+- Gas chromatography
+- Gas giant
+- Gauche effect
+- Gauss (unit)
+- Gauss's law
+- Gauss's law for magnetism
+- Ge (unit)
+- Gegenschein
+- Gel permeation chromatography
+- Geminal
+- Geminal diol
+- Gemini (constellation)
+- General covariance
+- Generalized coordinates
+- Generation (particle physics)
+- Geochemical cycle
+- Geochemistry
+- Geodesics in general relativity
+- Geodynamics
+- Geologic province
+- Geologic record
+- Geological formation
+- Geological hazard
+- Geological history of Mars
+- Geological history of oxygen
+- Geologist
+- Geology of Mars
+- Geology of Mercury
+- Geology of Venus
+- Geology of the Appalachians
+- Geology of the Himalayas
+- Geology of the Moon
+- Geomagnetic pole
+- Geomagnetic reversal
+- Geomagnetic storm
+- Geomathematics
+- Geometric albedo
+- Geometrical optics
+- Geometrized unit system
+- Geophysical fluid dynamics
+- Geothermal gradient
+- Giant Void
+- Giant-impact hypothesis
+- Gibbs free energy
+- Glacial lake
+- Glaciology
+- Gliese 581d
+- Global dimming
+- Globally Harmonized System of Classification and Labelling of Chemicals
+- Globular cluster
+- Glory (optical phenomenon)
+- Glutamate flavoring
+- Glycerol
+- Gold (color)
+- Golden hour (photography)
+- Goldschmidt classification
+- Gondwana
+- Gonggong (dwarf planet)
+- Graded bedding
+- Gradian
+- Graduated cylinder
+- Grain (unit)
+- Grain boundary
+- Grain growth
+- Grain size
+- Gram
+- Gram per cubic centimetre
+- Grand Unified Theory
+- Grand canonical ensemble
+- Grand design spiral galaxy
+- Grand unification epoch
+- Granodiorite
+- Granular convection
+- Granulite
+- Graphene
+- Graphite oxide
+- Graupel
+- Graveyard orbit
+- Gravimetric analysis
+- Gravimetry
+- Gravitational collapse
+- Gravitational constant
+- Gravitational field
+- Gravitational lens
+- Gravitational potential
+- Gravitational time dilation
+- Gravitational-wave astronomy
+- Graviton
+- Gravity of Earth
+- Great Dark Spot
+- Great Filter
+- Great Red Spot
+- Greenhouse gas
+- Greenhouse gas emissions
+- Greenockite
+- Greenschist
+- Greenstone belt
+- Greisen
+- Greywacke
+- Grignard reaction
+- Ground (electricity)
+- Ground state
+- Groundwater recharge
+- Group (periodic table)
+- Group (stratigraphy)
+- Group 10 element
+- Group 11 element
+- Group 12 element
+- Group 3 element
+- Group 4 element
+- Group 5 element
+- Group 6 element
+- Group 7 element
+- Group 8 element
+- Group 9 element
+- Group velocity
+- Grove (nature)
+- Grus (constellation)
+- Gully
+- Gustnado
+- Guyot
+- Gyromagnetic ratio
+- H I region
+- H-theorem
+- HCL color space
+- HD 189733 b
+- HD 209458 b
+- HSAB theory
+- HSL and HSV
+- HWB color model
+- Habitable zone
+- Hadal zone
+- Hadean
+- Hadron era
+- Hagen–Poiseuille equation
+- Half-cell
+- Half-life
+- Half-reaction
+- Halide
+- Halide mineral
+- Halite
+- Hall effect
+- Halo (optical phenomenon)
+- Halo orbit
+- Halocarbon
+- Haloform reaction
+- Hamiltonian (quantum mechanics)
+- Hammond's postulate
+- Hand (unit)
+- Harmattan
+- Harmonic
+- Hassium
+- Haumea
+- Hauyne
+- Hawaii hotspot
+- Hawking radiation
+- Hayashi track
+- Haze
+- Headland
+- Heat capacity ratio
+- Heat death of the universe
+- Heat engine
+- Heat equation
+- Heat pump and refrigeration cycle
+- Heat wave
+- Heath
+- Heaviside–Lorentz units
+- Heavy metals
+- Heavy water
+- Hectorite
+- Hedenbergite
+- Heiligenschein
+- Heliosphere
+- Helium atom
+- Helium compounds
+- Helium flash
+- Helium-3
+- Helium-4
+- Helmholtz free energy
+- Hematite
+- Hemimorphite
+- Henry (unit)
+- Henry Draper Catalogue
+- Herbig Ae/Be star
+- Herbig–Haro object
+- Hercules (constellation)
+- Hess's law
+- Hexagonal crystal family
+- Hidden-variable theory
+- Hierarchy problem
+- Higgs mechanism
+- High-energy astronomy
+- High-energy nuclear physics
+- High-performance liquid chromatography
+- High-temperature superconductivity
+- High-velocity cloud
+- Highland
+- Hills cloud
+- Hirnantian glaciation
+- Historical geology
+- Hoag's Object
+- Hohmann transfer orbit
+- Holocene extinction
+- Homogeneity (physics)
+- Horizon problem
+- Horizontal branch
+- Hornblende
+- Hornfels
+- Horologium (constellation)
+- Horsepower
+- Horseshoe orbit
+- Host–guest chemistry
+- Hot Jupiter
+- Hour angle
+- Hubbard model
+- Hubble Deep Field
+- Hubble Ultra-Deep Field
+- Hubble sequence
+- Hubble volume
+- Hue
+- Huge-LQG
+- Human impact on the environment
+- Human–wildlife conflict
+- Humid subtropical climate
+- Hummock
+- Humulene
+- Humus
+- Hundredweight
+- Huronian glaciation
+- Huygens–Fresnel principle
+- Hydra (constellation)
+- Hydrate
+- Hydrazine
+- Hydride
+- Hydrofluorocarbon
+- Hydroformylation
+- Hydrogen atom
+- Hydrogen bromide
+- Hydrogen chalcogenide
+- Hydrogen chloride
+- Hydrogen cyanide
+- Hydrogen fluoride
+- Hydrogen halide
+- Hydrogen iodide
+- Hydrogen line
+- Hydrogen selenide
+- Hydrogen spectral series
+- Hydrogen sulfide
+- Hydrogen-alpha
+- Hydrogenation
+- Hydrolysis
+- Hydronium
+- Hydrophile
+- Hydrophobe
+- Hydrostatic equilibrium
+- Hydrostatics
+- Hydrothermal vent
+- Hydroxide
+- Hydroxyl radical
+- Hydrus
+- Hygroscopy
+- Hypercharge
+- Hyperfine structure
+- Hypergiant
+- Hypernova
+- Hypernucleus
+- Hyperon
+- Hypochlorite
+- Hypochlorous acid
+- Hypothetical types of biochemistry
+- Hysteresis
+- Hückel's rule
+- IAU definition of planet
+- IC 1101
+- IC 342/Maffei Group
+- ISCC–NBS system
+- IUPAC nomenclature of inorganic chemistry
+- IUPAC nomenclature of organic chemistry
+- Iapetus (moon)
+- Iapetus Ocean
+- Ice core
+- Ice crystal
+- Ice giant
+- Ice pellets
+- Ice storm
+- Iceland spar
+- Ice–albedo feedback
+- Icicle
+- Ideal gas
+- Igneous differentiation
+- Igneous intrusion
+- Illuminance
+- Ilmenite
+- Imidazole
+- Impact (mechanics)
+- Impedance of free space
+- Imperial and US customary measurement systems
+- Impossible color
+- Incompressible flow
+- Indian summer
+- Indigo
+- Indistinguishable particles
+- Indo-Australian plate
+- Indus (constellation)
+- Inelastic collision
+- Inelastic scattering
+- Inertial frame of reference
+- Infrared astronomy
+- Infrared spectroscopy
+- Initial mass function
+- Instability
+- Instability strip
+- Instrumental chemistry
+- Insulator (electricity)
+- Intensity (physics)
+- Intensive and extensive properties
+- Interacting galaxy
+- Interdisciplinarity
+- Intergalactic dust
+- Intergalactic star
+- Intermediate-mass black hole
+- Intermetallic
+- Internal pressure
+- Internal structure of the Moon
+- International Prototype of the Kilogram
+- International System of Quantities
+- International yard and pound
+- Interplanetary dust cloud
+- Interplate earthquake
+- Interpretations of quantum mechanics
+- Interstellar cloud
+- Interstellar ice
+- Interstellar object
+- Interstitial defect
+- Intertidal zone
+- Intertropical Convergence Zone
+- Intracluster medium
+- Intraplate earthquake
+- Introduction to entropy
+- Introduction to gauge theory
+- Introduction to general relativity
+- Introduction to quantum mechanics
+- Intrusive rock
+- Invariant (physics)
+- Inverse second
+- Inverse-square law
+- Invisibility
+- Iodide
+- Ion chromatography
+- Ionization energy
+- Ionosphere
+- Iridescence
+- Iron oxide
+- Iron planet
+- Iron(II) oxide
+- Iron(II) sulfate
+- Iron(II) sulfide
+- Iron(II,III) oxide
+- Iron(III) chloride
+- Iron(III) citrate
+- Iron(III) oxide
+- Iron(III) sulfate
+- Ironstone
+- Irradiance
+- Irreversible process
+- Isenthalpic process
+- Ising model
+- Island of stability
+- Islet
+- Isomer
+- Isomerization
+- Isoprene
+- Isopropyl alcohol
+- Isospin
+- Isostasy
+- Isostatic depression
+- Isothermal process
+- Isotope geochemistry
+- Isotope separation
+- Isotopes of carbon
+- Isotopes of hydrogen
+- Isotopes of nitrogen
+- Isotopes of oxygen
+- Isotopes of uranium
+- Isthmus
+- J/psi meson
+- Jansky
+- Japanese units of measurement
+- Jarosite
+- Jasper
+- Jeans instability
+- Jerk (physics)
+- Jin (mass)
+- Joint (geology)
+- Josephson effect
+- Joule heating
+- Joule-second
+- Joule–Thomson effect
+- Juan de Fuca plate
+- Jupiter mass
+- Jupiter trojan
+- K2-18b
+- Kainite
+- Kaon
+- Katabatic wind
+- Katal
+- Kelp forest
+- Kelvin's circulation theorem
+- Ken (unit)
+- Kenorland
+- Kepler problem
+- Kepler's Supernova
+- Kepler-186f
+- Kepler-22b
+- Kepler-442b
+- Kepler-452b
+- Kernite
+- Kerr–Newman metric
+- Kilogram per cubic metre
+- Kilogram-force
+- Kilometre
+- Kilometres per hour
+- Kilonova
+- Kilowatt-hour
+- Kimberlite
+- Kinetic theory of gases
+- Kipp's apparatus
+- Koku
+- Komatiite
+- Korean units of measurement
+- Kreutz sungrazer
+- Krypton difluoride
+- Kyanite
+- Kármán line
+- K–Ar dating
+- LBV 1806−20
+- Laboratory flask
+- Laboratory glassware
+- Laboratory safety
+- Labradorite
+- Lacerta
+- Ladder paradox
+- Lagoon Nebula
+- Lahar
+- Lake ecosystem
+- Lake island
+- Lake stratification
+- Lakes and rivers of Titan
+- Lambda-CDM model
+- Laminar flow
+- Laminar flow reactor
+- Lamination (geology)
+- Land use
+- Landscape
+- Landspout
+- Langmuir adsorption model
+- Laniakea Supercluster
+- Lapis lazuli
+- Laramide orogeny
+- Large igneous province
+- Large quasar group
+- Larmor formula
+- Last Glacial Maximum
+- Last Glacial Period
+- Late Heavy Bombardment
+- Late Paleozoic icehouse
+- Late Pleistocene extinctions
+- Latent heat
+- Laurasia
+- Laurentia
+- Lava dome
+- Lava field
+- Lava tube
+- Lavender (color)
+- Law of definite proportions
+- Law of mass action
+- Law of multiple proportions
+- Law of reciprocal proportions
+- Law of superposition
+- Lawrencium
+- Lazurite
+- Le Chatelier's principle
+- Leaching (pedology)
+- Lead(II) acetate
+- Lead(II) azide
+- Lead(II) chromate
+- Lead(II) nitrate
+- Leaving group
+- Length contraction
+- Lenz's law
+- Leo (constellation)
+- Leo Minor
+- Lepidolite
+- Lepton epoch
+- Lepton number
+- Lepus (constellation)
+- Lewis acids and bases
+- Lewis structure
+- Li (unit)
+- Libra (constellation)
+- Libration
+- Life on Mars
+- Ligand
+- Ligand cone angle
+- Ligand field theory
+- Light curve
+- Light pillar
+- Lightning strike
+- Lignin
+- Lime (color)
+- Lime sulfur
+- Limonene
+- Limonite
+- Linalool
+- Line of purples
+- Linear combination of atomic orbitals
+- Linear molecular geometry
+- Linear motion
+- Linear particle accelerator
+- Linear polarization
+- Lineation (geology)
+- Lipophilicity
+- Liquid crystal
+- Liquid helium
+- Liquid hydrogen
+- Liquid nitrogen
+- Liquid oxygen
+- Liquid–liquid extraction
+- Lissajous orbit
+- List of Chinese star names
+- List of copper alloys
+- List of interstellar and circumstellar molecules
+- List of particles
+- List of the most distant astronomical objects
+- List of unsolved problems in physics
+- Lithium aluminium hydride
+- Lithium borohydride
+- Lithium hydride
+- Lithium nitride
+- Lithium oxide
+- Lithostratigraphy
+- Litmus
+- Littoral zone
+- Livermorium
+- Loam
+- Local Bubble
+- Local Hole
+- Local Interstellar Cloud
+- Local Sheet
+- Local Void
+- Location of Earth
+- Locomotion in space
+- Loellingite
+- Loess
+- London dispersion force
+- Long ton
+- Longitudinal wave
+- Loop quantum gravity
+- Lorentz covariance
+- Lorentz factor
+- Lorenz gauge condition
+- Loschmidt's paradox
+- Loudness
+- Love wave
+- Low surface brightness galaxy
+- Low-ionization nuclear emission-line region
+- Lower mantle
+- Lugol's iodine
+- Luminance
+- Luminescence
+- Luminiferous aether
+- Luminosity distance
+- Luminous blue variable
+- Luminous flux
+- Luminous infrared galaxy
+- Luminous intensity
+- Lunar distance
+- Lunar phase
+- Lunar south pole
+- Lupus (constellation)
+- Lye
+- Lyman-alpha emitter
+- Lyman-alpha forest
+- Lynx (constellation)
+- Lyra
+- M-theory
+- M81 Group
+- MKS units
+- Maar
+- Mace (unit)
+- Macroscopic scale
+- Magellanic Clouds
+- Magellanic Stream
+- Magellanic spiral
+- Magenta
+- Magic acid
+- Magma chamber
+- Magnesite
+- Magnesium chloride
+- Magnesium citrate
+- Magnesium hydroxide
+- Magnesium oxide
+- Magnesium sulfide
+- Magnetar
+- Magnetic anomaly
+- Magnetic dipole
+- Magnetic flux
+- Magnetic flux quantum
+- Magnetic moment
+- Magnetic monopole
+- Magnetic quantum number
+- Magnetic resonance
+- Magnetic susceptibility
+- Magnetite
+- Magnetization
+- Magnetohydrodynamics
+- Magnetosphere
+- Magnetosphere of Jupiter
+- Magnetosphere of Saturn
+- Magnetostratigraphy
+- Magnification
+- Magnus effect
+- Maillard reaction
+- Main-group element
+- Mainshock
+- Makemake
+- Malachite
+- Malic acid
+- Manganate
+- Manganese dioxide
+- Manganese nodule
+- Mangrove forest
+- Mannitol
+- Mantle (geology)
+- Mantle convection
+- Mantle plume
+- Many-worlds interpretation
+- March equinox
+- Marine chemistry
+- Marine coastal ecosystem
+- Marine ecosystem
+- Marine habitat
+- Marine life
+- Marine regression
+- Marine sediment
+- Marine transgression
+- Marine weather forecasting
+- Marinoan glaciation
+- Markarian 421
+- Markarian 501
+- Maroon
+- Martian polar ice caps
+- Mass concentration (chemistry)
+- Mass flow (life sciences)
+- Mass flow rate
+- Mass fraction (chemistry)
+- Mass number
+- Mass transfer
+- Mass wasting
+- Massless particle
+- Mass–luminosity relation
+- Material
+- Mathematical formulation of quantum mechanics
+- Mathematical formulation of the Standard Model
+- Mathematical physics
+- Mathematics of general relativity
+- Matrix mechanics
+- Matter wave
+- Mauve
+- Maxwell relations
+- Maxwell's demon
+- Maxwell–Boltzmann distribution
+- Maxwell–Boltzmann statistics
+- Mean free path
+- Mean-field theory
+- Measurement in quantum mechanics
+- Measurement problem
+- Mechanical advantage
+- Mechanical equilibrium
+- Mechanical resonance
+- Mechanical wave
+- Medical laboratory
+- Mediterranean climate
+- Mediterranean forests, woodlands, and scrub
+- Megamaser
+- Megathrust earthquake
+- Megatsunami
+- Meitnerium
+- Melting point
+- Membrane
+- Mendelevium
+- Mensa (constellation)
+- Menthol
+- Merbromin
+- Mercury sulfide
+- Meridian (astronomy)
+- Meso compound
+- Mesoarchean
+- Mesopelagic zone
+- Mesoproterozoic
+- Mesoscopic physics
+- Mesosphere
+- Messier 106
+- Messier 13
+- Messier 15
+- Messier 22
+- Messier 4
+- Messier 49
+- Messier 7
+- Messier 77
+- Messier 81
+- Messier 82
+- Messier 83
+- Messier object
+- Metacentric height
+- Metallic hydrogen
+- Metallization pressure
+- Metal–semiconductor junction
+- Metascience
+- Metastability
+- Meteor
+- Meteoric iron
+- Methane clathrate
+- Methane emissions
+- Methods of detecting exoplanets
+- Methyl salicylate
+- Methylamine
+- Methylene blue
+- Metre per second
+- Metre per second squared
+- Micro black hole
+- Microcanonical ensemble
+- Microclimate
+- Microcline
+- Microfiltration
+- Microreactor
+- Microscopic reversibility
+- Microscopium
+- Microstate (statistical mechanics)
+- Microwave spectroscopy
+- Midnight
+- Midnight sun
+- Migmatite
+- Milankovitch cycles
+- Miles per hour
+- Millennium
+- Miller index
+- Millimetre of mercury
+- Milliradian
+- Mimas
+- Mimosa (star)
+- Mineral acid
+- Mineral physics
+- Minimal Supersymmetric Standard Model
+- Minkowski spacetime
+- Minor-planet moon
+- Minute and second of arc
+- Miocene
+- Mira
+- Mira variable
+- Miranda (moon)
+- Mischmetal
+- Miscibility
+- Misorientation
+- Missing baryon problem
+- Mist
+- Mistral (wind)
+- Mixing (process engineering)
+- Model
+- Modern physics
+- Modern valence bond theory
+- Modified Mercalli intensity scale
+- Mohorovičić discontinuity
+- Mohs scale
+- Moiré pattern
+- Molality
+- Molar concentration
+- Mole fraction
+- Molecular diffusion
+- Molecular dynamics
+- Molecular geometry
+- Molecular graphics
+- Molecular model
+- Molecular modelling
+- Molecular physics
+- Molecular self-assembly
+- Molniya orbit
+- Molybdenum disulfide
+- Moment (physics)
+- Moment (unit)
+- Moment magnitude scale
+- Momentum operator
+- Monazite
+- Monazite geochronology
+- Monoceros
+- Monoclinic crystal system
+- Monomer
+- Monopotassium glutamate
+- Monosodium citrate
+- Monosodium glutamate
+- Monsoon of South Asia
+- Montane ecosystem
+- Montane grasslands and shrublands
+- Moons of Haumea
+- Moons of Jupiter
+- Moons of Mars
+- Moons of Neptune
+- Moons of Pluto
+- Moons of Saturn
+- Moons of Uranus
+- Moorland
+- Morning
+- Moscovium
+- Mott insulator
+- Mountain formation
+- Moving magnet and conductor problem
+- Mud
+- Mudcrack
+- Mudflat
+- Mudflow
+- Mudrock
+- Multiverse
+- Munsell color system
+- Muon neutrino
+- Musca
+- Muscovite
+- Mylonite
+- N-body problem
+- NASA/IPAC Extragalactic Database
+- NFPA 704
+- NGC 1275
+- NGC 4151
+- NGC 5548
+- NGC 6302
+- NGC 6946
+- NGC 7027
+- Nadir
+- Nanofiltration
+- Nanoparticle
+- Naphtha
+- Naphthalene
+- Nat (unit)
+- Native copper
+- Native element mineral
+- Native metal
+- Natural environment
+- Natural hydrogen
+- Natural product
+- Navy blue
+- Nazca plate
+- Naïve physics
+- Near and far field
+- Near side of the Moon
+- Near-Earth object
+- Near-surface geophysics
+- Negative-index metamaterial
+- Neoarchean
+- Neon compounds
+- Neoproterozoic
+- Neper
+- Neritic zone
+- Nernst equation
+- Net force
+- Network solid
+- Neuston
+- Neutral particle oscillation
+- Neutrino astronomy
+- Neutrino oscillation
+- Neutron radiation
+- New General Catalogue
+- New moon
+- Newman projection
+- Newton's law of cooling
+- Newton's rings
+- Newton-metre
+- Newton-second
+- Newtonian dynamics
+- Newtonian fluid
+- Nice model
+- Night sky
+- Nihonium
+- Nimbostratus cloud
+- Nitric oxide
+- Nitride
+- Nitrite
+- Nitrocellulose
+- Nitrogen cycle
+- Nitrogen dioxide
+- Nitroglycerin
+- No-hair theorem
+- Nobelium
+- Noble gas compound
+- Noble metal
+- Noctilucent cloud
+- Node (physics)
+- Nodule (geology)
+- Noether's theorem
+- Non-Newtonian fluid
+- Non-inertial reference frame
+- Non-nucleophilic base
+- Non-stoichiometric compound
+- Nonlinear metamaterial
+- Nonlinear optics
+- Nonmetal
+- Noon
+- Norma (constellation)
+- Normal force
+- Normal mode
+- North American plate
+- North magnetic pole
+- Nosean
+- Nuclear binding energy
+- Nuclear chain reaction
+- Nuclear force
+- Nuclear isomer
+- Nuclear magnetic resonance
+- Nuclear magnetic resonance spectroscopy
+- Nuclear reaction
+- Nuclear structure
+- Nucleon
+- Nucleon magnetic moment
+- Nucleophile
+- Nucleophilic addition
+- Nucleophilic aromatic substitution
+- Nucleophilic substitution
+- Number density
+- Oberon (moon)
+- Oberth effect
+- Observable
+- Observational cosmology
+- Obsidian
+- Occultation
+- Ocean acidification
+- Ocean dynamics
+- Ocean surface ecosystem
+- Ocean surface topography
+- Ocean temperature
+- Oceanic basin
+- Oceanic crust
+- Oceanic zone
+- Ochre
+- Octahedral molecular geometry
+- Octane rating
+- Octans
+- Octasulfur
+- Octet rule
+- Oganesson
+- Ohmic contact
+- Oil sands
+- Okhotsk plate
+- Olefin metathesis
+- Oligocene
+- Oligomer
+- Olive (color)
+- Olivine
+- Olympus Mons
+- Omega Nebula
+- One-pot synthesis
+- Onium
+- Onyx
+- Oolite
+- Opacity
+- Opal
+- Open cluster
+- Open science
+- Open-chain compound
+- Operator (physics)
+- Ophiuchus
+- Optical aberration
+- Optical depth
+- Optical path
+- Optical path length
+- Optical power
+- Optical pumping
+- Orbit of the Moon
+- Orbital eccentricity
+- Orbital elements
+- Orbital hybridisation
+- Orbital inclination
+- Orbital period
+- Orbital resonance
+- Orbital station-keeping
+- Orcus (dwarf planet)
+- Ordovician
+- Organic acid
+- Organic geochemistry
+- Organic reaction
+- Organic synthesis
+- Organochlorine chemistry
+- Origin of the Moon
+- Orion Arm
+- Orion's Belt
+- Orogeny
+- Orpiment
+- Orthoclase
+- Orthorhombic crystal system
+- Osmium tetroxide
+- Osmotic pressure
+- Otto cycle
+- Outgoing longwave radiation
+- Outline of physics
+- Overexploitation
+- Overfishing
+- Oxalic acid
+- Oxbow lake
+- Oxidation state
+- Oxide mineral
+- Oxidizing agent
+- Oxonium ion
+- Oxyanion
+- Oxygen cycle
+- Oxygen difluoride
+- Ozone layer
+- P wave
+- PFAS
+- PH indicator
+- PSR B1937+21
+- Pace (unit)
+- Pacific plate
+- Painite
+- Pair production
+- Pair-instability supernova
+- Paleo-Tethys Ocean
+- Paleoarchean
+- Paleocene
+- Paleocene–Eocene thermal maximum
+- Paleoclimatology
+- Paleocontinent
+- Paleomagnetism
+- Paleoproterozoic
+- Paleosol
+- Paleotempestology
+- Paleothermometer
+- Palm (unit)
+- Pannotia
+- Panthalassa
+- Paraffin wax
+- Paramagnetism
+- Parasequence
+- Parent hydride
+- Parity (physics)
+- Partial melting
+- Partial pressure
+- Particle decay
+- Particle horizon
+- Particle in a box
+- Particle number
+- Particle statistics
+- Partition function (statistical mechanics)
+- Parton (particle physics)
+- Parts-per notation
+- Pascal's law
+- Passivation (chemistry)
+- Passive margin
+- Past sea level
+- Path integral formulation
+- Pauli equation
+- Pauli matrices
+- Pavo (constellation)
+- Peatland
+- Pebble
+- Peculiar galaxy
+- Pedology
+- Peer review
+- Pegasus (constellation)
+- Pegmatite
+- Pelagic sediment
+- Pelagic zone
+- Pendant group
+- Pennyweight
+- Penrose diagram
+- Penrose–Hawking singularity theorems
+- Pentaquark
+- Pentlandite
+- Perchlorate
+- Perchloric acid
+- Pericyclic reaction
+- Peridot
+- Peridotite
+- Period (periodic table)
+- Period 1 element
+- Period 2 element
+- Period 3 element
+- Period 4 element
+- Period 5 element
+- Period 6 element
+- Period 7 element
+- Periodic trends
+- Permanganate
+- Permeability (electromagnetism)
+- Permittivity
+- Perovskite
+- Perovskite (structure)
+- Peroxide
+- Perpetual motion
+- Perseus (constellation)
+- Perseus Arm
+- Perseus Cluster
+- Perturbation theory
+- Petalite
+- Petroleum jelly
+- Pewter
+- Phase (waves)
+- Phase rule
+- Phase separation
+- Phase velocity
+- Phenol formaldehyde resin
+- Phenolphthalein
+- Phenylpropanoid
+- Philippine Sea plate
+- Phobos (moon)
+- Phoenix (constellation)
+- Phonon
+- Phosphate
+- Phosphate mineral
+- Phosphine
+- Phosphite (ion)
+- Phosphorescence
+- Phosphorite
+- Phosphorus cycle
+- Photic zone
+- Photometric system
+- Photometry (optics)
+- Photon epoch
+- Photon gas
+- Photonic crystal
+- Photonic metamaterial
+- Photonics
+- Photosphere
+- Phyllite
+- Physical constant
+- Physical object
+- Physical optics
+- Physical property
+- Physical quantity
+- Physicist
+- Physics education
+- Physisorption
+- Pi Puppis
+- Pi bond
+- Pictor
+- Picul
+- Piezoelectricity
+- Pig iron
+- Pigeonite
+- Pine tar
+- Pinene
+- Pint
+- Pion
+- Pipe flow
+- Pipette
+- Pisces (constellation)
+- Pisces–Cetus Supercluster Complex
+- Piscis Austrinus
+- Pixel density
+- Plagioclase
+- Planck constant
+- Planck postulate
+- Planck's law
+- Planckian locus
+- Plane wave
+- Planet Nine
+- Planetary boundaries
+- Planetary core
+- Planetary differentiation
+- Planetary habitability
+- Planetary mass
+- Planetary nebula luminosity function
+- Planetary science
+- Planetesimal
+- Planets beyond Neptune
+- Plant litter
+- Plasma recombination
+- Plasmon
+- Platinum group
+- Pleistocene
+- Pliocene
+- Plug flow reactor model
+- Plum pudding model
+- Plutonium-239
+- Pluvial lake
+- Pnictogen
+- Pnictogen hydride
+- Podzol
+- Poincaré group
+- Point bar
+- Point particle
+- Point source
+- Poise (unit)
+- Poisson bracket
+- Poisson's ratio
+- Polar climate
+- Polar night
+- Polar orbit
+- Polar stratospheric cloud
+- Polarization density
+- Polarization in astronomy
+- Polarography
+- Polaron
+- Politics of climate change
+- Pollucite
+- Pollux (star)
+- Poly(methyl methacrylate)
+- Polyacrylonitrile
+- Polyatomic ion
+- Polycarbonate
+- Polycyclic aromatic hydrocarbon
+- Polyethylene glycol
+- Polyethylene terephthalate
+- Polyisoprene
+- Polymath
+- Polymer backbone
+- Polymer physics
+- Polymerization
+- Polyol
+- Polyphenol
+- Polypropylene glycol
+- Polystyrene
+- Polysulfane
+- Polytetrafluoroethylene
+- Polyurethane
+- Polyvinyl acetate
+- Polyvinyl alcohol
+- Polyyne
+- Porosity
+- Porphyry (geology)
+- Porphyry copper deposit
+- Position (geometry)
+- Position and momentum spaces
+- Position angle
+- Position operator
+- Positronium
+- Post-glacial rebound
+- Post-transition metal
+- Potash
+- Potassium acetate
+- Potassium alum
+- Potassium bitartrate
+- Potassium bromide
+- Potassium chlorate
+- Potassium chloride
+- Potassium chromate
+- Potassium citrate
+- Potassium cyanide
+- Potassium dichromate
+- Potassium ferricyanide
+- Potassium ferrocyanide
+- Potassium iodide
+- Potassium manganate
+- Potassium oxide
+- Potassium perchlorate
+- Potassium permanganate
+- Potassium peroxide
+- Potassium sulfide
+- Potassium superoxide
+- Potassium-40
+- Potential well
+- Potts model
+- Pound (force)
+- Pound per square inch
+- Poynting vector
+- Poynting's theorem
+- Pre-exponential factor
+- Pre-main-sequence star
+- Pre-stellar core
+- Precession
+- Precious metal
+- Precipitation (chemistry)
+- Pressure gradient
+- Pressure–volume diagram
+- Prevailing winds
+- Primordial fluctuations
+- Primordial nuclide
+- Principal quantum number
+- Principle of covariance
+- Principle of locality
+- Probability amplitude
+- Problem of time
+- Process design
+- Product (chemistry)
+- Proglacial lake
+- Projectile
+- Projectile motion
+- Promontory
+- Propagator
+- Proper motion
+- Proper time
+- Proplyd
+- Propylene carbonate
+- Proterozoic
+- Proton decay
+- Protonation
+- Proton–proton chain
+- Protoplanet
+- Protoplanetary disk
+- Protoplanetary nebula
+- Protoscience
+- Proxima Centauri
+- Proxima Centauri b
+- Prussian blue
+- Psilomelane
+- Puddle
+- Pull-apart basin
+- Pulse (physics)
+- Pumice
+- Puppis
+- Purified water
+- Purine
+- Putrescine
+- Pyeong
+- Pyridine
+- Pyrimidine
+- Pyrite
+- Pyroclastic flow
+- Pyrolusite
+- Pyrolysis
+- Pyxis
+- QCD matter
+- QCD vacuum
+- QED vacuum
+- Quadrans Muralis
+- Qualitative inorganic analysis
+- Quantitative analysis (chemistry)
+- Quantization (physics)
+- Quantum
+- Quantum Hall effect
+- Quantum contextuality
+- Quantum fluctuation
+- Quantum foam
+- Quantum harmonic oscillator
+- Quantum indeterminacy
+- Quantum information
+- Quantum nonlocality
+- Quantum number
+- Quantum potential
+- Quantum state
+- Quantum superposition
+- Quantum vacuum state
+- Quaoar
+- Quark epoch
+- Quark model
+- Quark star
+- Quart
+- Quartzite
+- Quasiparticle
+- Quasistatic process
+- Quaternary ammonium cation
+- Quaternary glaciation
+- Qubit
+- Quintessence (physics)
+- R-process
+- R136
+- RGB color spaces
+- RGBA color model
+- RR Lyrae variable
+- RYB color model
+- Racemic mixture
+- Racemization
+- Rad (radiation unit)
+- Radial velocity
+- Radian per second
+- Radiance
+- Radiant flux
+- Radiation pressure
+- Radiative forcing
+- Radiative transfer
+- Radiative zone
+- Radical polymerization
+- Radio astronomy
+- Radio frequency
+- Radio spectrum pollution
+- Radio-quiet neutron star
+- Radioactive source
+- Radioanalytical chemistry
+- Radiometric dating
+- Radiometry
+- Radium and radon in the environment
+- Rain and snow mixed
+- Rain shadow
+- Raman spectroscopy
+- Random column packing
+- Rankine cycle
+- Rankine scale
+- Rapidity
+- Rare Earth hypothesis
+- Rare-earth barium copper oxide
+- Rare-earth element
+- Rate equation
+- Rate-determining step
+- Ravine
+- Ray (optics)
+- Rayleigh problem
+- Rayleigh scattering
+- Reaction (physics)
+- Reaction coordinate
+- Reaction intermediate
+- Reaction quotient
+- Reaction rate
+- Reaction rate constant
+- Reactivity (chemistry)
+- Reactivity series
+- Reagent
+- Realgar
+- Rearrangement reaction
+- Recessional velocity
+- Reciprocal lattice
+- Recombination (cosmology)
+- Recrystallization (chemistry)
+- Recrystallization (geology)
+- Red dwarf
+- Red supergiant
+- Red-giant branch
+- Redlich–Kwong equation of state
+- Redox indicator
+- Reduced mass
+- Reducing agent
+- Reduction potential
+- Reef
+- Reflection coefficient
+- Reflection nebula
+- Regolith
+- Regulation of chemicals
+- Regulus
+- Reionization
+- Relative atomic mass
+- Relative dating
+- Relative density
+- Relative velocity
+- Relativistic Doppler effect
+- Relativistic Heavy Ion Collider
+- Relativistic quantum mechanics
+- Relativity of simultaneity
+- Remineralisation
+- Renormalization
+- Replication crisis
+- Reproducibility
+- Resin
+- Resonance (chemistry)
+- Restoring force
+- Resultant force
+- Retarded time
+- Reticulum
+- Retrosynthetic analysis
+- Reverse osmosis
+- Reversible process (thermodynamics)
+- Reversible reaction
+- Revolutions per minute
+- Reyn
+- Rhea (moon)
+- Rheic Ocean
+- Rheology
+- Rho Ophiuchi cloud complex
+- Rhodochrosite
+- Rhyolite
+- Ribbon diagram
+- Richter scale
+- Ridge
+- Rift
+- Rift lake
+- Rift valley
+- Right ascension
+- Right-hand rule
+- Rigid body
+- Rigid body dynamics
+- Rigid rotor
+- Ring flip
+- Ring galaxy
+- Ring-opening polymerization
+- Rings of Jupiter
+- Rings of Neptune
+- Rings of Saturn
+- Rings of Uranus
+- Rip current
+- Riparian zone
+- Ripple marks
+- River ecosystem
+- River island
+- River morphology
+- River mouth
+- River source
+- Roche limit
+- Roche lobe
+- Rock cycle
+- Rock magnetism
+- Rock shelter
+- Rockslide
+- Rod (unit)
+- Rodinia
+- Roentgen (unit)
+- Roentgenium
+- Rogue planet
+- Rogue wave
+- Rolling
+- Rolling resistance
+- Rose (color)
+- Rosette Nebula
+- Rosin
+- Rotamer
+- Rotation operator (quantum mechanics)
+- Rotational spectroscopy
+- Rotational–vibrational spectroscopy
+- Roundness (geology)
+- Rubidium–strontium dating
+- Ruby (color)
+- Rust
+- Rutherford model
+- Rutherfordium
+- Rutile
+- Rydberg constant
+- Rydberg formula
+- S wave
+- S-process
+- S-type star
+- SI base unit
+- SIMBAD
+- SN 1006
+- SN 1054
+- SN 1572
+- SN 1972E
+- SN 1987A
+- SN1 reaction
+- SN2 reaction
+- SNi
+- SRGB
+- SSPSF model
+- Safety data sheet
+- Saffir–Simpson scale
+- Saffron (color)
+- Safrole
+- Sagitta
+- Sagittarius (constellation)
+- Sagittarius A
+- Sagittarius B2
+- Sagittarius Dwarf Spheroidal Galaxy
+- Saline water
+- Salinity
+- Salt bridge
+- Salt flat
+- Salt lake
+- Salt marsh
+- Salt metathesis reaction
+- Saros (astronomy)
+- Satellite galaxies of the Milky Way
+- Satellite galaxy
+- Satellite system (astronomy)
+- Saturn's hexagon
+- Scalar (physics)
+- Scalar field theory
+- Scalar potential
+- Scale factor (cosmology)
+- Scale invariance
+- Scarlet (color)
+- Scattered disc
+- Scheelite
+- Schiehallion experiment
+- Scholarly peer review
+- Schrödinger's cat
+- Schwarzschild radius
+- Schwinger's quantum action principle
+- Scientific community
+- Scientific evidence
+- Scientific misconduct
+- Scientist
+- Scintillation (physics)
+- Scintillator
+- Scopolamine
+- Scorpius
+- Scorpius X-1
+- Scotia plate
+- Scree
+- Screw axis
+- Sculptor (constellation)
+- Sculptor Galaxy
+- Scutum (constellation)
+- Scutum–Centaurus Arm
+- Sea breeze
+- Sea cave
+- Sea level rise
+- Sea surface microlayer
+- Sea surface temperature
+- Seaborgium
+- Seagrass meadow
+- Search for extraterrestrial intelligence
+- Seasonal tropical forest
+- Seawater
+- Second law of thermodynamics
+- Secondary color
+- Sediment gravity flow
+- Sediment transport
+- Sedimentary structures
+- Sedimentation
+- Sedna (dwarf planet)
+- Sednoid
+- Seismic intensity scales
+- Seismic magnitude scales
+- Seismic refraction
+- Seismic tomography
+- Seismic wave
+- Seismic zone
+- Selenography
+- Self-organized criticality
+- Self-replication
+- Semi-arid climate
+- Semi-empirical mass formula
+- Semibatch reactor
+- Semiconductor detector
+- Semiheavy water
+- Semisynthesis
+- Separation process
+- September equinox
+- Sequence (geology)
+- Sequence stratigraphy
+- Series (stratigraphy)
+- Serpens
+- Serpentine subgroup
+- Serpentinite
+- Serpentinization
+- Settling
+- Sextans
+- Shadow
+- Shadow zone
+- Shake (unit)
+- Shaku (unit)
+- Shale
+- Shannon (unit)
+- Shape of the universe
+- Shapley Supercluster
+- Shear (geology)
+- Shear modulus
+- Shear stress
+- Shear zone
+- Shearing (physics)
+- Shellac
+- Shield (geology)
+- Shield volcano
+- Shingle beach
+- Shoal
+- Shock (mechanics)
+- Shock wave
+- Short ton
+- Siberian Traps
+- Side chain
+- Sidereal time
+- Siderite
+- Sienna
+- Sigma bond
+- Silicate mineral
+- Siliceous ooze
+- Silicon carbide
+- Silicon dioxide
+- Sill (geology)
+- Sillimanite
+- Silt
+- Siltstone
+- Silurian
+- Silver (color)
+- Silver azide
+- Silver iodide
+- Silver nitrate
+- Silver nitride
+- Single bond
+- Singlet oxygen
+- Sinkhole
+- Skeletal formula
+- Skutterudite
+- Sky blue
+- Sky brightness
+- Slab (geology)
+- Slab pull
+- Slave Craton
+- Slickenside
+- Sloan Digital Sky Survey
+- Slosh dynamics
+- Slow earthquake
+- Slug (unit)
+- Smithsonite
+- Smog
+- Smoke
+- Snell's law
+- Snow squall
+- Snowball Earth
+- Snowflake
+- Sodalite
+- Sodium acetate
+- Sodium azide
+- Sodium benzoate
+- Sodium borohydride
+- Sodium bromide
+- Sodium calcium edetate
+- Sodium chromate
+- Sodium cyanide
+- Sodium dichromate
+- Sodium dithionite
+- Sodium fluoride
+- Sodium hydride
+- Sodium hypochlorite
+- Sodium metaborate
+- Sodium nitrite
+- Sodium orthovanadate
+- Sodium oxide
+- Sodium perchlorate
+- Sodium permanganate
+- Sodium peroxide
+- Sodium sulfide
+- Sodium thiosulfate
+- Soft matter
+- Soft-sediment deformation structures
+- Soil acidification
+- Soil chemistry
+- Soil classification
+- Soil erosion
+- Soil health
+- Soil horizon
+- Soil liquefaction
+- Soil mechanics
+- Soil morphology
+- Soil pH
+- Soil physics
+- Soil texture
+- Soil type
+- Sol (colloid)
+- Solar activity and climate
+- Solar core
+- Solar corona
+- Solar cycle
+- Solar flare
+- Solar irradiance
+- Solar luminosity
+- Solar mass
+- Solar neutrino
+- Solar phenomena
+- Solar radius
+- Solar storm
+- Solder
+- Solid acid
+- Solid hydrogen
+- Solid solution
+- Solid-state chemistry
+- Solubility
+- Solutional cave
+- Solvation
+- Solvent
+- Somali plate
+- Sombrero Galaxy
+- Sonic boom
+- Soot
+- Sorbitol
+- Sound pressure
+- South American plate
+- South Pole Wall
+- South magnetic pole
+- Soxhlet extractor
+- Space physics
+- Space rendezvous
+- Space weather
+- Space-filling model
+- Spacetime diagram
+- Specific heat capacity
+- Spectral density
+- Spectral energy distribution
+- Spectral index
+- Spectral line
+- Speleology
+- Speleothem
+- Sperrylite
+- Sphalerite
+- Spherical Earth
+- Spherical aberration
+- Spherical astronomy
+- Spherical harmonics
+- Spica
+- Spin 1/2
+- Spin quantum number
+- Spinel
+- Spinel group
+- Spin–orbit interaction
+- Spodumene
+- Spontaneous emission
+- Spontaneous magnetization
+- Spontaneous symmetry breaking
+- Spray drying
+- Spring green
+- Spring steel
+- Sprite (lightning)
+- Squalene
+- Square degree
+- Square kilometre
+- Square metre
+- Square mile
+- St. Elmo's fire
+- Stack (geology)
+- Stadion (unit)
+- Stage (stratigraphy)
+- Staggered conformation
+- Stalactite
+- Stalagmite
+- Standard atomic weight
+- Standard electrode potential
+- Standard gravity
+- Standard hydrogen electrode
+- Standing wave
+- Starburst region
+- Stark effect
+- Static electricity
+- Stationary state
+- Staurolite
+- Steady state
+- Steady-state model
+- Steam
+- Steam devil
+- Steam distillation
+- Stearyl alcohol
+- Stefan–Boltzmann law
+- Stellar association
+- Stellar atmosphere
+- Stellar core
+- Stellar corona
+- Stellar mass
+- Stellar nucleosynthesis
+- Stellar parallax
+- Stellar rotation
+- Stellar wind
+- Step-growth polymerization
+- Stereocenter
+- Stereochemistry
+- Stereoisomerism
+- Steric effects
+- Stern–Gerlach experiment
+- Stibine
+- Stibnite
+- Stilbite
+- Stimulated emission
+- Stirling cycle
+- Stirling engine
+- Stoichiometry
+- Stokes parameters
+- Stone (unit)
+- Storm surge
+- Strain (chemistry)
+- Strange quark
+- Strangeness
+- Stratigraphic section
+- Stratigraphic unit
+- Stratocumulus cloud
+- Stratosphere
+- Stratovolcano
+- Stratum
+- Stratus cloud
+- Stream
+- Stream bed
+- Streamflow
+- Stress–energy tensor
+- Strike and dip
+- String (physics)
+- Stripping (chemistry)
+- Structural basin
+- Structural formula
+- Structural geology
+- Structural isomer
+- Structure formation
+- Strychnine
+- Sturtian glaciation
+- Sub-brown dwarf
+- Subarctic climate
+- Subduction
+- Subdwarf
+- Subgiant
+- Sublimation (phase transition)
+- Submarine volcano
+- Submillimetre astronomy
+- Subsidence
+- Substellar object
+- Substituent
+- Substrate (chemistry)
+- Suction filtration
+- Sugar alcohol
+- Sulfate mineral
+- Sulfide
+- Sulfide mineral
+- Sulfite
+- Sulfonic acid
+- Sulfur cycle
+- Sulfur dioxide
+- Sulfur hexafluoride
+- Sulfur trioxide
+- Summer solstice
+- Summit
+- Sun dog
+- Sun-synchronous orbit
+- Sunda plate
+- Sungrazing comet
+- Sunlight
+- Sunrise
+- Sunset
+- Sunspot
+- Super star cluster
+- Super-Earth
+- Superacid
+- Superbase
+- Superbubble
+- Supercell
+- Supercontinent
+- Supercritical fluid
+- Superfluid helium-4
+- Superfluidity
+- Supergravity
+- Superheated steam
+- Superheating
+- Superheavy element
+- Superluminous supernova
+- Supermoon
+- Supernova nucleosynthesis
+- Supernova remnant
+- Superoxide
+- Supersolid
+- Superstring theory
+- Supervolcano
+- Supramolecular chemistry
+- Surface brightness
+- Surface science
+- Surface weather analysis
+- Surface weather observation
+- Surfactant
+- Suspended load
+- Sylvite
+- Symmetry breaking
+- Symmetry in quantum mechanics
+- Synchrotron
+- Synchrotron radiation
+- Syncline
+- System (stratigraphy)
+- System of units of measurement
+- Systematic element name
+- T Tauri star
+- TNT
+- TNT equivalent
+- TRAPPIST-1
+- TW Hydrae
+- Tabby's Star
+- Tablespoon
+- Tachyon
+- Tan (color)
+- Tannic acid
+- Tantalite
+- Tanzanite
+- Tar
+- Tarantula Nebula
+- Tarnish
+- Tartaric acid
+- Tau Ceti
+- Tau neutrino
+- Taurine
+- Taurus (constellation)
+- Tautomer
+- Taxonomy
+- Teal
+- Teaspoon
+- Technetium-99m
+- Tectonic uplift
+- Tectonite
+- Telemetry
+- Telescopium
+- Telluric contamination
+- Telluric iron
+- Temperate coniferous forest
+- Temperate deciduous forest
+- Temperate forest
+- Temperate grasslands, savannas, and shrublands
+- Temperate rainforest
+- Tennessine
+- Tension (physics)
+- Terahertz radiation
+- Terminator (solar)
+- Terpene
+- Terpenoid
+- Terra Australis Orogen
+- Terrace (geology)
+- Test particle
+- Test tube
+- Testing cosmetics on animals
+- Tests of general relativity
+- Tethys (moon)
+- Tethys Ocean
+- Tetraethyllead
+- Tetragonal crystal system
+- Tetrahedral molecular geometry
+- Tetrahydrofuran
+- Tetraquark
+- Tetrasodium EDTA
+- Thalweg
+- Theia (hypothetical planet)
+- Theobromine
+- Theophylline
+- Theoretical chemistry
+- Theoretical plate
+- Theory of everything
+- Theory of tides
+- Thermal conduction
+- Thermal conductivity and resistivity
+- Thermal decomposition
+- Thermal energy
+- Thermal equilibrium
+- Thermal expansion
+- Thermal fluctuations
+- Thermal radiation
+- Thermal runaway
+- Thermochemistry
+- Thermochronology
+- Thermocline
+- Thermodynamic activity
+- Thermodynamic equations
+- Thermodynamic equilibrium
+- Thermodynamic limit
+- Thermodynamic potential
+- Thermodynamic process
+- Thermodynamic state
+- Thermodynamic system
+- Thermodynamic temperature
+- Thermogravimetric analysis
+- Thermosphere
+- Thick disk
+- Thin disk
+- Thin-layer chromatography
+- Thiomersal
+- Thiosulfate
+- Third law of thermodynamics
+- Thomson scattering
+- Thorianite
+- Thunder
+- Thymol
+- Tidal acceleration
+- Tidal force
+- Tidal island
+- Tidal range
+- Tide pool
+- Till
+- Tilth
+- Time dilation
+- Time in physics
+- Time-domain astronomy
+- Timeline of the far future
+- Tin(IV) oxide
+- Tincture
+- Tincture of iodine
+- Tint, shade and tone
+- Tip of the red-giant branch
+- Tipping points in the climate system
+- Titania (moon)
+- Titanite
+- Titanium nitride
+- Titration
+- Toluene
+- Tonne
+- Tool steel
+- Top quark
+- Topaz
+- Topological order
+- Topsoil
+- Tor (rock formation)
+- Torr
+- Torsion (mechanics)
+- Total internal reflection
+- Total synthesis
+- Toughness
+- Tourmaline
+- Toxic heavy metal
+- Trace element
+- Tragedy of the commons
+- Trajectory
+- Trans-Neptunian object
+- Transform fault
+- Transit of Mercury
+- Transit of Venus
+- Transition state
+- Transition state theory
+- Transition zone (Earth)
+- Transmission coefficient
+- Transport phenomena
+- Transuranium element
+- Transverse mode
+- Transverse wave
+- Trapezium Cluster
+- Triangulum
+- Triangulum Australe
+- Tributary
+- Triclinic crystal system
+- Trifid Nebula
+- Triflic acid
+- Trigonal planar molecular geometry
+- Trigonal pyramidal molecular geometry
+- Triple bond
+- Triple junction
+- Triple-alpha process
+- Triplet oxygen
+- Trisodium citrate
+- Trisodium phosphate
+- Tritiated water
+- Tritium
+- Trivial name
+- Troilite
+- Trojan (celestial body)
+- Tropical and subtropical coniferous forests
+- Tropical and subtropical dry broadleaf forests
+- Tropical and subtropical grasslands, savannas, and shrublands
+- Tropical and subtropical moist broadleaf forests
+- Tropical cyclogenesis
+- Tropical cyclone forecasting
+- Tropical cyclone preparedness
+- Tropical cyclone rainfall forecasting
+- Tropical cyclone track forecasting
+- Tropical forest
+- Tropical monsoon climate
+- Tropical rainforest climate
+- Tropical savanna climate
+- Tropical year
+- Troposphere
+- Troy weight
+- Tucana
+- Tugtupite
+- Tully–Fisher relation
+- Tunable metamaterial
+- Tungsten carbide
+- Turbidite
+- Turbidity current
+- Turpentine
+- Turquoise
+- Turquoise (color)
+- Twilight
+- Twin paradox
+- Twinkling
+- Two-body problem
+- Type II Cepheid
+- Type II supernova
+- Type Ia supernova
+- Type Ib and Ic supernovae
+- Type locality (geology)
+- Type-I superconductor
+- Type-II superconductor
+- Type-cD galaxy
+- Typhoon
+- Typographic unit
+- Tyrian purple
+- U-shaped valley
+- UBV photometric system
+- UY Scuti
+- Ulexite
+- Ultra-high-energy cosmic ray
+- Ultrafast laser spectroscopy
+- Ultrafiltration
+- Ultramarine
+- Ultraviolet astronomy
+- Ultraviolet catastrophe
+- Ultraviolet index
+- Ultraviolet–visible spectroscopy
+- Umber
+- Umbra, penumbra and antumbra
+- Umbriel
+- Unbarred spiral galaxy
+- Unbibium
+- Unbihexium
+- Unbinilium
+- Unbiquadium
+- Unbiunium
+- Unconformity
+- Underground lake
+- Unified field theory
+- Uninhabited island
+- Unit cell
+- Unit of account
+- Unit operation
+- Unitary transformation (quantum mechanics)
+- Units of information
+- Ununennium
+- Up quark
+- Upland and lowland
+- Upper mantle
+- Uppsala General Catalogue
+- Upwelling
+- Ur (continent)
+- Uraninite
+- Uranium hexafluoride
+- Uranium-235
+- Uranium-238
+- Uranium–lead dating
+- Uric acid
+- VSEPR theory
+- VY Canis Majoris
+- Vaalbara
+- Vacancy defect
+- Vacuum distillation
+- Vacuum drying
+- Vacuum energy
+- Vacuum permeability
+- Vacuum permittivity
+- Valence and conduction bands
+- Van Allen radiation belt
+- Van Deemter equation
+- Van der Waals equation
+- Van der Waals force
+- Vanadate
+- Vanillin
+- Vapor pressure
+- Vaporization
+- Vapor–liquid separator
+- Variational method (quantum mechanics)
+- Vector potential
+- Vein (geology)
+- Vela (constellation)
+- Velocity dispersion
+- Vermiculite
+- Vermilion
+- Vertical draft
+- Vertical pressure variation
+- Vial
+- Vibration
+- Vicinal (chemistry)
+- Violet (color)
+- Virgo (constellation)
+- Virial expansion
+- Virial theorem
+- Viridian
+- Virtual image
+- Virtual particle
+- Virtual state
+- Virtual work
+- Visible-light astronomy
+- Vitriol
+- VizieR
+- Vlasov equation
+- Volans
+- Volatile (astrogeology)
+- Volcanic arc
+- Volcanic cone
+- Volcanic crater
+- Volcanic crater lake
+- Volcanic glass
+- Volcanic island
+- Volcanic plug
+- Volcanic rock
+- Volcanism
+- Volcanology
+- Voltammetry
+- Volume fraction
+- Volumetric flow rate
+- Vorticity
+- Vulpecula
+- WISE 0855−0714
+- WKB approximation
+- Wadi
+- Warm–hot intergalactic medium
+- Water quality
+- Waterspout
+- Water–gas shift reaction
+- Wave function collapse
+- Wave packet
+- Wave vector
+- Waveform
+- Wavefront
+- Waveguide (radio frequency)
+- Wavenumber
+- Wax
+- Weak base
+- Weak gravitational lensing
+- Weak hypercharge
+- Weak isospin
+- Weather station
+- Web colors
+- Weber (unit)
+- Westerhout 40
+- Westerlies
+- Western Interior Seaway
+- Wet lab
+- Wheeler–Feynman absorber theory
+- Whirlpool
+- Whirlwind
+- White hole
+- White spirit
+- Whiteout (weather)
+- Wien approximation
+- Wien's displacement law
+- Wilderness
+- Winchester measure
+- Wind shear
+- Wind wave
+- Winter solstice
+- Winter storm
+- Wittig reaction
+- Wolframite
+- Wollastonite
+- Wood ash
+- Woodland
+- Wootz steel
+- Work (thermodynamics)
+- World
+- Wormhole
+- Wu experiment
+- X unit
+- X-ray astronomy
+- X-ray binary
+- X-ray crystallography
+- X-ray pulsar
+- X-ray spectroscopy
+- Xanthine
+- Xenon hexafluoroplatinate
+- Xenon tetrafluoride
+- Xylitol
+- Yang–Mills existence and mass gap
+- Yang–Mills theory
+- Yard
+- Yellow supergiant
+- Yellowstone hotspot
+- Yield (chemistry)
+- Young stellar object
+- Young's modulus
+- Yttrium barium copper oxide
+- Zeeman effect
+- Zenith
+- Zeolite
+- Zero-point energy
+- Zeroth law of thermodynamics
+- Zeta Ophiuchi
+- Zinc acetate
+- Zinc chloride
+- Zinc oxide
+- Zinc sulfate
+- Zinc sulfide
+- Zingiberene
+- Zircon
+- Zirconium dioxide
+- Zodiacal light
+- Zonal and meridional flow
+- Zone of Avoidance
+- Zwitterion
+- Δ13C
+- Δ18O
+
+### Society and social sciences (+3435)
+- 20th Century Studios
+- 2channel
+- 3M
+- 4chan
+- 7-Eleven
+- A Prairie Home Companion
+- AB InBev
+- AFL-CIO
+- AMD
+- ANZUS
+- AOL
+- ARD (broadcaster)
+- ASML
+- ATM
+- Abbreviation
+- Abjad
+- Abkhaz language
+- Abortion debate
+- Abortion law
+- Abugida
+- Academic conference
+- Academic dishonesty
+- Academic freedom
+- Academic library
+- Academic publishing
+- Academic tenure
+- Academy
+- Academy of Motion Picture Arts and Sciences
+- Académie Française
+- Acceptance
+- Access control
+- Accessory (legal term)
+- Accident
+- Accountant
+- Acculturation
+- Acquittal
+- Acronym
+- Action Comics
+- Actuarial science
+- Actus reus
+- Acute stress reaction
+- Addis Ababa University
+- Adidas
+- Administrative court
+- Admiral
+- Adobe Inc.
+- Adult Swim
+- Advent
+- Advertising research
+- Advocacy group
+- Advocacy journalism
+- Afar language
+- Affection
+- Affirmation and negation
+- Affirmative action
+- African Americans
+- African Charter on Human and Peoples' Rights
+- African Development Bank
+- African French
+- African National Congress
+- African-American Vernacular English
+- Afrikaans
+- Aftenposten
+- After-school activity
+- Age of criminal responsibility
+- Age of majority
+- Ageism
+- Agence France-Presse
+- Agrarian society
+- Agrarianism
+- Agreeableness
+- Aid agency
+- Ainu people
+- Air China
+- Air France
+- Air India
+- Air supremacy
+- Airbnb
+- Airborne forces
+- Airbus
+- Aircraft pilot
+- Al Jazeera Arabic
+- Al-Ahram
+- Al-Qaeda
+- Albanian language
+- Alcoholics Anonymous
+- Aldi
+- Alipay
+- All Nippon Airways
+- All Things Considered
+- All-news radio
+- Allegory
+- Allianz
+- Alliteration
+- Allocative efficiency
+- Alphabet Inc.
+- Alstom
+- Altered state of consciousness
+- Alternation (linguistics)
+- Alternative civilian service
+- Alternative education
+- Alternative media
+- Ambassador
+- Ambiguity
+- Ambush
+- American Airlines
+- American Association for the Advancement of Science
+- American Broadcasting Company
+- American Civil Liberties Union
+- American Convention on Human Rights
+- American English
+- American Legion
+- American Mafia
+- American Sign Language
+- American University of Beirut
+- American imperialism
+- Amhara people
+- Amnesty International
+- Amnesty law
+- Amos 'n' Andy
+- Amphibious warfare
+- Amtrak
+- Anagram
+- Anarcha-feminism
+- Anarchist communism
+- Anarcho-capitalism
+- Anarcho-syndicalism
+- Anarchy
+- Anglo-Saxon charters
+- Angst
+- Animal communication
+- Animal rights
+- Anime and manga fandom
+- Annalen der Physik
+- Annoyance
+- Anomie
+- Anonymity
+- Antarctic Treaty System
+- Anthropological linguistics
+- Anthropology of religion
+- Anti-capitalism
+- Anti-communism
+- Anti-corruption
+- Anti-fascism
+- Anti-nuclear movement
+- Anti-racism
+- Antisemitism
+- Antithesis
+- Apache
+- Apology (act)
+- Apostrophe
+- Appeasement
+- Applause
+- Applied linguistics
+- Applied psychology
+- Apprenticeship
+- April Fools' Day
+- Arab culture
+- Arabic alphabet
+- Arabic grammar
+- Aragonese language
+- Arawak
+- Arawakan languages
+- Arbitrage
+- Arbitration
+- Archetype
+- Arctic Council
+- Argumentation theory
+- Arianespace
+- Aristocracy
+- Armenian alphabet
+- Armistice
+- Armistice Day
+- Arms control
+- Arms race
+- Arrest
+- Arrest warrant
+- Arson
+- Art theft
+- Article (grammar)
+- Articles of Confederation
+- Artificial language
+- Artisan
+- Arts journalism
+- Ash Wednesday
+- Ashura
+- Asia-Pacific Economic Cooperation
+- Asian Development Bank
+- Asian people
+- Assault (tort)
+- Asset
+- Asset management
+- Assimilation (phonology)
+- Associated Press
+- Association for Computing Machinery
+- Astronomy & Astrophysics
+- Asus
+- Asymmetric warfare
+- Atari, Inc.
+- Atlantic Charter
+- Attachment theory
+- Attempt
+- Attrition warfare
+- Auction
+- Audi
+- Audit
+- Augmentative and alternative communication
+- Australian Aboriginal languages
+- Australian Broadcasting Corporation
+- Australian National University
+- Australian dollar
+- Austrian school of economics
+- Autarky
+- Authoritarian personality
+- Authority
+- Autonomous University of Barcelona
+- Autonomous University of Madrid
+- Avar language
+- Avatar (computing)
+- Avestan
+- AvtoVAZ
+- Awami League
+- Aymara language
+- BASF
+- BHP
+- BMW
+- BNP Paribas
+- BP
+- BRICS
+- BYD Auto
+- Babbling
+- Baby boomers
+- Backslash
+- Baidu
+- Bail
+- Balance of payments
+- Balance of trade
+- Balance sheet
+- Baloch people
+- Bambara language
+- Banco Santander
+- Banditry
+- Bank for International Settlements
+- Bank of America
+- Bank of China
+- Bank robbery
+- Bank run
+- Bank teller
+- Banknote
+- Bar (law)
+- Bar council
+- Bar examination
+- Baron
+- Barrister
+- Bartender
+- Barter
+- Bashkir language
+- Basque language
+- Batch production
+- Battery (tort)
+- Bayer
+- Bazaar
+- Beatnik
+- Bedouin
+- Behavior
+- Behavioral economics
+- Behavioral neuroscience
+- Behavioural genetics
+- Behavioural sciences
+- Belarusian language
+- Bell Labs
+- Bench (law)
+- Beneficiary (trust)
+- Benelux
+- Bengalis
+- Bengali–Assamese script
+- Berkshire Hathaway
+- Berlin State Library
+- Berne Convention
+- Betrayal
+- Bey
+- Bharatiya Janata Party
+- Bhojpuri language
+- Biblioteca Nacional de España
+- Bibliothèque nationale de France
+- Bicameralism
+- Big-game hunting
+- Bihari languages
+- Bild
+- Bilibili
+- Bilingual education
+- Bill (law)
+- Bill of Rights 1689
+- Bill of rights
+- Billboard
+- Billboard (magazine)
+- Biological anthropology
+- Biosecurity
+- BirdLife International
+- Bishwa Ijtema
+- Bislama
+- Bitcoin
+- Black Friday (shopping)
+- Black people
+- Black power
+- BlackRock
+- Blackletter
+- Blackmail
+- Black–Scholes model
+- Blasphemy law
+- Blitzkrieg
+- Blizzard Entertainment
+- Blogger (service)
+- Bloods
+- Bloomberg Businessweek
+- Bloomberg News
+- Blue-collar worker
+- Blushing
+- Board of directors
+- Boasian anthropology
+- Bodhi Day
+- Bodily integrity
+- Bodleian Library
+- Boeing
+- Bohemianism
+- Boko Haram
+- Bond (finance)
+- Bond market
+- Booing
+- Book burning
+- Bookkeeping
+- Bookselling
+- Border control
+- Boredom
+- Bosnian language
+- Bourgeoisie
+- Bowing
+- Boxing Day
+- Boycott
+- Bracket
+- Brahmin
+- Brainwashing
+- Brazilian Carnival
+- Brazilian Portuguese
+- Brazilian real
+- Breach of contract
+- Breton language
+- Bribery
+- British Academy
+- British Airways
+- British Armed Forces
+- British English
+- British Sign Language
+- Broadcast journalism
+- Broadcast syndication
+- Broadcom
+- Broker
+- Brown University
+- Brown v. Board of Education
+- Buddha's Birthday
+- Budget
+- Building code
+- Building material
+- Bulgarian language
+- Bulletin of the Atomic Scientists
+- Bullion coin
+- Bureaucracy
+- Burger King
+- Burglary
+- Burning Man
+- Burushaski
+- Business administration
+- Business cycle
+- Business education
+- Business journalism
+- Business model
+- Business networking
+- Business school
+- Businessperson
+- Butcher
+- By-election
+- By-product
+- CBS
+- CERN
+- CFA franc
+- CITES
+- CNN
+- CRRC
+- CVS Health
+- Cadbury
+- Cairo Declaration on Human Rights in Islam
+- Cairo University
+- California Institute of Technology
+- Caliphate
+- Call option
+- Campus
+- Canadian Aboriginal syllabics
+- Canadian Broadcasting Corporation
+- Canadian dollar
+- Cannabis culture
+- Cannibalism
+- Canon law
+- Canon law of the Catholic Church
+- Cant (language)
+- Cantonese
+- Cantonese people
+- Capital gain
+- Capital gains tax
+- Capital market
+- Captain (naval)
+- Cardiff University
+- Career
+- Cargill
+- Caribbean Community
+- Caricature
+- Carnegie library
+- Carrefour
+- Cartoon Network
+- Cash
+- Cash flow
+- Cash flow statement
+- Cashier
+- Castration
+- Casus belli
+- Catalan language
+- Caterpillar Inc.
+- Catharsis
+- Catholic school
+- Ceasefire
+- Celebrity branding
+- Celtic languages
+- Censorship in China
+- Cent (currency)
+- Central European Free Trade Agreement
+- Central Intelligence Agency
+- Central Kurdish
+- Central Treaty Organization
+- Central bank
+- Centre-left politics
+- Centre-right politics
+- Centrism
+- Chama Cha Mapinduzi
+- Chamorro language
+- Chanel
+- Channel One (Russia)
+- Charge (warfare)
+- Charitable organization
+- Charity (practice)
+- Charles University
+- Charter
+- Charter of Fundamental Rights of the European Union
+- Charter of the United Nations
+- Cheating
+- Chechen language
+- Cherokee language
+- Chevrolet
+- Chevron Corporation
+- Chewa language
+- Chicago Outfit
+- Chicago Tribune
+- Chicago school of economics
+- Chickasaw
+- Chief executive officer
+- Chief justice
+- Chiefdom
+- Child abuse
+- Child custody
+- Child marriage
+- Child sexual abuse
+- Children's rights
+- Chilseok
+- China Central Television
+- China Electronics Technology Group Corporation
+- China Mobile
+- China National Petroleum Corporation
+- China Railway
+- Chinese University of Hong Kong
+- Chinese culture
+- Chinese grammar
+- Chinese law
+- Choctaw
+- Christian Democratic Union of Germany
+- Christian socialism
+- Christmas Eve
+- Christmas traditions
+- Christmas tree
+- Chrysler
+- Chulalongkorn University
+- Chumash people
+- Chuvash language
+- Circassians
+- Cisco
+- Citibank
+- Citizen journalism
+- Citizens United v. FEC
+- Citroën
+- Civil Procedure Rules
+- Civil code
+- Civil control of the military
+- Civil death
+- Civil defense
+- Civil disobedience
+- Civil disorder
+- Civil law (common law)
+- Civil procedure
+- Civilian
+- Claim rights and liberty rights
+- Clapping
+- Clarín (Argentine newspaper)
+- Class (education)
+- Class consciousness
+- Class struggle
+- Classical Latin
+- Classical conditioning
+- Classical economics
+- Classical liberalism
+- Classroom
+- Cleaner
+- Clerk
+- Close-quarters battle
+- Cloudflare
+- Coachella
+- Coal mining
+- Coast guard
+- Code of law
+- Code talker
+- Code-switching
+- Codification (law)
+- Coercion
+- Cognitive behavioral therapy
+- Cognitive bias
+- Cognitive dissonance
+- Cognitive linguistics
+- Cognitive science
+- Cognitivism (psychology)
+- Coin grading
+- Cold Food Festival
+- Colgate-Palmolive
+- Collaborative law
+- Collective Security Treaty Organization
+- Collective bargaining
+- Collective responsibility
+- Collège de France
+- Colon (punctuation)
+- Colon classification
+- Colonel
+- Colonial war
+- Columbarium
+- Columbia Pictures
+- Columbia Records
+- Combat
+- Combined arms
+- Comcast
+- Comecon
+- Comma
+- Command and control
+- Command of the sea
+- Commander
+- Commander-in-chief
+- Commemorative coin
+- Commercial bank
+- Commercial property
+- Commission (remuneration)
+- Commodification
+- Commodity market
+- Commodore (rank)
+- Communication studies
+- Communist Party of Vietnam
+- Communitarianism
+- Community college
+- Community of Portuguese Language Countries
+- Community organizing
+- Community paper
+- Comparative advantage
+- Comparative law
+- Comparative politics
+- Compassion
+- Competition law
+- Complaint
+- Complutense University of Madrid
+- Compound interest
+- Comptes rendus de l'Académie des Sciences
+- Compulsory education
+- Compulsory sterilization
+- Computational linguistics
+- Computer-mediated communication
+- Concentration camp
+- Conciliation
+- Condé Nast
+- Confederación Nacional del Trabajo
+- Conference call
+- Confidence
+- Confidentiality
+- Confirmation bias
+- Conflict of laws
+- Conflict resolution
+- Conflict theories
+- Confucius' Birthday
+- Confusion
+- Conglomerate (company)
+- ConocoPhillips
+- Conquest
+- Conscientiousness
+- Consent
+- Conservative Party (UK)
+- Consideration
+- Constituent assembly
+- Constitution of China
+- Constitution of India
+- Constitution of the United Kingdom
+- Constitutional amendment
+- Constitutional court
+- Constitutional crisis
+- Constitutional law
+- Constructed language
+- Consul (representative)
+- Consumer
+- Consumer Reports
+- Consumer behaviour
+- Consumer price index
+- Consumerism
+- Consumption (economics)
+- Consumption tax
+- Containment
+- Contempt
+- Content analysis
+- Context
+- Contingent work
+- Contract killing
+- Contraction (grammar)
+- Contractual term
+- Convenience store
+- Convention (meeting)
+- Convention (norm)
+- Convention on the Rights of the Child
+- Conversation
+- Conversion (law)
+- Convertible bond
+- Conviction
+- Convoy
+- Cook (profession)
+- Cooperative
+- Coping
+- Coptic language
+- Copts
+- Copying
+- Copyleft
+- Copyright infringement
+- Cornell University
+- Cornish language
+- Coroner
+- Corporal punishment
+- Corporate bond
+- Corporate crime
+- Corporate governance
+- Corporate law
+- Corporate manslaughter
+- Corporate tax
+- Corporatism
+- Corriere della Sera
+- Corsican language
+- Corvée
+- Cosmopolitan (magazine)
+- Cosmopolitanism
+- Cost
+- Cost curve
+- Cost of living
+- Costco
+- Cost–benefit analysis
+- Council of the Baltic Sea States
+- Council of the European Union
+- Counseling psychology
+- Count
+- Counterattack
+- Counterculture
+- Counterfeit
+- Counterintelligence
+- Countertransference
+- Course (education)
+- Course credit
+- Court of equity
+- Court-martial
+- Courthouse
+- Courts of England and Wales
+- Craft
+- Craigslist
+- Creative Commons
+- Credit
+- Credit rating
+- Cree
+- Cree language
+- Creole peoples
+- Crime of aggression
+- Crime of apartheid
+- Crime prevention
+- Crimes against humanity
+- Criminal conspiracy
+- Criminal investigation
+- Criminal justice
+- Criminalization of homosexuality
+- Crips
+- Crisis
+- Critical theory
+- Criticism of copyright
+- Croatian language
+- Cross-cultural communication
+- Cross-examination
+- Crowdsourcing
+- Crucifixion
+- Cruelty
+- Cruelty to animals
+- Crying
+- Crypt
+- Cryptocurrency
+- Cultural anthropology
+- Cultural appropriation
+- Cultural diffusion
+- Cultural emphasis
+- Cultural globalization
+- Cultural materialism (anthropology)
+- Cultural policy
+- Cultural relativism
+- Cultural studies
+- Cultural universal
+- Culture of Africa
+- Culture of Asia
+- Culture of Australia
+- Culture of Brazil
+- Culture of Buddhism
+- Culture of Europe
+- Culture of France
+- Culture of Germany
+- Culture of Greece
+- Culture of India
+- Culture of Indonesia
+- Culture of Iran
+- Culture of Italy
+- Culture of Japan
+- Culture of Korea
+- Culture of Latin America
+- Culture of Mexico
+- Culture of Nigeria
+- Culture of Oceania
+- Culture of Poland
+- Culture of Polynesia
+- Culture of Russia
+- Culture of South America
+- Culture of Spain
+- Culture of Turkey
+- Culture of the Netherlands
+- Culture of the United Kingdom
+- Culture of the United States
+- Culture war
+- Currency symbol
+- Curriculum vitae
+- Cursive
+- Curtsy
+- Customer
+- Customer relationship management
+- Customer service
+- Customs
+- Cyberbullying
+- Cybercrime
+- Cyberwarfare
+- DC Comics
+- DHL Group
+- DJI
+- Dagens Nyheter
+- Daily Mail
+- Dainik Bhaskar
+- Dainik Jagran
+- Dalit
+- Dame
+- Dangote Group
+- Dari
+- Dartmouth College
+- Dash
+- Date rape
+- Day of the Dead
+- Deadweight loss
+- Death anxiety
+- Debate
+- Debenture
+- Decapitation
+- Deception
+- Decision-making
+- Declaration of war
+- Declension
+- Decree
+- Deep sea mining
+- Deep state
+- Defamation
+- Defeat in detail
+- Defendant
+- Defense (legal)
+- Degrees of comparison of adjectives and adverbs
+- Dehumanization
+- Deindustrialization
+- Delft University of Technology
+- Dell
+- Deloitte
+- Delta Air Lines
+- Democracy Now!
+- Democratic Party (United States)
+- Democratic centralism
+- Democratic socialism
+- Denaturalization
+- Department store
+- Deportation
+- Deposition (law)
+- Depreciation
+- Depression (mood)
+- Der Spiegel
+- Derivatives market
+- Description
+- Determiner
+- Deutsche Bahn
+- Deutsche Bank
+- Deutsche Welle
+- Developed country
+- Developing country
+- Development economics
+- DeviantArt
+- Dewey Decimal Classification
+- Dhivehi language
+- Diacritic
+- Dialect continuum
+- Dictator
+- Die Welt
+- Die Zeit
+- Digital currency
+- Digital humanities
+- Digital media
+- Digital media use and mental health
+- Digital rights
+- Diploma
+- Diplomat
+- Diplomatic bag
+- Diplomatic cable
+- Diplomatic immunity
+- Diplomatic rank
+- Direct action
+- Direct democracy
+- Direct examination
+- Direct selling
+- Disability rights movement
+- Disappointment
+- Disarmament
+- Disaster
+- Discipline
+- Discord
+- Discourse
+- Discourse analysis
+- Discovery (law)
+- Discovery Channel
+- Discrimination against atheists
+- Discrimination based on skin tone
+- Disinformation
+- Dismissal (employment)
+- Disney Channel
+- Disney Princess
+- Dispute resolution
+- Disruptive innovation
+- Distance education
+- Distribution (marketing)
+- Distributism
+- Distrust
+- Divide and conquer
+- Dividend
+- Division of labour
+- Do it yourself
+- Doctorate
+- Dogon people
+- Domestic policy
+- Dongzhi
+- Donoghue v Stevenson
+- Doordarshan
+- Double Ninth Festival
+- Double Third Festival
+- Double-entry bookkeeping
+- Doujinshi
+- Dow Chemical Company
+- Draconian constitution
+- Dragon Boat Festival
+- Dravidian peoples
+- Dream interpretation
+- Dred Scott v. Sandford
+- Drone warfare
+- Drug cartel
+- Drug prohibition
+- DuPont
+- Due process
+- Duke
+- Duke University
+- Dune (franchise)
+- Dutch guilder
+- Dwelling
+- Dynasty
+- Dzongkha
+- Déjà vu
+- Détente
+- EBay
+- ECOWAS
+- EMI
+- ESPN
+- Early Modern English
+- Earth Day
+- East African Community
+- East Slavs
+- Easter egg
+- Easter traditions
+- Economic Cooperation Organization
+- Economic and Monetary Union of the European Union
+- Economic anthropology
+- Economic bubble
+- Economic equilibrium
+- Economic globalization
+- Economic liberalism
+- Economic model
+- Economic security
+- Economic surplus
+- Economic system
+- Economic warfare
+- Economic, social and cultural rights
+- Economies of scale
+- Economy of Argentina
+- Economy of Australia
+- Economy of Bangladesh
+- Economy of Brazil
+- Economy of Canada
+- Economy of Egypt
+- Economy of France
+- Economy of Germany
+- Economy of India
+- Economy of Indonesia
+- Economy of Iran
+- Economy of Italy
+- Economy of Japan
+- Economy of Mexico
+- Economy of Nigeria
+- Economy of Pakistan
+- Economy of Russia
+- Economy of Saudi Arabia
+- Economy of South Africa
+- Economy of South Korea
+- Economy of Spain
+- Economy of Switzerland
+- Economy of Thailand
+- Economy of Turkey
+- Economy of Vietnam
+- Economy of the Middle East
+- Economy of the Philippines
+- Economy of the United Kingdom
+- Editing
+- Education in China
+- Education in India
+- Education in the United States
+- Educational assessment
+- Educational inequality
+- Educational institution
+- Educational psychology
+- Educational technology
+- Effeminacy
+- Egalitarianism
+- Egocentrism
+- Egyptology
+- El Mundo (Spain)
+- El País
+- El Universal (Mexico City)
+- Elamite language
+- Elasticity (economics)
+- Election law
+- Elective monarchy
+- Electoral fraud
+- Electoral system
+- Electric chair
+- Electrician
+- Electronic Arts
+- Electronic media
+- Element (criminal law)
+- Elision
+- Elitism
+- Elle (magazine)
+- Ellipsis
+- Emancipation Proclamation
+- Embalming
+- Embezzlement
+- Emergency service
+- Emigration
+- Eminent domain
+- Emir
+- Emirates (airline)
+- Emoji
+- Emoticon
+- Emotional contagion
+- Emperor
+- Employee benefits
+- Employment agency
+- Enforced disappearance
+- Engineer
+- English Braille
+- English alphabet
+- English as a second or foreign language
+- English grammar
+- English orthography
+- English phonology
+- English punctuation
+- English verbs
+- Enterprise resource planning
+- Entertainment Weekly
+- Entertainment journalism
+- Entertainment law
+- Entrapment
+- Entrepreneurship
+- Envelopment
+- Environmental crime
+- Environmental determinism
+- Environmental humanities
+- Environmental law
+- Envy
+- Epenthesis
+- Epiphany (holiday)
+- Equal pay for equal work
+- Equality before the law
+- Equity (finance)
+- Ergonomics
+- Ericsson
+- Ernst & Young
+- Esquire (magazine)
+- EssilorLuxottica
+- Estonian language
+- Estoppel
+- Ethnic cleansing
+- Ethnic media
+- Ethnic minorities in China
+- Ethos
+- Eton College
+- Euphoria
+- Eurasian Economic Union
+- Euratom
+- Eurocentrism
+- Euronews
+- European Arrest Warrant
+- European Bank for Reconstruction and Development
+- European Broadcasting Union
+- European Central Bank
+- European Coal and Steel Community
+- European Convention on Human Rights
+- European Court of Justice
+- European Economic Community
+- European Investment Bank
+- European Parliament
+- European Physical Journal
+- European Southern Observatory
+- European Union legislative procedure
+- European single market
+- Evaluation
+- Evolutionary linguistics
+- Ewe language
+- Ewe people
+- Ewha Womans University
+- Ex post facto law
+- Exchange (organized market)
+- Excise
+- Exclamation mark
+- Excommunication
+- Execution by firing squad
+- Executioner
+- Executive functions
+- Exile
+- Existential crisis
+- Expansionism
+- Expatriate
+- Experimental psychology
+- Export
+- Extensive reading
+- Externality
+- Extortion
+- Extradition
+- Extreme poverty
+- Extremism
+- ExxonMobil
+- Eye contact
+- Facial expression
+- Factors of production
+- Fad
+- Failed state
+- Fair use
+- Fakt
+- Falconry
+- False flag
+- False imprisonment
+- Fanzine
+- Far-left politics
+- Far-right politics
+- Faroese language
+- Fashion journalism
+- Fast fashion
+- Father's Day
+- FedEx
+- Federal Bureau of Investigation
+- Federal Government of Germany
+- Federal Reserve
+- Federal University of Rio de Janeiro
+- Federal government of the United States
+- Federated state
+- Felony
+- Femininity
+- Feminist movement
+- Feminist separatism
+- Feminist theory
+- Ferrari
+- Ferrovie dello Stato Italiane
+- Feud
+- Fiat
+- Fiat money
+- Fictional language
+- Fijian language
+- Filing (law)
+- Filipino language
+- Financial Times
+- Financial accounting
+- Financial crisis
+- Financial law
+- Financial market
+- Financial regulation
+- Financial services
+- Financial statement
+- Financial transaction
+- Finnish language
+- Fire station
+- Firebombing
+- Firefighter
+- Fireside chats
+- First Amendment to the United States Constitution
+- First International
+- First World
+- First language
+- First responder
+- Fiscal conservatism
+- Fiscal policy
+- Fisherman
+- Fixed cost
+- Fixed income
+- Flanking maneuver
+- Flash mob
+- Flight attendant
+- FlixBus
+- Flow (psychology)
+- Fluency
+- Flynn effect
+- Folha de S.Paulo
+- Food security
+- Foot binding
+- Football hooliganism
+- Forbes
+- Force concentration
+- Forced displacement
+- Forced labour
+- Forced marriage
+- Fordism
+- Foreign Affairs
+- Foreign exchange market
+- Foreign exchange reserves
+- Foreign policy
+- Foreign worker
+- Forensic linguistics
+- Forensic psychology
+- Forgery
+- Forgetting
+- Formal grammar
+- Fortune (magazine)
+- Forward contract
+- Four occupations
+- Fox Broadcasting Company
+- Fox News
+- Foxconn
+- Franchising
+- Frankfurt School
+- Frankfurter Allgemeine Zeitung
+- Free Software Foundation
+- Free University of Berlin
+- Free content
+- Free market
+- Free trade
+- Free-culture movement
+- Freedom
+- Freedom of assembly
+- Freedom of association
+- Freedom of information laws by country
+- Freedom of movement
+- Freedom of the press
+- Freedom of thought
+- French Armed Forces
+- French Army
+- French Connection
+- French Foreign Legion
+- French Sign Language
+- French of France
+- French people
+- Frisian languages
+- Frown
+- Frustration
+- Fudan University
+- Fujitsu
+- Fula people
+- Full stop
+- Function word
+- Functional linguistics
+- Functional psychology
+- Fundamental rights
+- Funeral home
+- Furry fandom
+- Future tense
+- Futures contract
+- Futures exchange
+- Futures studies
+- Fuzhou dialect
+- G7
+- GAZ
+- GQ
+- GRU (Russian Federation)
+- GUAM Organization for Democracy and Economic Development
+- Gagauz people
+- Galician language
+- Gallows
+- Gamer
+- Gan Chinese
+- Gang rape
+- Gaumont
+- Gavel
+- Gazeta Wyborcza
+- Geek
+- Gendarmerie
+- Gender role
+- Gender studies
+- General Agreement on Tariffs and Trade
+- General contractor
+- General officer
+- General strike
+- Generation Alpha
+- Generation X
+- Generation Z
+- Generative grammar
+- Generosity
+- Genital modification and mutilation
+- Genocidal rape
+- Gentleman
+- Gentlemen's agreement
+- Geopolitics
+- Georgetown University
+- Georgian language
+- Georgian scripts
+- German National Library
+- Germans
+- Gesture
+- Geʽez script
+- Ghent University
+- Ghost Festival
+- Gig economy
+- Gilbertese language
+- Gini coefficient
+- GitHub
+- Given name
+- Glagolitic script
+- Glamour (magazine)
+- Glencore
+- Global Times
+- Global catastrophic risk
+- Globalism
+- Goal
+- Goethe University Frankfurt
+- Gold mining
+- Gold panning
+- Golden Age of Radio
+- Golden parachute
+- Goldman Sachs
+- Good Friday
+- Google Maps
+- Gossip
+- Goth subculture
+- Gothic language
+- Governance
+- Government agency
+- Government bond
+- Government budget
+- Government debt
+- Government of China
+- Government of France
+- Government of India
+- Government of Japan
+- Government of Russia
+- Government of the United Kingdom
+- Government spending
+- Governor
+- Grading in education
+- Graduation
+- Graf
+- Grameen Bank
+- Grammatical aspect
+- Grammatical case
+- Grammatical category
+- Grammatical conjugation
+- Grammatical gender
+- Grammatical mood
+- Grammatical number
+- Grammatical particle
+- Grand Ole Opry
+- Grand jury
+- Grand strategy
+- Grassroots
+- Gratitude
+- Grave
+- Gravestone
+- Great Pacific Garbage Patch
+- Great Replacement conspiracy theory
+- Great Vowel Shift
+- Great power
+- Greatest Generation
+- Greenlandic language
+- Greenpeace
+- Greeting card
+- Grey market
+- Greyhound Lines
+- Grimm's law
+- Grocery store
+- Groundhog Day
+- Group cohesiveness
+- Group dynamics
+- Group living
+- Guantanamo Bay Naval Base
+- Guarani language
+- Guaraní people
+- Guerrilla warfare
+- Guillemet
+- Guillotine
+- Guilt (law)
+- Guinness
+- Gulf Cooperation Council
+- Gurkha
+- Gymnasium (school)
+- HBO
+- HSBC
+- Haaretz
+- Habeas corpus
+- Habesha peoples
+- Habit
+- Hadza people
+- Haitian Creole
+- Hakka people
+- Hamas
+- Hand-to-hand combat
+- Handshake
+- Hanging
+- Hanja
+- Hanna-Barbera
+- Hanukkah
+- Harassment
+- Harbin Institute of Technology
+- Hard currency
+- Hard power
+- Harper's Bazaar
+- Harper's Magazine
+- Harvard Law Review
+- Hate crime
+- Hate speech
+- Hausa people
+- Hawaiian language
+- Head of government
+- Head shake
+- Health insurance
+- Health psychology
+- Hearing (law)
+- Hearsay
+- Hearst Communications
+- Heart symbol
+- Heavy metal subculture
+- Hebrew University of Jerusalem
+- Hebrew alphabet
+- Hedge fund
+- Hegemony
+- Heimat
+- Hells Angels
+- Helsingin Sanomat
+- Herald
+- Herero language
+- Hewlett-Packard
+- Hezbollah
+- Hierarchy
+- High German languages
+- Hikvision
+- Hilton Worldwide
+- Hinamatsuri
+- Hindutva
+- Hinterland
+- Hip-hop culture
+- Hippie
+- Hipster (contemporary subculture)
+- Hiragana
+- Hiri Motu
+- Historical materialism
+- Historically black colleges and universities
+- Hitachi
+- Hittite language
+- Hizb ut-Tahrir
+- Hmong language
+- Hoax
+- Hokkaido University
+- Hokkien
+- Home Depot
+- Home insurance
+- Home invasion
+- Homeland
+- Homeschooling
+- Homework
+- Honda
+- Honeywell
+- Honor killing
+- Honorific
+- Horizontal integration
+- Horror and terror
+- Hospitality
+- Hostage
+- House of Commons of the United Kingdom
+- House of Lords
+- Housekeeper (domestic worker)
+- Huawei
+- Hubris
+- Hug
+- Huizhou Chinese
+- Hukou
+- Human Development Index
+- Human Rights Watch
+- Human branding
+- Human communication
+- Human condition
+- Human nature
+- Human resource management
+- Human resources
+- Human shield
+- Human wave attack
+- Humanitarian aid
+- Humiliation
+- Humility
+- Hustler (magazine)
+- Hybrid security
+- Hyperbole
+- Hyperinflation
+- Hyphen
+- Hypocorism
+- Hypomania
+- I'm Sorry I Haven't a Clue
+- IKEA
+- IMDb
+- ING Group
+- ITV (TV network)
+- Icelandic language
+- Id, ego and superego
+- Identity document
+- Identity politics
+- Ideogram
+- Idiom
+- Igbo people
+- Illegal immigration
+- Illiberal democracy
+- Imaginary friend
+- Imitation
+- Immigration law
+- Impeachment
+- Imperial College London
+- Import
+- Import substitution industrialization
+- Impossible trinity
+- Impressment
+- Imprisonment
+- Inchoate offense
+- Incitement
+- Income
+- Income statement
+- Indecent exposure
+- Indentured servitude
+- Independence
+- Independence referendum
+- Independent media
+- India Today
+- Indian Armed Forces
+- Indian English
+- Indian National Congress
+- Indian Railways
+- Indian diaspora
+- Indian rupee
+- Indictable offence
+- Indigenous peoples in Canada
+- Indigenous peoples of Mexico
+- Indigenous peoples of Siberia
+- Indigenous peoples of South America
+- Indira Gandhi National Open University
+- Indirect tax
+- Individual and group rights
+- Individualism
+- Individualist anarchism
+- Indo-Aryan peoples
+- Indoctrination
+- Indus script
+- Industrial Workers of the World
+- Industrial and Commercial Bank of China
+- Industrial and organizational psychology
+- Industrial relations
+- Industrial society
+- Industrial unionism
+- Industry (economics)
+- Infanticide
+- Inflection
+- Influencer
+- Infomercial
+- Informal economy
+- Information management
+- Information security
+- Information society
+- Information warfare
+- Inheritance tax
+- Initial public offering
+- Innuendo
+- Input hypothesis
+- Insider trading
+- Instagram
+- Institute of Electrical and Electronics Engineers
+- Institute of technology
+- Institutional Revolutionary Party
+- Instrument of Government
+- Insult
+- Intel
+- Intelligence quotient
+- Intensifier
+- Intention (criminal law)
+- Intentional infliction of emotional distress
+- Intentional tort
+- Inter-Parliamentary Union
+- Interlanguage
+- Internal Revenue Service
+- International Air Transport Association
+- International Astronomical Union
+- International Bank for Reconstruction and Development
+- International Bureau of Weights and Measures
+- International Chamber of Commerce
+- International Civil Aviation Organization
+- International Committee of the Red Cross
+- International Council for Science
+- International Council of Museums
+- International Council on Monuments and Sites
+- International Criminal Tribunal for the former Yugoslavia
+- International Development Association
+- International English
+- International Finance Corporation
+- International Hydrographic Organization
+- International Jewish conspiracy
+- International Maritime Organization
+- International Mathematical Union
+- International Military Tribunal for the Far East
+- International Organization for Migration
+- International Organization for Standardization
+- International Planned Parenthood Federation
+- International Telecommunication Union
+- International Union for Conservation of Nature
+- International Union of Pure and Applied Chemistry
+- International Women's Day
+- International Workers' Day
+- International criminal law
+- International economics
+- International human rights law
+- International humanitarian law
+- International order
+- International organization
+- International relations theory
+- International school
+- International security
+- International taxation
+- Internationalism (politics)
+- Internet Archive
+- Internet addiction disorder
+- Internet culture
+- Internet linguistics
+- Internship
+- Interpersonal attraction
+- Interpersonal communication
+- Interpretive discussion
+- Interpunct
+- Interrogation
+- Intersectionality
+- Interview
+- Intonation (linguistics)
+- Intrapersonal communication
+- Intuit
+- Inuktitut
+- Inventory
+- Investigative journalism
+- Investment banking
+- Investment fund
+- Investor
+- Invisible hand
+- Invoice
+- Irish language
+- Irrationality
+- Irregular warfare
+- Islamic Development Bank
+- Islamic New Year
+- Islamic Revolutionary Guard Corps
+- Islamic State
+- Islamic culture
+- Islamic fundamentalism
+- Islamic socialism
+- Islamophobia
+- Isolationism
+- Israel Defense Forces
+- Israeli law
+- Istanbul University
+- It's That Man Again
+- Italian fascism
+- Italians
+- Ivy League
+- Izvestia
+- Iñupiaq language
+- JAMA
+- JPMorgan Chase
+- Jagiellonian University
+- Japan Post Bank
+- Japan Railways Group
+- Japanese popular culture
+- Jargon
+- Javanese people
+- Job interview
+- Johnson & Johnson
+- Joint venture
+- Journal des sçavans
+- Journalist
+- Journeyman
+- Joy
+- Juche
+- Judgment (law)
+- Judicial independence
+- Judicial review
+- Judicial system of Turkey
+- Juilliard School
+- Jurisdiction
+- Jus sanguinis
+- Jus soli
+- Just war theory
+- Justice of the peace
+- Justicialist Party
+- Juvenile delinquency
+- KAIST
+- KFC
+- KGB
+- KPMG
+- KU Leuven
+- Kalinago
+- Kanak people
+- Kanji
+- Kanuri language
+- Karelians
+- Karlsruhe Institute of Technology
+- Karolinska Institute
+- Kashmiri language
+- Katakana
+- Kawaii
+- Kawasaki Heavy Industries
+- Keio University
+- Keynesian economics
+- Khmer script
+- Khoekhoe
+- Kick
+- Kikuyu language
+- Kindergarten
+- Kindness
+- Kinesics
+- King
+- King Abdulaziz University
+- King's College London
+- Kinyarwanda
+- Kirundi
+- Kneeling
+- Knowledge management
+- Knyaz
+- Koch, Inc.
+- Kodak
+- Koine Greek
+- Kommersant
+- Kompas
+- Kongo language
+- Korail
+- Korea University
+- Korean Air
+- Koreans
+- Kroger
+- Kshatriya
+- Ku Klux Klan
+- Kufic
+- Kumyks
+- Kuomintang
+- Kurdistan Workers' Party
+- Kurmanji
+- Kwanzaa
+- Kyodo News
+- Kyrgyz language
+- Kyushu University
+- L'Oréal
+- LATAM Airlines
+- LG
+- LGBTQ movements
+- LVMH
+- La Repubblica
+- Labor rights
+- Labor theory of value
+- Laborer
+- Labour Party (UK)
+- Labour law
+- Labour movement
+- Lady
+- Laissez-faire
+- Land law
+- Land reform
+- Land warfare
+- Language acquisition
+- Language change
+- Language complexity
+- Language development
+- Language education
+- Language game
+- Language interpretation
+- Language isolate
+- Language preservation
+- Lao language
+- Larceny
+- Las Vegas Sands
+- Latin American economy
+- Latin Americans
+- Latin Union
+- Latin alphabet
+- Latin grammar
+- Latvian language
+- Laughter
+- Law commission
+- Law enforcement
+- Law enforcement agency
+- Law firm
+- Law of Afghanistan
+- Law of Brazil
+- Law of France
+- Law of Germany
+- Law of India
+- Law of Indonesia
+- Law of Italy
+- Law of Japan
+- Law of Mexico
+- Law of Nigeria
+- Law of North Korea
+- Law of Poland
+- Law of Portugal
+- Law of Russia
+- Law of South Africa
+- Law of South Korea
+- Law of Spain
+- Law of Thailand
+- Law of agency
+- Law of demand
+- Law of obligations
+- Law of the People's Republic of China
+- Law of the United Kingdom
+- Law of the United States
+- Law school
+- Law society
+- Laziness
+- Le Cordon Bleu
+- Le Figaro
+- Leadership
+- Lean manufacturing
+- Lease
+- Lebensraum
+- Lecture
+- Left-wing politics
+- Left-wing populism
+- Legal aid
+- Legal education
+- Legal fiction
+- Legal informatics
+- Legal instrument
+- Legal liability
+- Legal proceeding
+- Legal remedy
+- Legal system of Saudi Arabia
+- Legal tender
+- Legal writing
+- Legislation
+- Legislator
+- Legitimacy (family law)
+- Lehman Brothers
+- Leiden University
+- Leipzig University
+- Leninism
+- Lenition
+- Lenovo
+- Lent
+- Letter (message)
+- Levantine Arabic
+- Leverage (finance)
+- Lexicology
+- Lexis (linguistics)
+- Lhasa Tibetan
+- Liability (financial accounting)
+- Liberal Democratic Party (Japan)
+- Liberal arts college
+- Liberal arts education
+- Liberal conservatism
+- Liberal democracy
+- Liberal feminism
+- Libido
+- Library and Archives Canada
+- Library and information science
+- Library classification
+- Library of Ashurbanipal
+- Library of Congress Classification
+- Libération
+- License
+- Licentiate
+- Life (magazine)
+- Life imprisonment
+- Life insurance
+- Lifeguard
+- Light pollution
+- Likud
+- Limburgish
+- Limited government
+- Limited liability company
+- Line (software)
+- Linear A
+- Linear B
+- Lingala
+- Lingua franca
+- Linguistic description
+- Linguistic rights
+- LinkedIn
+- Linnean Society of London
+- List
+- Literary device
+- Literary language
+- Literary magazine
+- Lithuanian language
+- Live streaming
+- Loanword
+- Lobbying
+- Local community
+- Local government
+- Lockheed Martin
+- Lockout (industry)
+- Logogram
+- Logos
+- Lolita fashion
+- London School of Economics
+- Loneliness
+- Lookism
+- Lord
+- Los Alamos National Laboratory
+- Los Angeles Times
+- Lost Generation
+- Loving v. Virginia
+- Low German
+- Luba-Katanga language
+- Lufthansa
+- Luganda
+- Lunar New Year
+- Lund University
+- Luxembourgish
+- Luxury goods
+- Lynching
+- MI5
+- MI6
+- MPLA
+- MS-13
+- MSN
+- MTV
+- MUFG
+- Maastricht Treaty
+- Macedonian language
+- Macy's
+- Mad (magazine)
+- Madrasa
+- Madurese language
+- Mafia
+- Maghrebi Arabic
+- Mainichi Shimbun
+- Maithili language
+- Makerere University
+- Malays (ethnic group)
+- Malfeasance in office
+- Maltese language
+- Malthusianism
+- Management accounting
+- Manchu people
+- Maneuver warfare
+- Manhole
+- Manslaughter
+- Maoism
+- Mapuche
+- Mapudungun
+- Marbury v. Madison
+- Mardi Gras
+- Marginal cost
+- Marie Claire
+- Marines
+- Maritime law
+- Market capitalization
+- Market economy
+- Market penetration
+- Market segmentation
+- Market socialism
+- Market structure
+- Marketplace
+- Marlboro
+- Mars Inc.
+- Marshallese language
+- Martial law
+- Marvel Comics
+- Masculinity
+- Mass communication
+- Mass murder
+- Mass shooting
+- Massive open online course
+- Master of Business Administration
+- Mastercard
+- Mathematics education
+- Matriarchy
+- Mausoleum
+- Mawlid
+- May Day
+- Mayan languages
+- Mayflower Compact
+- Mayor
+- Mazda
+- McGill University
+- McKesson Corporation
+- Mechanic
+- Medal
+- Medellín Cartel
+- Media blackout
+- Media event
+- Media franchise
+- Media monitoring
+- Media psychology
+- Mediation
+- Medical education
+- Medical humanities
+- Medical school
+- Medieval Latin
+- Mediterranean Shipping Company
+- Meeting
+- Meituan
+- Melanesians
+- Meme
+- Mens rea
+- Mental state
+- Mentorship
+- Mercantilism
+- Mercedes-Benz
+- Mercenary
+- Merchant
+- Mercosur
+- Mergers and acquisitions
+- Meritocracy
+- Mestizo
+- Met Gala
+- Meta-communication
+- Metafunction
+- Metaphor
+- Metathesis (linguistics)
+- Metonymy
+- Metro-Goldwyn-Mayer
+- Mexican Mafia
+- Mexican Spanish
+- Mexican peso
+- Michelin
+- Micron Technology
+- Micronation
+- Micronesians
+- Mid central vowel
+- Mid-Autumn Festival
+- Middle French
+- Middle name
+- Middle school
+- Migrant worker
+- Milgram experiment
+- Military academy
+- Military alliance
+- Military campaign
+- Military deception
+- Military dictatorship
+- Military doctrine
+- Military intelligence
+- Military logistics
+- Military occupation
+- Military operation
+- Military personnel
+- Military recruitment
+- Military service
+- Military volunteer
+- Millennials
+- Mindfulness
+- Minimum wage
+- Mining accident
+- Ministry of defence
+- Ministry of foreign affairs
+- Ministry of justice
+- Minor (law)
+- Mint (facility)
+- Miranda v. Arizona
+- Misandry
+- Misdemeanor
+- Misinformation
+- Misogyny
+- Miss
+- Missing and Murdered Indigenous Women
+- Mixed economy
+- Mixed language
+- Mnemonic
+- Modern Hebrew
+- Modern Monetary Theory
+- Modern Standard Arabic
+- Modesty
+- Monarchism
+- Mondelez International
+- Mondragon Corporation
+- Monetarism
+- Monetary policy
+- Money laundering
+- Money market
+- Money supply
+- Mongolian language
+- Mongolian script
+- Mongols
+- Montessori education
+- Mon–Burmese script
+- Mooré
+- Moral development
+- Moral psychology
+- Moral rights
+- Morale
+- Morgue
+- Morning Edition
+- Moro Islamic Liberation Front
+- Moro people
+- Moroccan Arabic
+- Morphophonology
+- Mossad
+- Mother's Day
+- Motion (legal)
+- Motorcycle club
+- Motown
+- Mr.
+- Mrs.
+- Multinational corporation
+- Multiple choice
+- Multiracial people
+- Municipal charter
+- Muscogee
+- Music education
+- Music festival
+- Music in advertising
+- Music magazine
+- Music radio
+- Music school
+- Muslim Brotherhood
+- Mutilation
+- Mutually assured destruction
+- Myspace
+- Médecins Sans Frontières
+- Māori language
+- NAACP
+- NEC
+- NHK
+- NME
+- NPR
+- Na-Dene languages
+- Nagoya University
+- Nahuas
+- Nahuatl
+- Namco
+- Nanjing University
+- Nanyang Technological University
+- Narcissism
+- Nasdaq
+- Nastaliq
+- Nation state
+- National Diet
+- National Diet Library
+- National Enquirer
+- National Health Service
+- National Library of China
+- National Library of India
+- National Library of Israel
+- National Library of Russia
+- National Library of Sweden
+- National Party (South Africa)
+- National People's Congress
+- National Rail
+- National Review
+- National Science Foundation
+- National Security Agency
+- National Taiwan University
+- National University of Córdoba
+- National University of San Marcos
+- National University of Singapore
+- National day
+- Nationality
+- Nationality law
+- Nationalization
+- Native Americans in the United States
+- Native Hawaiians
+- Natural justice
+- Natural language
+- Natural rights and legal rights
+- Naturalization
+- Nature versus nurture
+- Navajo language
+- Naver
+- Negative and positive rights
+- Negotiation
+- Neo-Latin
+- Neo-Nazism
+- Neoclassical economics
+- Neocolonialism
+- Neoconservatism
+- Neoliberalism
+- Neologism
+- Nepotism
+- Nerd
+- Netflix
+- Neurodiversity
+- Neurolinguistics
+- Neuropsychology
+- Neuroticism
+- Neutral country
+- New Scientist
+- New Statesman
+- New World Order conspiracy theory
+- New Year's Day
+- New York Post
+- New York Public Library
+- New York University
+- New media
+- News Corporation
+- News agency
+- News magazine
+- News of the World
+- News presenter
+- News values
+- Newsweek
+- Nickelodeon
+- Nielsen Media Research
+- Nigerian naira
+- Nightmare
+- Nike, Inc.
+- Nine Network
+- Nissan
+- Nod (gesture)
+- Noise pollution
+- Nokia
+- Nominalization
+- Non-commissioned officer
+- Nonviolence
+- Nonviolent resistance
+- Nordic Council
+- North Atlantic Treaty
+- North Caucasian languages
+- North Germanic languages
+- Northern Ndebele language
+- Northern Sámi
+- Northrop Grumman
+- Norwegian language
+- Nostalgia
+- Notary public
+- Note-taking
+- Nouveau riche
+- Novartis
+- Novaya Gazeta
+- Nuclear fallout
+- Nuclear warfare
+- Nuisance
+- Nuosu language
+- Nuremberg trials
+- Nursing home
+- Nvidia
+- Oath
+- Oath of office
+- Obituary
+- Objection (United States law)
+- Obon
+- Obscene gesture
+- Obstruction of justice in the United States
+- Occitan language
+- Occupational injury
+- Oceanic languages
+- Oedipus complex
+- Offender profiling
+- Offer and acceptance
+- Official script
+- Offshore financial centre
+- Offshoring
+- Ogham
+- Oil war
+- Ojibwe
+- Ojibwe language
+- Oktoberfest
+- Old Church Slavonic
+- Old French
+- Old Nubian
+- Old media
+- Oligopoly
+- Ombudsman
+- On-the-job training
+- Online advertising
+- Online magazine
+- Online shaming
+- Online shopping
+- Online streamer
+- Onomatopoeia
+- Open access
+- Open-pit mining
+- Openness to experience
+- Operant conditioning
+- Operational level of war
+- Opportunity cost
+- Oppression
+- Optimism
+- Option (finance)
+- Oracle Corporation
+- Oral exam
+- Organic law
+- Organisation of African Unity
+- Organisation of Islamic Cooperation
+- Organization of the Black Sea Economic Cooperation
+- Organizational communication
+- Origin of speech
+- Ossetian language
+- Ostracism
+- Otaku
+- Oto-Manguean languages
+- Outlaw
+- Outlaw motorcycle club
+- Output (economics)
+- Outsourcing
+- Ovambo language
+- Overseas Chinese
+- Oxfam
+- Oxymoron
+- PA Media
+- PBS
+- PEN International
+- PLOS One
+- Pacific Islands Forum
+- Palestine Liberation Organization
+- Paley Center for Media
+- Palm Sunday
+- Pan Am
+- Pan-nationalism
+- Panasonic
+- Panic
+- Paralanguage
+- Paralegal
+- Paramilitary
+- Paramount Pictures
+- Pardon
+- Parental leave
+- Pareto efficiency
+- Pareto principle
+- Paris Charter
+- Paris Club
+- Parliament of India
+- Parliament of the United Kingdom
+- Parliament of the World's Religions
+- Parliamentary system
+- Parochial school
+- Parole
+- Part of speech
+- Participant observation
+- Particulate matter
+- Partition (politics)
+- Pashtuns
+- Passion (emotion)
+- Past tense
+- Patent infringement
+- Patent office
+- Patentability
+- Pathos
+- Patience
+- Patriarchy
+- Pawnbroker
+- PayPal
+- Payment
+- Peabody Awards
+- Peace treaty
+- Peacekeeping
+- Pedagogy
+- Pejorative
+- Pemex
+- Penal labour
+- Peninsular Arabic
+- Peninsular Spanish
+- Penny
+- Penology
+- Pension fund
+- Pentecost
+- Penthouse (magazine)
+- People
+- People (magazine)
+- People for the Ethical Treatment of Animals
+- People's Action Party
+- People's Daily
+- People's Liberation Army
+- PepsiCo
+- Perfect competition
+- Periodical literature
+- Perjury
+- Perpetual war
+- Persecution of Christians
+- Persian alphabet
+- Persians
+- Personal finance
+- Personal pronouns in English
+- Personal property
+- Personality type
+- Pessimism
+- Petit jury
+- Petite bourgeoisie
+- Petition
+- Petrobras
+- Petroleum industry
+- Peugeot
+- Pfizer
+- Phalanx
+- Pharmaceutical industry
+- Pharmacy (shop)
+- Philanthropy
+- Philips
+- Phillips curve
+- Philology
+- Philosophical Transactions of the Royal Society
+- Phishing
+- Phonemic orthography
+- Phonics
+- Phonological change
+- Phonological development
+- Phonological history of English
+- Physical education
+- Physiocracy
+- Picketing
+- Pickpocketing
+- Pictogram
+- Pidgin
+- Ping An Insurance
+- Pinterest
+- Pinyin
+- Pity
+- Pixar
+- Plaintiff
+- Planned Parenthood
+- Planned economy
+- Planning
+- Plastic pollution
+- Platonic Academy
+- Plea
+- Plea bargain
+- Pleading
+- Pledge of Allegiance
+- Plessy v. Ferguson
+- Plumber
+- Pluricentric language
+- Plutocracy
+- Poaching
+- Pogrom
+- Pohela Boishakh
+- Poisoning
+- Police misconduct
+- Police officer
+- Police state
+- Police station
+- Policy
+- Political anthropology
+- Political cartoon
+- Political communication
+- Political correctness
+- Political corruption
+- Political economy
+- Political globalization
+- Political journalism
+- Political legitimacy
+- Political polarization
+- Political psychology
+- Political repression
+- Political system
+- Politician
+- Politics of Australia
+- Politics of Brazil
+- Politics of Canada
+- Politics of China
+- Politics of Egypt
+- Politics of France
+- Politics of Germany
+- Politics of India
+- Politics of Israel
+- Politics of Italy
+- Politics of Japan
+- Politics of Mexico
+- Politics of Nigeria
+- Politics of Pakistan
+- Politics of Russia
+- Politics of South Africa
+- Politics of South Korea
+- Politics of Spain
+- Politics of Sweden
+- Politics of Taiwan
+- Politics of Turkey
+- Politics of the United Kingdom
+- Politics of the United States
+- Poll tax
+- Polynesian languages
+- Polynesians
+- Pontificia Universidad Javeriana
+- Ponzi scheme
+- Popular assembly
+- Popular science
+- Popular sovereignty
+- Popularity
+- Population decline
+- Pornhub
+- Pornographic magazine
+- Positive psychology
+- Possession of stolen goods
+- Possessive
+- Post office
+- Post-industrial society
+- Postcard
+- Postcolonialism
+- Postgraduate education
+- Posture (psychology)
+- Poverty threshold
+- Power of attorney
+- Power projection
+- Practice of law
+- Praise
+- Pravda
+- Pre-industrial society
+- Predatory publishing
+- Preferred stock
+- Preprint
+- Prerogative writ
+- Preschool
+- Present tense
+- President (government title)
+- President of the United States
+- Presidential system
+- Press TV
+- Press Trust of India
+- Price controls
+- Pride
+- Primary and secondary legislation
+- Primary school
+- Prime minister
+- Prince
+- Principal–agent problem
+- Print syndication
+- Prison escape
+- Prison rape
+- Private (rank)
+- Private equity
+- Private good
+- Private law
+- Private military company
+- Private property
+- Private school
+- Privateer
+- Privately held company
+- Privatization
+- Procedural law
+- Proceedings of the National Academy of Sciences of the United States of America
+- Proceedings of the Royal Society
+- Procrastination
+- Procter & Gamble
+- Procurement
+- Product (business)
+- Production (economics)
+- Production function
+- Production–possibility frontier
+- Profession
+- Professional certification
+- Professor
+- Profit (accounting)
+- Profit maximization
+- Profit sharing
+- Programme for International Student Assessment
+- Programmer
+- Progressivism
+- Prohibition
+- Project
+- Project management
+- Proletarian internationalism
+- Proletariat
+- Promise
+- Pronunciation
+- Propaganda in China
+- Propaganda in the Soviet Union
+- Proper noun
+- Property crime
+- Property insurance
+- Property management
+- Proportionality (law)
+- Prosecutor
+- Proto-Indo-European language
+- Proto-language
+- Provisions of Oxford
+- Proxy war
+- Psychoanalytic theory
+- Psycholinguistics
+- Psychological abuse
+- Psychological research
+- Psychological stress
+- Psychological warfare
+- Psychologist
+- Psychometrics
+- Psychopathology
+- Psychophysics
+- Public company
+- Public domain
+- Public finance
+- Public good
+- Public holiday
+- Public inquiry
+- Public interest
+- Public law
+- Public liability
+- Public library
+- Public limited company
+- Public service
+- Public speaking
+- Public utility
+- Public-order crime
+- Public–private partnership
+- Pueblo peoples
+- Pugwash Conferences on Science and World Affairs
+- Pulitzer Prize
+- Pun
+- Punch (combat)
+- Punch (magazine)
+- Punctuation
+- Punjabis
+- Punk subculture
+- Purchasing
+- Purchasing power parity
+- Purim
+- Purépecha language
+- Put option
+- PwC
+- Pyramid scheme
+- Qantas
+- Qingming Festival
+- Qixi Festival
+- Qualcomm
+- Quasi-contract
+- Quebec French
+- Queen consort
+- Queen regnant
+- Question
+- Question mark
+- Quinceañera
+- Quotation mark
+- RCA Records
+- RENGO
+- RIA Novosti
+- RT (TV network)
+- RTHK
+- RWTH Aachen University
+- Racial segregation
+- Radical feminism
+- Radicalization
+- Radio drama
+- Radio network
+- Radio personality
+- Radio program
+- Raid (military)
+- Rashtriya Swayamsevak Sangh
+- Rate of return
+- Ratification
+- Rational choice model
+- Rationalization (psychology)
+- Rationalization (sociology)
+- Rationing
+- Rave
+- Reactionary
+- Reader's Digest
+- Real estate development
+- Real property
+- Realpolitik
+- Rebellion
+- Receptionist
+- Recession
+- Rechtsstaat
+- Reconnaissance
+- Recruitment
+- Reddit
+- Reduplication
+- Reference
+- Reformism (historical)
+- Regional Italian
+- Regional power
+- Register (sociolinguistics)
+- Regret
+- Regulation
+- Regulatory agency
+- Regulatory compliance
+- Reinsurance
+- Rejection of evolution by religious groups
+- Relative deprivation
+- Relevance (law)
+- Religious discrimination
+- Religious organization
+- Remembrance Day
+- Remorse
+- Remote work
+- Renault
+- Renfe
+- Repeal
+- Reporters Without Borders
+- Representative democracy
+- Reproductive rights
+- Republican Party (United States)
+- Republican People's Party
+- Republicanism
+- Reputation
+- Rescue
+- Research library
+- Resentment
+- Reserve currency
+- Resolution (law)
+- Resource
+- Resource curse
+- Resource war
+- Restorative justice
+- Retail banking
+- Reuters
+- Revenge porn
+- Revenue service
+- Reverse discrimination
+- Rhotic consonant
+- Rhoticity in English
+- Right of asylum
+- Right of self-defense
+- Right to a fair trial
+- Right to education
+- Right to health
+- Right to property
+- Right to silence
+- Right-wing politics
+- Right-wing populism
+- Rio Tinto (corporation)
+- Rioplatense Spanish
+- Riot control
+- Risk
+- Ritual warfare
+- Roe v. Wade
+- Rohingya people
+- Role
+- Role model
+- Rolling Stone
+- Roman law
+- Romani language
+- Romanization
+- Romanization of Arabic
+- Romanization of Chinese
+- Romanization of Japanese
+- Romansh language
+- Rongorongo
+- Rotten Tomatoes
+- Royal Academy of Arts
+- Royal Library, Denmark
+- Royal Navy
+- Royal Society
+- Royal charter
+- Royal prerogative
+- Ruling class
+- Rumor
+- Russia-1
+- Russian Academy of Sciences
+- Russian Armed Forces
+- Russian Railways
+- Russian State Library
+- Russian mafia
+- Russian ruble
+- Rwanda-Rundi
+- Ryanair
+- Ryukyuans
+- Résumé
+- SAP
+- SNCF
+- SWIFT
+- SWOT analysis
+- Sabotage
+- Saint Patrick's Day
+- Saint Petersburg State University
+- Salary
+- Salt mining
+- Salute
+- Salvation Army
+- Samhain
+- Samoan language
+- San Francisco Chronicle
+- Sanctions (law)
+- Sandhi
+- Sango language
+- Sankei Shimbun
+- Sarcasm
+- Sardinian language
+- Saudi Aramco
+- Saving
+- Scam
+- Scandal
+- Scarcity
+- Scheme (rhetoric)
+- Schengen Area
+- Scholarship
+- School shooting
+- School violence
+- Science communication
+- Science education
+- Science fiction fandom
+- Science journalism
+- Sciences Po
+- Scientific Reports
+- Scientific management
+- Scientific racism
+- Scorched earth
+- Scots language
+- Scottish Gaelic
+- Screaming
+- Screen Actors Guild
+- Scribe
+- Seal script
+- Search warrant
+- Sears
+- Secession
+- Second World
+- Second language
+- Second-language acquisition
+- Secondary school
+- Secretary
+- Secretary-General of the United Nations
+- Security (finance)
+- Security guard
+- Security hacker
+- Sega
+- Self-censorship
+- Self-concept
+- Self-control
+- Self-defense
+- Self-governance
+- Selfishness
+- Semantic change
+- Semi-presidential system
+- Semicolon
+- Seminar
+- Seminary
+- Seminole
+- Sentence (law)
+- Sentience
+- Sentinelese
+- Seoul National University
+- Separatism
+- Serbian language
+- Serial comma
+- Serial rapist
+- Service economy
+- Setsubun
+- Settlement (litigation)
+- Settler colonialism
+- Seven Sisters (colleges)
+- Sex and the law
+- Sex segregation
+- Sex symbol
+- Sex trafficking
+- Sex workers' rights
+- Sex-positive feminism
+- Sex-selective abortion
+- Sexology
+- Sexual harassment
+- Sexual slavery
+- Shabbat
+- Shanghai Cooperation Organisation
+- Shanghai Jiao Tong University
+- Shanghai Library
+- Shanghainese
+- Share (finance)
+- Shareholder
+- Shareholder activism
+- Shavuot
+- Shawnee
+- Shell plc
+- Shemini Atzeret
+- Sheriff
+- Shift work
+- Shock and awe
+- Shona language
+- Shoot-and-scoot
+- Shoplifting
+- Shopping center
+- Shorthand
+- Shoshone
+- Shrug
+- Shudra
+- Shunning
+- Sichuanese dialects
+- Sicilian Mafia
+- Siemens
+- Sign
+- Signals intelligence
+- Silent Generation
+- Silent letter
+- Silver coin
+- Silver mining
+- Simchat Torah
+- Simile
+- Simplified Chinese characters
+- Sinaloa Cartel
+- Singapore Airlines
+- Sinopec
+- Sir
+- Sister city
+- Skinhead
+- Skull and crossbones
+- Sky burial
+- Skype
+- Slash (punctuation)
+- Slovak language
+- Slovene language
+- Small business
+- Small talk
+- Smile
+- Smiley
+- Snapchat
+- Social Darwinism
+- Social Democratic Party of Germany
+- Social anthropology
+- Social anxiety
+- Social aspects of television
+- Social capital
+- Social comparison theory
+- Social conservatism
+- Social constructionism
+- Social contagion
+- Social contract
+- Social enterprise
+- Social experiment
+- Social inequality
+- Social justice
+- Social liberalism
+- Social mobility
+- Social network analysis
+- Social organization
+- Social policy
+- Social psychology
+- Social rejection
+- Social relation
+- Social skills
+- Social status
+- Social stigma
+- Social structure
+- Social studies
+- Socialism with Chinese characteristics
+- Socialist International
+- Socialist feminism
+- Socialist law
+- Societal collapse
+- Sociocultural evolution
+- Socioeconomic status
+- Sociolect
+- Soft power
+- SoftBank Group
+- Sole proprietorship
+- Solicitation
+- Solicitor
+- Solidarity (Polish trade union)
+- Solitary confinement
+- Somerset v Stewart
+- Songkran (Thailand)
+- Sony
+- Sony Music
+- Sorrow (emotion)
+- Sotho language
+- Sound change
+- Sources of law
+- South African rand
+- South Asian Association for Regional Cooperation
+- South China Morning Post
+- South Slavs
+- Southern African Development Community
+- Southern Min
+- Southern Ndebele language
+- Southern Poverty Law Center
+- Southwest Airlines
+- Sovereign immunity
+- Space (punctuation)
+- SpaceX
+- Spaniards
+- Spanish dollar
+- Spanish language in the Americas
+- Special drawing rights
+- Special forces
+- Special operations
+- Specific performance
+- Speech processing
+- Speech repetition
+- Spelling
+- Spelling pronunciation
+- Spelling reform
+- Sphere of influence
+- Spoken language
+- Sports Illustrated
+- Sports commentator
+- Sports fandom
+- Sports journalism
+- Sports radio
+- Spotify
+- Spring break
+- Stagflation
+- Stalinism
+- Stalking
+- Standard Chinese
+- Standard language
+- Standardized test
+- Standing (law)
+- Standing army
+- Stanford prison experiment
+- Starbucks
+- Stargate
+- Startup company
+- State Grid Corporation of China
+- State University of New York
+- State capitalism
+- State of emergency
+- State school
+- State-owned enterprise
+- Stateless society
+- Statelessness
+- Statement of changes in equity
+- States' rights
+- Statutory rape
+- Steam (service)
+- Stellenbosch University
+- Stern (magazine)
+- Stock market
+- Stock market index
+- Strategic bombing
+- Strategic depth
+- Strategy
+- Stress (linguistics)
+- Strike (attack)
+- Strike action
+- Structural anthropology
+- Structural functionalism
+- Student
+- Student activism
+- Student exchange program
+- Studio Ghibli
+- Style guide
+- Subconscious
+- Subcontractor
+- Subpoena
+- Subscription business model
+- Substantive law
+- Subway (restaurant)
+- Sukkot
+- Sukuma language
+- Sultan
+- Summary judgment
+- Summary offence
+- Summerhill School
+- Summit (meeting)
+- Superpower
+- Supply chain
+- Supremacism
+- Supreme Court of India
+- Supreme Court of the United Kingdom
+- Supreme Court of the United States
+- Supreme People's Court
+- Surety
+- Surface mining
+- Surrender (military)
+- Survey (human research)
+- Survival skills
+- Swap (finance)
+- Swazi language
+- Sweatshop
+- Swiss German
+- Swiss franc
+- Syllabary
+- Syllabus
+- Symbolic anthropology
+- Symbolic interactionism
+- Sympathy
+- Symposium (ancient Greece)
+- Syndicalism
+- Syriac language
+- Systemic functional linguistics
+- Systems theory
+- Süddeutsche Zeitung
+- T-Series (company)
+- TSMC
+- TV Globo
+- TV Guide (magazine)
+- Tabloid journalism
+- Tactical formation
+- Tahitian language
+- Taiwanese indigenous peoples
+- Tajik language
+- Taliban
+- Talk radio
+- Tamil script
+- Tamils
+- Tammany Hall
+- Tanabata
+- Taobao
+- Target Corporation
+- Tariff
+- Tata Group
+- Tatar language
+- Tatars
+- Tax avoidance
+- Tax collector
+- Tax evasion
+- Tax haven
+- Teaching
+- Team
+- Technical University of Munich
+- Technical communication
+- Technical support
+- Technion – Israel Institute of Technology
+- Technische Universität Berlin
+- Technische Universität Darmstadt
+- Technocracy
+- Telegram (software)
+- Television advertisement
+- Television presenter
+- Television station
+- Television studies
+- Television studio
+- Temperament
+- Tencent
+- Tencent QQ
+- Term limit
+- Tertiary education
+- Tesla, Inc.
+- Thai script
+- Thanksgiving
+- The Age
+- The Archers
+- The Asahi Shimbun
+- The Atlantic
+- The BMJ
+- The Boston Globe
+- The CW
+- The Chosun Ilbo
+- The Christian Science Monitor
+- The Coca-Cola Company
+- The Daily Telegraph
+- The Economic Times
+- The Economist
+- The Globe and Mail
+- The Goon Show
+- The Guardian
+- The Hindu
+- The Hitchhiker's Guide to the Galaxy (radio series)
+- The Hollywood Reporter
+- The Howard Stern Show
+- The Kyle and Jackie O Show
+- The Lancet
+- The Mercury Theatre on the Air
+- The New England Journal of Medicine
+- The New York Review of Books
+- The New Yorker
+- The Nikkei
+- The Onion
+- The Shadow
+- The Spectator
+- The Straits Times
+- The Sun (United Kingdom)
+- The Sydney Morning Herald
+- The Times of India
+- The Vanguard Group
+- The Village Voice
+- The War of the Worlds (1938 radio drama)
+- The Yomiuri Shimbun
+- The Zoological Record
+- The finger
+- Theoretical linguistics
+- Theory of constraints
+- Thesis
+- Theta role
+- Think tank
+- Third World
+- This American Life
+- Three generations of human rights
+- Three-world model
+- Tianxia
+- Tibetan script
+- Tigrinya language
+- Time management
+- Time value of money
+- Tin mining
+- Tinder (app)
+- Tisha B'Av
+- Tohoku University
+- Tok Pisin
+- Token coin
+- Tokyo Institute of Technology
+- Tokyo Stock Exchange
+- Toleration
+- Tomb
+- Tomboy
+- Tone (linguistics)
+- Tongan language
+- Torres Strait Islanders
+- Toshiba
+- Total war
+- TotalEnergies
+- Town hall
+- Town hall meeting
+- Toyota Production System
+- Trade magazine
+- Trade secret
+- Trade show
+- Trademark
+- Trades Union Congress
+- Traditional Chinese characters
+- Training
+- Transference
+- Transgender rights movement
+- Transitional justice
+- Transparency International
+- Transphobia
+- Travel insurance
+- Travel visa
+- Treason
+- Treaty
+- Treaty of Lisbon
+- Treaty of Rome
+- Trespass
+- Triad (organised crime)
+- Tribunal
+- Trick-or-treating
+- Trinity College Dublin
+- Trophy hunting
+- Trotskyism
+- Truck driver
+- Trustee
+- Truth commission
+- Tsar
+- Tsonga language
+- Tswana language
+- Tuareg people
+- Tuition payments
+- Tumblr
+- Tumulus
+- Tungusic languages
+- Tunisian Arabic
+- Tupi people
+- Turkish Airlines
+- Turkish lira
+- Turkmen language
+- Tutoring
+- Tutsi
+- Tuvaluan language
+- Twi-Fante language
+- Twitch (service)
+- Typographical error
+- Tyrant
+- UBS
+- UCLouvain
+- UMNO
+- USA Today
+- Uber
+- Unconditional love
+- Unconscionability
+- Unconscious mind
+- Unconventional warfare
+- Undergraduate degree
+- Undergraduate education
+- Undue influence
+- Unemployment benefits
+- Unilever
+- Union for the Mediterranean
+- Union of South American Nations
+- Uniqlo
+- United Airlines
+- United Nations General Assembly
+- United Nations Industrial Development Organization
+- United Nations Radio
+- United Nations Secretariat
+- United Nations Security Council
+- United Nations resolution
+- United Parcel Service
+- United Russia
+- United States Armed Forces
+- United States Bill of Rights
+- United States Code
+- United States Congress
+- United States Department of Defense
+- United States Department of Justice
+- United States Department of State
+- United States Environmental Protection Agency
+- United States House of Representatives
+- United States Marine Corps
+- United States Military Academy
+- United States Senate
+- UnitedHealth Group
+- Universal Decimal Classification
+- Universal Music Group
+- Universal Pictures
+- Universal basic income
+- Universal jurisdiction
+- Universal suffrage
+- University College London
+- University of Amsterdam
+- University of Auckland
+- University of Barcelona
+- University of Bonn
+- University of British Columbia
+- University of Buenos Aires
+- University of Calcutta
+- University of California
+- University of California, Los Angeles
+- University of Cape Town
+- University of Chicago
+- University of Coimbra
+- University of Dhaka
+- University of Edinburgh
+- University of Freiburg
+- University of Glasgow
+- University of Hamburg
+- University of Helsinki
+- University of Hong Kong
+- University of Ibadan
+- University of Indonesia
+- University of Innsbruck
+- University of London
+- University of Madras
+- University of Malaya
+- University of Manchester
+- University of Melbourne
+- University of Mumbai
+- University of Naples Federico II
+- University of North Carolina
+- University of Osaka
+- University of Padua
+- University of Paris
+- University of Pennsylvania
+- University of Salamanca
+- University of Science and Technology of China
+- University of Sydney
+- University of São Paulo
+- University of Tehran
+- University of Texas System
+- University of Tübingen
+- University of Warwick
+- University of al-Qarawiyyin
+- University of the Philippines
+- University of the Punjab
+- Unrepresented Nations and Peoples Organization
+- Uppsala University
+- Uranium mining
+- Urban heat island
+- Urban warfare
+- Usury
+- Ute people
+- Utility
+- Utopian socialism
+- Utrecht University
+- Uyghur language
+- V sign
+- VK (service)
+- VTuber
+- Vaishya
+- Valentine's Day
+- Valuation (finance)
+- Value (economics)
+- Valve Corporation
+- Vandalism
+- Vanity Fair (magazine)
+- Variable cost
+- Variety (linguistics)
+- Variety (magazine)
+- Vatican Apostolic Archive
+- Vatican Library
+- Vehicle insurance
+- Venda language
+- Vending machine
+- Vendor
+- Venture capital
+- Verdict
+- Verizon
+- Vertical integration
+- Vesak
+- Veteran
+- Victimless crime
+- Victimology
+- Victory Day (9 May)
+- Vietnam National University, Hanoi
+- Violence against men
+- Violence against women
+- Violent crime
+- Viral video
+- Virgin Group
+- Visa Inc.
+- Visegrád Group
+- Visual arts education
+- Visual communication
+- Visual language
+- Vizier
+- Vlog
+- Vocabulary
+- Vocabulary development
+- Vocational education
+- Vocational school
+- Vodafone
+- Volapük
+- Volunteering
+- Vow
+- Vulgar Latin
+- Wage slavery
+- Wagner Group
+- Waiting staff
+- Waldorf education
+- Walloon language
+- War effort
+- War of aggression
+- Warehouse store
+- Warner Bros. Pictures
+- Warner Music Group
+- Warrant (law)
+- Warranty
+- Wartime sexual violence
+- Waseda University
+- Watchmaker
+- Water conflict
+- Waterboarding
+- Waving
+- WeChat
+- Wealth tax
+- Weather radio
+- Web syndication
+- Weekly Shōnen Magazine
+- Weibo
+- Well-being
+- Welsh language
+- West African Pidgin English
+- West Frisian language
+- West Slavs
+- Western Marxism
+- Western Union
+- Western culture
+- WhatsApp
+- White people
+- White supremacy
+- White-collar worker
+- Wholesaling
+- WikiLeaks
+- Wink
+- Wired (magazine)
+- Wolof language
+- Women in the military
+- Women's college
+- Women's studies
+- Wonder (emotion)
+- Woodstock
+- Wordplay
+- Worker cooperative
+- Workers' Party of Korea
+- Working time
+- Workplace violence
+- Works Progress Administration
+- Workweek and weekend
+- World Anti-Doping Agency
+- World Council of Churches
+- World Economic Forum
+- World Heritage Committee
+- World Jewish Congress
+- World Wide Web Consortium
+- World Wildlife Fund
+- World government
+- World language
+- World news
+- World population
+- World war
+- World-systems theory
+- Worry
+- Writ
+- Wrongdoing
+- Wrongful execution
+- Wyandot people
+- X (social network)
+- Xenophobia
+- Xhosa language
+- Xiang Chinese
+- Xiaohongshu
+- Xiaomi
+- Xinhua News Agency
+- Yahoo
+- Yakut language
+- Yakuza
+- Yamaha Corporation
+- Yamaha Motor Company
+- Yamato people
+- Yandex
+- Yellow journalism
+- Yi people
+- Yonsei University
+- Youth subculture
+- Yule
+- ZDF
+- Zambo
+- Zapatista Army of National Liberation
+- Zapotec peoples
+- Zhejiang University
+- Zhuang languages
+- Zhuang people
+- Zionism
+- Zulu language
+- École Polytechnique Fédérale de Lausanne
+- École normale supérieure (Paris)
+- École polytechnique
+
+### Technology (+2568)
+- 12-hour clock
+- 16-bit computing
+- 24-hour clock
+- 32-bit computing
+- 3D printing
+- 64-bit computing
+- 7z
+- 8-bit computing
+- AC adapter
+- AC power plugs and sockets
+- ACARS
+- AI alignment
+- AI art
+- AK-47
+- ALGOL
+- AM broadcasting
+- AND gate
+- API
+- ARINC 429
+- ARPANET
+- ASCII
+- ATSC standards
+- AVE
+- Abstraction (computer science)
+- Acaricide
+- Acrylic paint
+- Action (firearms)
+- Active optics
+- Actuator
+- Ada (programming language)
+- Adaptive optics
+- Adder (electronics)
+- Adhesive bandage
+- Adhesive tape
+- Adobe
+- Adobe Acrobat
+- Adobe Creative Suite
+- Adobe Flash
+- Adobe Photoshop
+- Adze
+- Aerial application
+- Aerial refueling
+- Aerial tramway
+- Aeronautics
+- Aerostat
+- Agent Orange
+- Agribusiness
+- Agricultural biotechnology
+- Agricultural chemistry
+- Agricultural cooperative
+- Agricultural cycle
+- Agricultural economics
+- Agricultural education
+- Agricultural engineering
+- Agricultural expansion
+- Agricultural extension
+- Agricultural geography
+- Agricultural land
+- Agricultural machinery
+- Agricultural marketing
+- Agricultural policy
+- Agricultural pollution
+- Agricultural soil science
+- Agrochemical
+- Agroecology
+- Agroforestry
+- Agrometeorology
+- Aileron
+- Air brake (aeronautics)
+- Air filter
+- Air medical services
+- Air purifier
+- Air superiority fighter
+- Air-to-air missile
+- Airbag
+- Airborne collision avoidance system
+- Airborne early warning and control
+- Airbus A300
+- Airbus A320 family
+- Airbus A380
+- Aircraft fairing
+- Aircraft flight control system
+- Aircraft registration
+- Airfoil
+- Airframe
+- Airline hub
+- Airliner
+- Airport terminal
+- Akosombo Dam
+- Akula-class submarine
+- Alarm clock
+- Alarm device
+- Alcántara Bridge
+- Aldrin
+- Algaculture
+- Alidade
+- Alkaline battery
+- All-pass filter
+- All-terrain vehicle
+- AlphaGo
+- Altazimuth mount
+- Alternative fuel vehicle
+- Altimeter
+- Aluminum can
+- Amazon Kindle
+- Amazon Web Services
+- Amiga
+- Amplitude modulation
+- Amsterdam Metro
+- Anaerobic digestion
+- Analog computer
+- Analog television
+- Analog-to-digital converter
+- Analogue electronics
+- Analytical engine
+- Anchor
+- Android (robot)
+- Animal breeding
+- Animal feed
+- Animal slaughter
+- Animatronics
+- Anno Domini
+- Anodizing
+- Antenna array
+- Antenna tuner
+- Anti-tank guided missile
+- Antibiotic use in livestock
+- Antikythera mechanism
+- Antonov An-225 Mriya
+- Anvil
+- Aperture synthesis
+- Apiary
+- Appian Way
+- Apple II
+- Application checkpointing
+- Application software
+- Application-specific integrated circuit
+- Applied mechanics
+- Applied science
+- Appropriate technology
+- April
+- Arab Mashreq International Road Network
+- Arable land
+- Arboretum
+- Arboriculture
+- Arc-fault circuit interrupter
+- Archive file
+- Arduino
+- Arecibo Observatory
+- Arithmetic logic unit
+- Arleigh Burke-class destroyer
+- Arm architecture family
+- Armor-piercing bullet
+- Armoured personnel carrier
+- Arquebus
+- Arrow
+- Arrowhead
+- Articulated bus
+- Artificial general intelligence
+- Artificial gravity
+- Artificial leather
+- Asian Highway Network
+- Asphalt concrete
+- Assault rifle
+- Asteroid mining
+- Astoria–Megler Bridge
+- Astrolabe
+- Astronautics
+- Astronomical Almanac
+- Astronomical catalogue
+- Astronomical filter
+- Astronomical interferometer
+- Astronomical year numbering
+- Asynchronous circuit
+- Atanasoff–Berry computer
+- Atatürk Dam
+- Athens Metro
+- Atlas (computer)
+- Atomic battery
+- Auckland Harbour Bridge
+- Audio coding format
+- Audiobook
+- Augmented reality
+- August
+- Auto rickshaw
+- AutoCAD
+- AutoTune
+- Autobahn
+- Autocannon
+- Autocollimator
+- Automatic firearm
+- Automatic generation control
+- Automaton
+- Automobile repair shop
+- Automotive engineering
+- Autopilot
+- Auxiliary power unit
+- Availability factor
+- Avalanche photodiode
+- Avenue (landscape)
+- Aviation fuel
+- Avionics
+- BASIC
+- BIOS
+- Baby transport
+- Backfeeding
+- Backstaff
+- Backup
+- Backus–Naur form
+- Bag
+- Bait
+- Baler
+- Ball joint
+- Ballpoint pen
+- Band-pass filter
+- Bank vault
+- Banpo Bridge
+- Barbecue grill
+- Barbed wire
+- Barcelona Metro
+- Barrel
+- Basal shoot
+- Base load
+- Basic oxygen steelmaking
+- Basket
+- Bastion
+- Bastion fort
+- Batik
+- Baton (law enforcement)
+- Baton round
+- Battery electric vehicle
+- Bazooka
+- Beehive
+- BeiDou
+- Beijing Capital International Airport
+- Beijing Subway
+- Bellows
+- Belt (mechanical)
+- Bending (metalworking)
+- Beneficial organism
+- Berkeley Open Infrastructure for Network Computing
+- Berlin U-Bahn
+- Bessemer process
+- Bicycle boulevard
+- Bicycle brake
+- Bicycle gearing
+- Bicycle parking rack
+- Bicycle-sharing system
+- Bidet
+- Bifocals
+- Big data
+- Bike lane
+- Binary file
+- Binary multiplier
+- Bioaugmentation
+- Biochemical engineering
+- Biochip
+- Biological engineering
+- Biological hazard
+- Biological pest control
+- Biomass (energy)
+- Biomaterial
+- Biometrics
+- Biomimetics
+- Biomining
+- Biopharmaceutical
+- Bioreactor
+- Bioremediation
+- Bioterrorism
+- Biplane
+- Bipolar junction transistor
+- BitTorrent
+- Bitumen
+- Blackboard
+- Blacksmith
+- Blade
+- Blast furnace
+- Blender
+- Blimp
+- Blister agent
+- Block and tackle
+- Block cipher
+- Blockchain
+- Blog
+- Blood agent
+- Bloomery
+- Blowgun
+- Blowtorch
+- Blu-ray
+- Blueprint
+- Bluetooth
+- Body armor
+- Boeing 707
+- Boeing 737
+- Boeing 747
+- Boeing 777
+- Boeing AH-64 Apache
+- Boeing B-29 Superfortress
+- Boeing B-52 Stratofortress
+- Boiler
+- Boiler (power generation)
+- Bolt action
+- Bonfire
+- Booby trap
+- Boom (navigational barrier)
+- Booting
+- Borei-class submarine
+- Borosilicate glass
+- Bosphorus Bridge
+- Botanical garden
+- Botnet
+- Bottle
+- Bottom trawling
+- Boulevard
+- Bowden cable
+- Bowline
+- Bowstring
+- Box
+- Braid
+- Brain–computer interface
+- Brake
+- Brass knuckles
+- Bratsk Hydroelectric Power Station
+- Breakdown (vehicle)
+- Breakwater (structure)
+- Breathalyzer
+- Breechloader
+- Breeder reactor
+- Brickwork
+- Bridge circuit
+- Bridge of Sighs
+- Bridge of the Americas
+- Britannia Bridge
+- Brocade
+- Broom
+- Brussels Metro
+- Brute-force attack
+- Bucket
+- Budapest Metro
+- Buddhist calendar
+- Bulldozer
+- Bullet
+- Bulletin board
+- Bulletin board system
+- Buoy
+- Bus (computing)
+- Bus garage
+- Bus rapid transit
+- Bus station
+- Bus stop
+- Busan Metro
+- Bytecode
+- C Sharp (programming language)
+- C++
+- CD player
+- CMOS
+- CRISPR gene editing
+- CSS
+- CSS Virginia
+- CT scan
+- Cable car (railway)
+- Cable-stayed bridge
+- Cache (computing)
+- Caesar cipher
+- Cage
+- Cahora Bassa
+- Cairo Metro
+- Caisson (engineering)
+- Calling convention
+- Calorimeter
+- Caltrop
+- Camino de Santiago
+- Campfire
+- Camshaft
+- Canard (aeronautics)
+- Canopic jar
+- Cantilever bridge
+- Capacity factor
+- Capstan (nautical)
+- Car bomb
+- Car suspension
+- Car wash
+- Caracas Metro
+- Caravel
+- Carbon (API)
+- Carbon fibers
+- Carbon-dioxide laser
+- Carbon-fiber reinforced polymer
+- Cardboard
+- Cardboard box
+- Carding
+- Cargo aircraft
+- Carpool
+- Cartridge (firearms)
+- Cash crop
+- Cashmere wool
+- Cassegrain reflector
+- Cassette tape
+- Cassini–Huygens
+- Casting
+- Catalytic converter
+- Catamaran
+- Catheter
+- Causeway
+- Ceiling fan
+- Cell culture
+- Cellular network
+- Ceramic capacitor
+- Ceramic engineering
+- Cervical collar
+- Cessna 172
+- Chalk line
+- Chandra X-ray Observatory
+- Charging station
+- Charles Bridge
+- Charles de Gaulle Airport
+- Chassepot
+- ChatGPT
+- Chatbot
+- Chemical reaction engineering
+- Chemical vapor deposition
+- Chemosterilant
+- Chesapeake Bay Bridge–Tunnel
+- Chicago Transit Authority
+- China Railway High-speed
+- Chinampa
+- Chinese Eastern Railway
+- Chinese Lunar Exploration Program
+- Chinese garden
+- Chino cloth
+- Chongqing Rail Transit
+- Chopper (motorcycle)
+- Chromebook
+- Cipher
+- Circuit diagram
+- Cistern
+- Civil aviation
+- Clapboard
+- Classic Mac OS
+- Claymore
+- Client–server model
+- Clipper
+- Clock face
+- Clock generator
+- Clock rate
+- Clock signal
+- Closed-circuit television
+- Clothes iron
+- Cloud computing
+- Cloud storage
+- Clovis point
+- Coach (bus)
+- Coal-fired power station
+- Coaxial cable
+- Cochlear implant
+- Cockpit
+- Cocoa (API)
+- Code-division multiple access
+- Codex
+- Coffeemaker
+- Cofferdam
+- Coffin
+- Cogeneration
+- Coke (fuel)
+- Collation
+- Collimator
+- Color management
+- Color television
+- Colored pencil
+- Colossus computer
+- Combat helmet
+- Combined-cycle power plant
+- Command-line interface
+- Commodore 64
+- Common Era
+- Common Gateway Interface
+- Communication channel
+- Communication protocol
+- Community-supported agriculture
+- Commuter rail
+- Compact disc
+- CompactFlash
+- Companion planting
+- Compass (drawing tool)
+- Compass rose
+- Compost
+- Compound bow
+- Compressed-air energy storage
+- Compressor
+- Computer Go
+- Computer chess
+- Computer cluster
+- Computer cooling
+- Computer data storage
+- Computer engineering
+- Computer graphics (computer science)
+- Computer memory
+- Computer multitasking
+- Computer numerical control
+- Computer port (hardware)
+- Computer virus
+- Computer vision
+- Computer worm
+- Computer-aided design
+- Computer-aided engineering
+- Concentrated solar power
+- Concorde
+- Concrete slab
+- Concurrent computing
+- Confederation Bridge
+- Connecting rod
+- Construction aggregate
+- Construction engineering
+- Contact fuze
+- Contact lens
+- Container format
+- Container port
+- Container ship
+- Content delivery network
+- Continental Europe Synchronous Area
+- Control engineering
+- Control flow
+- Controlled burn
+- Convection oven
+- Convention center
+- Convertible
+- Conveyor belt
+- Conveyor system
+- Copenhagen Metro
+- Coppicing
+- Coprocessor
+- Copy protection
+- Cork (material)
+- Corn harvester
+- Corporate farming
+- Corvette
+- Cosmic Background Explorer
+- Cotton picker
+- Coupe
+- Courier
+- Cover crop
+- Crab trap
+- Crate
+- Crayon
+- Crop rotation
+- Crop yield
+- Crowbar
+- Crucible
+- Crucible steel
+- Cruise missile
+- Cruise ship
+- Cruiser
+- Crusher
+- Crutch
+- Cryptanalysis
+- Cryptogram
+- Crystal oscillator
+- Crystal radio
+- Culling
+- Curiosity (rover)
+- Current source
+- Curtain wall (fortification)
+- Cut, copy, and paste
+- Cutlass
+- Cyborg
+- Cycling infrastructure
+- D-subminiature
+- DDT
+- DNA microarray
+- DOS
+- DVB
+- DVD
+- Daguerreotype
+- Dairy farming
+- Damask
+- Danyang–Kunshan Grand Bridge
+- Dao (Chinese sword)
+- Dark web
+- Dashpot
+- Dassault Rafale
+- Data center
+- Data mining
+- Data type
+- De Havilland Canada Dash 8
+- De Havilland Comet
+- De-extinction
+- Deadbolt
+- Debian
+- Debugging
+- December
+- Declarative programming
+- Deep Blue (chess computer)
+- Deep learning
+- Deep web
+- Defoliant
+- Delhi Metro
+- Delimiter
+- Delta Works
+- Delta wing
+- Demand factor
+- Demand response
+- Demand-responsive transport
+- Demodulation
+- Demolition
+- Denial-of-service attack
+- Denim
+- Depth charge
+- Derailleur
+- Desert farming
+- Desktop computer
+- Desktop publishing
+- Destroyer
+- Detonator
+- Device driver
+- Diesel fuel
+- Diesel locomotive
+- Difference engine
+- Differential (mechanical device)
+- Diffie–Hellman key exchange
+- Digital Terrestrial Multimedia Broadcast
+- Digital Visual Interface
+- Digital buffer
+- Digital clock
+- Digital electronics
+- Digital multimedia broadcasting
+- Digital rights management
+- Digital signal
+- Digital signal processor
+- Digital signature
+- Digital single-lens reflex camera
+- Digital television
+- Digital video
+- Digital video recorder
+- Digital-to-analog converter
+- Diode bridge
+- Direct3D
+- DirectX
+- Direction finding
+- Directional drilling
+- Directory (computing)
+- Dirt road
+- Dirty bomb
+- Disc brake
+- Disc tumbler lock
+- Disk partitioning
+- Display device
+- DisplayPort
+- Disposable product
+- Distaff
+- Distributed computing
+- Distributed generation
+- Distribution board
+- Diving bell
+- Dobsonian telescope
+- Document
+- Document file format
+- Domain name
+- Dot matrix printing
+- Double-decker bus
+- Douglas DC-3
+- Draft horse
+- Drafting machine
+- Drawbridge
+- Drawing (manufacturing)
+- Drawing board
+- Dreadnought
+- Dredging
+- Dressing (medicine)
+- Dreyse needle gun
+- Driver's license
+- Droop speed control
+- Drought tolerance
+- Dry dock
+- Dryland farming
+- Drywall
+- Dubai International Airport
+- Dubai Metro
+- Dump truck
+- Dune buggy
+- Dye laser
+- Dyeing
+- Dynamic demand (electric power)
+- Dynamic random-access memory
+- E-reader
+- EDSAC
+- EDVAC
+- Earth-leakage circuit breaker
+- Earthenware
+- Earthquake engineering
+- Earthworks (engineering)
+- Easel
+- Ebook
+- Effelsberg 100-metre Radio Telescope
+- El Ferdan Railway Bridge
+- Electric arc furnace
+- Electric bicycle
+- Electric car
+- Electric locomotive
+- Electric power quality
+- Electric power system
+- Electric stove
+- Electric vehicle
+- Electrical discharge machining
+- Electrical fault
+- Electrical telegraph
+- Electricity market
+- Electrification
+- Electroencephalography
+- Electrolytic capacitor
+- Electromagnetic shielding
+- Electronic circuit
+- Electronic component
+- Electronic design automation
+- Electronic lock
+- Electronic oscillator
+- Electronic-warfare aircraft
+- Electronics engineering
+- Electroplating
+- Elevated railway
+- Elevator (aeronautics)
+- Emacs
+- Embedded system
+- Embraer E-Jet family
+- Emerging technologies
+- Empennage
+- Emulator
+- Enamel paint
+- Encapsulation (computer programming)
+- Endianness
+- Energy demand management
+- Energy development
+- Energy engineering
+- Energy return on investment
+- Energy storage
+- Engineered wood
+- Engineering design process
+- Engineering economics
+- Engineering ethics
+- Engineering management
+- Engineering physics
+- English landscape garden
+- Enguri Dam
+- Enigma machine
+- Enola Gay
+- Entomological warfare
+- Envelope
+- Environmental biotechnology
+- Environmental engineering
+- Environmental impact of agriculture
+- Environmental impact of aviation
+- Environmental remediation
+- Ephemeris
+- Epicyclic gearing
+- Equatorial mount
+- Eraser
+- Error correction code
+- Escalator
+- Escapement
+- Espalier
+- Euphrates Dam
+- EuroVelo
+- Eurofighter Typhoon
+- European long-distance paths
+- Eurostar
+- Evaporative cooler
+- Excavator
+- Exception handling
+- Executable
+- Execution (computing)
+- Existential risk from artificial intelligence
+- Expansion card
+- Explosively formed penetrator
+- Exposure (photography)
+- ExpressCard
+- Ext4
+- Extensive farming
+- Extractive metallurgy
+- Extremely Large Telescope
+- Eyepiece
+- FADEC
+- FM broadcasting
+- Facial recognition system
+- Fairchild Republic A-10 Thunderbolt II
+- Family farm
+- Fan (machine)
+- Faraday cage
+- Fax
+- Feasibility study
+- February
+- Feeler gauge
+- Fermentation in food processing
+- Fermi Gamma-ray Space Telescope
+- Fiber crop
+- Fiberglass
+- Field gun
+- Field-effect transistor
+- Field-programmable gate array
+- Fighter-bomber
+- Figure-eight knot
+- File Allocation Table
+- File Transfer Protocol
+- File format
+- File sharing
+- Filename extension
+- Film capacitor
+- Fire alarm system
+- Fire brick
+- Fire engine
+- Fire hydrant
+- Fire lance
+- Fire safety
+- Firefox
+- Firewall (computing)
+- Firewood
+- Firing pin
+- Firmware
+- Fish farming
+- Fish hatchery
+- Fish hook
+- Fish meal
+- Fish trap
+- Fisherman's knot
+- Fishery
+- Fishing float
+- Fishing line
+- Fishing lure
+- Fishing net
+- Fishing reel
+- Fishing rod
+- Fishing weir
+- Five-hundred-meter Aperture Spherical Telescope
+- Flag semaphore
+- Flail (tool)
+- Flail (weapon)
+- Flamethrower
+- Flannel
+- Flap (aeronautics)
+- Flash (photography)
+- Flash memory
+- Flashlight
+- Flat engine
+- Flatbed truck
+- Flechette
+- Fletching
+- Flexible shaft
+- Flight control surfaces
+- Flight instruments
+- Flight management system
+- Flight recorder
+- Flintlock
+- Flip-flop (electronics)
+- Float glass
+- Floating-point arithmetic
+- Floating-point unit
+- Flood control in the Netherlands
+- Floppy disk
+- Floriculture
+- Flowchart
+- Fluorescent lamp
+- Flush toilet
+- Fly-by-wire
+- Flying junction
+- Flying shuttle
+- Flying wing
+- Flywheel
+- Fodder
+- Font
+- Food additive
+- Food coloring
+- Food processing
+- Food storage
+- Footpath
+- Forage
+- Forceps
+- Ford Model T
+- Ford Mustang
+- Forge
+- Forklift
+- Formal specification
+- Formal verification
+- Formatted text
+- Fort Peck Dam
+- Forth Bridge
+- Fortran
+- Fossil fuel power station
+- Fountain pen
+- Four-bar linkage
+- Fracking
+- Frecciarossa
+- Free range
+- Freight train
+- French formal garden
+- Frequency mixer
+- Frequency modulation
+- Frequency-hopping spread spectrum
+- Frequency-shift keying
+- Freshwater prawn farming
+- Fresnel lens
+- Friday
+- Frigate
+- Front-side bus
+- Fuel cell
+- Fuel oil
+- Fumigation
+- Function (computer programming)
+- Functional magnetic resonance imaging
+- Fungicide
+- Fungiculture
+- Funicular
+- Funnel
+- Furnace (central heating)
+- Fused quartz
+- Fuselage
+- Fusion power
+- Future Air Navigation System
+- Fuze
+- GALEX
+- GIF
+- GIMP
+- GLONASS
+- GNU Project
+- GSM
+- GTK
+- Gaia (spacecraft)
+- Galileo (satellite navigation system)
+- Galileo project
+- Galleon
+- Gaming computer
+- GarageBand
+- Gas balloon
+- Gas laser
+- Gas lighting
+- Gas mantle
+- Gas mask
+- Gas-fired power plant
+- Gasket
+- Gatehouse
+- Gateshead Millennium Bridge
+- Gatling gun
+- Geiger counter
+- Gemini Observatory
+- Gene therapy
+- General Dynamics F-16 Fighting Falcon
+- General aviation
+- General-purpose computing on graphics processing units
+- Generative AI
+- Genetic testing
+- Genetically modified crops
+- Genetically modified tree
+- Genome editing
+- George Washington Bridge
+- Geotechnical engineering
+- Geothermal energy
+- Giant Magellan Telescope
+- Gillnetting
+- Gimbal
+- Glacis
+- Gladius
+- Glass cockpit
+- Glass fiber
+- Glass wool
+- Glassblowing
+- Glock
+- Gmail
+- Goat farming
+- Goggles
+- Gold dredge
+- Gondola
+- Gondola lift
+- Goods station
+- Google Chrome
+- Google Cloud Platform
+- Google Search
+- Gordon Dam
+- Gotthard Base Tunnel
+- Grafting
+- Grain elevator
+- Grand Coulee Dam
+- Grand Ethiopian Renaissance Dam
+- Grand tourer
+- Grande Dixence Dam
+- Graphical user interface
+- Graphics card
+- Graphics processing unit
+- Graphometer
+- Gravitational-wave observatory
+- Great Belt Bridge
+- Great Seto Bridge
+- Greek fire
+- Green Bank Telescope
+- Green chemistry
+- Green manure
+- Greenhouse
+- Greenwich Mean Time
+- Gregorian telescope
+- Grid code
+- Grid computing
+- Grid energy storage
+- Grinding (abrasive cutting)
+- Grindstone
+- Ground stone
+- Groundwater remediation
+- Growing season
+- Guangzhou Metro
+- Guano
+- Guide dog
+- Gun barrel
+- Gunboat
+- Gunship
+- Gunter's chain
+- Guri Dam
+- Gutta-percha
+- Gyrator
+- HDMI
+- HEPA
+- HFS Plus
+- HMS Endeavour
+- HTML5
+- HTTPS
+- Hair dryer
+- Hair iron
+- Halberd
+- Hand axe
+- Hand cannon
+- Handcar
+- Handcuffs
+- Haneda Airport
+- Hardiness (plants)
+- Hardiness zone
+- Hardware acceleration
+- Harpoon
+- Hartsfield–Jackson Atlanta International Airport
+- Harvard Mark I
+- Hashtag
+- Haskell
+- Hatchback
+- Headphones
+- Health and usage monitoring systems
+- Hearing aid
+- Heat exchanger
+- Heat pump
+- Heathrow Airport
+- Heavy bomber
+- Heavy equipment
+- Hebrew calendar
+- Helipad
+- Helium–neon laser
+- Helsinki Metro
+- Herbicide
+- Herschel Space Observatory
+- Heuristic
+- Hidden camera
+- Hide (skin)
+- High fidelity
+- High-definition television
+- High-explosive anti-tank
+- High-fructose corn syrup
+- High-level programming language
+- High-pass filter
+- High-voltage direct current
+- Highway engineering
+- Hillfort
+- Hindu calendar
+- Hinge
+- Hipparcos
+- Hiroshima Electric Railway
+- Hoist (device)
+- Hole punch
+- Hollow-point bullet
+- Holocaust trains
+- Home computer
+- Home energy storage
+- Home page
+- Hong Kong International Airport
+- Hong Kong–Zhuhai–Macau Bridge
+- Hook
+- Hook (hand tool)
+- Horsecar
+- Horseshoe
+- Hospital ship
+- Hourglass
+- Howitzer
+- Human–computer interaction
+- Humber Bridge
+- Humidifier
+- Hunting knife
+- Hybrid vehicle
+- Hyderabad Metro
+- Hydraulic cylinder
+- Hydraulic engineering
+- Hydraulic machinery
+- Hydraulic manifold
+- Hydraulic motor
+- Hydraulic ram
+- Hydraulics
+- Hydrofoil
+- Hydrogen economy
+- Hydroponics
+- Hyperlink
+- Hypodermic needle
+- IBM 7030 Stretch
+- IBM PC compatible
+- IBM POWER architecture
+- IBM Personal Computer
+- IEEE 1394
+- INTEGRAL
+- IOS
+- IP address
+- IPad
+- IPod
+- IPv4
+- IPv6
+- IRAS
+- IRC
+- ISBN
+- ISDB
+- ISO 9660
+- ISRO
+- ITunes
+- IceCube Neutrino Observatory
+- Icebreaker
+- Ilyushin Il-76
+- Image file format
+- Imperative programming
+- Inca road system
+- Incineration
+- Inclinometer
+- Incunable
+- Indigenous horticulture
+- Indira Gandhi International Airport
+- Induced demand
+- Induced pluripotent stem cell
+- Induction furnace
+- Induction generator
+- Industry Standard Architecture
+- Inertial confinement fusion
+- Infantry fighting vehicle
+- Inflatable boat
+- Informatics
+- Information retrieval
+- Information system
+- Infrared telescope
+- Inheritance (object-oriented programming)
+- Injection moulding
+- Inkjet printing
+- Inkwell
+- Innovation
+- Input device
+- Input method
+- Input/output
+- Insecticide
+- Instant camera
+- Instant messaging
+- Instruction set architecture
+- Integrated development environment
+- Integrated modular avionics
+- Integrated multi-trophic aquaculture
+- Integrated pest management
+- Intensive animal farming
+- Inter-city rail
+- Interceptor aircraft
+- Interchange (road)
+- Intercity Express
+- Intercity bus service
+- Interconnector
+- Intercontinental and transoceanic fixed links
+- Intercontinental ballistic missile
+- Intercropping
+- Interdictor
+- Intermodal container
+- Intermodal passenger transport
+- International Atomic Time
+- Internet Explorer
+- Internet Message Access Protocol
+- Internet Protocol
+- Internet access
+- Internet forum
+- Internet of things
+- Internet service provider
+- Interpreter (computing)
+- Intersection (road)
+- Interstate Highway System
+- Interstellar travel
+- Interurban
+- Intranet
+- Inverter (logic gate)
+- Ion thruster
+- Iowa-class battleship
+- Ironclad warship
+- Ironstone china
+- Israel Space Agency
+- Istanbul Metro
+- Iteration
+- JAXA
+- JPEG
+- Jack (device)
+- Jackhammer
+- Jacob's staff
+- Jacquard machine
+- James Webb Space Telescope
+- January
+- Japanese garden
+- Jar
+- Java virtual machine
+- Javelin
+- Jet fuel
+- Jet ski
+- Ji (polearm)
+- Jodrell Bank Observatory
+- John F. Kennedy International Airport
+- Juicer
+- July
+- June
+- Junk (ship)
+- Jute
+- KTX
+- Kapellbrücke
+- Kariba Dam
+- Kayak
+- Keel
+- Keep
+- Kepler space telescope
+- Kernel (operating system)
+- Kevlar
+- Key (cryptography)
+- Kick scooter
+- Kidney dialysis
+- Kiln
+- Kinematic pair
+- King Fahd Causeway
+- Knapping
+- Knife switch
+- Kolkata Metro
+- Kotlin
+- Kyiv Metro
+- LIGO
+- Lance
+- Landing gear
+- Landline
+- Landscape photography
+- Language binding
+- Lantern
+- Laptop
+- Large Binocular Telescope
+- Laser printing
+- Laser rangefinder
+- LaserDisc
+- Lath
+- Lath and plaster
+- Lattice phase equaliser
+- Launch pad
+- Layering (horticulture)
+- Leading-edge slat
+- Lead–acid battery
+- Leap second
+- Leg mechanism
+- Level (optical instrument)
+- Level staff
+- Lever tumbler lock
+- Leyden jar
+- Library (computing)
+- LibreOffice
+- Lidar
+- Lifeboat (rescue)
+- Lifebuoy
+- Lifting equipment
+- Light metro
+- Light rail
+- Light tube
+- Lighter
+- Lightning rod
+- Limbers and caissons
+- Liming (leather processing)
+- Limousine
+- Lindane
+- Line-replaceable unit
+- Linear motor
+- Linkage (mechanical)
+- Liquefied natural gas
+- Liquefied petroleum gas
+- Liquid fuel
+- Lisp (programming language)
+- Lithium polymer battery
+- Lithium-ion battery
+- Lithophane
+- Load factor (electrical)
+- Load management
+- Load-following power plant
+- Loader (equipment)
+- Lobster trap
+- Locker
+- Lockheed C-130 Hercules
+- Lockheed Constellation
+- Lockheed Martin F-35 Lightning II
+- Lockheed SR-71 Blackbird
+- Logging
+- Logic gate
+- Logic programming
+- London Bridge
+- Long gun
+- Longbow
+- Longline fishing
+- Longsword
+- Los Angeles International Airport
+- Lost-wax casting
+- Loupe
+- Low-Frequency Array
+- Low-level programming language
+- Low-pass filter
+- Lua
+- Lubricant
+- Luna 2
+- Luna 3
+- Luna 9
+- Lunar calendar
+- Lunar rover
+- Lunisolar calendar
+- Lunokhod 1
+- Luxury car
+- Lyon Metro
+- M1 Abrams
+- M134 Minigun
+- M16 rifle
+- M1911 pistol
+- M4 Sherman
+- M4 carbine
+- MATLAB
+- MEMS
+- MESSENGER
+- MIPS architecture
+- MOSFET
+- MP3
+- MPEG-4
+- MTR
+- Mac operating systems
+- MacOS
+- Mace (bludgeon)
+- Machine code
+- Machine tool
+- Machine translation
+- Machining
+- Mackinac Bridge
+- Macramé
+- Macro (computer science)
+- Macuahuitl
+- Madrid Metro
+- Magazine (firearms)
+- Magic lantern
+- Maglev
+- Magnetic storage
+- Magnetic-tape data storage
+- Magnetoencephalography
+- Magnifying glass
+- Main battle tank
+- Mainframe computer
+- Mains electricity
+- Maintenance
+- Major appliance
+- Malathion
+- Mallet
+- Man-of-war
+- Man-portable air-defense system
+- Manchester computers
+- Mangla Dam
+- Mangonel
+- Manhattan Bridge
+- Manufacturing engineering
+- Manure
+- Manuscript
+- March
+- Mariculture
+- Marina
+- Marine chronometer
+- Marine engineering
+- Marine shrimp farming
+- Mariner 2
+- Maritime passenger terminal
+- Maritime patrol aircraft
+- Marker pen
+- Mars rover
+- Maser
+- Mass Rapid Transit (Singapore)
+- Massachusetts Bay Transportation Authority
+- Mast (sailing)
+- Match
+- Matchlock
+- Mattock
+- May
+- McDonnell Douglas DC-9
+- McDonnell Douglas F-15 Eagle
+- Mechanical filter
+- Mechanical screening
+- Mechanical television
+- Mechanised agriculture
+- Mechanism (engineering)
+- Mechatronics
+- Media player software
+- Medium bomber
+- MeerKAT
+- Mehmed Paša Sokolović Bridge
+- Menai Suspension Bridge
+- Merit order
+- Mesh
+- Metadata
+- Metal casting
+- Metal detector
+- Metal fabrication
+- Metasyntax
+- Methoxychlor
+- Metre-stick
+- Mexico City Metro
+- Micro combined heat and power
+- MicroLED
+- Microcomputer
+- Microgeneration (energy)
+- Microlith
+- Micromachinery
+- Microplastics
+- Microprocessor
+- Micropropagation
+- Microsoft Bing
+- Microsoft Excel
+- Microsoft Office
+- Microsoft Outlook
+- Microsoft Paint
+- Microsoft PowerPoint
+- Microsoft Word
+- Mikoyan-Gurevich MiG-21
+- Mil Mi-24
+- Mil Mi-8
+- Milan Metro
+- Military aviation
+- Military base
+- Military glider
+- Military helicopter
+- Military transport aircraft
+- Mill (grinding)
+- Millau Viaduct
+- Milling (machining)
+- Millstone
+- Mineral processing
+- Mineral wool
+- Miniaturization
+- Minibike
+- Minibus
+- Mining engineering
+- Minivan
+- Missile defense
+- Missile guidance
+- Mixer (appliance)
+- Mobile app
+- Mobile operating system
+- Modem
+- Modular programming
+- Molecular cloning
+- Molecular engineering
+- Molecular machine
+- Molotov cocktail
+- Molten-salt reactor
+- Monday
+- Monitor (synchronization)
+- Monoculture
+- Monoplane
+- Monster truck
+- Montreal Metro
+- Moore's law
+- Mop
+- Moped
+- Mortar (masonry)
+- Mortar and pestle
+- Moscow Metro
+- Mosquito net
+- Motherboard
+- Motor ship
+- Motor vehicle
+- Motorboat
+- Motorcycle taxi
+- Motorized scooter
+- Motte-and-bailey castle
+- Mount Wilson Observatory
+- Mountain bike
+- Movable type
+- Mulch
+- Multi-core processor
+- Multi-exposure HDR capture
+- Multi-factor authentication
+- MultiMediaCard
+- Multihull
+- Multimeter
+- Multiple cropping
+- Multiple rocket launcher
+- Multiplexing
+- Multiprocessing
+- Multirole combat aircraft
+- Multithreading (computer architecture)
+- Mumbai Metro
+- Munich U-Bahn
+- Muscle car
+- Muslin
+- Muzzleloader
+- MySQL
+- NAND gate
+- NOR gate
+- NTFS
+- NTSC
+- Naginata
+- Nagoya Municipal Subway
+- Nail gun
+- Nameplate capacity
+- Names of the days of the week
+- Namma Metro
+- Nanoelectromechanical systems
+- Napster
+- Natural language processing
+- Naval architecture
+- Nd:YAG laser
+- Near-field communication
+- Negative impedance converter
+- Neon lighting
+- Nerve agent
+- Net (device)
+- Network interface controller
+- Network on a chip
+- Network packet
+- Network switch
+- Network topology
+- Neural network (machine learning)
+- New Croton Dam
+- New Horizons
+- Newtonian telescope
+- Nimitz-class aircraft carrier
+- Nitrogen fixation
+- No-till farming
+- Node (networking)
+- Noise (electronics)
+- Non-lethal weapon
+- Non-volatile memory
+- Nonfood crop
+- Norfolk four-course system
+- North American P-51 Mustang
+- Northrop B-2 Spirit
+- November
+- Nuclear engineering
+- Nuclear fuel
+- Nuclear fuel cycle
+- Nuclear marine propulsion
+- Nuclear meltdown
+- Nuclear power plant
+- Nuclear proliferation
+- Nuclear reactor
+- Nuclear transfer
+- Nuclear weapon design
+- Numerical relay
+- Nunchaku
+- Nurek Dam
+- Nutrient management
+- Nyquist–Shannon sampling theorem
+- OLED
+- OR gate
+- Oar
+- Obfuscation (software)
+- Object code
+- Objective-C
+- Ocean liner
+- Octant (instrument)
+- October
+- Odometer
+- Off-road vehicle
+- Ogg
+- Ohio-class submarine
+- Oil lamp
+- Oil paint
+- Oil platform
+- Oil tanker
+- Olericulture
+- Onager (weapon)
+- One-time pad
+- One-way mirror
+- Online chat
+- Online dating
+- Open Database Connectivity
+- Open source
+- Open-end spinning
+- OpenGL
+- Operational amplifier
+- Operator overloading
+- Opportunity (rover)
+- Optical coating
+- Optical computing
+- Optical filter
+- Optical isolator
+- Optical spectrometer
+- Orangery
+- Orbital spaceflight
+- Organ printing
+- Orient Express
+- Oroville Dam
+- Orthopedic boot
+- Orthopedic cast
+- Osaka Metro
+- Oslo Metro
+- Output device
+- Outrigger
+- Overhead cable
+- Overhead power line
+- Ox
+- Oxygen mask
+- PAL
+- PC Card
+- PC-98
+- PCI Express
+- PDF
+- PHP
+- PNG
+- POSIX
+- Pacemaker
+- Pack animal
+- Packaging
+- Packet switching
+- Paddle steamer
+- Paddy field
+- Padlock
+- Pager
+- Palisade
+- Pan-American Highway
+- Panavia Tornado
+- Pantograph
+- Panzer IV
+- Paper bag
+- Papermaking
+- Parallel ATA
+- Parameter (computer programming)
+- Paratransit
+- Paris Metro
+- Park and ride
+- Parking lot
+- Pascal (programming language)
+- Passenger
+- Passenger train
+- Passive cooling
+- Password
+- Pastel
+- Pastoralism
+- Pasture
+- Patch (computing)
+- Pattern (sewing)
+- Pavilion
+- Peak demand
+- Pedestrian crossing
+- Peer-to-peer
+- Pelletizing
+- Pencil sharpener
+- Pendulum clock
+- Penetrator (aircraft)
+- Penny-farthing
+- Pentaprism
+- Pepper spray
+- Percussion cap
+- Peripheral Component Interconnect
+- Periscope
+- Perl
+- Permaculture
+- Perseverance (rover)
+- Persian gardens
+- Personal flotation device
+- Pest (organism)
+- Pest control
+- Petrol engine
+- Petroleum engineering
+- Petroleum reservoir
+- Pharmaceutical engineering
+- Pharmacogenomics
+- Pharming (genetics)
+- Phase modulation
+- Philosophy of artificial intelligence
+- Phone connector (audio)
+- Phonograph
+- Phonograph record
+- Photodiode
+- Photograph
+- Photographic plate
+- Photomultiplier tube
+- Phototube
+- Physical restraint
+- Phytoremediation
+- Pickaxe
+- Pickup truck
+- Pig farming
+- Pigeon post
+- Pike (weapon)
+- Piloting
+- Pin tumbler lock
+- Pioneer 10
+- Pioneer 11
+- Pioneer program
+- Pistol
+- Piston
+- Pistonless rotary engine
+- Pitchfork
+- Plain text
+- Plain weave
+- Plane table
+- Plant nursery
+- Plant propagation
+- Plant tissue culture
+- Plantation
+- Planter (farm implement)
+- Plasma display
+- Plaster
+- Plastic bag
+- Plastic bottle
+- Plastic explosive
+- Plastic mulch
+- Plating
+- Pliers
+- Plug and play
+- Plug-in (computing)
+- Plumb bob
+- Plunger
+- Pneumatics
+- Pocket watch
+- Pocketknife
+- Pointer (computer programming)
+- Pointing device
+- Polearm
+- Police car
+- Police dog
+- Pollarding
+- Pollination management
+- Polybolos
+- Polyculture
+- Polygraph
+- Polymer engineering
+- Polymorphism (programming language theory)
+- Pomology
+- Pont Alexandre III
+- Pont Neuf
+- Pont du Gard
+- Ponte Sant'Angelo
+- Ponte Vecchio
+- Pontoon bridge
+- Port Klang
+- Port of Barcelona
+- Port of Busan
+- Port of Hamburg
+- Port of Jebel Ali
+- Port of Los Angeles
+- Port of New York and New Jersey
+- Port of Ningbo-Zhoushan
+- Port of Rotterdam
+- Port of Shanghai
+- Port of Singapore
+- Port of Yokohama
+- PortMiami
+- Portable media player
+- Portable toilet
+- Portland cement
+- Portrait photography
+- Positron emission tomography
+- Postharvest
+- Potentiometer
+- Poultry farming
+- Powder coating
+- Powder keg
+- Power cable
+- Power engineering
+- Power hammer
+- Power inverter
+- Power loom
+- Power system protection
+- Power-flow study
+- Power-to-X
+- Prague Metro
+- Precast concrete
+- Precipitation hardening
+- Preemption (computing)
+- Present
+- Pressure vessel
+- Pressurized heavy-water reactor
+- Prestressed concrete
+- Primary mirror
+- Print on demand
+- Prism lighting
+- Prismatic blade
+- Private network
+- Private transport
+- Problem solving
+- Process (computing)
+- Process engineering
+- Processor (computing)
+- Processor register
+- Project Gemini
+- Project Mercury
+- Projection screen
+- Projector
+- Propellant
+- Propeller
+- Protective relay
+- Protein engineering
+- Proximity fuze
+- Proxy server
+- Pruning
+- Public transport bus service
+- Public-key cryptography
+- Pulp (paper)
+- Pump
+- Pumped-storage hydroelectricity
+- Punji stick
+- Purebred
+- Python (programming language)
+- QR code
+- QWERTY
+- Qingdao Jiaozhou Bay Bridge
+- Quadrant (instrument)
+- Quantum computing
+- Quartz clock
+- Quenching
+- Quern-stone
+- Quill
+- Quilt
+- Quilting
+- Quiver
+- R (programming language)
+- RAID
+- ROSAT
+- RSA cryptosystem
+- Rack and pinion
+- Radial engine
+- Radiator
+- Radio receiver
+- Radio-frequency engineering
+- Radio-frequency identification
+- Raft
+- Rail freight transport
+- Rail yard
+- Railroad car
+- Railway electrification
+- Railway engineering
+- Railway platform
+- Rain gutter
+- Rainbow Bridge (Niagara Falls)
+- Rainbow Bridge (Tokyo)
+- Rainfed agriculture
+- Raised field
+- Rammed earth
+- Rampart (fortification)
+- Ranch
+- Rangefinder camera
+- Ransomware
+- Raspberry Pi
+- Ratchet (device)
+- Ravelin
+- Rayon
+- Reactive armour
+- Ready-mix concrete
+- Real-time clock
+- Real-time computing
+- Real-time operating system
+- Reaper
+- Reaper-binder
+- Rebar
+- Reboot
+- Rechargeable battery
+- Reciprocating engine
+- Recombinant DNA
+- Recommender system
+- Reconnaissance aircraft
+- Recreational vehicle
+- Rectifier
+- Recumbent bicycle
+- Recursion (computer science)
+- Recurve bow
+- Reflecting telescope
+- Reflex hammer
+- Refracting telescope
+- Refrigerant
+- Regenerative agriculture
+- Regular expression
+- Reinforced concrete
+- Remotely operated underwater vehicle
+- Repeating crossbow
+- Repeating firearm
+- Repowering
+- Requirements analysis
+- Research and development
+- Residual-current device
+- Respirator
+- Rest area
+- Retainer (orthodontics)
+- Reticle
+- Retractor (medicine)
+- Reusability
+- Reverse engineering
+- Reverse proxy
+- Revolver
+- Rialto Bridge
+- Rice cooker
+- Rifling
+- Rigid airship
+- Ring spinning
+- Rio de Janeiro Metro
+- Risk management
+- Ritchey–Chrétien telescope
+- Rivet gun
+- Road junction
+- Road roller
+- Road salt
+- Robotic arm
+- Rocket artillery
+- Rocket-propelled grenade
+- Rodenticide
+- Rogun Dam
+- Roller (agricultural tool)
+- Rolling stock
+- Roman concrete
+- Roman roads
+- Rome Metro
+- Roof shingle
+- Rotary cannon
+- Rotary switch
+- Rotorcraft
+- Rotterdam Metro
+- Routing
+- Rover (space exploration)
+- Rubber band
+- Ruby (programming language)
+- Ruby laser
+- Rudder
+- Runway
+- Réseau Express Régional
+- S-Bahn
+- SATA
+- SD card
+- SECAM
+- SIM card
+- SMS
+- SPICE
+- SQL
+- SUV
+- SVG
+- Sabot (firearms)
+- Sabre
+- Safari (web browser)
+- Safe
+- Safety glass
+- Sai (weapon)
+- Sailboat
+- Saint Petersburg Metro
+- Salyut 1
+- Sampling (signal processing)
+- Samsung Galaxy
+- San Francisco–Oakland Bay Bridge
+- Sand casting
+- Sanitary engineering
+- Santiago Metro
+- Sapporo Municipal Subway
+- Sapsan
+- Satellite navigation device
+- Satellite phone
+- Satin
+- Saturday
+- Sawmill
+- Scala (programming language)
+- Scalpel
+- Scanning electron microscope
+- Scanning tunneling microscope
+- Scarecrow
+- Scenic route
+- Scheduling (computing)
+- Schmidt–Cassegrain telescope
+- School bus
+- Schooner
+- Scientific instrument
+- Scimitar
+- Scooter (motorcycle)
+- Scooter-sharing system
+- Screwdriver
+- Scrubber
+- Scutum
+- Scythe
+- Seaplane
+- Season extension
+- Seat belt
+- Seawall
+- Seaweed farming
+- Security engineering
+- Security through obscurity
+- Security token
+- Sedan (automobile)
+- Seed drill
+- Seedbed
+- Segment display
+- Seikan Tunnel
+- Seine fishing
+- Seismometer
+- Self-driving car
+- Semi-automatic firearm
+- Semi-rigid airship
+- Semi-trailer truck
+- Seoul Metropolitan Subway
+- September
+- Septic tank
+- Sericulture
+- Server (computing)
+- Service (motor vehicle)
+- Service animal
+- Sewage
+- Sewerage
+- Shading language
+- Shadoof
+- Shanghai Metro
+- Shanghai Pudong International Airport
+- Shaped charge
+- Share taxi
+- Sharecropping
+- Shared transport
+- Shared-use path
+- Shed
+- Sheep farming
+- Sheet metal
+- Shell script
+- Shenzhen Metro
+- Sheremetyevo International Airport
+- Shifter (bicycle part)
+- Shifting cultivation
+- Shock absorber
+- Shortwave radio
+- Shot (pellet)
+- Shotgun cartridge
+- Shotgun slug
+- Shutter speed
+- Shuttle (weaving)
+- Si-o-se-pol
+- Sidewalk
+- Siding (construction)
+- Siege engine
+- Siege tower
+- Sieve
+- Sikorsky UH-60 Black Hawk
+- Silage
+- Silviculture
+- Simple Mail Transfer Protocol
+- Simulation
+- Single-lens reflex camera
+- Sintering
+- Siren (alarm)
+- Sizing
+- Skeleton key
+- Ski lift
+- SkyTrain (Vancouver)
+- Skylab
+- Slash-and-burn agriculture
+- Slaughterhouse
+- Sled dog
+- Sledgehammer
+- Slide rule
+- Sling (medicine)
+- Slingshot
+- Sloop
+- Slow cooker
+- Sluice
+- Small modular reactor
+- Smalltalk
+- Smart TV
+- Smart grid
+- Smartwatch
+- Smoke detector
+- Smokeless powder
+- Smudge pot
+- Sniper rifle
+- Snowmobile
+- Social networking service
+- Soda–lime glass
+- Software bug
+- Software design
+- Software development
+- Software documentation
+- Software maintenance
+- Software portability
+- Software prototyping
+- Software testing
+- Software-defined radio
+- Soil salinity control
+- Soil steam sterilization
+- Soil vapor extraction
+- Sojourner (rover)
+- Solar calendar
+- Solar panel
+- Solar telescope
+- Solenoid
+- Solid-state drive
+- Solid-state laser
+- Somatic cell nuclear transfer
+- Somatic fusion
+- Songket
+- Sonic weapon
+- Sound card
+- Source code
+- South Pole Telescope
+- Sowing
+- Soyuz programme
+- Space capsule
+- Space colonization
+- Space industry
+- Space settlement
+- Space suit
+- Space telescope
+- Spamming
+- Spandex
+- Spanish garden
+- Spear-thrower
+- Speech recognition
+- Speedometer
+- Spindle (textiles)
+- Spinneret (polymers)
+- Spinning (polymers)
+- Spinning frame
+- Spinning jenny
+- Spinning mule
+- Spinning wheel
+- Spiral separator
+- Spirit (rover)
+- Spirit level
+- Spitzer Space Telescope
+- Splint (medicine)
+- Spoiler (aeronautics)
+- Sport bike
+- Sports car
+- Sputnik 2
+- Spyware
+- Square Kilometre Array
+- Squat toilet
+- Stabilizer (aeronautics)
+- Stack interchange
+- Stadimeter
+- Stagecoach
+- Stamp mill
+- Standard time
+- Star chart
+- Stari Most
+- Static random-access memory
+- Station wagon
+- Stationery
+- Steamboat
+- Steamroller
+- Steel and tin cans
+- Steering
+- Steering wheel
+- Steganography
+- Stem-cell therapy
+- Stencil
+- Sterilization (microbiology)
+- Stirrup
+- Stockholm Metro
+- Stone slab
+- Stone tool
+- Stonemasonry
+- Stoneware
+- Stop sign
+- Stopwatch
+- Stored-program computer
+- Straight engine
+- Strategic bomber
+- Straw
+- Streaming media
+- Streaming television
+- Street gutter
+- Street photography
+- Stretcher
+- Strike fighter
+- String
+- Structural analysis
+- Structural engineering
+- Structured programming
+- Stun grenade
+- Sub-orbital spaceflight
+- Subaru Telescope
+- Submachine gun
+- Submarine communications cable
+- Submersible
+- Subnet
+- Substation
+- Subtractor
+- Subwoofer
+- Suede
+- Sugar substitute
+- Sulfur hexafluoride circuit breaker
+- Sunday
+- Sup'ung Dam
+- Super grid
+- Supercapacitor
+- Supercar
+- Superheterodyne receiver
+- Supersonic aircraft
+- Surface-to-air missile
+- Surgical suture
+- Surround sound
+- Surveillance aircraft
+- Surveyor's wheel
+- Suspension bridge
+- Sustainable energy
+- Swather
+- Swept wing
+- Swift (programming language)
+- Swiss Army knife
+- Switchblade
+- Sydney Harbour Bridge
+- Symbian
+- Symmetric-key algorithm
+- Synchronous circuit
+- Syntax (programming languages)
+- Synthetic biology
+- Synthetic biopolymer
+- System call
+- System on a chip
+- System software
+- System time
+- Systems engineering
+- São Paulo Metro
+- T-34
+- T-54/T-55
+- T-square
+- T-top
+- TGV
+- TIFF
+- TRS-80
+- Tablet computer
+- Tacoma Narrows Bridge
+- Taipei Metro
+- Taiwan High Speed Rail
+- Talwar
+- Tandem bicycle
+- Tanning (leather)
+- Tape measure
+- Tappet
+- Tarbela Dam
+- Taser
+- TeX
+- Tear gas
+- Technical (vehicle)
+- Technological convergence
+- Technological determinism
+- Technological singularity
+- Technology adoption life cycle
+- Technology and society
+- Technology assessment
+- Technology life cycle
+- Technology transfer
+- Tehran Metro
+- Teikei
+- Telecommunications engineering
+- Telephone number
+- Telephony
+- Telescope mount
+- Television set
+- Tempera
+- Tenaille
+- Tenant farmer
+- Terrace (earthworks)
+- Terracotta
+- Terrestrial television
+- Tetraethyl pyrophosphate
+- Text file
+- Textile printing
+- Thatching
+- The Iron Bridge
+- Thermal energy storage
+- Thermal power station
+- Thermal printing
+- Thermistor
+- Thermobaric weapon
+- Thermocouple
+- Thermostat
+- Thin lens
+- Thrashing (computer science)
+- Thread (computing)
+- Three-field system
+- Three-phase electric power
+- Threshing
+- Threshing machine
+- Throwing knife
+- Thrust reversal
+- Thrust vectoring
+- Thunderbolt (interface)
+- Thursday
+- Tiangong space station
+- Tidal power
+- Tile
+- Tiltmeter
+- Time standard
+- Time-sharing
+- Timeline
+- Tissue engineering
+- Tissue paper
+- Titanic
+- Toei Subway
+- Toilet seat
+- Tokamak
+- Tokyo Bay Aqua-Line
+- Tokyo Metro
+- Toll road
+- Tomahawk
+- Tonfa
+- Tongs
+- Topiary
+- Topographic Abney level
+- Tor (network)
+- Torch
+- Toronto subway
+- Torque wrench
+- Total station
+- Touchpad
+- Tourniquet
+- Toxaphene
+- Toyota Corolla
+- Tracer ammunition
+- Traffic
+- Traffic congestion
+- Traffic light
+- Traffic sign
+- Trailer (vehicle)
+- Trajan's Bridge
+- Trans-African Highway network
+- Trans-Australian Railway
+- Trans-European Transport Network
+- Trans-European high-speed rail network
+- Trans-Mongolian Railway
+- Transcontinental railroad
+- Transducer
+- Transform, clipping, and lighting
+- Transistor radio
+- Transistor–transistor logic
+- Transjakarta
+- Transmission (mechanical device)
+- Transmission Control Protocol
+- Transmission electron microscopy
+- Transmission line
+- Transmission system operator
+- Transmission tower
+- Transmitter
+- Transparency (human–computer interaction)
+- Transplanter
+- Transplanting
+- Transport Layer Security
+- Transport hub
+- Transportation engineering
+- Trapping
+- Trebuchet
+- Trench
+- Trestle bridge
+- Tricycle
+- Trieste (bathyscaphe)
+- Trigger (firearms)
+- Trim tab
+- Trip hammer
+- Triplane
+- Trireme
+- Trojan horse (computing)
+- Trolleybus
+- Trommel screen
+- Tropical horticulture
+- Trowel
+- Truss bridge
+- Tsar Bomba
+- Tuesday
+- Tugboat
+- Tuner (radio)
+- Tunnel boring machine
+- Tunnel construction
+- Tunneling protocol
+- Tupolev Tu-154
+- Turbofan
+- Turbojet
+- Turboprop
+- Turboshaft
+- Tweed
+- Tweezers
+- Twill
+- Twin-lens reflex camera
+- Two-stroke engine
+- Type conversion
+- Typesetting
+- U-boat
+- U.S. Route 66
+- UEFI
+- UNIVAC I
+- URL
+- USB
+- USB flash drive
+- USB-C
+- USS Arizona
+- USS Constitution
+- USS Maine (1890)
+- USS Monitor
+- UTF-8
+- Ultra-high-definition television
+- Ultracentrifuge
+- Ultralight aviation
+- Uncrewed spacecraft
+- Underground power line
+- Underwater tunnel
+- Unicode
+- Unicycle
+- Union Pacific Railroad
+- Universal Disk Format
+- Universal Flash Storage
+- Universal Product Code
+- Unix time
+- Unix-like
+- Urban agriculture
+- Urban horticulture
+- Urinal
+- Usenet
+- User (computing)
+- User guide
+- Utility frequency
+- Utility knife
+- Utility pole
+- V engine
+- V-2 rocket
+- V/STOL
+- VGA connector
+- VHS
+- VLC media player
+- Vacuum pump
+- Vajont Dam
+- Vanguard-class submarine
+- Variable (high-level programming language)
+- Variable capacitor
+- Variable renewable energy
+- Variable-frequency oscillator
+- Variable-sweep wing
+- Varnish
+- Vasco da Gama Bridge
+- Vehicle armour
+- Vehicle for hire
+- Velcro
+- Vellum
+- Ventilator
+- Vermicompost
+- Vernier scale
+- Verrazzano–Narrows Bridge
+- Version control
+- Vertical farming
+- Very Large Array
+- Very Large Telescope
+- Very Long Baseline Array
+- Very long instruction word
+- Very-large-scale integration
+- Viaduct
+- Video coding format
+- Videocassette recorder
+- Videotape
+- Videotelephony
+- Vienna U-Bahn
+- Vim (text editor)
+- Virgo interferometer
+- Virtual machine
+- Virtual memory
+- Virtual power plant
+- Virtual reality
+- Virtual reality headset
+- VirtualBox
+- Visual Basic (.NET)
+- Viticulture
+- Vocoder
+- Volatile memory
+- Volkswagen Beetle
+- Voltage regulator
+- Voltage source
+- Von Neumann architecture
+- Voskhod programme
+- Vostok 1
+- Vostok programme
+- Voyager 1
+- Voyager 2
+- Voyager Golden Record
+- Vulcanization
+- Vulkan
+- Vulnerability (computer security)
+- W. M. Keck Observatory
+- Wagon
+- Walkie-talkie
+- Walkman
+- Wankel engine
+- War hammer
+- Warhead
+- Warp and weft
+- Waru Waru
+- Washer (hardware)
+- Washington Metropolitan Area Transit Authority
+- Water bottle
+- Water cannon
+- Water clock
+- Water dispenser
+- Water frame
+- Water heating
+- Water wheel
+- Watercraft
+- Wattle and daub
+- Weak artificial intelligence
+- Web 2.0
+- Web application
+- Web development
+- Web page
+- Web server
+- Webcam
+- Webmail
+- Wednesday
+- Western blot
+- Wheatstone bridge
+- Wheellock
+- Whip
+- Whippletree (mechanism)
+- Whirlwind I
+- White phosphorus munition
+- Whiteboard
+- Whole genome sequencing
+- Wide area synchronous grid
+- Wide-field Infrared Survey Explorer
+- Wiki
+- Wilkinson Microwave Anisotropy Probe
+- WinRAR
+- Winch
+- Windcatcher
+- Windlass
+- Window (computing)
+- Windows 10
+- Windows 11
+- Windows 3.1
+- Windows 7
+- Windows 9x
+- Windows API
+- Windows NT
+- Windows XP
+- Wine (software)
+- Wingtip device
+- Winnowing
+- Wire rope
+- Wireless
+- Wireless mesh network
+- Wireless network
+- Wood drying
+- Wood–plastic composite
+- Work hardening
+- Working animal
+- Working set
+- Workstation
+- Wrench
+- Wright Flyer
+- X Window System
+- X-ray telescope
+- X86
+- X86-64
+- XML
+- XMM-Newton
+- XNOR gate
+- XOR gate
+- Yacht
+- Yakhchāl
+- Yamato-class battleship
+- Z3 (computer)
+- ZIP (file format)
+- ZX Spectrum
+- Zeppelin
+- Zero-day vulnerability
+- Zuiderzee Works
+- Øresund Bridge
+
+---
+_This file is generated by build_vital.py. The first real entry appears after your first scrape._
