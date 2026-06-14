@@ -95,6 +95,25 @@
       font-size:0.82rem; color:var(--text-tertiary); line-height:1.5;
     }
 
+    .filters {
+      max-width:920px; margin:0 auto; padding:0 28px 14px;
+      display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+    }
+    .filter-chip {
+      display:inline-flex; align-items:center; gap:6px;
+      font-size:0.82rem; color:var(--text-secondary); cursor:pointer;
+      padding:5px 11px; border:1px solid var(--border); border-radius:999px;
+      user-select:none; transition:border-color 0.15s, background 0.15s;
+    }
+    .filter-chip:hover { border-color:var(--accent); }
+    .filter-chip input { cursor:pointer; margin:0; accent-color:var(--accent); }
+    .filter-info {
+      display:inline-flex; align-items:center; justify-content:center;
+      width:15px; height:15px; border-radius:50%; font-size:0.62rem; font-weight:700;
+      background:var(--border); color:var(--text-tertiary); cursor:help;
+    }
+    .filter-chip:hover .filter-info { background:var(--accent); color:#fff; }
+
     main { max-width:920px; margin:0 auto; padding:18px 28px 0; }
     .feed { min-height:60vh; }
 
@@ -207,6 +226,7 @@
       .tabs { padding:0 14px; }
       .tab { padding:11px 13px 12px; font-size:0.86rem; }
       .tab-desc { padding:12px 14px 12px; }
+      .filters { padding:0 14px 12px; }
       main { padding:14px 14px 0; }
       .article,.skeleton-row { grid-template-columns:80px 1fr; gap:12px; padding:11px 0; }
       .article-image-wrap,.skel-img { width:80px; aspect-ratio:1/1; }
@@ -274,9 +294,20 @@
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
         Vital
       </button>
+      <button class="tab" data-top="simple" role="tab" aria-selected="false">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M8 12h8"/></svg>
+        Simple
+      </button>
     </nav>
 
     <p class="tab-desc" id="tab-desc">Completely random articles from across all of Wikipedia.</p>
+
+    <div class="filters" id="filters">
+      <label class="filter-chip" title="Hides articles Wikipedia marks as &quot;stubs&quot; — very short, incomplete entries flagged by editors as needing expansion. Leaves the more developed articles.">
+        <input type="checkbox" id="toggle-stubs"> Hide stubs
+        <span class="filter-info" aria-hidden="true">?</span>
+      </label>
+    </div>
   </header>
 
   <main>
@@ -304,6 +335,8 @@
 
     var TARGET_COUNT = 50;
     var MIN_EXTRACT_LEN = 120;
+    var STUB_BYTES = 1500;        // fallback stub heuristic if categories are missing
+    var hideStubs = false;        // toggle: filter out stubs (default off)
     var RTL_LANGS = { ar: true };
 
     var BIG_BTN = { en:'Refresh for 50 more', zh:'再获取 50 篇', es:'Cargar 50 más', fr:'Charger 50 de plus', de:'Weitere 50 laden', ja:'さらに50件', ru:'Ещё 50 статей', ar:'تحديث ٥٠ مقالة', pt:'Mais 50 artigos' };
@@ -343,6 +376,8 @@
     var tabDesc = document.getElementById('tab-desc');
     var topTabs = document.getElementById('top-tabs');
     var vitalTab = document.getElementById('vital-tab');
+    var filtersEl = document.getElementById('filters');
+    var toggleStubs = document.getElementById('toggle-stubs');
 
     function storeGet(k) { try { return window.localStorage.getItem(k); } catch (e) { return null; } }
     function storeSet(k, v) { try { window.localStorage.setItem(k, v); } catch (e) {} }
@@ -382,41 +417,82 @@
     function fetchRandom(lang, count) {
       var url = apiUrl(lang, {
         action: 'query', generator: 'random', grnnamespace: '0', grnlimit: String(count),
-        prop: 'extracts|pageimages|info|pageprops',
+        prop: 'extracts|pageimages|info|pageprops|categories',
         exintro: '1', explaintext: '1', exlimit: String(count),
         piprop: 'thumbnail', pithumbsize: '400', pilimit: String(count),
-        inprop: 'url', ppprop: 'disambiguation'
+        inprop: 'url', ppprop: 'disambiguation',
+        cllimit: 'max'
       });
       return fetchJson(url).then(function (data) {
         return (data.query && data.query.pages) || [];
       });
     }
 
-    function isGoodRandom(p) {
+    // Per-language stub category roots. A category whose title contains the root
+    // marks the article as a stub. Languages absent here (e.g. de, es) have no usable
+    // stub-category system, so they fall back to byte length below.
+    var STUB_ROOTS = {
+      en: ['stubs', 'All stub articles'],
+      simple: ['stubs', 'Stubs', 'All stub articles'],
+      fr: ['ébauche'],
+      it: ['Stub'],
+      ja: ['スタブ'],
+      ru: ['Незавершённые статьи'],
+      pt: ['Esboços', 'Esboço'],
+      zh: ['小作品'],
+      ar: ['بذرة']
+    };
+
+    function langHasStubFilter(lang) {
+      return !!STUB_ROOTS[lang];
+    }
+
+    function isStub(p, lang) {
+      var roots = STUB_ROOTS[lang];
+      if (!roots) return false;   // no stub-category system (de, es) -> don't filter
+      if (p.categories && p.categories.length) {
+        for (var i = 0; i < p.categories.length; i++) {
+          var c = p.categories[i].title || '';
+          for (var j = 0; j < roots.length; j++) {
+            if (c.indexOf(roots[j]) !== -1) return true;
+          }
+        }
+      }
+      // Categories weren't returned (rare) -> byte-length proxy as a backstop.
+      if (typeof p.length === 'number' && p.length < STUB_BYTES) return true;
+      return false;
+    }
+
+    function isGoodRandom(p, lang) {
       if (!p || !p.title) return false;
       if (!p.extract || p.extract.length < MIN_EXTRACT_LEN) return false;
       if (p.pageprops && p.pageprops.disambiguation !== undefined) return false;
+      // Optional: hide stubs (real classification on English, byte-length elsewhere).
+      if (hideStubs && isStub(p, lang)) return false;
       return true;
     }
 
     function loadRandom(lang, onBatch) {
       var collected = [];
+      var filtering = hideStubs;
       function round(attemptsLeft) {
         if (collected.length >= TARGET_COUNT || attemptsLeft <= 0) {
           if (collected.length) onBatch(collected.slice(0, TARGET_COUNT));
           return Promise.resolve(collected.length);
         }
         var need = TARGET_COUNT - collected.length;
-        return fetchRandom(lang, Math.min(50, Math.max(12, need * 2))).then(function (pages) {
+        var grab = filtering ? 50 : Math.min(50, Math.max(20, need * 2));
+        return fetchRandom(lang, grab).then(function (pages) {
           pages.forEach(function (p) {
             if (collected.length >= TARGET_COUNT) return;
-            if (!isGoodRandom(p) || seenInSession[p.pageid]) return;
+            if (!isGoodRandom(p, lang) || seenInSession[p.pageid]) return;
             seenInSession[p.pageid] = 1; collected.push(p);
           });
           return round(attemptsLeft - 1);
         });
       }
-      return round(6);
+      // Hiding stubs rejects ~30%, so a few extra rounds easily fills 50.
+      return round(filtering ? 12 : 6);
     }
 
     // ===== VITAL MODE =====
@@ -531,6 +607,10 @@
       seenInSession = {};
       showSkeletons(TARGET_COUNT);
 
+      // Simple tab fetches from Simple English Wikipedia (simple.wikipedia.org);
+      // Random uses the selected language.
+      var lang = (currentTop === 'simple') ? 'simple' : currentLang;
+
       var painted = false;
       function onBatch(items) {
         if (gen !== loadGen) return;
@@ -543,7 +623,7 @@
         appendArticles(items);
       }
 
-      loadRandom(currentLang, onBatch).catch(function (err) {
+      loadRandom(lang, onBatch).catch(function (err) {
         if (gen !== loadGen) return;
         if (!painted) showError(err && err.message ? err.message : '');
       }).then(function () {
@@ -608,6 +688,10 @@
         tabDesc.textContent = 'Wikipedia\u2019s hand-curated \u201cvital articles\u201d \u2014 the ~50,000 topics editors deem most important to know. 50 at random.';
         return;
       }
+      if (currentTop === 'simple') {
+        tabDesc.textContent = 'Random articles from Simple English Wikipedia \u2014 written in plain, basic English. Great for clear intros to unfamiliar topics.';
+        return;
+      }
       tabDesc.textContent = TAB_RANDOM_DESC[currentLang] || TAB_RANDOM_DESC.en;
     }
     function bottomLabels() {
@@ -617,12 +701,28 @@
         bigRefreshSub.textContent = 'Reshuffle for a fresh 50 vital articles.';
         return;
       }
+      if (currentTop === 'simple') {
+        refreshLabel.textContent = 'New 50';
+        bigRefreshLabel.textContent = 'Refresh for 50 more';
+        bigRefreshSub.textContent = 'Done reading? Get a fresh batch.';
+        return;
+      }
       refreshLabel.textContent = 'New 50';
       bigRefreshLabel.textContent = BIG_BTN[currentLang] || BIG_BTN.en;
       bigRefreshSub.textContent = BIG_SUB[currentLang] || BIG_SUB.en;
     }
 
-    // Switch between Random and Vital tabs.
+    // Show the stub filter only where it can actually work: the Simple tab (English),
+    // or the Random tab in a language that has a known stub-category system.
+    // Languages without one (de, es) hide the toggle entirely rather than show a
+    // control that does nothing.
+    function updateFiltersVisibility() {
+      var show = (currentTop === 'simple') ||
+                 (currentTop === 'random' && langHasStubFilter(currentLang));
+      filtersEl.style.display = show ? '' : 'none';
+    }
+
+    // Switch between Random, Vital, and Simple tabs.
     function setTop(top) {
       if (top === currentTop) return;
       currentTop = top;
@@ -632,8 +732,9 @@
         btns[i].classList.toggle('active', on);
         btns[i].setAttribute('aria-selected', on ? 'true' : 'false');
       }
-      // Random uses the language selector; Vital is English-only (hide language).
+      // Language selector only on Random (Vital is English-only; Simple is its own wiki).
       langSelect.style.display = (top === 'random') ? '' : 'none';
+      updateFiltersVisibility();
       bottomLabels();
       updateDesc();
       window.scrollTo({ top: 0 });
@@ -644,11 +745,17 @@
       currentLang = lang;
       document.documentElement.setAttribute('lang', lang);
       document.documentElement.setAttribute('dir', 'ltr');
+      updateFiltersVisibility();
       bottomLabels();
       updateDesc();
     }
 
     // ---- Events ----
+    toggleStubs.addEventListener('change', function (e) {
+      hideStubs = e.target.checked;
+      if (currentTop === 'random') load();
+    });
+
     topTabs.addEventListener('click', function (e) {
       var btn = e.target.closest && e.target.closest('.tab');
       if (btn && btn.getAttribute('data-top')) setTop(btn.getAttribute('data-top'));
