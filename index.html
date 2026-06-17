@@ -141,8 +141,10 @@
     }
     .article-image {
       position:absolute; inset:0; width:100%; height:100%; object-fit:cover;
-      transition:transform 0.45s ease;
+      transition:transform 0.45s ease, opacity 0.3s ease;
+      opacity:0;
     }
+    .article-image.loaded { opacity:1; }
     .article-image-fallback {
       position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
       background:radial-gradient(circle at 30% 30%,var(--accent-soft),transparent 60%),
@@ -474,35 +476,42 @@
     }
 
     function loadRandom(lang, onBatch) {
-      var collected = [];
       var seen = seenInSession;
       var filtering = hideStubs && langHasStubFilter(lang);
+      var total = 0;
 
-      function take(pages) {
+      // Take the new (unseen, non-stub) survivors from a batch and return just those,
+      // so they can be painted immediately without duplicating earlier ones.
+      function survivors(pages) {
+        var out = [];
         pages.forEach(function (p) {
           if (!isGoodRandom(p, lang) || seen[p.pageid]) return;
-          seen[p.pageid] = 1; collected.push(p);
+          seen[p.pageid] = 1; out.push(p);
         });
+        return out;
       }
 
       // generator=random caps grnlimit at 50, so to fetch more we fire parallel calls.
       // We show EVERYTHING that survives the stub filter — no cap, no chasing a count.
-      // More articles is welcome; fewer is fine too. Stub rates vary by wiki, so the
-      // displayed count naturally varies: regular Wikipedia (~30% stubs) shows ~70 from
-      // 2 batches; Simple English is very stubby (~85%) so 4 batches shows ~40.
+      // Each batch PAINTS AS SOON AS IT ARRIVES (progressive rendering) so the user can
+      // start reading immediately instead of waiting for every batch to finish.
+      // Stub rates vary by wiki: regular Wikipedia (~30% stubs) shows ~70 from 2 batches;
+      // Simple English is very stubby (~85%) so 4 batches shows ~40.
       var batches;
       if (!filtering) batches = 1;              // 50 unfiltered, plenty
       else if (lang === 'simple') batches = 4;  // very stubby; ~40 survive
       else batches = 2;                         // ~30% stubs -> ~70 survive
 
       var calls = [];
-      for (var i = 0; i < batches; i++) calls.push(fetchRandom(lang, 50));
+      for (var i = 0; i < batches; i++) {
+        calls.push(fetchRandom(lang, 50).then(function (pages) {
+          var got = survivors(pages);
+          total += got.length;
+          if (got.length) onBatch(got);          // paint this batch's survivors now
+        }).catch(function () { /* one batch failing is fine; others still paint */ }));
+      }
 
-      return Promise.all(calls).then(function (results) {
-        results.forEach(take);
-        onBatch(collected);
-        return collected.length;
-      });
+      return Promise.all(calls).then(function () { return total; });
     }
 
     // ===== VITAL MODE =====
@@ -554,14 +563,21 @@
       });
     }
 
-    function articleMarkup(p) {
+    function articleMarkup(p, idx) {
       var thumb = p.thumbnail && p.thumbnail.source;
       var url = p.fullurl || p.canonicalurl || ('https://' + currentLang + '.wikipedia.org/wiki/' + encodeURIComponent(p.title));
       var textDir = RTL_LANGS[currentLang] ? ' dir="rtl"' : '';
+      // The first few cards are above the fold: load them eagerly (and the very first
+      // with high priority) so they appear immediately. Everything else stays lazy so
+      // off-screen images only fetch as the user scrolls near them.
+      var top = (typeof idx === 'number' && idx < 4);
+      var imgAttrs = top
+        ? 'loading="eager" fetchpriority="' + (idx === 0 ? 'high' : 'auto') + '"'
+        : 'loading="lazy" fetchpriority="low"';
       return '<a class="article-link" href="' + esc(url) + '" target="_blank" rel="noopener noreferrer" aria-label="' + esc(p.title) + '">' +
         '<div class="article-image-wrap">' +
           '<div class="article-image-fallback">' + BOOK_ICON + '</div>' +
-          (thumb ? '<img class="article-image" src="' + esc(thumb) + '" alt="" loading="lazy" decoding="async" onerror="this.remove()">' : '') +
+          (thumb ? '<img class="article-image" src="' + esc(thumb) + '" alt="" ' + imgAttrs + ' decoding="async" onload="this.classList.add(\'loaded\')" onerror="this.remove()">' : '') +
         '</div>' +
         '<div class="article-text"' + textDir + '>' +
           '<h2 class="article-title">' + esc(p.title) + '</h2>' +
@@ -591,11 +607,16 @@
     }
     function appendArticles(pages) {
       var frag = document.createDocumentFragment();
-      pages.forEach(function (p, idx) {
+      // Offset by however many cards are already in the feed, so the fade-in cascade
+      // and the "first few load eagerly" logic stay continuous across batches that
+      // paint progressively (rather than restarting at 0 for each batch).
+      var offset = feedEl.querySelectorAll('.article').length;
+      pages.forEach(function (p, i) {
+        var idx = offset + i;
         var wrap = document.createElement('article');
         wrap.className = 'article';
         wrap.style.animationDelay = Math.min(idx * 0.025, 0.4).toFixed(3) + 's';
-        wrap.innerHTML = articleMarkup(p);
+        wrap.innerHTML = articleMarkup(p, idx);
         frag.appendChild(wrap);
       });
       feedEl.appendChild(frag);
