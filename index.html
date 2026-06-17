@@ -339,7 +339,8 @@
     var TARGET_COUNT = 40;
     var SKELETON_COUNT = 12;
     var RENDER_CHUNK_SIZE = 10;
-    var MIN_EXTRACT_LEN = 120;
+    var INITIAL_BATCH_COUNT = 10;
+    var BACKGROUND_FILL_DELAY = 450;
     var STUB_BYTES = 1400;        // fallback stub heuristic if categories are missing
     var hideStubs = false;        // toggle: filter out stubs (default off for faster, broader loading)
     var textOnly = false;         // toggle: skip image fetching for maximum speed
@@ -536,11 +537,17 @@
 
     function isGoodRandom(p, lang) {
       if (!p || !p.title) return false;
-      if (!p.extract || p.extract.length < MIN_EXTRACT_LEN) return false;
       if (p.pageprops && p.pageprops.disambiguation !== undefined) return false;
       // Optional: hide stubs (real classification on English, byte-length elsewhere).
       if (hideStubs && isStub(p, lang)) return false;
       return true;
+    }
+
+    function runWhenIdle(fn) {
+      if ('requestIdleCallback' in window) {
+        return window.requestIdleCallback(fn, { timeout: BACKGROUND_FILL_DELAY });
+      }
+      return window.setTimeout(fn, BACKGROUND_FILL_DELAY);
     }
 
     function loadRandom(lang, onBatch, signal) {
@@ -559,27 +566,39 @@
         return out;
       }
 
-      // When filtering is off, one request is fastest and avoids extra network work.
-      // When filtering is on, parallel calls compensate for discarded short/stub pages.
-      // Each batch paints as soon as it arrives so the user can start reading immediately.
-      var batches;
-      if (!filtering) batches = 1;
-      else if (lang === 'simple') batches = 4;
-      else batches = 2;
-
-      var calls = [];
-      for (var i = 0; i < batches; i++) {
-        calls.push(fetchRandom(lang, filtering ? TARGET_COUNT + 10 : TARGET_COUNT, signal).then(function (pages) {
+      function fetchAndPaint(count) {
+        if (!count || (signal && signal.aborted)) return Promise.resolve();
+        return fetchRandom(lang, count, signal).then(function (pages) {
           var got = survivors(pages);
           total += got.length;
-          if (got.length) onBatch(got);          // paint this batch's survivors now
+          if (got.length) onBatch(got);
         }).catch(function (err) {
           if (err && err.name === 'AbortError') return;
           /* one batch failing is fine; others still paint */
-        }));
+        });
       }
 
-      return Promise.all(calls).then(function () { return total; });
+      // Fast path: fetch a small first batch, render it, then fill the rest in idle time.
+      // If stub filtering is enabled, keep larger requests because many pages may be discarded.
+      var firstCount = filtering ? 50 : Math.min(INITIAL_BATCH_COUNT, TARGET_COUNT);
+      var remainingCalls = [];
+      if (filtering) {
+        var extraBatches = (lang === 'simple') ? 3 : 1;
+        for (var i = 0; i < extraBatches; i++) remainingCalls.push(50);
+      } else {
+        var remaining = Math.max(TARGET_COUNT - firstCount, 0);
+        if (remaining) remainingCalls.push(remaining);
+      }
+
+      return fetchAndPaint(firstCount).then(function () {
+        if (!remainingCalls.length || (signal && signal.aborted)) return total;
+        return new Promise(function (resolve) {
+          runWhenIdle(function () {
+            if (signal && signal.aborted) { resolve(total); return; }
+            Promise.all(remainingCalls.map(fetchAndPaint)).then(function () { resolve(total); });
+          });
+        });
+      });
     }
 
     // ===== VITAL MODE =====
@@ -620,7 +639,7 @@
                             // (e.g. an old name + its renamed new name) share one ID,
                             // so we show it only once. The ID comes free in this response.
         pages.forEach(function (p) {
-          if (!p || !p.extract || p.extract.length < 40 || p.missing !== undefined) return;
+          if (!p || p.missing !== undefined || !p.title) return;
           if (p.pageid != null) {
             if (seenIds[p.pageid]) return;   // already have this article in the batch
             seenIds[p.pageid] = 1;
@@ -684,7 +703,12 @@
         var idx = offset + i;
         var wrap = document.createElement('article');
         wrap.className = 'article';
-        wrap.style.animationDelay = Math.min(idx * 0.025, 0.4).toFixed(3) + 's';
+        // Animate only the first few visible cards; later cards skip animation to reduce paint work.
+        if (idx < 8) {
+          wrap.style.animationDelay = Math.min(idx * 0.025, 0.2).toFixed(3) + 's';
+        } else {
+          wrap.style.animation = 'none';
+        }
         wrap.innerHTML = articleMarkup(p, idx, lang);
         frag.appendChild(wrap);
       });
@@ -768,16 +792,39 @@
       }
       setLoading(true);
       showSkeletons(Math.min(TARGET_COUNT, SKELETON_COUNT));
-      // Shuffle the full title list, pick a batch, fetch their summaries.
-      var pick = shuffle(vitalTitles.slice()).slice(0, TARGET_COUNT);
-      fetchVitalSummaries(pick, signal).then(function (pages) {
-        if (gen !== loadGen) return;
+      // Fetch a small first Vital batch, render it, then fill the rest in idle time.
+      var picks = shuffle(vitalTitles.slice()).slice(0, TARGET_COUNT);
+      var firstPick = picks.slice(0, Math.min(INITIAL_BATCH_COUNT, TARGET_COUNT));
+      var remainingPick = picks.slice(firstPick.length);
+      var painted = false;
+
+      function paintPages(pages) {
+        if (gen !== loadGen || !pages || !pages.length) return;
         feedEl.setAttribute('aria-busy', 'false');
-        if (!pages.length) { showError('Could not load articles. Try again.'); setLoading(false); return; }
-        feedEl.innerHTML = '';
+        if (!painted) { feedEl.innerHTML = ''; painted = true; }
         appendArticlesChunked(pages, 'en', function () {
           hydrateThumbnails('en', pages, signal);
         });
+      }
+
+      fetchVitalSummaries(firstPick, signal).then(function (pages) {
+        paintPages(pages);
+        if (!remainingPick.length || (signal && signal.aborted)) return;
+        return new Promise(function (resolve) {
+          runWhenIdle(function () {
+            if (signal && signal.aborted) { resolve(); return; }
+            fetchVitalSummaries(remainingPick, signal).then(function (more) {
+              paintPages(more);
+              resolve();
+            }).catch(function (err) {
+              if (err && err.name === 'AbortError') return resolve();
+              resolve();
+            });
+          });
+        });
+      }).then(function () {
+        if (gen !== loadGen) return;
+        if (!painted) { feedEl.setAttribute('aria-busy', 'false'); showError('Could not load articles. Try again.'); }
         setLoading(false);
       }).catch(function (err) {
         if (err && err.name === 'AbortError') return;
