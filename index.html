@@ -152,6 +152,8 @@
       color:var(--text-tertiary);
     }
     .article-image-fallback svg { opacity:0.55; }
+    body.text-only .article, body.text-only .skeleton-row { grid-template-columns:1fr; }
+    body.text-only .article-image-wrap, body.text-only .skel-img { display:none; }
 
     /* Skeleton */
     .skeleton-row {
@@ -164,7 +166,7 @@
     .skel-line { height:11px; width:100%; margin-bottom:6px; }
     .skel-line.short { width:55%; }
     .skel-img { width:120px; aspect-ratio:4/3; }
-    @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:0.55; } }
+    @keyframes pulse { 0%,100% { opacity:1; } 49.999% { opacity:0.54; } }
     @keyframes spin { to { transform:rotate(360deg); } }
 
     /* Header refresh button */
@@ -226,6 +228,7 @@
       .filters { padding:0 14px 12px; }
       main { padding:14px 14px 0; }
       .article,.skeleton-row { grid-template-columns:80px 1fr; gap:12px; padding:11px 0; }
+      body.text-only .article, body.text-only .skeleton-row { grid-template-columns:1fr; }
       .article-image-wrap,.skel-img { width:80px; aspect-ratio:1/1; }
       .article-title { font-size:0.98rem; }
       .article-summary { font-size:0.82rem; }
@@ -275,9 +278,9 @@
           <svg id="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
           <svg id="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
         </button>
-        <button class="refresh-btn" id="refresh-btn" aria-label="Get 50 new articles">
+        <button class="refresh-btn" id="refresh-btn" aria-label="Get new articles">
           <svg class="refresh-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
-          <span class="refresh-label" id="refresh-label">New 50</span>
+          <span class="refresh-label" id="refresh-label">New articles</span>
         </button>
       </div>
     </div>
@@ -300,10 +303,13 @@
     <p class="tab-desc" id="tab-desc">Completely random articles from across all of Wikipedia.</p>
 
     <div class="filters" id="filters">
-      <label class="filter-chip">
-        <input type="checkbox" id="toggle-stubs" checked> Hide stubs
+      <label class="filter-chip" id="stub-chip">
+        <input type="checkbox" id="toggle-stubs"> Hide stubs
       </label>
-      <span class="filter-caption" id="filter-caption">Stubs are very short, incomplete articles.</span>
+      <label class="filter-chip" id="text-only-chip">
+        <input type="checkbox" id="toggle-text-only"> Text only
+      </label>
+      <span class="filter-caption" id="filter-caption">Text-only mode loads the fastest; stub filtering is optional.</span>
     </div>
   </header>
 
@@ -314,7 +320,7 @@
       <div class="bottom-cta-wrap">
         <button class="big-refresh" id="big-refresh-btn">
           <svg class="refresh-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
-          <span id="big-refresh-label">Refresh for 50 more</span>
+          <span id="big-refresh-label">Refresh for more</span>
         </button>
         <span class="big-refresh-sub" id="big-refresh-sub">Done reading? Get a fresh batch.</span>
       </div>
@@ -330,13 +336,16 @@
   (function () {
     'use strict';
 
-    var TARGET_COUNT = 50;
+    var TARGET_COUNT = 40;
+    var SKELETON_COUNT = 12;
+    var RENDER_CHUNK_SIZE = 10;
     var MIN_EXTRACT_LEN = 120;
-    var STUB_BYTES = 1500;        // fallback stub heuristic if categories are missing
-    var hideStubs = true;         // toggle: filter out stubs (default on - learning-first)
+    var STUB_BYTES = 1400;        // fallback stub heuristic if categories are missing
+    var hideStubs = false;        // toggle: filter out stubs (default off for faster, broader loading)
+    var textOnly = false;         // toggle: skip image fetching for maximum speed
     var RTL_LANGS = { ar: true };
 
-    var BIG_BTN = { en:'Refresh for 50 more', zh:'再获取 50 篇', es:'Cargar 50 más', fr:'Charger 50 de plus', de:'Weitere 50 laden', ja:'さらに50件', ru:'Ещё 50 статей', ar:'تحديث ٥٠ مقالة', pt:'Mais 50 artigos' };
+    var BIG_BTN = { en:'Refresh for more', zh:'再获取更多', es:'Cargar más', fr:'Charger plus', de:'Weitere laden', ja:'さらに読み込む', ru:'Ещё статьи', ar:'تحديث المزيد', pt:'Mais artigos' };
     var BIG_SUB = { en:'Done reading? Get a fresh batch.', zh:'看完了？再来一批。', es:'¿Terminaste? Otra tanda.', fr:'Fini ? Un nouveau lot.', de:'Fertig? Neuer Schwung.', ja:'読み終わった？新しい記事を。', ru:'Прочитали? Новая подборка.', ar:'انتهيت؟ دفعة جديدة.', pt:'Terminou? Mais uma leva.' };
     var TAB_RANDOM_DESC = { en:'Completely random articles from across all of Wikipedia.', zh:'来自整个维基百科的完全随机条目。', es:'Artículos completamente aleatorios de toda Wikipedia.', fr:'Articles entièrement aléatoires de tout Wikipédia.', de:'Völlig zufällige Artikel aus ganz Wikipedia.', ja:'ウィキペディア全体からの完全にランダムな記事。', ru:'Полностью случайные статьи со всей Википедии.', ar:'مقالات عشوائية تمامًا من كل ويكيبيديا.', pt:'Artigos totalmente aleatórios de toda a Wikipédia.' };
     var ERROR_TEXT = {
@@ -374,7 +383,9 @@
     var topTabs = document.getElementById('top-tabs');
     var vitalTab = document.getElementById('vital-tab');
     var filtersEl = document.getElementById('filters');
+    var stubChip = document.getElementById('stub-chip');
     var toggleStubs = document.getElementById('toggle-stubs');
+    var toggleTextOnly = document.getElementById('toggle-text-only');
 
     function storeGet(k) { try { return window.localStorage.getItem(k); } catch (e) { return null; } }
     function storeSet(k, v) { try { window.localStorage.setItem(k, v); } catch (e) {} }
@@ -402,21 +413,23 @@
       return 'https://' + lang + '.wikipedia.org/w/api.php?' + qs;
     }
 
-    function fetchJson(url) {
-      return fetch(url, { cache: 'no-store' }).then(function (r) {
+    function fetchJson(url, signal) {
+      var opts = { cache: 'no-store' };
+      if (signal) opts.signal = signal;
+      return fetch(url, opts).then(function (r) {
         if (r.status === 429) throw new Error('rate-limited');
         if (!r.ok) throw new Error('HTTP ' + r.status);
         return r.json();
       });
     }
 
-    // RANDOM mode: generator=random, one call, includes everything.
-    function fetchRandom(lang, count) {
+    // RANDOM mode: first fetch text/URLs only so readable cards render fast.
+    // Thumbnails are fetched afterwards unless text-only mode is on.
+    function fetchRandom(lang, count, signal) {
       var params = {
         action: 'query', generator: 'random', grnnamespace: '0', grnlimit: String(count),
-        prop: 'extracts|pageimages|info|pageprops',
+        prop: 'extracts|info|pageprops',
         exintro: '1', explaintext: '1', exlimit: String(count),
-        piprop: 'thumbnail', pithumbsize: '240', pilimit: String(count),
         inprop: 'url', ppprop: 'disambiguation'
       };
       // Only pull categories (needed for stub detection) when the stub filter is on.
@@ -426,8 +439,63 @@
         params.cllimit = 'max';
       }
       var url = apiUrl(lang, params);
-      return fetchJson(url).then(function (data) {
+      return fetchJson(url, signal).then(function (data) {
         return (data.query && data.query.pages) || [];
+      });
+    }
+
+    function fetchThumbnails(lang, pages, signal) {
+      if (textOnly || !pages || !pages.length) return Promise.resolve({});
+      var ids = [];
+      var seen = {};
+      pages.forEach(function (p) {
+        if (p && p.pageid != null && !seen[p.pageid]) {
+          seen[p.pageid] = 1;
+          ids.push(p.pageid);
+        }
+      });
+      if (!ids.length) return Promise.resolve({});
+      var params = {
+        action: 'query', pageids: ids.join('|'),
+        prop: 'pageimages', piprop: 'thumbnail', pithumbsize: '180', pilimit: String(ids.length)
+      };
+      return fetchJson(apiUrl(lang, params), signal).then(function (data) {
+        var pages = (data.query && data.query.pages) || [];
+        var thumbs = {};
+        pages.forEach(function (p) {
+          if (p && p.pageid != null && p.thumbnail && p.thumbnail.source) {
+            thumbs[p.pageid] = p.thumbnail.source;
+          }
+        });
+        return thumbs;
+      });
+    }
+
+    function hydrateThumbnails(lang, pages, signal) {
+      if (textOnly) return;
+      fetchThumbnails(lang, pages, signal).then(function (thumbs) {
+        Object.keys(thumbs).forEach(function (id) {
+          var slot = feedEl.querySelector('.article-image-wrap[data-pageid="' + id + '"]');
+          if (!slot || slot.querySelector('img')) return;
+          var img = document.createElement('img');
+          var idx = Number(slot.getAttribute('data-idx') || '99');
+          img.className = 'article-image';
+          img.src = thumbs[id];
+          img.alt = '';
+          img.decoding = 'async';
+          if (idx < 4) {
+            img.loading = 'eager';
+            img.fetchPriority = (idx === 0 ? 'high' : 'auto');
+          } else {
+            img.loading = 'lazy';
+            img.fetchPriority = 'low';
+          }
+          img.onload = function () { img.classList.add('loaded'); };
+          img.onerror = function () { img.remove(); };
+          slot.appendChild(img);
+        });
+      }).catch(function (err) {
+        if (err && err.name === 'AbortError') return;
       });
     }
 
@@ -475,7 +543,7 @@
       return true;
     }
 
-    function loadRandom(lang, onBatch) {
+    function loadRandom(lang, onBatch, signal) {
       var seen = seenInSession;
       var filtering = hideStubs && langHasStubFilter(lang);
       var total = 0;
@@ -491,24 +559,24 @@
         return out;
       }
 
-      // generator=random caps grnlimit at 50, so to fetch more we fire parallel calls.
-      // We show EVERYTHING that survives the stub filter — no cap, no chasing a count.
-      // Each batch PAINTS AS SOON AS IT ARRIVES (progressive rendering) so the user can
-      // start reading immediately instead of waiting for every batch to finish.
-      // Stub rates vary by wiki: regular Wikipedia (~30% stubs) shows ~70 from 2 batches;
-      // Simple English is very stubby (~85%) so 4 batches shows ~40.
+      // When filtering is off, one request is fastest and avoids extra network work.
+      // When filtering is on, parallel calls compensate for discarded short/stub pages.
+      // Each batch paints as soon as it arrives so the user can start reading immediately.
       var batches;
-      if (!filtering) batches = 1;              // 50 unfiltered, plenty
-      else if (lang === 'simple') batches = 4;  // very stubby; ~40 survive
-      else batches = 2;                         // ~30% stubs -> ~70 survive
+      if (!filtering) batches = 1;
+      else if (lang === 'simple') batches = 4;
+      else batches = 2;
 
       var calls = [];
       for (var i = 0; i < batches; i++) {
-        calls.push(fetchRandom(lang, 50).then(function (pages) {
+        calls.push(fetchRandom(lang, filtering ? TARGET_COUNT + 10 : TARGET_COUNT, signal).then(function (pages) {
           var got = survivors(pages);
           total += got.length;
           if (got.length) onBatch(got);          // paint this batch's survivors now
-        }).catch(function () { /* one batch failing is fine; others still paint */ }));
+        }).catch(function (err) {
+          if (err && err.name === 'AbortError') return;
+          /* one batch failing is fine; others still paint */
+        }));
       }
 
       return Promise.all(calls).then(function () { return total; });
@@ -517,10 +585,10 @@
     // ===== VITAL MODE =====
     // Vital articles come from a pre-built vital.json (a flat array of page IDs),
     // hosted next to index.html. If it loads, the Vital tab appears; if not, it stays
-    // hidden. At runtime we shuffle the IDs, take 50, and fetch their summaries by ID.
+    // hidden. At runtime we shuffle the IDs and fetch their summaries by title.
 
     function loadVitalJson() {
-      return fetch('./vital.json', { cache: 'no-store' }).then(function (r) {
+      return fetch('./vital.json', { cache: 'default' }).then(function (r) {
         if (!r.ok) throw new Error('no vital.json');
         return r.json();
       }).then(function (data) {
@@ -535,17 +603,17 @@
       });
     }
 
-    // Fetch article summaries by TITLE for up to 50 titles. redirects=1 makes renamed
+    // Fetch article summaries by TITLE. redirects=1 makes renamed
     // articles resolve to their current page automatically. Returns whatever real
     // articles came back (missing/deleted titles are simply skipped).
-    function fetchVitalSummaries(titles) {
+    function fetchVitalSummaries(titles, signal) {
       if (!titles.length) return Promise.resolve([]);
       var url = apiUrl('en', {
         action: 'query', titles: titles.join('|'), redirects: '1',
-        prop: 'extracts|pageimages|info', exintro: '1', explaintext: '1', exlimit: '50',
-        piprop: 'thumbnail', pithumbsize: '240', pilimit: '50', inprop: 'url'
+        prop: 'extracts|info', exintro: '1', explaintext: '1', exlimit: String(Math.min(titles.length, TARGET_COUNT)),
+        inprop: 'url'
       });
-      return fetchJson(url).then(function (data) {
+      return fetchJson(url, signal).then(function (data) {
         var pages = (data.query && data.query.pages) || [];
         var out = [];
         var seenIds = {};   // de-dupe by page ID: two titles of the same article
@@ -563,10 +631,11 @@
       });
     }
 
-    function articleMarkup(p, idx) {
+    function articleMarkup(p, idx, lang) {
+      var pageLang = lang || currentLang;
       var thumb = p.thumbnail && p.thumbnail.source;
-      var url = p.fullurl || p.canonicalurl || ('https://' + currentLang + '.wikipedia.org/wiki/' + encodeURIComponent(p.title));
-      var textDir = RTL_LANGS[currentLang] ? ' dir="rtl"' : '';
+      var url = p.fullurl || p.canonicalurl || ('https://' + pageLang + '.wikipedia.org/wiki/' + encodeURIComponent(p.title));
+      var textDir = RTL_LANGS[pageLang] ? ' dir="rtl"' : '';
       // The first few cards are above the fold: load them eagerly (and the very first
       // with high priority) so they appear immediately. Everything else stays lazy so
       // off-screen images only fetch as the user scrolls near them.
@@ -575,7 +644,7 @@
         ? 'loading="eager" fetchpriority="' + (idx === 0 ? 'high' : 'auto') + '"'
         : 'loading="lazy" fetchpriority="low"';
       return '<a class="article-link" href="' + esc(url) + '" target="_blank" rel="noopener noreferrer" aria-label="' + esc(p.title) + '">' +
-        '<div class="article-image-wrap">' +
+        '<div class="article-image-wrap" data-pageid="' + esc(p.pageid) + '" data-idx="' + esc(idx) + '">' +
           '<div class="article-image-fallback">' + BOOK_ICON + '</div>' +
           (thumb ? '<img class="article-image" src="' + esc(thumb) + '" alt="" ' + imgAttrs + ' decoding="async" onload="this.classList.add(\'loaded\')" onerror="this.remove()">' : '') +
         '</div>' +
@@ -605,7 +674,7 @@
       feedEl.innerHTML = '<div class="error-state"><strong>' + esc(t.t) + '</strong><small>' + esc(t.h) + '</small>' +
         (msg ? '<div style="margin-top:10px;font-size:0.74rem;opacity:0.55;">' + esc(msg) + '</div>' : '') + '</div>';
     }
-    function appendArticles(pages) {
+    function appendArticles(pages, lang) {
       var frag = document.createDocumentFragment();
       // Offset by however many cards are already in the feed, so the fade-in cascade
       // and the "first few load eagerly" logic stay continuous across batches that
@@ -616,10 +685,24 @@
         var wrap = document.createElement('article');
         wrap.className = 'article';
         wrap.style.animationDelay = Math.min(idx * 0.025, 0.4).toFixed(3) + 's';
-        wrap.innerHTML = articleMarkup(p, idx);
+        wrap.innerHTML = articleMarkup(p, idx, lang);
         frag.appendChild(wrap);
       });
       feedEl.appendChild(frag);
+    }
+
+    function appendArticlesChunked(pages, lang, done) {
+      var i = 0;
+      function step() {
+        appendArticles(pages.slice(i, i + RENDER_CHUNK_SIZE), lang);
+        i += RENDER_CHUNK_SIZE;
+        if (i < pages.length) {
+          requestAnimationFrame(step);
+        } else if (done) {
+          done();
+        }
+      }
+      requestAnimationFrame(step);
     }
 
     function setLoading(s) {
@@ -630,13 +713,21 @@
     }
 
     var loadGen = 0; // increments each load; stale in-flight responses are ignored
+    var activeController = null; // cancels old in-flight requests when a new load starts
+
+    function newLoadController() {
+      if (activeController) activeController.abort();
+      activeController = new AbortController();
+      return activeController;
+    }
 
     function load() {
-      if (currentTop === 'vital') { loadVital(); return; }
+      var controller = newLoadController();
+      if (currentTop === 'vital') { loadVital(controller.signal); return; }
       var gen = ++loadGen;
       setLoading(true);
       seenInSession = {};
-      showSkeletons(TARGET_COUNT);
+      showSkeletons(Math.min(TARGET_COUNT, SKELETON_COUNT));
 
       // Simple tab fetches from Simple English Wikipedia (simple.wikipedia.org);
       // Random uses the selected language.
@@ -651,10 +742,13 @@
           feedEl.setAttribute('aria-busy', 'false');
           feedEl.innerHTML = '';
         }
-        appendArticles(items);
+        appendArticlesChunked(items, lang, function () {
+          hydrateThumbnails(lang, items, controller.signal);
+        });
       }
 
-      loadRandom(lang, onBatch).catch(function (err) {
+      loadRandom(lang, onBatch, controller.signal).catch(function (err) {
+        if (err && err.name === 'AbortError') return;
         if (gen !== loadGen) return;
         if (!painted) showError(err && err.message ? err.message : '');
       }).then(function () {
@@ -664,7 +758,7 @@
       });
     }
 
-    function loadVital() {
+    function loadVital(signal) {
       var gen = ++loadGen;
       if (!vitalReady || !vitalTitles) {
         feedEl.setAttribute('aria-busy', 'false');
@@ -673,17 +767,20 @@
         return;
       }
       setLoading(true);
-      showSkeletons(TARGET_COUNT);
-      // Shuffle the full ID list, take 50, fetch their summaries.
+      showSkeletons(Math.min(TARGET_COUNT, SKELETON_COUNT));
+      // Shuffle the full title list, pick a batch, fetch their summaries.
       var pick = shuffle(vitalTitles.slice()).slice(0, TARGET_COUNT);
-      fetchVitalSummaries(pick).then(function (pages) {
+      fetchVitalSummaries(pick, signal).then(function (pages) {
         if (gen !== loadGen) return;
         feedEl.setAttribute('aria-busy', 'false');
         if (!pages.length) { showError('Could not load articles. Try again.'); setLoading(false); return; }
         feedEl.innerHTML = '';
-        appendArticles(pages);
+        appendArticlesChunked(pages, 'en', function () {
+          hydrateThumbnails('en', pages, signal);
+        });
         setLoading(false);
       }).catch(function (err) {
+        if (err && err.name === 'AbortError') return;
         if (gen !== loadGen) return;
         showError(err && err.message ? err.message : '');
         setLoading(false);
@@ -714,9 +811,20 @@
     }
     function toggleMode() { setMode(currentModeLD === 'dark' ? 'light' : 'dark'); }
 
+    function applyTextOnly() {
+      document.body.classList.toggle('text-only', textOnly);
+      if (toggleTextOnly) toggleTextOnly.checked = textOnly;
+      storeSet('polymath-text-only', textOnly ? '1' : '0');
+    }
+
+    function initTextOnly() {
+      textOnly = storeGet('polymath-text-only') === '1';
+      applyTextOnly();
+    }
+
     function updateDesc() {
       if (currentTop === 'vital') {
-        tabDesc.textContent = 'Wikipedia\u2019s hand-curated \u201cvital articles\u201d \u2014 the ~50,000 topics editors deem most important to know. 50 at random.';
+        tabDesc.textContent = 'Wikipedia\u2019s hand-curated \u201cvital articles\u201d \u2014 important topics editors deem useful to know, shuffled at random.';
         return;
       }
       if (currentTop === 'simple') {
@@ -727,18 +835,18 @@
     }
     function bottomLabels() {
       if (currentTop === 'vital') {
-        refreshLabel.textContent = 'Shuffle 50';
-        bigRefreshLabel.textContent = 'Shuffle 50 more';
-        bigRefreshSub.textContent = 'Reshuffle for a fresh 50 vital articles.';
+        refreshLabel.textContent = 'Shuffle';
+        bigRefreshLabel.textContent = 'Shuffle more';
+        bigRefreshSub.textContent = 'Reshuffle for a fresh set of vital articles.';
         return;
       }
       if (currentTop === 'simple') {
-        refreshLabel.textContent = 'New 50';
-        bigRefreshLabel.textContent = 'Refresh for 50 more';
+        refreshLabel.textContent = 'New articles';
+        bigRefreshLabel.textContent = 'Refresh for more';
         bigRefreshSub.textContent = 'Done reading? Get a fresh batch.';
         return;
       }
-      refreshLabel.textContent = 'New 50';
+      refreshLabel.textContent = 'New articles';
       bigRefreshLabel.textContent = BIG_BTN[currentLang] || BIG_BTN.en;
       bigRefreshSub.textContent = BIG_SUB[currentLang] || BIG_SUB.en;
     }
@@ -748,9 +856,10 @@
     // Languages without one (de, es) hide the toggle entirely rather than show a
     // control that does nothing.
     function updateFiltersVisibility() {
-      var show = (currentTop === 'simple') ||
-                 (currentTop === 'random' && langHasStubFilter(currentLang));
-      filtersEl.style.display = show ? '' : 'none';
+      filtersEl.style.display = '';
+      var showStub = (currentTop === 'simple') ||
+                     (currentTop === 'random' && langHasStubFilter(currentLang));
+      stubChip.style.display = showStub ? '' : 'none';
     }
 
     // Switch between Random, Vital, and Simple tabs.
@@ -781,10 +890,22 @@
       updateDesc();
     }
 
+    function registerServiceWorker() {
+      if (!('serviceWorker' in navigator) || location.protocol === 'file:') return;
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('./sw.js').catch(function () {});
+      });
+    }
+
     // ---- Events ----
     toggleStubs.addEventListener('change', function (e) {
       hideStubs = e.target.checked;
       if (currentTop === 'random' || currentTop === 'simple') load();
+    });
+    toggleTextOnly.addEventListener('change', function (e) {
+      textOnly = e.target.checked;
+      applyTextOnly();
+      load();
     });
 
     topTabs.addEventListener('click', function (e) {
@@ -811,6 +932,8 @@
     });
 
     initMode();
+    initTextOnly();
+    registerServiceWorker();
     setLanguage('en');
     load();
     loadVitalJson(); // reveals the Vital tab if vital.json is present
