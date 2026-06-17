@@ -410,14 +410,20 @@
 
     // RANDOM mode: generator=random, one call, includes everything.
     function fetchRandom(lang, count) {
-      var url = apiUrl(lang, {
+      var params = {
         action: 'query', generator: 'random', grnnamespace: '0', grnlimit: String(count),
-        prop: 'extracts|pageimages|info|pageprops|categories',
+        prop: 'extracts|pageimages|info|pageprops',
         exintro: '1', explaintext: '1', exlimit: String(count),
-        piprop: 'thumbnail', pithumbsize: '400', pilimit: String(count),
-        inprop: 'url', ppprop: 'disambiguation',
-        cllimit: 'max'
-      });
+        piprop: 'thumbnail', pithumbsize: '240', pilimit: String(count),
+        inprop: 'url', ppprop: 'disambiguation'
+      };
+      // Only pull categories (needed for stub detection) when the stub filter is on.
+      // This keeps the response small in the common case.
+      if (hideStubs && langHasStubFilter(lang)) {
+        params.prop += '|categories';
+        params.cllimit = 'max';
+      }
+      var url = apiUrl(lang, params);
       return fetchJson(url).then(function (data) {
         return (data.query && data.query.pages) || [];
       });
@@ -469,25 +475,29 @@
 
     function loadRandom(lang, onBatch) {
       var collected = [];
-      var filtering = hideStubs;
-      function round(attemptsLeft) {
-        if (collected.length >= TARGET_COUNT || attemptsLeft <= 0) {
-          if (collected.length) onBatch(collected.slice(0, TARGET_COUNT));
-          return Promise.resolve(collected.length);
-        }
-        var need = TARGET_COUNT - collected.length;
-        var grab = filtering ? 50 : Math.min(50, Math.max(20, need * 2));
-        return fetchRandom(lang, grab).then(function (pages) {
-          pages.forEach(function (p) {
-            if (collected.length >= TARGET_COUNT) return;
-            if (!isGoodRandom(p, lang) || seenInSession[p.pageid]) return;
-            seenInSession[p.pageid] = 1; collected.push(p);
-          });
-          return round(attemptsLeft - 1);
+      var seen = seenInSession;
+      var filtering = hideStubs && langHasStubFilter(lang);
+
+      function take(pages) {
+        pages.forEach(function (p) {
+          if (!isGoodRandom(p, lang) || seen[p.pageid]) return;
+          seen[p.pageid] = 1; collected.push(p);
         });
       }
-      // Hiding stubs rejects ~30%, so a few extra rounds easily fills 50.
-      return round(filtering ? 12 : 6);
+
+      // Fetch generously in ONE parallel wave, then show whatever survives the filter.
+      // We don't force exactly 50 — more is fine, slightly fewer is fine. This avoids
+      // the slow sequential "top-up until exactly 50" loop entirely.
+      // generator=random caps grnlimit at 50, so we issue parallel calls of 50.
+      // When filtering (~30% rejected) 2 calls net ~70; unfiltered, 1 call gives 50.
+      var waves = filtering ? [50, 50] : [50];
+      var calls = waves.map(function (n) { return fetchRandom(lang, n); });
+
+      return Promise.all(calls).then(function (results) {
+        results.forEach(take);
+        onBatch(collected);
+        return collected.length;
+      });
     }
 
     // ===== VITAL MODE =====
@@ -519,7 +529,7 @@
       var url = apiUrl('en', {
         action: 'query', titles: titles.join('|'), redirects: '1',
         prop: 'extracts|pageimages|info', exintro: '1', explaintext: '1', exlimit: '50',
-        piprop: 'thumbnail', pithumbsize: '400', pilimit: '50', inprop: 'url'
+        piprop: 'thumbnail', pithumbsize: '240', pilimit: '50', inprop: 'url'
       });
       return fetchJson(url).then(function (data) {
         var pages = (data.query && data.query.pages) || [];
