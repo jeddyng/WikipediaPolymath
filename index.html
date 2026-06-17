@@ -485,13 +485,18 @@
         });
       }
 
-      // Fetch generously in ONE parallel wave, then show whatever survives the filter.
-      // We don't force exactly 50 — more is fine, slightly fewer is fine. This avoids
-      // the slow sequential "top-up until exactly 50" loop entirely.
-      // generator=random caps grnlimit at 50, so we issue parallel calls of 50.
-      // When filtering (~30% rejected) 2 calls net ~70; unfiltered, 1 call gives 50.
-      var waves = filtering ? [50, 50] : [50];
-      var calls = waves.map(function (n) { return fetchRandom(lang, n); });
+      // generator=random caps grnlimit at 50, so to fetch more we fire parallel calls.
+      // We show EVERYTHING that survives the stub filter — no cap, no chasing a count.
+      // More articles is welcome; fewer is fine too. Stub rates vary by wiki, so the
+      // displayed count naturally varies: regular Wikipedia (~30% stubs) shows ~70 from
+      // 2 batches; Simple English is very stubby (~85%) so 4 batches shows ~40.
+      var batches;
+      if (!filtering) batches = 1;              // 50 unfiltered, plenty
+      else if (lang === 'simple') batches = 4;  // very stubby; ~40 survive
+      else batches = 2;                         // ~30% stubs -> ~70 survive
+
+      var calls = [];
+      for (var i = 0; i < batches; i++) calls.push(fetchRandom(lang, 50));
 
       return Promise.all(calls).then(function (results) {
         results.forEach(take);
