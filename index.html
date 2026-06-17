@@ -135,6 +135,16 @@
       font-size:0.84rem; color:var(--text-secondary); line-height:1.45; margin:0;
       display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
     }
+    .article-actions {
+      grid-column:2; margin-top:-6px; min-height:20px;
+    }
+    .simple-version-btn {
+      display:inline-flex; align-items:center; gap:5px;
+      padding:3px 9px; border:1px solid var(--border); border-radius:999px;
+      font-size:0.74rem; font-weight:600; color:var(--text-tertiary);
+      background:transparent; transition:border-color 0.15s,color 0.15s,background 0.15s;
+    }
+    .simple-version-btn:hover { color:var(--accent); border-color:var(--accent); background:var(--accent-soft); }
     .article-image-wrap {
       position:relative; width:120px; aspect-ratio:4/3; background:var(--skeleton);
       overflow:hidden; border-radius:3px; border:1px solid var(--border);
@@ -154,6 +164,7 @@
     .article-image-fallback svg { opacity:0.55; }
     body.text-only .article, body.text-only .skeleton-row { grid-template-columns:1fr; }
     body.text-only .article-image-wrap, body.text-only .skel-img { display:none; }
+    body.text-only .article-actions { grid-column:1; }
 
     /* Skeleton */
     .skeleton-row {
@@ -473,8 +484,8 @@
     }
 
     function hydrateThumbnails(lang, pages, signal) {
-      if (textOnly) return;
-      fetchThumbnails(lang, pages, signal).then(function (thumbs) {
+      if (textOnly) return Promise.resolve();
+      return fetchThumbnails(lang, pages, signal).then(function (thumbs) {
         Object.keys(thumbs).forEach(function (id) {
           var slot = feedEl.querySelector('.article-image-wrap[data-pageid="' + id + '"]');
           if (!slot || slot.querySelector('img')) return;
@@ -497,6 +508,55 @@
         });
       }).catch(function (err) {
         if (err && err.name === 'AbortError') return;
+      });
+    }
+
+    function fetchSimpleLinksForPages(pages, signal) {
+      if (!pages || !pages.length) return Promise.resolve({});
+      var ids = [];
+      var seen = {};
+      pages.forEach(function (p) {
+        if (p && p.pageid != null && !seen[p.pageid]) {
+          seen[p.pageid] = 1;
+          ids.push(p.pageid);
+        }
+      });
+      if (!ids.length) return Promise.resolve({});
+      var url = apiUrl('en', {
+        action: 'query', pageids: ids.join('|'),
+        prop: 'langlinks', lllang: 'simple', llprop: 'url', lllimit: String(ids.length)
+      });
+      return fetchJson(url, signal).then(function (data) {
+        var result = {};
+        var pages = (data.query && data.query.pages) || [];
+        pages.forEach(function (p) {
+          if (!p || p.pageid == null || !p.langlinks || !p.langlinks.length) return;
+          var link = p.langlinks[0];
+          var simpleUrl = link.url || ('https://simple.wikipedia.org/wiki/' + encodeURIComponent(link['*'] || p.title));
+          result[p.pageid] = simpleUrl;
+        });
+        return result;
+      });
+    }
+
+    function hydrateSimpleLinks(pages, signal) {
+      // Only English Random and Vital have a clean direct mapping to Simple English.
+      if (!pages || !pages.length) return Promise.resolve();
+      if (!(currentTop === 'vital' || (currentTop === 'random' && currentLang === 'en'))) return Promise.resolve();
+      return fetchSimpleLinksForPages(pages, signal).then(function (links) {
+        Object.keys(links).forEach(function (id) {
+          var slot = feedEl.querySelector('.article-actions[data-pageid="' + id + '"]');
+          if (!slot || slot.querySelector('.simple-version-btn')) return;
+          slot.innerHTML = '<a class="simple-version-btn" href="' + esc(links[id]) + '" target="_blank" rel="noopener noreferrer">Simple version</a>';
+        });
+      }).catch(function (err) {
+        if (err && err.name === 'AbortError') return;
+      });
+    }
+
+    function hydrateExtrasAfterPaint(lang, pages, signal) {
+      return hydrateThumbnails(lang, pages, signal).then(function () {
+        return hydrateSimpleLinks(pages, signal);
       });
     }
 
@@ -671,7 +731,8 @@
           '<h2 class="article-title">' + esc(p.title) + '</h2>' +
           '<p class="article-summary">' + esc(p.extract || '') + '</p>' +
         '</div>' +
-      '</a>';
+      '</a>' +
+      '<div class="article-actions" data-pageid="' + esc(p.pageid) + '"></div>';
     }
 
     function showSkeletons(n) {
@@ -767,7 +828,7 @@
           feedEl.innerHTML = '';
         }
         appendArticlesChunked(items, lang, function () {
-          hydrateThumbnails(lang, items, controller.signal);
+          hydrateExtrasAfterPaint(lang, items, controller.signal);
         });
       }
 
@@ -803,7 +864,7 @@
         feedEl.setAttribute('aria-busy', 'false');
         if (!painted) { feedEl.innerHTML = ''; painted = true; }
         appendArticlesChunked(pages, 'en', function () {
-          hydrateThumbnails('en', pages, signal);
+          hydrateExtrasAfterPaint('en', pages, signal);
         });
       }
 
