@@ -275,7 +275,7 @@
       </div>
       <div class="controls">
         <select class="lang-select" id="lang-select" aria-label="Wikipedia language">
-          <option value="en">English</option>
+          <option value="en" selected>English</option>
           <option value="zh">中文 (简体)</option>
           <option value="es">Español</option>
           <option value="fr">Français</option>
@@ -991,6 +991,7 @@
 
     function setLanguage(lang) {
       currentLang = lang;
+      langSelect.value = lang;
       document.documentElement.setAttribute('lang', lang);
       document.documentElement.setAttribute('dir', 'ltr');
       updateFiltersVisibility();
