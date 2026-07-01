@@ -2,6 +2,177 @@
 
 Newest runs first. Each section lists the vital articles added that run.
 
+## 2026-07-01  (incremental)
+
+- Run at: 2026-07-01T09:28:12Z
+- Total titles in list: **40065**
+- New this run: **142**
+
+### Arts (+24)
+- An Essay Concerning Human Understanding
+- Autobiography
+- Capitoline Museums
+- Couplet
+- Daylighting (architecture)
+- Dubbing
+- Hiroshima Peace Memorial
+- Improvisation
+- Isle of the Dead (painting)
+- National Museum of Iran
+- Natural History (Pliny)
+- Neues Museum
+- Nihon Shoki
+- Oral literature
+- Palacio de Bellas Artes
+- Poster
+- Rapunzel
+- Sanskrit literature
+- Subtitles
+- The Social Contract
+- The Tale of the Bamboo Cutter
+- The Wind in the Willows
+- Travel literature
+- Woodcut
+
+### Biology and health sciences (+11)
+- Azadirachta indica
+- Betel nut chewing
+- Biopolymer
+- Cone (botany)
+- Dragon fruit
+- Embolism
+- Macaca fascicularis
+- Metal toxicity
+- Oral cancer
+- Sengi
+- Tobacco smoking
+
+### Everyday life (+5)
+- Billiard ball
+- Cue stick
+- Educational game
+- Exhibition game
+- World Tennis
+
+### Geography (+13)
+- Anqing
+- Ganzhou
+- Jebel Marra
+- Kakadu National Park
+- Kruger National Park
+- Lençóis Maranhenses National Park
+- Liuzhou
+- Long Xuyên (city)
+- Thái Nguyên (city)
+- Tibesti Mountains
+- Weifang
+- Xiangyang
+- Yuncheng
+
+### History (+13)
+- Beiyang government
+- Burning of books and burying of scholars
+- Flag of South Africa
+- History of pharmacy
+- Kernavė
+- List of foreign territories in China
+- Operation Blue Star
+- Phlogiston theory
+- Prehistoric Africa
+- Prehistoric Asia
+- Prehistoric Europe
+- Saadi Sultanate
+- Shanghai massacre
+
+### Mathematics (+1)
+- Correlogram
+
+### People (+33)
+- Alain Mabanckou
+- Antonio de Ulloa
+- Assia Djebar
+- Bahadur Shah Zafar
+- Bei Dao
+- Binyavanga Wainaina
+- Bob Woodward
+- Emily Kame Kngwarreye
+- Emperor Xuan of Han
+- Guan Zhong
+- James Brooke
+- Jean-Pierre Serre
+- John Milnor
+- Johnny Carson
+- Julius Fučík (journalist)
+- Khaby Lame
+- Liu Wen (model)
+- Marguerite Duras
+- Maria Ozawa
+- Mohammed bin Rashid Al Maktoum
+- Mou Tsung-san
+- Paul-Henri Spaak
+- Ramon Berenguer IV of Barcelona
+- Ringling Bros. and Barnum & Bailey Circus
+- Robert Moses
+- Shin Saimdang
+- Sophie Taeuber-Arp
+- Taufik Hidayat
+- Thomas Peters
+- Tilman Riemenschneider
+- Uzun Hasan
+- William IX of Aquitaine
+- Zhang Binglin
+
+### Philosophy and religion (+3)
+- Ancient philosophy
+- Buddhist temple
+- Vayu
+
+### Physical sciences (+17)
+- Auger effect
+- Boyle's law
+- Dew point
+- Foot-pound
+- Iron ore
+- Learned society
+- Mach number
+- Macromolecule
+- Path-integral formulation
+- Quark–gluon plasma
+- Radionuclide
+- Standard temperature and pressure
+- Valence (chemistry)
+- Valence electron
+- Van der Waals radius
+- Volatile organic compound
+- Volatility (chemistry)
+
+### Society and social sciences (+20)
+- Boarding school
+- Broken windows theory
+- Cabinet (government)
+- Commodity
+- Debt bondage
+- Deterrence (penology)
+- Dictatorship of the proletariat
+- Enlightened absolutism
+- Kleptocracy
+- Middle dot
+- Miscarriage of justice
+- Mob rule
+- One-party state
+- Palindrome
+- Quotation
+- Rehabilitation (penology)
+- Retributive justice
+- Secrecy
+- Statism
+- Veto
+
+### Technology (+2)
+- Polymorphism (computer science)
+- Stilts
+
+---
 ## 2026-06-14  (incremental)
 
 - Run at: 2026-06-14T11:26:23Z
