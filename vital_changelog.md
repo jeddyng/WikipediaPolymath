@@ -2,6 +2,256 @@
 
 Newest runs first. Each section lists the vital articles added that run.
 
+## 2026-08-01  (incremental)
+
+- Run at: 2026-08-01T08:02:08Z
+- Total titles in list: **40286**
+- New this run: **221**
+
+### Arts (+39)
+- 2D computer graphics
+- 3D computer graphics
+- Arc de Triomphe
+- Art exhibition
+- Assumption of the Virgin (Titian)
+- Bolero
+- Book of Common Prayer
+- Casting (performing arts)
+- Claymation
+- Computer-generated imagery
+- Dr. Strangelove
+- Found footage film
+- Germany. A Winter's Tale
+- Hippocratic Corpus
+- James Bond (literary character)
+- King James Version
+- Los caprichos
+- Medea (play)
+- Night (memoir)
+- Ophelia (Millais)
+- Pandava
+- Paris Is Burning (film)
+- Photo 51
+- Pillars of Ashoka
+- Portraits of Kim Il Sung and Kim Jong Il
+- Rosencrantz and Guildenstern Are Dead
+- Rotoscoping
+- Shaolin Monastery
+- Shōnen manga
+- Slide guitar
+- Stagecoach (1939 film)
+- Storyboard
+- The Call of the Wild
+- The Night of the Hunter
+- The Ones Who Walk Away from Omelas
+- The Scarlet Letter
+- The Sun Also Rises
+- Thirty-six Views of Mount Fuji
+- Winged Victory of Samothrace
+
+### Biology and health sciences (+29)
+- American red squirrel
+- Anorexia
+- Asgard archaea
+- Barramundi
+- Basenji
+- Basset Hound
+- Beagle
+- Black-crowned night heron
+- Bulimia
+- Bulldog
+- Common eider
+- Coronary artery bypass surgery
+- Esox
+- Gnetidae
+- Harlequin duck
+- Himalayan monal
+- Kitti's hog-nosed bat
+- Labrador Retriever
+- Lutjanidae
+- Panic disorder
+- Parasitology
+- Radiodonta
+- Shoaling and schooling
+- Specific phobia
+- Throat lozenge
+- Turridae
+- Vagus nerve
+- White-browed wagtail
+- White-eyelid mangabey
+
+### Everyday life (+10)
+- Anklet
+- Asian conical hat
+- Berlin Zoo
+- Estadio Azteca
+- Frog legs
+- Mountain biking
+- Shogi
+- Slalom skiing
+- Swimfin
+- Video game art design
+
+### Geography (+12)
+- Alaska
+- Bird's Head Peninsula
+- Bắc Ninh (city)
+- Cà Mau (city)
+- El Obeid
+- Fuyang
+- Long Xuyên
+- Northeast Passage
+- Northwest Passage
+- Trabzon
+- Western United States
+- İzmit
+
+### History (+18)
+- Bactria–Margiana Archaeological Complex
+- Bar Kokhba Revolt
+- Civil Rights Act of 1964
+- Concert of Europe
+- Dannebrog
+- Hijrah
+- Jagiellonian dynasty
+- Jamestown
+- Kingdom of Romania
+- Liu Song dynasty
+- Loulan
+- Manila galleon
+- Natufian culture
+- Nazca culture
+- Piast dynasty
+- Steppe theory
+- The Troubles
+- Third plague pandemic
+
+### Mathematics (+2)
+- Infinite regress
+- Pentagram
+
+### People (+55)
+- Ablai Khan
+- Abraham Kuyper
+- Amanullah Khan
+- Amos Tutuola
+- Augusto Roa Bastos
+- Bessie Head
+- Elena Poniatowska
+- Enid Blyton
+- Etel Adnan
+- Fernando Alonso
+- Flora Nwapa
+- Frank Bainimarama
+- Franz Marc
+- George David Birkhoff
+- Guerrilla Girls
+- H.S.M. Coxeter
+- Hiratsuka Raichō
+- Ingeborg Bachmann
+- Ioannis Kapodistrias
+- Ismail Qemali
+- István Széchenyi
+- Ivan Gundulić
+- Jan Švankmajer
+- Johan Rudolph Thorbecke
+- John Chilembwe
+- Johnny Walker (Indian actor)
+- Jude the Apostle
+- Lee Chang-dong
+- Luis Suárez (Spanish footballer)
+- M. Night Shyamalan
+- Mariama Bâ
+- Marko Marulić
+- Mary McCarthy (American writer)
+- Mary of Burgundy
+- Max Verstappen
+- Moshoeshoe I
+- Naim Frashëri
+- Nigel Mansell
+- Okwui Enwezor
+- Osamu Dazai
+- Osho
+- Peter Abrahams
+- Pierre Charles L'Enfant
+- Puduḫepa
+- Quintus Roscius
+- Rosalía de Castro
+- Rosario Castellanos
+- Ryusuke Hamaguchi
+- Rómulo Gallegos
+- Scott Dixon
+- Shahu the Great
+- Stanisław Ignacy Witkiewicz
+- Tahar Ben Jelloun
+- Tsung-Dao Lee
+- Zbigniew Herbert
+
+### Philosophy and religion (+17)
+- Abductive reasoning
+- Ahmadiyya
+- Ankh
+- Aphrodite
+- Celtic mythology
+- Dharmachakra
+- La Llorona
+- Lunar deity
+- Metaphilosophy
+- Neoplatonism
+- Nominalism
+- Numerology
+- Perseus
+- Platonism
+- Pluto (god)
+- Subject and object (philosophy)
+- Torii
+
+### Physical sciences (+2)
+- Coandă effect
+- Microscopy
+
+### Society and social sciences (+29)
+- Animal welfare
+- Anti-discrimination law
+- Balance of power (international relations)
+- Brahmi script
+- Cant
+- Chữ Nôm
+- Consul (diplomacy)
+- Criminal procedure
+- Full employment
+- Gazprom
+- Japanese New Year
+- Jawi script
+- KLM
+- Korean New Year
+- Maldivian language
+- Means of communication
+- Nigerian Pidgin
+- Nuremberg principles
+- Pathé
+- Political machine
+- Princess
+- Promissory note
+- Psychology of religion
+- Shanghai Stock Exchange
+- Shopping mall
+- Statute of Westminster 1931
+- Supermarket
+- Toho
+- Tết
+
+### Technology (+8)
+- ARM architecture family
+- Baikonur Cosmodrome
+- Carbon fiber reinforced polymer
+- E-scooter
+- Electronic tagging
+- Kennedy Space Center
+- Nuclear weapons testing
+- Typeface
+
+---
 ## 2026-07-01  (incremental)
 
 - Run at: 2026-07-01T09:28:12Z
