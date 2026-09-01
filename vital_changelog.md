@@ -2,6 +2,249 @@
 
 Newest runs first. Each section lists the vital articles added that run.
 
+## 2026-09-01  (incremental)
+
+- Run at: 2026-09-01T10:43:28Z
+- Total titles in list: **40500**
+- New this run: **214**
+
+### Arts (+19)
+- 'O sole mio
+- A City of Sadness
+- Amphitheatre
+- Daffy Duck
+- Fauvism
+- Harlequin
+- Oku no Hosomichi
+- Princess Mononoke
+- Recording studio
+- Seal (emblem)
+- Stalker (1979 film)
+- Terminator 2: Judgment Day
+- The Lion King (1994 soundtrack)
+- The Peony Pavilion
+- Tiangong Kaiwu
+- Vienna Secession
+- Wanderer Above the Sea of Fog
+- Woody Woodpecker
+- Woolworth Building
+
+### Biology and health sciences (+18)
+- Alpine (American goat breed)
+- American Rambouillet
+- Bubonic plague
+- Bull Terrier
+- Chromalveolata
+- Cladocera
+- Cryptomonad
+- Eurasian tree sparrow
+- Gastrointestinal disease
+- Hypochondria
+- Kaposi's sarcoma
+- Lymantria dispar
+- Major trauma
+- Marine biology
+- Respiratory syncytial virus
+- Silkie (chicken breed)
+- Skin condition
+- Vaginitis
+
+### Everyday life (+10)
+- Cottage
+- Dormitory
+- Limeade
+- McLaren
+- Quake (video game)
+- Scuderia Ferrari
+- Studio apartment
+- Toga
+- Townhouse
+- Twenty20
+
+### Geography (+9)
+- Aul
+- Finger Lakes
+- Geomatics
+- Nha Trang, Khánh Hòa
+- Polar regions
+- Salas y Gómez Island
+- Thái Bình (city)
+- Village green
+- Vũng Tàu, Ho Chi Minh City
+
+### History (+14)
+- 1951 Chinese annexation of Tibet
+- Elizabethan era
+- Foreign territories in China
+- Formation of Saudi Arabia
+- Fridays for Future
+- High Commissioner for the Western Pacific
+- House of Tudor
+- Imerina
+- Mongol invasions of Syria
+- Paris Peace Conference (1919–1920)
+- Samorian State
+- Singing Revolution
+- Sinking of RMS Lusitania
+- Toltec
+
+### Mathematics (+2)
+- Integer factorization
+- Martingale (probability theory)
+
+### People (+57)
+- Alan Hodgkin
+- Albert I of Monaco
+- Andrei Zhdanov
+- Andrés Bello
+- Byung-Chul Han
+- Carl von Linde
+- Casimir Funk
+- Charles III of Monaco
+- Charles XIV John
+- Cyaxares
+- Doris Day
+- Elaine Thompson-Herah
+- Esteban de Dorantes
+- Fa Ngum
+- Fernanda Montenegro
+- George Enescu
+- Gro Harlem Brundtland
+- H. S. M. Coxeter
+- Humayun Ahmed
+- Ibrahim Traoré
+- Ion Luca Caragiale
+- Isabella of France
+- Ismat Chughtai
+- Johann II of Liechtenstein
+- Johannes Høsflot Klæbo
+- Kaká
+- Karl August von Hardenberg
+- Karsten Warholm
+- Kita Ikki
+- Luis Suárez
+- M. S. Swaminathan
+- Magtymguly Pyragy
+- Manuel Neuer
+- Martin Cooper (inventor)
+- María Zambrano
+- Mihai Eminescu
+- Nancy Grace Roman
+- Naoki Urasawa
+- Patrick White
+- Pedro de Valdivia
+- Petar II Petrović-Njegoš
+- Rainier III of Monaco
+- Raymond Damadian
+- Rudolf Virchow
+- Sam Phillips (record producer)
+- Song Joong-ki
+- T. Thomas Fortune
+- Taharqa
+- The Doors
+- Vladimir Arnold
+- William II of Orange
+- Witold Gombrowicz
+- Yakov Zeldovich
+- Yegor Gaidar
+- Yuan Longping
+- Yunus Emre
+- Zygmunt Krasiński
+
+### Philosophy and religion (+31)
+- Absolute (philosophy)
+- Appeal to nature
+- Argument from authority
+- Bantu religion
+- Burden of proof (philosophy)
+- False dilemma
+- Four Symbols
+- Gambler's fallacy
+- Gathas
+- Hamsa
+- Huli jing
+- ISKCON
+- Jiangshi
+- Mesopotamian mythology
+- Mīmāṃsā
+- Neidan
+- Nyaya
+- Origin myth
+- Penance
+- Pixie
+- Progress
+- Sadducees
+- Samkhya
+- Slippery slope
+- State of nature
+- Tian
+- Ubuntu philosophy
+- Vaisheshika
+- Validity (logic)
+- Yama (Buddhism)
+- Ājīvika
+
+### Physical sciences (+6)
+- High-energy astrophysics
+- Isentropic process
+- Pastel (color)
+- Sublimation
+- Thermal insulation
+- Water table
+
+### Society and social sciences (+40)
+- A24
+- Academy of Gondishapur
+- Agricultural Bank of China
+- Altaic languages
+- Annuity
+- Bamar people
+- China Construction Bank
+- China Southern Airlines
+- Deutsche Grammophon
+- Distribution (economics)
+- Dutch people
+- English people
+- Fetal position
+- Hong Kong Stock Exchange
+- Indigenous people of New Guinea
+- Interest rate
+- International Criminal Court
+- Irish people
+- Kongo people
+- Linguistic relativity
+- Lying (position)
+- McKesson
+- Mitsubishi
+- Mizuho Financial Group
+- Nalanda mahavihara
+- New Year
+- Nilotic languages
+- North American Free Trade Agreement
+- Oromo people
+- Pointing
+- Portuguese people
+- Rickrolling
+- Right to keep and bear arms
+- Rosh Hashanah
+- Sapper
+- Shining Path
+- Standing
+- Sungkyunkwan University
+- Thai people
+- Viet people
+
+### Technology (+8)
+- Akashi Kaikyo Bridge
+- Blender (appliance)
+- Gold leaf
+- Jack-o'-lantern
+- Mac (computer)
+- Node (computer networking)
+- Turing Award
+- Water supply
+
+---
 ## 2026-08-01  (incremental)
 
 - Run at: 2026-08-01T08:02:08Z
