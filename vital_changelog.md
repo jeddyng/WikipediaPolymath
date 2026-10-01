@@ -2,6 +2,337 @@
 
 Newest runs first. Each section lists the vital articles added that run.
 
+## 2026-10-01  (incremental)
+
+- Run at: 2026-10-01T12:01:03Z
+- Total titles in list: **40802**
+- New this run: **302**
+
+### Arts (+42)
+- Avenida Brasil (TV series)
+- Berlin International Film Festival
+- Bird's-eye view
+- Book of Dede Korkut
+- Boys Over Flowers (South Korean TV series)
+- Camera angle
+- Close-up
+- Commentarii de Bello Gallico
+- Descendants of the Sun
+- Escrava Isaura (1976 TV series)
+- Film criticism
+- Gertie the Dinosaur
+- Home Alone
+- Istanbul Archaeology Museums
+- Kumārasambhava
+- Kunqu
+- Kādambarī
+- Lion-man of Hohlenstein-Stadel
+- Mahāvaṃsa
+- National Museum in Warsaw
+- Natya Shastra
+- Non, je ne regrette rien
+- On the Road
+- Pictorialism
+- Pritzker Architecture Prize
+- Proportion (architecture)
+- Realism (art movement)
+- Running Man (TV program)
+- Shot (filmmaking)
+- Snowman
+- Songs of Innocence and of Experience
+- The Castle of Otranto
+- The Entertainer
+- The Great Train Robbery (1903 film)
+- The Importance of Being Earnest
+- Thesaurus
+- Tracking shot
+- Vitreous enamel
+- Waka Waka (This Time for Africa)
+- Water puppetry
+- Western fiction literature
+- Wood carving
+
+### Biology and health sciences (+21)
+- Angiology
+- Ayahuasca
+- Broiler
+- Brood parasitism
+- Colobus
+- Crab
+- Cryptosporidium
+- Ficus religiosa
+- Folk healer
+- Health effects of smoking tobacco
+- Human tooth
+- Introduced species
+- Mustang
+- Neurosis
+- Paprika
+- River kingfisher
+- Root canal
+- Running nose
+- SAR (clade)
+- Stinger
+- Toothache
+
+### Everyday life (+15)
+- Beach soccer
+- Bibimbap
+- Circus Maximus
+- Condensed milk
+- Corned beef
+- Dulce de leche
+- Onsen
+- Pakora
+- Platonic love
+- Pride (LGBTQ culture)
+- Sake
+- Stealth game
+- Toilet training
+- Tower defense
+- Traditional African masks
+
+### Geography (+52)
+- Angara
+- Ardèche (river)
+- Atlantic Forest
+- Austin, Texas
+- Bab al-Mandab Strait
+- Barranquilla
+- Bioko
+- Biên Hòa (city)
+- Bukovina
+- Bắc Ninh (provincial city)
+- Cape Cod
+- Cartographic generalization
+- Chiloé Archipelago
+- Coloane
+- Dalmatia
+- Dewas
+- Efate
+- Ellis Island
+- Garabogazköl
+- Glacier Bay National Park and Preserve
+- Haida Gwaii
+- Hạ Long (city)
+- Industrial park
+- Irtysh
+- Istria
+- Lhasa
+- Li River
+- Liancourt Rocks
+- Lusatia
+- Maasai Mara
+- Mount Kinabalu
+- Mount Lu
+- Nha Trang (city)
+- Olinda
+- Phan Thiết (city)
+- Rajamahendravaram
+- Satna
+- Scotia Sea
+- Sierra Nevada de Santa Marta
+- Songhua River
+- Straits of Florida
+- Sun Moon Lake
+- Tam Kỳ (city)
+- Tanna (island)
+- Taroko National Park
+- Three Parallel Rivers
+- Thủ Dầu Một, Ho Chi Minh City
+- Tonle Sap
+- Topographic prominence
+- Tétouan
+- Yeonpyeongdo
+- Yushan (mountain)
+
+### History (+12)
+- Decline and modernization of the Ottoman Empire
+- Dervish War
+- Emperor of China
+- Kingdom of Italy
+- Konfrontasi
+- Lagash
+- Rainbow flag (LGBTQ)
+- Rise of the Ottoman Empire
+- Roman emperor
+- Shunga Empire
+- Tokhtamysh–Timur war
+- Yayoi period
+
+### Mathematics (+4)
+- Agrawal–Kayal–Saxena primality test
+- Cubic equation
+- Polytope
+- Rounding
+
+### People (+68)
+- Abderrahmane Sissako
+- Abu Sufyan
+- Alexei Shchusev
+- Andrei Konchalovsky
+- Bob Barker
+- Brigitte Lin
+- Cao Yu
+- Carlos Manuel de Céspedes
+- Chen Kaige
+- Constance Markievicz
+- Cunobelinus
+- Cyrus McCormick
+- Daron Acemoglu
+- Donnie Yen
+- Eight Elders
+- Emperor Renzong of Song
+- Ewuare
+- Fan Zhongyan
+- Ferdinand de Lesseps
+- Francesco Rosi
+- Gims
+- Giovanni Agnelli (entrepreneur, born 1866)
+- Gustavo Gutiérrez
+- Hassan II
+- Hovhannes Tumanyan
+- Hu Die
+- Hugo van der Goes
+- Irrfan Khan
+- J. Edgar Hoover
+- Jacques Hadamard
+- James Wong Howe
+- Jim Simons
+- Joan Chen
+- John Garang
+- Jorge Eliécer Gaitán
+- Juan Pablo Duarte
+- Jun Ji-hyun
+- Kang Soo-yeon
+- Kim Ki-young
+- Kinuyo Tanaka
+- Kukrit Pramoj
+- Lee Min-ho
+- Luis Suárez (Uruguayan footballer)
+- Mahamat-Saleh Haroun
+- Matilda of Tuscany
+- Mia Couto
+- Mirabal sisters
+- Mohammed Abdullah (Sayyid)
+- Mohsen Rezaei
+- Muhammad V of Morocco
+- Nicolas-Louis de Lacaille
+- Norman Bethune
+- Okakura Kakuzō
+- Paul Celan
+- Phraates IV
+- Pridi Banomyong
+- Ray Harryhausen
+- Run Run Shaw
+- Safi Faye
+- Sivaji Ganesan
+- Song Hye-kyo
+- Túpac Katari
+- Upton Sinclair
+- Xin Qiji
+- Yang Xiong (author)
+- Yoo Jae-suk
+- Yu Hua
+- Zhang Guotao
+
+### Philosophy and religion (+12)
+- Aeneas
+- Aum Shinrikyo
+- Aṣẹ
+- Church (congregation)
+- Ethical dilemma
+- Filial piety
+- Jehovah's Witnesses
+- Maya (religion)
+- Quakers
+- Rebirth in Buddhism
+- White magic
+- Ọlọrun
+
+### Physical sciences (+8)
+- Erg (unit)
+- Knot (unit)
+- Lumen (unit)
+- Lux
+- Observational astronomy
+- Ounce
+- Steradian
+- Ton
+
+### Society and social sciences (+42)
+- Accessibility
+- Chadic languages
+- Chinese Academy of Sciences
+- Culture of Argentina
+- Culture of Egypt
+- Culture of Iraq
+- Culture of South Africa
+- Culture of Thailand
+- Culture of Vietnam
+- Culture of the Philippines
+- Cumhuriyet
+- Cushitic languages
+- Geʽez
+- Gift
+- Gluttony
+- Hazing
+- King Saud University
+- Laffer curve
+- Mouseion
+- Object (grammar)
+- Outer Space Treaty
+- Peripatetic school
+- Philosophy of education
+- Predicate (grammar)
+- Proportional representation
+- Root (linguistics)
+- Sankoré Madrasah
+- Sony Pictures
+- Subject (grammar)
+- Supreme court
+- Synonym
+- TASS
+- The Hitchhiker's Guide to the Galaxy
+- The Sankei Shimbun
+- Total fertility rate
+- United Press International
+- University of Chile
+- Water scarcity
+- Word order
+- Word stem
+- World Bank Group
+- YMCA
+
+### Technology (+26)
+- Airbrush
+- Amsterdam Airport Schiphol
+- Artificial organ
+- Camera obscura
+- Changi Airport
+- Clamp (tool)
+- Color photography
+- Crankshaft
+- E-bike
+- FireWire
+- Guard dog
+- Horse harness
+- Inflatable
+- Paris Charles de Gaulle Airport
+- Push-button
+- Rain gauge
+- Rendering (computer graphics)
+- Roundabout
+- Selfie
+- Shader
+- Shopping cart
+- Short-form content
+- Sky lantern
+- Sound effect
+- Tanger Med
+- Water turbine
+
+---
 ## 2026-09-01  (incremental)
 
 - Run at: 2026-09-01T10:43:28Z
