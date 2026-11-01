@@ -2,6 +2,422 @@
 
 Newest runs first. Each section lists the vital articles added that run.
 
+## 2026-11-01  (incremental)
+
+- Run at: 2026-11-01T12:16:09Z
+- Total titles in list: **41189**
+- New this run: **387**
+
+### Arts (+67)
+- Aloha ʻOe
+- Bird-and-flower painting
+- British Academy Television Awards
+- British Academy of Film and Television Arts
+- Butterfly Lovers
+- Carrossel
+- Complex of Huế Monuments
+- Contemporary folk music
+- De Humani Corporis Fabrica Libri Septem
+- De jure belli ac pacis
+- Drag (entertainment)
+- Ee Mungu Nguvu Yetu
+- Eugene Onegin (opera)
+- Getz/Gilberto
+- Gulistan (book)
+- Imperial Citadel of Thăng Long
+- Island of the Dead (painting)
+- Jazz fusion
+- Kalīla wa-Dimna
+- Kathak
+- Katyusha (song)
+- Kuchipudi
+- La Dolce Vita
+- La Princesse de Clèves
+- Legend of the White Snake
+- Life Is a Dream
+- Malay Annals
+- Manipuri dance
+- Mary Poppins (book series)
+- Mishneh Torah
+- Miss Julie
+- Mohiniyattam
+- Mother Courage and Her Children
+- Nagarakretagama
+- Noble savage
+- Notre-Dame de Paris (musical)
+- Ode to a Nightingale
+- Odissi
+- Opera buffa
+- Opera seria
+- Our Town
+- Overtone singing
+- Planet Earth (2006 TV series)
+- Pyaasa
+- Ramakien
+- Ripley's Believe It or Not!
+- Rostam
+- Rouen Cathedral
+- Salon (Paris)
+- Sanmao (comics)
+- Sattriya
+- Taarak Mehta Ka Ooltah Chashmah
+- Teatro Colón
+- The Bronze Horseman (poem)
+- The Cherry Orchard
+- The Color Purple
+- The Cowherd and the Weaver Girl
+- The Divân of Hafez
+- The Eighteenth Brumaire of Louis Bonaparte
+- The Guide for the Perplexed
+- The Lady with the Dog
+- Three Sisters (play)
+- Throat singing
+- Timbuktu Manuscripts
+- Tuvan throat singing
+- Uncle Boonmee Who Can Recall His Past Lives
+- Urdu literature
+
+### Biology and health sciences (+20)
+- Aphrodisiac
+- Box turtle
+- Centrarchidae
+- Coccolithophore
+- Cofactor (biochemistry)
+- Corn starch
+- Ehlers–Danlos syndrome
+- Erythroxylum coca
+- Hantavirus
+- Hookah
+- Hoverfly
+- Macropodidae
+- Maternal death
+- Nucleic acid double helix
+- Osmanthus fragrans
+- Photosystem
+- Physarum polycephalum
+- Sand lizard
+- St. Bernard (dog breed)
+- Streptomycin
+
+### Everyday life (+30)
+- Bento
+- Brandy
+- Bungalow
+- Civil union
+- Dieting
+- Dojo
+- Draft (sports)
+- Fondue
+- Food drying
+- Foosball
+- Fritter
+- Gin
+- Malt
+- Mounted archery
+- Multi-sport event
+- Outhouse
+- Panathenaic Stadium
+- Penalty card
+- Persian carpet
+- Promotion and relegation
+- Schnitzel
+- School uniform
+- Sports betting
+- Sports club
+- Sports governing body
+- Tandoori chicken
+- Tequila
+- Wizardry (video game series)
+- Women's Cricket World Cup
+- Women's Rugby World Cup
+
+### Geography (+58)
+- Alpide belt
+- Ambazonia
+- Aras River
+- Armenian highlands
+- Azerbaijan (Iran)
+- Bayda, Libya
+- Berbera
+- Bizerte
+- Bohemian Paradise
+- Bosaso
+- Buôn Ma Thuột (city)
+- Cabinda Province
+- Chari River
+- Chitwan National Park
+- Company town
+- Dinaric Alps
+- Geocode
+- Great Escarpment, Southern Africa
+- Gunung Mulu National Park
+- Gwadar
+- Hauran
+- Highveld
+- Huai'an
+- Hyrcanian forests
+- Hải Dương (city)
+- Hội An (city)
+- Kaysone Phomvihane (city)
+- Khiva
+- Lake Natron
+- Lake Nyos
+- Laurentian Mountains
+- Massawa
+- Mediterranean basin
+- Mesopotamian Marshes
+- Mount Lebanon
+- Nam Định (city)
+- Olduvai Gorge
+- Ordos Plateau
+- Peneda-Gerês National Park
+- Peru–Chile Trench
+- Phra Nakhon Si Ayutthaya (city)
+- Pindus
+- Refugee camp
+- River Shannon
+- Sarnath
+- Satellite imagery
+- Scale (map)
+- Serra da Capivara National Park
+- Setonaikai National Park
+- Sorocaba
+- Strait of Tartary
+- Tamil Eelam
+- Taxila
+- Thatta
+- Tlemcen
+- Trier
+- Uvs Lake Basin
+- Wa State
+
+### History (+46)
+- 526 Antioch earthquake
+- Australian gold rushes
+- Barons' Crusade
+- Battle of Kiev (1941)
+- Battle of Nicopolis
+- Berlin Conference
+- Bijapur Sultanate
+- Chadian–Libyan War
+- Children's Crusade
+- Crusade of 1101
+- Disaster of Yongjia
+- Duchy of Bavaria
+- Dust Bowl
+- Eighth Crusade
+- Estallido social
+- Eurozone crisis
+- Fifth Crusade
+- Golconda Sultanate
+- Greco-Turkish War (1919–1922)
+- Haitian crisis (2018–present)
+- Hephthalites
+- Historic Villages of Shirakawa-gō and Gokayama
+- History of Bengal
+- History of Shinto
+- House of Wittelsbach
+- Kilwa Kisiwani
+- Kobe earthquake
+- L'Anse aux Meadows
+- Lanna Kingdom
+- Luddites
+- Mandatory Palestine
+- Mỹ Sơn archaeological site
+- Nanzhao
+- National Convention
+- Oslo Accords
+- Persecution of Christians in the Roman Empire
+- Revolutionary Armed Forces of Colombia
+- Seuna dynasty
+- Seventh Crusade
+- Sixth Crusade
+- Tell Brak
+- Troy
+- United Fruit Company
+- United Kingdom of Portugal, Brazil and the Algarves
+- Vinland
+- Wadai Sultanate
+
+### Mathematics (+2)
+- A* search algorithm
+- Weierstrass function (nowhere-differentiable function)
+
+### People (+73)
+- Abdullah Abdul Kadir
+- Abdullah II
+- Adolfo Bioy Casares
+- Ahmad Sanjar
+- Amina of Zazzau
+- Andrew Mellon
+- Antonin Artaud
+- Antonio Maceo
+- Aubrey Beardsley
+- Baron d'Holbach
+- Bayezid I
+- Caligula
+- Cao Ren
+- Carlos Fuentes
+- Charles Algernon Parsons
+- China Zorrilla
+- Chloé Zhao
+- Christopher Nolan
+- Clare of Assisi
+- Cyprian
+- Cyprian Kamil Norwid
+- Dawit I
+- Dimitrie Cantemir
+- Diogenes Laertius
+- Edward Drinker Cope
+- Edward Weston
+- Eminem
+- Eugenius Warming
+- Eugène Ionesco
+- Faith Kipyegon
+- Friedrich Wilhelm von Steuben
+- Funke Akindele
+- George Armitage Miller
+- George Tupou V
+- Gregory Palamas
+- Grete Waitz
+- Homi K. Bhabha
+- Ivan Mazepa
+- Iyasu I
+- Jackie Joyner-Kersee
+- James Baker
+- John Jacob Astor
+- Justin Martyr
+- Katy Jurado
+- Lee Byung-hun
+- Leland Stanford
+- Marie Tharp
+- Minh Mạng
+- Mwai Kibaki
+- Omar al-Mukhtar
+- Pachomius the Great
+- Policarpa Salavarrieta
+- Pope Adrian I
+- Prince Gong
+- Prince Vijaya
+- Princess Margaret, Countess of Snowdon
+- Pyotr Rumyantsev
+- Reba McEntire
+- Robert Noyce
+- Saad Zaghloul
+- Samir Amin
+- Shajar al-Durr
+- Shirley Temple
+- Silvia Pinal
+- Simon Stevin
+- Stefan Stambolov
+- Thelma Schoonmaker
+- Tomislav, King of Croatia
+- Tsakhiagiin Elbegdorj
+- Tự Đức
+- Wang Chong
+- William Murray, 1st Earl of Mansfield
+- Yitzhak Ben-Zvi
+
+### Philosophy and religion (+20)
+- African philosophy
+- Allah
+- Buddhist mythology
+- Dashavatara
+- De (Chinese philosophy)
+- Dervish
+- Deva (Hinduism)
+- Dualism
+- God in Islam
+- Izanami
+- List of Islamic texts
+- Narasimha
+- Parapsychology
+- Puruṣārtha
+- Samudra Manthana
+- School of Names
+- Spirit (supernatural entity)
+- Spiritualism (movement)
+- Stupa
+- Wuxing (Chinese philosophy)
+
+### Physical sciences (+15)
+- Aniline
+- Atmospheric chemistry
+- Berkelium
+- Californium
+- Color temperature
+- Curium
+- Eridanus
+- Gallium arsenide
+- Indigo (color)
+- Molar mass
+- Palaeogeography
+- Shaku (unit of length)
+- Structure
+- Styrene
+- Surface runoff
+
+### Society and social sciences (+37)
+- Affix
+- Afro-Brazilians
+- Akan people
+- Babelsberg Studio
+- Biblical Hebrew
+- Colorism
+- Democratic education
+- Desire
+- EFE
+- Emic and etic
+- Grand Bazaar, Istanbul
+- H&M
+- Hacker
+- Hacktivism
+- Hooliganism
+- Interregnum
+- Istanbul Technical University
+- LGBTQ rights by country or territory
+- Liability (accounting)
+- Maha Shivaratri
+- Marriott International
+- Mass surveillance
+- New Journalism
+- Nickname
+- Ottoman Turkish
+- Phoenician language
+- Polish people
+- Public broadcasting
+- RTÉ
+- Religious education
+- Sportswashing
+- State media
+- Structure and agency
+- Tiffany & Co.
+- Tungusic peoples
+- West Germanic languages
+- Yazidis
+
+### Technology (+19)
+- Alarm
+- Audio engineer
+- Cardiopulmonary bypass
+- Celluloid
+- Dead reckoning
+- Download
+- Gum arabic
+- Mammography
+- Peeler
+- Road safety
+- Rotary barrel
+- Royal Road
+- Set-top box
+- Stereophonic sound
+- Tape recorder
+- Transmission medium
+- Water fluoridation
+- Water supply network
+- Wireless communication
+
+---
 ## 2026-10-01  (incremental)
 
 - Run at: 2026-10-01T12:01:03Z
